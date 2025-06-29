@@ -89,7 +89,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/EV2vWqf527I?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="函館駅・Hakodate Station" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/23f6ed65988076adc549281a54d11bdc.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/ccd5538f0a4777c517b3989bdd43701e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/040df274dfad8ffd382b385fb12dcb28532583bc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90168020-ann-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=567&cy=0&cw=844&ch=844&exp=10800&fmt=webp> 新婚・小峠英二の“不満”とは！？西村瑞樹「なんて日だ！と…」
+      <a href=https://news.yahoo.co.jp/articles/9a720d897d9a32e3bac6afc07e360017c6adc59b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782833-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“自己最速”を2度経験「嫌う理由でもある？」　敵主砲が驚いた「3球」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/806f12ccb5dcd753ac78a6811a31dbcba896be18>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-09985988-nnn-000-4-thumb.jpg?exp=10800&fmt=webp> 鹿児島十島村で震度4　津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/5a669a9a8c5b50634ba65dd4ff79d3ab8e56188b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-04597975-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=466&ch=466&exp=10800&fmt=webp> あの、バンジージャンプ挑戦に意欲「すごい高いところから落ちてみたい」【SANRIO FES 2025】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bec71890d41789668552876ad51201f0e1be3c71>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00350156-tospoweb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=859&ch=859&exp=10800&fmt=webp> 大谷翔平最速１６４キロで打ち取られたイタリア人主砲　ＷＢＣに続く因縁に「彼と話をする必要が」
+      <a href=https://news.yahoo.co.jp/articles/a6ebf68eb2a495d9b3596ce8256bde1d3e954520>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000031-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 鹿児島県十島村で震度4の地震　奄美市では震度3、津波の心配なし
       </a>
     </td>
   </tr>
@@ -389,8 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca442b95953560a07e4f4684ca4d89efda06fbda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000001-jij_graph-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=604&ch=604&exp=10800&fmt=webp> 【図解】最後のH2A、打ち上げ成功＝衛星「いぶきGW」搭載―50号機、有終の美
+      <a href=https://news.yahoo.co.jp/articles/b5c7350f3fb61b621bcb0bd74ca5b7e7c14c5735>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290395-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=338&ch=338&exp=10800&fmt=webp> 【DeNA】不振のバウアーが抹消　理由不明も再調整なら来日初　バウアーの過去の抹消と理由
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543877>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4e6b7f0272eb09c78f552dd84b99656076276a7773fec01f1a448994e98eac23.jpg> 「双子ブロッコリー」に農家驚き
+      <a href=https://news.yahoo.co.jp/pickup/6543891>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/7cb2d4ccc99414ad736f22607a313e6a71b4ab3b33d2d7809eccf369bba57055.jpg> 売り上げ3倍 スーパーの34歳店長
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543881>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/87236b0e38a131d911ca1cface642fc3aca590855fe53c38a852c1edf3c489d9.jpg> 小峠 結婚発表後初の公の場
+      <a href=https://news.yahoo.co.jp/pickup/6543892>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3e9550bdb97f630be4b80e6bb2e74538c6d3f50668c66b8b4b396ac0d5650f05.jpg> 及川光博の公演 開場6分前に延期
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 16:31:02 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 17:00:28 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
