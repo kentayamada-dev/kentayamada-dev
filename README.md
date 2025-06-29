@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/5731f8696a8e2ccc76c25fcb8eaaef9c.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/4fb3a395cc66d94f2bead743b6ddcf0e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/21c05db244bca4c836b943ee1e0bc1181d7ec339>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010435-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/ca442b95953560a07e4f4684ca4d89efda06fbda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000001-jij_graph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=604&ch=604&exp=10800&fmt=webp> 【図解】最後のH2A、打ち上げ成功＝衛星「いぶきGW」搭載―50号機、有終の美
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/d553a66b29b9e6cefa159ead3c059d67200e3965>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010452-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -366,7 +374,7 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14d96c46dd786a4ec07ee1a3de4ced7a9b758dd7>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-05732753-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「気持ちが先行して」大谷翔平　メジャー自己最速の心境とは？手術後の感覚は「1回目よりすごく良い」
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-05732753-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「気持ちが先行して」大谷翔平　メジャー自己最速の心境とは？手術後の感覚は「1回目よりすごく良い」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/edfb8a3c16b3233f68f362902dcb63832340966e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 認知症の女性に性的暴行未遂の疑い　介護士を逮捕　東京・台東の施設
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3a2a0cce4dca270a43bb2491d86222c16c53c85e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90023015-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｈ２Ａロケット５０号機打ち上げ成功　Ｈ２Ａロケット２５年の歴史に幕【鹿児島】
       </a>
     </td>
   </tr>
@@ -442,8 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ba3360de9808ca930ffcc414fdb389931d5db3fc5c7f36323d72ccddf4b796d4.jpg> 夏に活発 ゴキブリが潜むサイン
+      <a href=https://news.yahoo.co.jp/pickup/6543873>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/07e146538032ed09f1d4eda813f938962251ae7fe2b2a7eccd7f70b2b77da56c.jpg> 工場に年30万人 SHIROなぜ人気
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 14:00:51 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 14:30:13 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
