@@ -169,7 +169,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/b34d453028318c015b09cbb9c582a562.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/067817ad61a0933c6013bed30e78f07e.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,16 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/5023baa5fa60bde8d1bfb7c4f6a1cf9eeb9cf72c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 萩生田氏秘書「起訴相当」　東京第5検審議決、自民裏金事件
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/837adf377bd9c22560a8267bbe033edb0babc83a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000015-minami-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=546&ch=546&exp=10800&fmt=webp> 「ドーンという地鳴り音でいつも目覚める」トカラ列島近海の地震、不安募る住民　29日は震度4が3回、累計610回超に
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000015-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=139&cy=0&cw=546&ch=546&exp=10800&fmt=webp> 「ドーンという地鳴り音でいつも目覚める」トカラ列島近海の地震、不安募る住民　29日は震度4が3回、累計610回超に
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e090e04e15f6092829a9fbc11d675c2e9fadd13c>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000013-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=354&cw=1212&ch=1212&exp=10800&fmt=webp> 成功率は世界トップ、でもいくつか弱みが…日本の主力ロケット「H2A」から「H3」に　低コスト化以外にも国際市場で必要な「進化」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/524fffb0c3c7fd29f01d4aa8d9367cd471b15b64>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-07245743-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今なお街頭演説行う民主派団体、香港「社会民主連線」が解散表明　香港メディア「民主派団体がゼロになることを意味する」
       </a>
     </td>
   </tr>
@@ -410,16 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543925>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/bc02e91d76341044d0ac1bfd90bbfa229a1de1aed4b2c3995824a5778d974a25.jpg> 香港 民主派政党が近く消滅見通し
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543914>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ab8fe274f9d55ece9f9c582cd239fd2b4c2d4a0bff8221c54b8fae8bee6ac952.jpg> AV新法3年 トラブルは後絶たず
+      <a href=https://news.yahoo.co.jp/pickup/6543929>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a1167d60cbf1bcae16b282c86739bcca4393beb2f269663f793e3786ee849864.jpg> 自民幹事長 2万円給付の根拠訴え
       </a>
     </td>
   </tr>
@@ -434,8 +426,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/aa7c7bc9c45f254bf6e912fcc3537176edea58a8537418a0e4f7aa0e1c72ebfa.jpg> 電車で一時心肺停止 学生らが救う
+      <a href=https://news.yahoo.co.jp/pickup/6543930>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02268333/title-1751163315034.jpeg?exp=10800> 不正輸出報道 フェンタニルとは
       </a>
     </td>
   </tr>
@@ -458,6 +450,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543879>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/df87d2de845063a71d9007d2761cc299429b78a809b6cfc5775cf5c0e2a87613.jpg> O型や黒い服 蚊に刺されやすい?
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543926>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/0ce2dd772e5e804917cfd3a2e292e2d483c1cd3fbd2cf62cbe98b480275d5731.jpg> 森保監督 浦和勢の招集を見送りへ
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 22:00:38 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 22:30:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
