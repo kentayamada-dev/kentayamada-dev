@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -329,7 +329,7 @@
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/h3pbOPE3kLs?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="那覇空港・Naha Airport" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/e301c6f745eb10085ecf2a8af32d9b38.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5a6d826d56d88b16a64f335c16d8ca43.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/cd4460b0c7c787b12a5c4d8f57bbf12726252110>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00050037-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=368&ch=368&exp=10800&fmt=webp> 投手・大谷翔平、メジャー自己最速１６３・７キロ…「打たれたくないという気持ちで自然に上がってしまった」
+      <a href=https://news.yahoo.co.jp/articles/7aa739d03959657f3a6ed77f0872f7c11b534ff3>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010218-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c79cf80cbaa83f51b24d4c16313b21293e2a95d3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010202-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度3 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/88667d7f853a483f0e7e5097209aa0864dced2cc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00552573-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷、ベーブ・ルースも成し得なかった偉業をまた達成　自身4回目「29HRを放ち…」米データ会社紹介
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543853>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a02fee6c9a40b5ae16bb567b0c25d9a607be870b4729d1042d020a33c547ec69.jpg> 鹿児島県で震度4 津波心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6543845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/61cef296573e3fd6e3f2571f5344861a464cff5125a214e0c5b51a5ba1f33381.jpg> 米兵処刑の「執行役」志願した父
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/61cef296573e3fd6e3f2571f5344861a464cff5125a214e0c5b51a5ba1f33381.jpg> 米兵処刑の「執行役」志願した父
+      <a href=https://news.yahoo.co.jp/pickup/6543851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543831>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e916299d2a0952c7a009ba4325dc4b36ea1b2c722e0c2b76d3c774e29f7e5f0d.jpg> 集合住宅で性的暴行疑い 2人逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543846>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a13136c7bdda8aef6eb62f9c424f5ae3ad3bfb07452a3b939bbec4e0d3216d8c.jpg> 給食誤提供で搬送 同じ児童に再び
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543850>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d1cc8abb9ff3af45b1d5efa0bc974b5362298d53bc0fe4a962c453d746250519.jpg> 廃業危機の老舗 銀行辞め娘が救う
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a9d5df2c8324709ce1f6e54a7f1d468ee22ae8a9191734fd2ed4a127e998b0b4.jpg> 石橋貴明 レギュラー番組なくなる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 10:38:29 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 11:00:38 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
