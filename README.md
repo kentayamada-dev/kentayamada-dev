@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/d38a26f60f8bdc1a54360520bb434767.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/953a27951ea539d59ac0a96d965b6ee6.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/7cfb1cef505a89f917f6cff44b854e43216fe997>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290318-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=391&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 鈴木誠也が22号２ラン、メジャー自己最多更新　打点は今季69でリーグ単独トップに再浮上
+      <a href=https://news.yahoo.co.jp/articles/a8075b4bfcfa877f8e6fd37bcc0bc267d1e84d2c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010272-ibciwatev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=405&ch=405&exp=10800&fmt=webp> MLB大谷翔平選手　今季3度目の投打二刀流出場　メジャー自己最速を記録
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ac1666e1b4722273f632fb11bcd17c7dac14f218>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800&fmt=webp> 衝撃の「99.2→100.2→101.7」　大谷翔平が投じた驚愕の3球に見た“進化”「ライブBPで投げ続けていたら、投げられてはなかった」
+      <a href=https://news.yahoo.co.jp/articles/ae7b9631857e287f1a827eb2aa8cdf729f7fbc15>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010282-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/88d0cd91e45fa34fd488c95f4a4c39c440196a72>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000349-kkbvc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=345&ch=345&exp=10800&fmt=webp> トカラ列島近海地震　最大震度４
+      <a href=https://news.yahoo.co.jp/articles/0322877a5499fc9a42633d8412e09a9c7d5d4b95>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010259-mbcnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> 有終の美　H2A最終号機　打ち上げ成功
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/dd09b5442aed1fd9c1c749a1441f577724721e08>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06417286-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 「役割を全うしてくれた 感慨深い」H2Aロケット50号機打ち上げ成功“有終の美”飾りH3へバトン
+      <a href=https://news.yahoo.co.jp/articles/9759cbe4fe5db18df585821f3d97ec7bdf2c4bd8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010004-dal-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=31&cw=360&ch=360&exp=10800&fmt=webp> 元DeNA乙坂智に非情通告　マリナーズ傘下3Aがわずか9試合で自由契約　同僚だった藤浪晋太郎は17日に戦力外
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543842>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ee77c53c0739f38484aba832e32044fa5bff3b90b0442ac0a4ed838b36adb258.jpg> イランで国葬 大統領「屈服せず」
+      <a href=https://news.yahoo.co.jp/pickup/6543838>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e3578dda1a6fa1f85ee32805942b80c9948d5cfaccba346b68abd61cd3f5b4d5.jpg> スーチー氏に健康不安説 報道
       </a>
     </td>
   </tr>
@@ -434,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543850>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d1cc8abb9ff3af45b1d5efa0bc974b5362298d53bc0fe4a962c453d746250519.jpg> 廃業危機の老舗 銀行辞め娘が救う
+      <a href=https://news.yahoo.co.jp/pickup/6543858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ba3360de9808ca930ffcc414fdb389931d5db3fc5c7f36323d72ccddf4b796d4.jpg> 夏に活発 ゴキブリが潜むサイン
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543856>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/323b2d0696bf224d9fe9e533366c5c0b6fa80925dafc60538a77f9e3d4605d5d.jpg> 鈴木誠也が豪快弾 打点リーグ首位
       </a>
     </td>
   </tr>
@@ -448,19 +456,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543844>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/176313bc71b0c854ffa232917c48515c07ae6af0248a9b7d47b2dee497cf5b9b.jpg> 大谷MLB自己最速 監督「想定外」
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 11:30:17 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 12:00:55 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
