@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/479bea34494c8fb3a43e0114273a7284.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/234993ded354876691dae32882279f7b.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b1c4cf7446d4d37e127bc6a29c21cc484ffb6ee5>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000005-pseven-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800&fmt=webp> 《TOKIO解散後の生活》国分太一「後輩と割り勘」「レシート一枚から保管」の節約志向　活動休止後も安泰の“5億円豪邸”
+      <a href=https://news.yahoo.co.jp/articles/71c6a30ade86018657d669a17b475f4d0a9ab0eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-02667277-nkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 鳥取県西部などで震度３の地震　被害は確認されず　
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/6a7f53d357cf96a34c26b6c3f014423b49e23239>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00050039-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=89&cy=0&cw=322&ch=322&exp=10800&fmt=webp> 和歌山のパンダ４頭、中国に向け出発…飼育スタッフら３００人が返還見送り
+      <a href=https://news.yahoo.co.jp/articles/dd09b5442aed1fd9c1c749a1441f577724721e08>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06417286-kytnews-000-2-thumb.jpg?exp=10800&fmt=webp> 「役割を全うしてくれた 感慨深い」H2Aロケット50号機打ち上げ成功“有終の美”飾りH3へバトン
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/31f4a1046374c202fbc0eecca5ece194f57066e3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-06281040-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=54&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が４打席目見三振、先頭弾＆三塁打でサイクル安打チャンスも…あす先発登板予定
+      <a href=https://news.yahoo.co.jp/articles/6eaf0abceb5f98170f1cfba1f75d638c8fb96007>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290212-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=236&cy=0&cw=1264&ch=1264&exp=10800&fmt=webp> 大谷翔平の164キロを体感…ロイヤルズ主砲「なんじゃそりゃ」160キロ超え３連発に屈する
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aa49ecde0c9e63835e6abf3c78679a82c0baf2b8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-00000018-ann-000-2-thumb.jpg?exp=10800&fmt=webp> 盗撮教師「学校備品のデジカメ使用」　保護者ら不安の声「誰が被害者か分からない」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/c9bfeaabc78cfe383d6fc7455aa590f2fc8ad89d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250628-07319319-nnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=360&ch=360&exp=10800&fmt=webp> トランプ大統領、イラン制裁緩和への検討中止を表明
+      <a href=https://news.yahoo.co.jp/articles/4a1f76f449db02b95e31ba537a3a8894dd24a374>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00030427-tenki-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 29日(日)も強烈な日差しと暑さに注意　熱中症警戒アラートが11県に発表中
       </a>
     </td>
   </tr>
@@ -402,64 +394,64 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543739>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/8131ee8b37b13ef56f4b52295566223ad2893379bc544d19203d62809bf52d79.jpg> 米高騰 小泉農相語る今後のプラン
+      <a href=https://news.yahoo.co.jp/pickup/6543853>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a02fee6c9a40b5ae16bb567b0c25d9a607be870b4729d1042d020a33c547ec69.jpg> 鹿児島県で震度4 津波心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543733>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/88b11472f2b13ecd6caf0f4fbfc75836af5e537d1cfd55ad705e9b09abe09e20.jpg> 米 イラン制裁解除計画を撤回
+      <a href=https://news.yahoo.co.jp/pickup/6543845>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/61cef296573e3fd6e3f2571f5344861a464cff5125a214e0c5b51a5ba1f33381.jpg> 米兵処刑の「執行役」志願した父
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543737>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/0f441542d1bc38c9c46c6eecab356839b63f5a5b9b0abbc8b030df0ec3298851.jpg> 飲酒運転を繰り返し 断酒した男性
+      <a href=https://news.yahoo.co.jp/pickup/6543839>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/0d6de7a2a86c70031bbe61f0b14d0aece05a3103efd07250059efc1f3e6f6eb9.jpg> 石破内閣の機密費 半年で6億円超
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543714>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/d16ce83d1755647610b079bc32e64410a95689f849df5622aff0eed34d419646.jpg> 教師の盗撮コミュニティ 識者衝撃
+      <a href=https://news.yahoo.co.jp/pickup/6543849>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/5263fb05d2d6ac2bac7c4a96a01530f4b14e8490551beefb93be2de453dd54b8.jpg> 女子大生殺害 何度も傷つく遺族
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543742>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/28b778a342820a26a8dc8f5ddfc8cf70a3e48c1bf4331f58c6d2624da2561355.jpg> 和歌山のパンダ中国へ 職員見送り
+      <a href=https://news.yahoo.co.jp/pickup/6543831>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e916299d2a0952c7a009ba4325dc4b36ea1b2c722e0c2b76d3c774e29f7e5f0d.jpg> 集合住宅で性的暴行疑い 2人逮捕
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543728>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/7725ea687b8923a9f76046f120dee3a93d76ad6ff28e1bd56693710a7c09aa00.jpg> 大谷が29号の先頭打者弾 敵地騒然
+      <a href=https://news.yahoo.co.jp/pickup/6543844>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/176313bc71b0c854ffa232917c48515c07ae6af0248a9b7d47b2dee497cf5b9b.jpg> 大谷MLB自己最速 監督「想定外」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543723>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/c8666beb6dfac36b8bf6efe399aa3ed2da02165ae007cfa4a61998fa9062ed76.jpg> 浦和サポのゴミ拾い FIFA会長賛辞
+      <a href=https://news.yahoo.co.jp/pickup/6543835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a9d5df2c8324709ce1f6e54a7f1d468ee22ae8a9191734fd2ed4a127e998b0b4.jpg> 石橋貴明 レギュラー番組なくなる
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543741>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/28/3f197fb3a5ffaa6f88c1886a28126d4c54ee13403cf5a47c72df5ae9f2b108f2.jpg> なにわ大橋 渋谷凪咲の暴露に赤面
+      <a href=https://news.yahoo.co.jp/pickup/6543841>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/08fe01345b934882ff1291cc5e4750cf30f690b0e3e321af46b937c37861022d.jpg> テレ東国分MC番組 方針定まらず
       </a>
     </td>
   </tr>
@@ -468,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/28 11:30:54 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 10:33:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
