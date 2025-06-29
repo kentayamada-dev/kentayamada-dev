@@ -164,12 +164,12 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tujkoXI8rWM?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="スクランブル交差点・Shibuya Scramble" />
       </a>
     </td>
@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/ccd5538f0a4777c517b3989bdd43701e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/545c2d405062c4dbc5cdb4f9d33bd52a.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,40 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9a720d897d9a32e3bac6afc07e360017c6adc59b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782833-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“自己最速”を2度経験「嫌う理由でもある？」　敵主砲が驚いた「3球」
+      <a href=https://news.yahoo.co.jp/articles/f4ee29843c0bbea909d08bfc1e9a6e9d7965188c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291017-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=264&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 「今日はショウヘイのフルコースです！」大谷翔平の歴史的なピッチングにド軍専属実況も大興奮
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/5a669a9a8c5b50634ba65dd4ff79d3ab8e56188b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-04597975-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=113&cy=0&cw=466&ch=466&exp=10800&fmt=webp> あの、バンジージャンプ挑戦に意欲「すごい高いところから落ちてみたい」【SANRIO FES 2025】
+      <a href=https://news.yahoo.co.jp/articles/318127d7fc77a1b68d67f87604da688f53f9bbbe>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010650-mbcnewsv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度4 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a6ebf68eb2a495d9b3596ce8256bde1d3e954520>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000031-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800&fmt=webp> 鹿児島県十島村で震度4の地震　奄美市では震度3、津波の心配なし
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/bb53103b3f3cb3a31e9af5508bc6cdc4b7640a17>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185863-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=535&cy=0&cw=905&ch=905&exp=10800&fmt=webp> イスラエルで大規模デモ ガザ停戦や人質の解放を求める
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b5c7350f3fb61b621bcb0bd74ca5b7e7c14c5735>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290395-nksports-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=32&cw=338&ch=338&exp=10800&fmt=webp> 【DeNA】不振のバウアーが抹消　理由不明も再調整なら来日初　バウアーの過去の抹消と理由
+      <a href=https://news.yahoo.co.jp/articles/a62891cc3531c7756ad964fed487be970f9fbf30>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00030433-tenki-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=519&ch=519&exp=10800&fmt=webp> 明日30日は九州～関東でゲリラ雷雨に注意　猛暑日は29日の約2倍予想　対策万全に
       </a>
     </td>
   </tr>
@@ -402,8 +386,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543893>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/9/1/emergency_41.png> 鹿児島で震度4 津波の心配なし
+      <a href=https://news.yahoo.co.jp/pickup/6543896>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/e2cfae7eaab2a9c14cd348c38d97ec5fae5909c4e63830bd34f15bc30e578eb7.jpg> 暑さ続く あす京都などで37℃予想
       </a>
     </td>
   </tr>
@@ -426,14 +410,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543872>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/29a1dd478162e043693ecc289bf8f544d26847c4eccd8674b1bd2fd2470b12e5.jpg> 施設でわいせつ疑い 介護士逮捕
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543873>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/07e146538032ed09f1d4eda813f938962251ae7fe2b2a7eccd7f70b2b77da56c.jpg> 工場に年30万人 SHIROなぜ人気
       </a>
@@ -444,6 +420,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543891>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/7cb2d4ccc99414ad736f22607a313e6a71b4ab3b33d2d7809eccf369bba57055.jpg> 売り上げ3倍 スーパーの34歳店長
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543876>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4b331e707efb55f6f10add6cca34aec21104f59fac4f4e476042e6cc7f059f9f.jpg> ウルフ・アロン プロレス転向の訳
       </a>
     </td>
   </tr>
@@ -468,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 17:00:28 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 17:30:39 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
