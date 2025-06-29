@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/a512e67695545df6c4171a5923f76aa6.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/f3f4ded78e7f794059a1525f536a2d58.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/e090e04e15f6092829a9fbc11d675c2e9fadd13c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000013-minami-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=354&cw=1212&ch=1212&exp=10800&fmt=webp> 成功率は世界トップ、でもいくつか弱みが…日本の主力ロケット「H2A」から「H3」に　低コスト化以外にも国際市場で必要な「進化」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4ddaa017680edd596ef0a46c8d27fef5734aef60>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00552656-theanswer-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=176&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 「ベッツとフリーマンかわよ」大谷翔平、投球→打席のドタバタ中にあったMVP集結　ネットは同情も「疲れるな。これはw」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/524fffb0c3c7fd29f01d4aa8d9367cd471b15b64>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-07245743-jnn-000-2-thumb.jpg?exp=10800&fmt=webp> 今なお街頭演説行う民主派団体、香港「社会民主連線」が解散表明　香港メディア「民主派団体がゼロになることを意味する」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/f3f08af5f8cfff22304ff0bde81be2328d796080>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010817-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/3f5afec21fdc721945ddc3fd57dc0f2fc84e68f6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000056-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=534&ch=534&exp=10800&fmt=webp> 香港「社民連」が解散発表　統制が続き、民主派政党は全て消滅へ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/9e7a6184daee84e6590ba332b0eb8390cd15d273>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185833-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 帽子をヒョイッ！大谷翔平、粘着物質チェックで審判に見せたチャーミングな笑顔 衝撃の“102マイル”から表情一変！
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/4eb9c8a8a6627f4b276be0ef0402d3e3ddc0a0bb>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1233&ch=1233&exp=10800&fmt=webp> 大阪・関西万博　来場者数「1千万人突破」で記念式典　1000万人目は山形市から来た家族　ミャクミャクらから記念品贈呈
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b46de48a41c295e1f33865fbd45bea45c1d7711b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010681-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 十島村・悪石島で震度4が3回　9日間で597回に　鹿児島
       </a>
     </td>
   </tr>
@@ -410,8 +410,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543911>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/1a950679e1a675924c3edb3d6a0d7c82b80a5ca33e6bd3f560f247d21786409f.jpg> 社民 参院比例にラサール石井氏
+      <a href=https://news.yahoo.co.jp/pickup/6543925>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/bc02e91d76341044d0ac1bfd90bbfa229a1de1aed4b2c3995824a5778d974a25.jpg> 香港 民主派政党が近く消滅見通し
       </a>
     </td>
   </tr>
@@ -426,14 +426,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543908>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d9009dd3ed33ac3745b32ab322e900c49a7a60bffbb16291b9f6f02a1ba3e815.jpg> タイとカンボジア 対立が過熱
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543917>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/5e2a601fbb4dfd4920f7ea54d47bd47598226058eeff9bd1a4f7401c1971f3a8.jpg> 住宅に全裸の女性遺体 胸にナイフ
       </a>
@@ -442,8 +434,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543923>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/702d3f12bf82e1dfedc0f1c6262c3f627c262492263cab756eebdd2cc840ee41.jpg> パトカー盗んだ疑い 逃げた男逮捕
+      <a href=https://news.yahoo.co.jp/pickup/6543913>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9df91ba38ec50d115d26edb908489b175f15e17040e7837c0cfda0a08dde9ff0.jpg> 自宅に放火した疑い 57歳の男逮捕
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543920>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/aa7c7bc9c45f254bf6e912fcc3537176edea58a8537418a0e4f7aa0e1c72ebfa.jpg> 電車で一時心肺停止 学生らが救う
       </a>
     </td>
   </tr>
@@ -458,8 +458,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543920>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/aa7c7bc9c45f254bf6e912fcc3537176edea58a8537418a0e4f7aa0e1c72ebfa.jpg> 電車で一時心肺停止 学生らが救う
+      <a href=https://news.yahoo.co.jp/pickup/6543926>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/0ce2dd772e5e804917cfd3a2e292e2d483c1cd3fbd2cf62cbe98b480275d5731.jpg> 森保監督 浦和勢の招集を見送りへ
       </a>
     </td>
   </tr>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 21:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 21:31:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
