@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Robot&size=32&duration=3000&pause=3000&color=0080FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+of+code!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Robot&size=32&duration=3000&pause=6000&color=0080FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+world+of+code!" />
 </div>
 
 ## 🌟 **About Me**
