@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/0d0e6b7a408e7b4617141f926b03c801.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/08e5a47359e15fca7d417f9303e678c5.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,8 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d9b34b37482b5cf5194a0985a47b117fd8ac9256>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010738-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/e128e3bcb353fe6da95e8ac4ef4005a0bd00cede>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185882-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=904&ch=904&exp=10800&fmt=webp> イーロン・マスク氏、トランプ大統領の“看板法案”を再批判
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/237828a9706af3a499dfa2b3c5226ab92989305b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291258-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平164キロ！失点ピンチに投手の本能うずく「そういう球速帯に慣れていくのはいいこと」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/666bdc152807dc0a3c6cb9c027c4483ab3a71144>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010753-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
@@ -366,31 +382,15 @@
   <tr>
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/a886d81cb2a95d1945f858c461bce5fcd2777edd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800&fmt=webp> 米大統領、ガザ停戦へ「取引せよ」　交渉進まず、イスラエルで抗議デモ
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000045-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米大統領、ガザ停戦へ「取引せよ」　交渉進まず、イスラエルで抗議デモ
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29a7c64cae58e99916acf7c0bf116640a6e7a8f4>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00994192-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 参院選前に石破茂首相ら各党代表が“連立”議論　「令和臨調」政策対話
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0f3fc4b9c7b2ab478e26a4f776475d822138344c>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000355-kkbvc-000-2-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海地震　29日も頻発　最大震度４は3回　鹿児島
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ce639cd284fa0bd50777b0fff2423ebaae06556e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291036-nksports-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=913&ch=913&exp=10800&fmt=webp> 【データ】大谷翔平、メジャー自己最速164キロ　オープン戦では21年パドレス戦で計測
+      <a href=https://news.yahoo.co.jp/articles/8c2115d736a0098a968cf0a3e1739c1476e91de8>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00052002-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博　総来場者１０００万人に到達　会場で記念セレモニー開催
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543889>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c2a11c71c320834bb4854c9a8959489f70f6d50558d86c999705377e9868d4e3.jpg> 最悪首相出せなくなる 自民危機感
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543905>
-        <img align=left width=150 src=https://s.yimg.jp/images/news-web/all/images/ogp_default.png> トカラ列島での地震 600回に迫る
+      <a href=https://news.yahoo.co.jp/pickup/6543906>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ebe26f8565d77a83c5c118746cce2f3c220607890f3133ab92164e87b26702e4.jpg> 石破内閣支持率24%で横ばい 毎日
       </a>
     </td>
   </tr>
@@ -420,6 +412,14 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543902>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ac72cef0f55c9be718f4c616a10fe13ec89c71c50b8e67307a522fcaf7910cb0.jpg> 性的少数者 就活でハラスメントも
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543909>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/16a645f5660564467d3580bc337d6f472b145a35cbc6f122e1d94a6d0460519a.jpg> 対立再燃? マスク氏が米政権批判
       </a>
     </td>
   </tr>
@@ -442,16 +442,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543891>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/7cb2d4ccc99414ad736f22607a313e6a71b4ab3b33d2d7809eccf369bba57055.jpg> 売り上げ3倍 スーパーの34歳店長
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543895>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/65fe76dba4ff90175300075ab5123805f64a2b2360497b942e1d50bfe14dc510.jpg> サンリオ大賞 犬キャラが上位独占
+      <a href=https://news.yahoo.co.jp/pickup/6543904>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3e478673556efacfdd013ee37a955f8a47d649b9260fd10a49bfdec61f5376d1.jpg> J3高知の監督休養へ パワハラ調査
       </a>
     </td>
   </tr>
@@ -464,11 +456,19 @@
     </td>
   </tr>
 
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543835>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a9d5df2c8324709ce1f6e54a7f1d468ee22ae8a9191734fd2ed4a127e998b0b4.jpg> 石橋貴明 レギュラー番組なくなる
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 18:30:19 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 19:00:25 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
