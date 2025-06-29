@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/cffb462d84f0336cec110da9fc1d1c99.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/6da13868dfcd638deb58e399d2be3d94.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,32 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4a4506d62f7c8c88b41fad4c0656e4ca32b55dc8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290347-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平は登板前でも「『話しかけるな』というタイプじゃない」ドジャース鉄腕左腕が様子明かす
+      <a href=https://news.yahoo.co.jp/articles/3a2a0cce4dca270a43bb2491d86222c16c53c85e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90023015-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｈ２Ａロケット５０号機打ち上げ成功　Ｈ２Ａロケット２５年の歴史に幕【鹿児島】
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/403c82e89aad937a9c96dfd150b1017c17dcc5c3>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010315-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/723fcadee64a7f7129ca805020e0b3b20ef2798e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010364-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a4c776cf5cccead08bc4bf605b1460dfd8623f44>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000002-ryu-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=467&ch=467&exp=10800&fmt=webp> 大分・大学生2人死傷ひき逃げ　沖縄県内でも容疑者の情報提供呼びかけ　大分県警、事件発生から3年
+      <a href=https://news.yahoo.co.jp/articles/2eb519e710b4b44d13f4e89c91e32367a829e6eb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90030795-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 別府市の大学生死亡ひき逃げ 名古屋駅前でも八田與一容疑者の目撃情報を呼びかけ 6月に殺人容疑など追加
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/0322877a5499fc9a42633d8412e09a9c7d5d4b95>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010259-mbcnewsv-000-2-thumb.jpg?exp=10800&fmt=webp> 有終の美　H2A最終号機　打ち上げ成功
+      <a href=https://news.yahoo.co.jp/articles/86614f6c4f0d3cabcc096a15d1309290f82bb132>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782753-fullcount-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=173&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の「0」にファン反応「封印か？」　“自己最速”の裏で起きていた変化
       </a>
     </td>
   </tr>
@@ -394,16 +394,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543845>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/61cef296573e3fd6e3f2571f5344861a464cff5125a214e0c5b51a5ba1f33381.jpg> 米兵処刑の「執行役」志願した父
+      <a href=https://news.yahoo.co.jp/pickup/6543851>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543851>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/b743fac899191aa0f7c522c3048ffd726973dfb16e8449e3363bf68f5e7427d4.jpg> 能登被災118棟が所有者不明 負担
+      <a href=https://news.yahoo.co.jp/pickup/6543859>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3f4379bad9ad81d4edc50e6d9f6975d418e1120fd12188c250986e3de9b1e665.jpg> 墜落 インドで飛行機恐怖症広がる
       </a>
     </td>
   </tr>
@@ -426,16 +426,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543858>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ba3360de9808ca930ffcc414fdb389931d5db3fc5c7f36323d72ccddf4b796d4.jpg> 夏に活発 ゴキブリが潜むサイン
+      <a href=https://news.yahoo.co.jp/pickup/6543862>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/6f8e31d14ceb7faa85277e8476a0e9319175364a4519ae34373706ea0bf53a66.jpg> 天下一品「徒弟制型FC」の限界
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543848>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/903c9cd6113233424d368fc0c04312f5e185138df621199f34040e0d6119b5c9.jpg> サギの行列 トラクター通過待つ訳
+      <a href=https://news.yahoo.co.jp/pickup/6543858>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ba3360de9808ca930ffcc414fdb389931d5db3fc5c7f36323d72ccddf4b796d4.jpg> 夏に活発 ゴキブリが潜むサイン
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 12:30:48 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 13:01:03 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
