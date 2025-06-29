@@ -8,70 +8,20 @@
 
 ## 🌟 **About Me**
 
-<div align="center">
+🚀 **Frontend Developer** passionate about mobile development
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm Kenta!**
-🚀 **Frontend Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
-
-</td>
-</tr>
-</table>
-
-</div>
+🌍 **Location:** Japan 🇯🇵
+💼 **Focus:** Building beautiful mobile applications
+☕ **Powered by:** Coffee and curiosity
+🎯 **Goal:** Creating amazing user experiences
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&border_radius=10&starting_year=2020" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&custom_title=Takasugi's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🛠️ **Tech Stack**
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true" />
 
 ## 🏆 **GitHub Trophies**
 
