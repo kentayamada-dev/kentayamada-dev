@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/1a96eafb8be99af3d3d595fb5e946448.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/e056b6a76a5ded86e13a8ea419c0e59f.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,32 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca6a87c8e5d3782cc8c98607a17d49c181c4ad4b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06291219-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が覆した”術後の常識”　リハビリの舞台裏をトレーナーが証言
+      <a href=https://news.yahoo.co.jp/articles/aef59614797445ea565ad634ef3ec12ecc2662bc>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000061-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=353&cy=0&cw=1414&ch=1414&exp=10800&fmt=webp> 中国、日本産水産物の輸入再開　処理水放出で停止　10都県は対象外
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/29bcb86c957e5806f81171d591b40a8d8923bca1>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010856-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/5a87c9a59ecfe192d565036e76979acfb079f49c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010865-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/aad37e02f5b0f72e09716a2095c5071b06e46175>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000153-dal-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=1577&ch=1577&exp=10800&fmt=webp> ロッテ戦で話題　なぜ「肉体的援助」？名称変更検討の議論も　元審判員が明かす
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4eb9c8a8a6627f4b276be0ef0402d3e3ddc0a0bb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1233&ch=1233&exp=10800&fmt=webp> 大阪・関西万博　来場者数「1千万人突破」で記念式典　1000万人目は山形市から来た家族　ミャクミャクらから記念品贈呈
+      <a href=https://news.yahoo.co.jp/articles/6ab531797ee7ef167e34c1da4b94b8344508639c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-06291221-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=82&cy=0&cw=972&ch=972&exp=10800&fmt=webp> 大谷翔平と長嶋茂雄さんの約束　世界最速のその先へ、二刀流だからこそ球速にこだわれる
       </a>
     </td>
   </tr>
@@ -394,32 +386,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543927>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/549c2f0b2c28a3ceaad62d83e2993c7ad35040c6430e5d8d1abb8e9521a5c84a.jpg> 中国軍事パレード 米大統領招待へ
+      <a href=https://news.yahoo.co.jp/pickup/6543936>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/846cb233371a0b096800d1c1e187bf2f7b4c3db75ab946d16ce852b5a84bd342.jpg> 日本産水産物 中国が輸入一部再開
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543929>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a1167d60cbf1bcae16b282c86739bcca4393beb2f269663f793e3786ee849864.jpg> 自民幹事長 2万円給付の根拠訴え
+      <a href=https://news.yahoo.co.jp/pickup/6543932>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/80eba94136b2deb1c83c2ee6209f7ccd08c0af0b51a9f910f17145868a16477a.jpg> 萩生田氏の秘書に「起訴相当」
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543917>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/5e2a601fbb4dfd4920f7ea54d47bd47598226058eeff9bd1a4f7401c1971f3a8.jpg> 住宅に全裸の女性遺体 胸にナイフ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543930>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishidamasahiko/02268333/title-1751163315034.jpeg?exp=10800> 不正輸出報道 フェンタニルとは
+      <a href=https://news.yahoo.co.jp/pickup/6543937>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/f62597779f633e857df353bd39db845602669798ffe91ff121ba3703a2842344.jpg> 森山幹事長「消費税守り抜く」
       </a>
     </td>
   </tr>
@@ -434,8 +418,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543898>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/af7c3ce277aafc2d6a2701ac0f268e8db2173e04e5da93e836c35a02ff9d3365.jpg> 「8時10分前」世代でギャップ
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543933>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/9b0212cb877dd2a2684e60770ca1ab7768fcc0c11c9e995b4c771d21497f4a4a.jpg> ロッテ痛恨 肉体的援助でアウト
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543938>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ee64f2634389c215764f1dd6bc405263ba5f4850123dc4c0a9978451c611292b.jpg> ニューヨーク屋敷 女児誕生を報告
       </a>
     </td>
   </tr>
@@ -448,19 +448,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3e9550bdb97f630be4b80e6bb2e74538c6d3f50668c66b8b4b396ac0d5650f05.jpg> 及川光博の公演 開場6分前に延期
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 23:00:53 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 23:30:30 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
