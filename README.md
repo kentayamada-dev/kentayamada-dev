@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/f4d9078f5c6d90141a525e9125458841.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/5731f8696a8e2ccc76c25fcb8eaaef9c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/fc8c2941c931e80cd27ec129abdb872a92c7f2b6>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36290503-nksports-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1071&ch=1071&exp=10800&fmt=webp> 「野球界が見た中で間違いなく最高の才能」米アナリスト、大谷翔平164キロに衝撃「ハハハ…」
+      <a href=https://news.yahoo.co.jp/articles/21c05db244bca4c836b943ee1e0bc1181d7ec339>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010435-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2d02c8101275dc959d6912c337da8539f514cf7d>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010393-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/14d96c46dd786a4ec07ee1a3de4ced7a9b758dd7>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-05732753-nnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「気持ちが先行して」大谷翔平　メジャー自己最速の心境とは？手術後の感覚は「1回目よりすごく良い」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/edfb8a3c16b3233f68f362902dcb63832340966e>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 認知症の女性に性的暴行未遂の疑い　介護士を逮捕　東京・台東の施設
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/3a2a0cce4dca270a43bb2491d86222c16c53c85e>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90023015-kts-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800&fmt=webp> Ｈ２Ａロケット５０号機打ち上げ成功　Ｈ２Ａロケット２５年の歴史に幕【鹿児島】
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/2eb519e710b4b44d13f4e89c91e32367a829e6eb>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-90030795-nbnv-000-1-thumb.jpg?exp=10800&fmt=webp> 別府市の大学生死亡ひき逃げ 名古屋駅前でも八田與一容疑者の目撃情報を呼びかけ 6月に殺人容疑など追加
       </a>
     </td>
   </tr>
@@ -418,8 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543865>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/65d7277a20a27e34b98e30f75ece2b57cb12402b520537ac7374b4c25a8f4fa3.jpg> 無期囚「仮釈放」が生きる希望
+      <a href=https://news.yahoo.co.jp/pickup/6543872>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/29a1dd478162e043693ecc289bf8f544d26847c4eccd8674b1bd2fd2470b12e5.jpg> 施設でわいせつ疑い 介護士逮捕
       </a>
     </td>
   </tr>
@@ -434,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543862>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/6f8e31d14ceb7faa85277e8476a0e9319175364a4519ae34373706ea0bf53a66.jpg> 天下一品「徒弟制型FC」の限界
+      <a href=https://news.yahoo.co.jp/pickup/6543869>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/56a46dd35d28f8c06d4d6558462ccfbbecab53ebbdb6b46d3c51aaebf9e17c08.jpg> 給料減でも 国交省から46歳で転職
       </a>
     </td>
   </tr>
@@ -450,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543860>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/2fc090447ebcf028970f230a2fb2e87e67e8eb118df475b5dcb355e2db9cccbb.jpg> 3A乙坂智 わずか9試合で自由契約
+      <a href=https://news.yahoo.co.jp/pickup/6543871>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4dce49e5ee8e68a08c916f6882199099d643f843c510e4e8624a6f196920867e.jpg> 大谷 球速自然に上がってしまった
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 13:30:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 14:00:51 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
