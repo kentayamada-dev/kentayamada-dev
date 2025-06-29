@@ -244,7 +244,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/tyCKKsGOKOk?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="大阪市・Osaka City" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/efa471ebc1cc36cda930eafa26dc70aa.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/034e5e841fcec3564dea41ebf4c8f81c.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,24 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/66170b94b8232668f0f06dc07abd2c224b144d6a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-06291310-sph-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 大谷翔平が登板翌日も「１番ＤＨ」でスタメン入り　２戦ぶり本塁打で自己最速の３０号なるか
+      <a href=https://news.yahoo.co.jp/articles/1907e91fe8f7164f22a7581b2c203bda0e8e9584>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-00994292-fnn-000-1-thumb.jpg?exp=10800&fmt=webp> 胸に刃物刺さった19歳の女性遺体発見…胸中心に複数の刺し傷　愛知・豊田市
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/259baf98d2c5be89aa0cb194d73949a0b520f9cf>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-22010880-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 岐阜県で最大震度1の地震　岐阜県・飛騨市
+      <a href=https://news.yahoo.co.jp/articles/6c5a30588f5c616e03772d704ff71e9e2d762c92>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250630-22010888-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度3の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/4764777011a4c67a149aa1493705e4aed63ded0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01832293-sp_ctv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=225&ch=225&exp=10800&fmt=webp> 胸に刃物が刺さった19歳女性の遺体 殺人事件として捜査　愛知・豊田市
+      <a href=https://news.yahoo.co.jp/articles/4c0661273cb9b477a76f8de9af628a80071d8542>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000396-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800&fmt=webp> ドジャース・大谷翔平　ロイヤルズ戦に「1番・DH」でスタメン出場　5年連続30本塁打なるか
       </a>
     </td>
   </tr>
@@ -452,7 +452,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/30 00:30:22 (JST)<br />
+  🗓️ Last Updated: 2025/06/30 01:00:10 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
