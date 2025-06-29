@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/08e5a47359e15fca7d417f9303e678c5.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/8f0dead2c1b100988a643cbb90e65174.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,6 +357,30 @@
 <table>
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/4eb9c8a8a6627f4b276be0ef0402d3e3ddc0a0bb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00010000-wordleafv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=484&cy=0&cw=1233&ch=1233&exp=10800&fmt=webp> 大阪・関西万博　来場者数「1千万人突破」で記念式典　1000万人目は山形市から来た家族　ミャクミャクらから記念品贈呈
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/64f252cbd860ab0a634401e79b1ddabe47e26cfd>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010777-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/47cbd83d907f176546e3f7a37b3f4abb593b85e4>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00098617-thedigest-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=960&ch=960&exp=10800&fmt=webp> 「彼と話さないとダメだ」大谷翔平のメジャー自己最速164キロにロイヤルズ打者はお手上げ！ 数年前の“因縁”を告白「日本でもやられた」
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/e128e3bcb353fe6da95e8ac4ef4005a0bd00cede>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185882-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=904&ch=904&exp=10800&fmt=webp> イーロン・マスク氏、トランプ大統領の“看板法案”を再批判
       </a>
@@ -365,32 +389,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/237828a9706af3a499dfa2b3c5226ab92989305b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291258-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=227&cy=0&cw=1000&ch=1000&exp=10800&fmt=webp> 大谷翔平164キロ！失点ピンチに投手の本能うずく「そういう球速帯に慣れていくのはいいこと」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/666bdc152807dc0a3c6cb9c027c4483ab3a71144>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010753-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/a886d81cb2a95d1945f858c461bce5fcd2777edd>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000045-jij-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=251&cy=0&cw=800&ch=800&exp=10800&fmt=webp> 米大統領、ガザ停戦へ「取引せよ」　交渉進まず、イスラエルで抗議デモ
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/8c2115d736a0098a968cf0a3e1739c1476e91de8>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00052002-asahibcv-000-1-thumb.jpg?exp=10800&fmt=webp> 万博　総来場者１０００万人に到達　会場で記念セレモニー開催
+      <a href=https://news.yahoo.co.jp/articles/0f3fc4b9c7b2ab478e26a4f776475d822138344c>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000355-kkbvc-000-2-thumb.jpg?exp=10800&fmt=webp> トカラ列島近海地震　29日も頻発　最大震度４は3回　鹿児島
       </a>
     </td>
   </tr>
@@ -418,6 +418,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543911>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/1a950679e1a675924c3edb3d6a0d7c82b80a5ca33e6bd3f560f247d21786409f.jpg> 社民 参院比例にラサール石井氏
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543909>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/16a645f5660564467d3580bc337d6f472b145a35cbc6f122e1d94a6d0460519a.jpg> 対立再燃? マスク氏が米政権批判
       </a>
@@ -426,8 +434,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543903>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/32b9f4ada7dafa930d13f1b31ed1ecc9c46399d71b2cb912d4a606f6e1894768.jpg> 子どもの日傘が急増 使用巡り賛否
+      <a href=https://news.yahoo.co.jp/pickup/6543910>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4b9089b960eaa43addc152e6eecc63e3bec44a81ebaf180727bf328767a81ccc.jpg> 大阪万博 来場者が1000万人突破
       </a>
     </td>
   </tr>
@@ -450,14 +458,6 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543892>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3e9550bdb97f630be4b80e6bb2e74538c6d3f50668c66b8b4b396ac0d5650f05.jpg> 及川光博の公演 開場6分前に延期
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543835>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a9d5df2c8324709ce1f6e54a7f1d468ee22ae8a9191734fd2ed4a127e998b0b4.jpg> 石橋貴明 レギュラー番組なくなる
       </a>
@@ -468,7 +468,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 19:00:25 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 19:30:32 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
