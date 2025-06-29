@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td colspan=4 align=center>
-      <a href=https://www.youtube-nocookie.com/embed/Zedu0ddRlDU?rel=0&html5=1&autoplay=1>
+      <a href=https://www.youtube-nocookie.com/embed/0gcJCcMJAYcqIYzv?rel=0&html5=1&autoplay=1>
         <img src=./github-profile/static/404.gif alt="お台場・Odaiba" />
       </a>
     </td>
@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/950e3e904a94ec5161606ab2eaa00678.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/83fbd6979aade8aae08db63aae9130f1.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,16 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/13b83cd4af1ea76a94baea440214f216c60a0c0a>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-01782860-fullcount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=600&ch=600&exp=10800&fmt=webp> 大谷翔平の“84.7”は「エリート級」　米メディアも称賛…目に焼き付いた「驚くべき瞬間」
+      <a href=https://news.yahoo.co.jp/articles/34c749ce2b30ab651230d6bdf7de0d3e0d702388>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010807-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度1の地震　鹿児島県・鹿児島十島村
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/1fdd4ae4f3437042c36aa53a3f19cc59976e5cfc>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010785-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村で最大震度3 津波の心配なし
+      <a href=https://news.yahoo.co.jp/articles/9e7a6184daee84e6590ba332b0eb8390cd15d273>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185833-abema-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 帽子をヒョイッ！大谷翔平、粘着物質チェックで審判に見せたチャーミングな笑顔 衝撃の“102マイル”から表情一変！
       </a>
     </td>
   </tr>
@@ -381,16 +381,16 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/e128e3bcb353fe6da95e8ac4ef4005a0bd00cede>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-10185882-abemav-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=318&cy=0&cw=904&ch=904&exp=10800&fmt=webp> イーロン・マスク氏、トランプ大統領の“看板法案”を再批判
+      <a href=https://news.yahoo.co.jp/articles/b46de48a41c295e1f33865fbd45bea45c1d7711b>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010681-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 十島村・悪石島で震度4が3回　9日間で597回に　鹿児島
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/b46de48a41c295e1f33865fbd45bea45c1d7711b>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010681-mbcnewsv-000-1-thumb.jpg?exp=10800&fmt=webp> 十島村・悪石島で震度4が3回　9日間で597回に　鹿児島
+      <a href=https://news.yahoo.co.jp/articles/8b725f649d6c98bef78567a90bde5f1ecc13ebeb>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-36291025-nksports-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=907&ch=907&exp=10800&fmt=webp> 【DeNA】31回連続無得点の悪夢　佐野１番の勝負手も３戦連続完封負けで首位阪神と５・５差
       </a>
     </td>
   </tr>
@@ -426,6 +426,14 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543914>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/ab8fe274f9d55ece9f9c582cd239fd2b4c2d4a0bff8221c54b8fae8bee6ac952.jpg> AV新法3年 トラブルは後絶たず
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543908>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d9009dd3ed33ac3745b32ab322e900c49a7a60bffbb16291b9f6f02a1ba3e815.jpg> タイとカンボジア 対立が過熱
       </a>
@@ -442,8 +450,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543910>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4b9089b960eaa43addc152e6eecc63e3bec44a81ebaf180727bf328767a81ccc.jpg> 大阪万博 来場者が1000万人突破
+      <a href=https://news.yahoo.co.jp/pickup/6543918>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/eb90674e9082002c9a126c6afe358f6c139999f93b1bfd5a12848247e031ab6f.jpg> 万引全て賠償請求 ユニクロの姿勢
       </a>
     </td>
   </tr>
@@ -456,19 +464,11 @@
     </td>
   </tr>
 
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543835>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/a9d5df2c8324709ce1f6e54a7f1d468ee22ae8a9191734fd2ed4a127e998b0b4.jpg> 石橋貴明 レギュラー番組なくなる
-      </a>
-    </td>
-  </tr>
-
 </table>
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 20:00:24 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 20:30:14 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
