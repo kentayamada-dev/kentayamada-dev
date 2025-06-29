@@ -342,7 +342,7 @@
     <td colspan=4 align=center>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br />
       <a href=https://zoom.earth/places/japan/#overlays=labels:off>
-        <img src=https://i.gyazo.com/4fb3a395cc66d94f2bead743b6ddcf0e.png alt="衛星写真・Satellite Image">
+        <img src=https://i.gyazo.com/3c62abc49a909ae64ca949c42bd2a937.png alt="衛星写真・Satellite Image">
       </a>
       <br />
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -357,16 +357,24 @@
 <table>
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/ca442b95953560a07e4f4684ca4d89efda06fbda>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000001-jij_graph-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=604&ch=604&exp=10800&fmt=webp> 【図解】最後のH2A、打ち上げ成功＝衛星「いぶきGW」搭載―50号機、有終の美
+      <a href=https://news.yahoo.co.jp/articles/4ed01b8cd5cb25cb15df0aa2a34a8dd66e0e06a6>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010509-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800&fmt=webp> トカラ列島近海で地震 鹿児島十島村などで最大震度3 津波の心配なし
       </a>
     </td>
   </tr>
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/d553a66b29b9e6cefa159ead3c059d67200e3965>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-22010452-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800&fmt=webp> 鹿児島県で最大震度2の地震　鹿児島県・鹿児島十島村
+      <a href=https://news.yahoo.co.jp/articles/ca442b95953560a07e4f4684ca4d89efda06fbda>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000001-jij_graph-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=210&cw=604&ch=604&exp=10800&fmt=webp> 【図解】最後のH2A、打ち上げ成功＝衛星「いぶきGW」搭載―50号機、有終の美
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/articles/cbd62a46bbb99d04465a1f1d5c541d6db3ef4876>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000065-dal-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=351&cy=0&cw=1371&ch=1371&exp=10800&fmt=webp> 新婚の小峠英二をクレヨンしんちゃんが祝福「ケッコンおめでとー」　楽しみは「手料理」
       </a>
     </td>
   </tr>
@@ -375,14 +383,6 @@
     <td width=1000>
       <a href=https://news.yahoo.co.jp/articles/14d96c46dd786a4ec07ee1a3de4ced7a9b758dd7>
         <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-05732753-nnn-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=360&ch=360&exp=10800&fmt=webp> 「気持ちが先行して」大谷翔平　メジャー自己最速の心境とは？手術後の感覚は「1回目よりすごく良い」
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/articles/edfb8a3c16b3233f68f362902dcb63832340966e>
-        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250629-00000025-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=133&cy=0&cw=535&ch=535&exp=10800&fmt=webp> 認知症の女性に性的暴行未遂の疑い　介護士を逮捕　東京・台東の施設
       </a>
     </td>
   </tr>
@@ -402,16 +402,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543859>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/3f4379bad9ad81d4edc50e6d9f6975d418e1120fd12188c250986e3de9b1e665.jpg> 墜落 インドで飛行機恐怖症広がる
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543863>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/c7183f811e471db8880f6e46849f5d36900cefceb51347346436081edbabb6ca.jpg> 逃走続く八田容疑者 捜査幹部語る
+      <a href=https://news.yahoo.co.jp/pickup/6543880>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/efbfcf5ce839da00f0bb8a4a342d621c951f0281d23dfd89af70b83cbfb9d00d.jpg> 30以上の都道府県警でなり手不足
       </a>
     </td>
   </tr>
@@ -426,16 +418,8 @@
 
   <tr>
     <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543868>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/d221d07d0d55f10d57689c668d860a7568c4e49c28d0f8904fcaa3a34fd6938c.jpg> 突然の診療休止発表 患者ら困惑
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width=1000>
-      <a href=https://news.yahoo.co.jp/pickup/6543869>
-        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/56a46dd35d28f8c06d4d6558462ccfbbecab53ebbdb6b46d3c51aaebf9e17c08.jpg> 給料減でも 国交省から46歳で転職
+      <a href=https://news.yahoo.co.jp/pickup/6543875>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/089408701c07d0d7fa9788420f0b61b51390e313c692aab8093dd55ee4c570f2.jpg> 40年引きこもり就労 試練の連続
       </a>
     </td>
   </tr>
@@ -450,8 +434,24 @@
 
   <tr>
     <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543877>
+        <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4e6b7f0272eb09c78f552dd84b99656076276a7773fec01f1a448994e98eac23.jpg> 「双子ブロッコリー」に農家驚き
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
       <a href=https://news.yahoo.co.jp/pickup/6543871>
         <img align=left width=150 src=https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/6/29/4dce49e5ee8e68a08c916f6882199099d643f843c510e4e8624a6f196920867e.jpg> 大谷 球速自然に上がってしまった
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width=1000>
+      <a href=https://news.yahoo.co.jp/pickup/6543874>
+        <img align=left width=150 src=https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02268240/title-1751158328259.jpeg?exp=10800> 北斗の拳新作アニメ 何が変わる?
       </a>
     </td>
   </tr>
@@ -460,7 +460,7 @@
 
 -----------------------------------------------------------------------------
 <p align=center>
-  🗓️ Last Updated: 2025/06/29 14:30:13 (JST)<br />
+  🗓️ Last Updated: 2025/06/29 15:00:36 (JST)<br />
   🔄 Update Cycle: 30 min
 </p>
 <div align=center>
