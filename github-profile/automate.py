@@ -1,23 +1,29 @@
+from typing import Any
+
 import aiohttp
-from bs4 import BeautifulSoup
 
 from custom_logger import CustomLogger
 
 
 class Automate:
-    def __init__(self) -> None:
+    def __init__(self, access_token: str) -> None:
         self.logger = CustomLogger()
+        self.access_token = access_token
 
-    async def flash_news_data(self) -> list[dict[str, str]]:
-        data: list[dict[str, str]] = []
-        async with aiohttp.ClientSession() as session, session.get("https://news.yahoo.co.jp/flash") as res:
-            [
-                data.append({
-                    "title": str(tag["aria-label"]),
-                    "link": str(tag["href"]),
-                    "image": str(tag.find("source", {"type": "image/webp"})["srcset"]),  # type: ignore  # noqa: PGH003
-                })
-                for tag in BeautifulSoup(await res.text(), "html.parser").select("#contentsWrap > div > div > a")
-            ]
-        self.logger.debug(data)
-        return data
+    @staticmethod
+    async def __fetch_data(url: str, headers: Any) -> Any:  # noqa: ANN401
+        async with aiohttp.ClientSession() as session, session.get(url, headers=headers) as response:  # type: ignore  # noqa: PGH003
+            return await response.json()
+
+    async def get_urls(self) -> list[str]:
+        response = await self.__fetch_data(
+            "https://cdn.contentful.com/spaces/hgf9za4608k6/environments/master/entries?content_type=article&select=fields.slug",
+            headers={"Authorization": f"Bearer {self.access_token}"},
+        )
+
+        slugs = [item["fields"]["slug"] for item in response["items"]]
+
+        urls = [f"https://www.kentayamada.dev/en/articles/{slug}" for slug in slugs]
+
+        self.logger.debug(urls)
+        return urls

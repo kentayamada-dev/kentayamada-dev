@@ -28,11 +28,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
-## 💭 **Random Dev Quote**
+## 📝 **My Articles**
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</div>
+<table>
+{%- for url in urls %}
+  <tr>
+    <td width=1000>
+      <a href={{ url }}>
+        <p>{{ url }}</p>
+      </a>
+    </td>
+  </tr>
+{% endfor %}
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:000080&height=130&section=footer" />
