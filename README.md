@@ -34,7 +34,7 @@
   <tr>
     <td width=1000>
       <a href=https://www.kentayamada.dev/en/articles/introduction-to-react-hooks>
-        <img src="https://og-lac-iota.vercel.app/api/og" />
+        <p>https://www.kentayamada.dev/en/articles/introduction-to-react-hooks</p>
       </a>
     </td>
   </tr>
