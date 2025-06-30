@@ -34,17 +34,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
 
-<p align=center>
-  🗓️ Last Updated: 2025/06/30 07:44:22 (JST)<br />
-  🔄 Update Cycle: 30 min
-</p>
-
-<div align=center>
-
-  [![CI](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml/badge.svg)](https://github.com/kentayamada-dev/kentayamada-dev/actions/workflows/github-profile.yml)
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:000080&height=130&section=footer" />
 </div>
