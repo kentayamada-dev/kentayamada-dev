@@ -4,20 +4,23 @@
     "dockerfile": "./Dockerfile",
     "target": "dev",
     "args": {
-      "USER_NAME": "dev",
-      "UID": "2000"
+      "USER_NAME": "${localEnv:USER_NAME}",
+      "USER_ID": "${localEnv:USER_ID}"
     }
   },
   "runArgs": [
     "--env-file",
     ".devcontainer/.env",
     "--name",
-    "github-profile",
+    "ghp",
     "--hostname",
-    "github-profile"
+    "ghp"
   ],
   "workspaceMount": "source=${localWorkspaceFolder},target=/home/dev/workspaces,type=bind,consistency=cached",
-  "workspaceFolder": "/home/dev/workspaces/github-profile",
+  "mounts": [
+    "source=ghp-pycache,target=/home/dev/workspaces/ghp/__pycache__,type=volume"
+  ],
+  "workspaceFolder": "/home/dev/workspaces/ghp",
   "postCreateCommand": "pip install --no-cache-dir --no-warn-script-location --break-system-packages --requirement requirements.txt",
   "customizations": {
     "vscode": {

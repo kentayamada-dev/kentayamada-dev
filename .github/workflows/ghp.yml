@@ -39,7 +39,7 @@ jobs:
             --build-arg CURRENT_DATETIME=${{ env.CURRENT_DATETIME }} \
             --build-arg DEBUG=${{ github.event.inputs.debug }} \
             --build-arg CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} \
-            --target prod --file .devcontainer/github-profile-container/Dockerfile .
+            --target prod --file .devcontainer/ghp-container/Dockerfile .
           docker run --name output-container output
           docker cp output-container:/app/generated/README.md ./README.md
 

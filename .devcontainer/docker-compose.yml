@@ -7,7 +7,7 @@ services:
         NODE_VERSION: ${NODE_VERSION}
         PNPM_VERSION: ${PNPM_VERSION}
         USER_NAME: ${USER_NAME}
-        UID: ${UID}
+        USER_ID: ${USER_ID}
         SYSTEM: ${SYSTEM}
         MKCERT_VERSION: ${MKCERT_VERSION}
     command: sleep infinity

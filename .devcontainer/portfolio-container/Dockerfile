@@ -14,7 +14,7 @@ RUN apt update && apt --yes install --no-install-recommends curl ca-certificates
 FROM base AS dev
 
 ARG USER_NAME
-ARG UID
+ARG USER_ID
 ARG NODE_VERSION
 ARG PNPM_VERSION
 ARG HOME=/home/$USER_NAME
@@ -30,7 +30,7 @@ COPY --from=init /mkcert $HOME/mkcert
 RUN chmod +x ./install_dev_packages.sh && ./install_dev_packages.sh curl \
   && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/zsh zsh - \
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir $HOME/.pnpm-store \
-  && chmod +x ./setup_user.sh && ./setup_user.sh $UID $USER_NAME $HOME \
+  && chmod +x ./setup_user.sh && ./setup_user.sh $USER_ID $USER_NAME $HOME \
   && chown --recursive $USER_NAME $HOME && install --directory --owner=$USER_NAME $WORKSPACE/node_modules
 
 USER $USER_NAME
