@@ -8,6 +8,10 @@ on:
         type: boolean
         required: false
         default: false
+  repository_dispatch:
+    types:
+      - contentful_published
+      - trigger-kentayamadadev
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
