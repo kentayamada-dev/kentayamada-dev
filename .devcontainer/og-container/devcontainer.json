@@ -1,0 +1,40 @@
+{
+  "build": {
+    "context": "..",
+    "dockerfile": "./Dockerfile",
+    "target": "dev",
+    "args": {
+      "USER_NAME": "dev",
+      "UID": "2000",
+      "NODE_VERSION": "22.17.0",
+      "PNPM_VERSION": "10.12.4"
+    }
+  },
+  "runArgs": [
+    "--env-file",
+    ".devcontainer/.env",
+    "--name",
+    "og",
+    "--hostname",
+    "og"
+  ],
+  "workspaceMount": "source=${localWorkspaceFolder},target=/home/dev/workspaces,type=bind,consistency=cached",
+  "mounts": [
+    "source=og-node_modules,target=/home/dev/workspaces/og/node_modules,type=volume"
+  ],
+  "workspaceFolder": "/home/dev/workspaces/og",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "extensions": [
+        "mhutchie.git-graph",
+        "Exelord.git-commits",
+        "esbenp.prettier-vscode",
+        "kentayamada.vscode-statusbar-commands",
+        "kentayamada.vscode-gpt-project-loader"
+      ]
+    }
+  }
+}

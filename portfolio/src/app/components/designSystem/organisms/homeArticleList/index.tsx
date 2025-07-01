@@ -36,7 +36,7 @@ const HomeArticleList: HomeArticleListType = (props) => {
                 <Link className='bg-primary hover-primary w-full rounded-lg p-3' href={article.href}>
                   <article className='flex flex-col gap-y-3'>
                     <div className='flex items-center gap-x-2'>
-                      <div className='h-3 w-0.5 rounded-full bg-blue-500' />
+                      <div className='h-3 w-0.5 bg-blue-500' />
                       <time className='text-secondary text-xs' dateTime={article.createdAt.toISOString()} itemProp='datePublished'>
                         {getDateString(article.createdAt, props.locale)}
                       </time>
