@@ -4,10 +4,10 @@
     "dockerfile": "./Dockerfile",
     "target": "dev",
     "args": {
-      "USER_NAME": "dev",
-      "UID": "2000",
-      "NODE_VERSION": "22.14.0",
-      "PNPM_VERSION": "9.15.5"
+      "USER_NAME": "${USER_NAME}",
+      "UID": "${UID}",
+      "NODE_VERSION": "${NODE_VERSION}",
+      "PNPM_VERSION": "${PNPM_VERSION}"
     }
   },
   "runArgs": [
