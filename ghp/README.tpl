@@ -38,6 +38,7 @@
         srcset="{{ url['image_url'] }}"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
+      <img src="{{ url['image_url'] }}" />
     </picture>
   </a>
 {% endfor %}
