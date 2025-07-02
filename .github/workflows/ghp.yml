@@ -1,6 +1,9 @@
 name: GitHub Profile Update
 
 on:
+  push:
+    paths:
+      - ghp/**
   workflow_dispatch:
     inputs:
       debug:
