@@ -28,15 +28,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
-## 📝 **My Articles**
-  <a href=https://www.kentayamada.dev/en/articles/introduction-to-react-hooks>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029" />
-      <img src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029" />
-    </picture>
-  </a>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:000080&height=130&section=footer" />
 </div>
