@@ -167,7 +167,7 @@ export default {
         },
       },
       {
-        width: 400,
+        width: 600,
         height: 150,
         fonts: [
           {
