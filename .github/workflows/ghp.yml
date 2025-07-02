@@ -52,13 +52,6 @@ jobs:
           add: ./README.md
           pull: origin main
 
-      - name: Delete GitHub Image Cache
-        uses: koki-develop/hub-purge-action@v1.0.3
-        with:
-          repository: kentayamada-dev/kentayamada-dev
-          branch: main
-          path: README.md
-
       - name: Delete workflows except latest
         run: |
           chmod +x ./.github/workflows/scripts/delete_workflows_except_latest.sh && ./.github/workflows/scripts/delete_workflows_except_latest.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
