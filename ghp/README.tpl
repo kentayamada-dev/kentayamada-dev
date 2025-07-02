@@ -34,8 +34,8 @@
 {%- for url in urls %}
   <tr>
     <td width=1000>
-      <a href={{ url }}>
-        <p>{{ url }}</p>
+      <a href={{ url['article_url'] }}>
+        <img src="{{ url['image_url'] }}" />
       </a>
     </td>
   </tr>
