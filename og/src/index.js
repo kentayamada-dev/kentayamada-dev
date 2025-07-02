@@ -61,7 +61,6 @@ export default {
 						flexDirection: "column",
 						background: background,
 						padding: "1rem",
-						borderRadius: "0.5rem",
 					},
 					children: [
 						{
