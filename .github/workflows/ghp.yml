@@ -52,6 +52,10 @@ jobs:
           add: ./README.md
           pull: origin main
 
+      - name: Delete Image Cache
+        run: |
+          chmod +x ./.github/workflows/scripts/delete_github_image_caches.sh && ./.github/workflows/scripts/delete_github_image_caches.sh kentayamada-dev/kentayamada-dev
+
       - name: Delete workflows except latest
         run: |
           chmod +x ./.github/workflows/scripts/delete_workflows_except_latest.sh && ./.github/workflows/scripts/delete_workflows_except_latest.sh '${{ github.workflow }}' ${{ secrets.DELETE_WORKFLOW_TOKEN }}
