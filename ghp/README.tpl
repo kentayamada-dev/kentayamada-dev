@@ -30,20 +30,14 @@
 
 ## 📝 **My Articles**
 
-<table>
 {%- for url in urls %}
-  <tr>
-    <td width=1000>
-      <a href={{ url['article_url'] }}>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}" />
-          <img src="{{ url['image_url'] }}" />
-        </picture>
-      </a>
-    </td>
-  </tr>
+  <a href={{ url['article_url'] }}>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}" />
+      <img src="{{ url['image_url'] }}" />
+    </picture>
+  </a>
 {% endfor %}
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:000080&height=130&section=footer" />
