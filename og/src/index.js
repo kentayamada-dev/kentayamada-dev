@@ -19,23 +19,6 @@ async function loadGoogleFont(font, text, wght) {
   throw new Error("failed to load font data");
 }
 
-function hexToRgba(hex) {
-  hex = hex.replace(/^#/, "");
-
-  if (hex.length === 3) {
-    hex = hex
-      .split("")
-      .map((char) => char + char)
-      .join("");
-  }
-
-  const r = parseInt(hex.substring(0, 2), 16);
-  const g = parseInt(hex.substring(2, 4), 16);
-  const b = parseInt(hex.substring(4, 6), 16);
-
-  return `rgba(${r}, ${g}, ${b}, 0.1)`;
-}
-
 const FONT_NAME = "Open+Sans";
 const FONT_BOLD = 700;
 const FONT_MEDIUM = 500;
@@ -150,14 +133,24 @@ export default {
                     },
                   },
                   {
-                    type: "div",
+                    type: "svg",
                     props: {
+                      viewBox: "0 0 14 10",
                       style: {
-                        border: `solid ${accentColor}`,
-                        borderWidth: "0 2.5px 2.5px 0",
-                        padding: "3px",
-                        transform: "rotate(-45deg)",
+                        marginLeft: "0.3rem",
                       },
+                      children: [
+                        {
+                          type: "path",
+                          props: {
+                            d: "M1 5h12m0 0L9 1m4 4L9 9",
+                            stroke: accentColor,
+                            strokeWidth: 2,
+                            strokeLinecap: "round",
+                            strokeLinejoin: "round",
+                          },
+                        },
+                      ],
                     },
                   },
                 ],
@@ -167,7 +160,7 @@ export default {
         },
       },
       {
-        width: 600,
+        width: 900,
         height: 150,
         fonts: [
           {
