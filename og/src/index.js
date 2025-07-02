@@ -65,11 +65,11 @@ export default {
             display: "flex",
             flexDirection: "column",
             backgroundImage: "linear-gradient(#4184e41a, #4184e41a)",
-            padding: "1rem",
-            borderRadius: "0.375rem",
+            padding: "2rem",
+            borderRadius: "0.6rem",
             borderColor: "#4184e466",
             borderStyle: "solid",
-            borderWidth: "0.0625rem",
+            borderWidth: "0.12rem",
           },
           children: [
             {
@@ -78,15 +78,15 @@ export default {
                 style: {
                   display: "flex",
                   alignItems: "center",
-                  columnGap: "0.5rem",
+                  columnGap: "1rem",
                 },
                 children: [
                   {
                     type: "div",
                     props: {
                       style: {
-                        height: "0.8rem",
-                        width: "0.2rem",
+                        height: "1.6rem",
+                        width: "0.4rem",
                         backgroundColor: accentColor,
                       },
                     },
@@ -96,7 +96,7 @@ export default {
                     props: {
                       style: {
                         fontWeight: FONT_MEDIUM,
-                        fontSize: "0.8rem",
+                        fontSize: "1.6rem",
                         color: textColor,
                       },
                       children: date,
@@ -110,8 +110,8 @@ export default {
               props: {
                 style: {
                   fontWeight: FONT_MEDIUM,
-                  fontSize: "1.2rem",
-                  marginTop: "0.5rem",
+                  fontSize: "2.4rem",
+                  marginTop: "1rem",
                   color: textColor,
                 },
                 children: title,
@@ -122,8 +122,8 @@ export default {
               props: {
                 style: {
                   fontWeight: FONT_MEDIUM,
-                  fontSize: "0.8rem",
-                  marginTop: "0.5rem",
+                  fontSize: "1.6rem",
+                  marginTop: "1rem",
                   color: textColor,
                 },
                 children: subtitle,
@@ -142,7 +142,7 @@ export default {
                     type: "div",
                     props: {
                       style: {
-                        fontSize: "0.8rem",
+                        fontSize: "1.6rem",
                         color: accentColor,
                         fontWeight: FONT_BOLD,
                       },
@@ -154,8 +154,8 @@ export default {
                     props: {
                       style: {
                         border: `solid ${accentColor}`,
-                        borderWidth: "0 2.5px 2.5px 0",
-                        padding: "3px",
+                        borderWidth: "0 5px 5px 0",
+                        padding: "6px",
                         transform: "rotate(-45deg)",
                       },
                     },
@@ -167,8 +167,8 @@ export default {
         },
       },
       {
-        width: 600,
-        height: 150,
+        width: 1200,
+        height: 630,
         fonts: [
           {
             name: FONT_NAME,
