@@ -27,8 +27,7 @@ FROM base AS prod
 
 ARG NODE_VERSION
 ARG PNPM_VERSION
-ARG VERCEL_TOKEN
-ARG PROJECT_NAME
+ARG CLOUDFLARE_API_TOKEN
 
 WORKDIR /app
 
@@ -38,5 +37,5 @@ RUN apt update && apt --yes install --no-install-recommends ca-certificates curl
   && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/bash bash - \
   && . /root/.bashrc \
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir /root/.pnpm-store \
-  && pnpm dlx vercel link --yes --project $PROJECT_NAME --token=$VERCEL_TOKEN \
-  && pnpm dlx vercel deploy --prod --force --token=$VERCEL_TOKEN
+  && pnpm install \
+  && CLOUDFLARE_API_TOKEN=$CLOUDFLARE_API_TOKEN pnpm run deploy

@@ -1,12 +1,17 @@
 {
-  "type": "module",
   "engines": {
     "node": "22.x",
     "pnpm": "10.x",
     "npm": "please-use-pnpm"
   },
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev --ip 127.0.0.1",
+    "start": "wrangler dev",
+    "cf-login": "wrangler login --browser=false --callback-host=0.0.0.0 --callback-port=8976 | stdbuf -oL sed 's/0.0.0.0/localhost/g'"
+  },
   "devDependencies": {
-    "vercel": "44.2.7"
+    "wrangler": "4.22.0"
   },
   "dependencies": {
     "satori": "0.15.2"

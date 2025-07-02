@@ -27,7 +27,10 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "javascript.preferences.importModuleSpecifier": "shortest",
+        "javascript.preferences.quoteStyle": "single",
+        "javascript.preferences.useAliasesForRenames": false
       },
       "extensions": [
         "mhutchie.git-graph",

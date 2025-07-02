@@ -19,13 +19,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.2.2
 
-      - name: Deploy to vercel
+      - name: Deploy to cloudflare
         run: |
           docker build \
-            --build-arg NODE_VERSION=22.17.0 \
-            --build-arg PNPM_VERSION=10.12.4 \
-            --build-arg VERCEL_TOKEN=${{ secrets.VERCEL_TOKEN }} \
-            --build-arg PROJECT_NAME=og \
+            --build-arg NODE_VERSION=$(grep NODE_VERSION .devcontainer/.env | cut -d '=' -f2) \
+            --build-arg PNPM_VERSION=$(grep PNPM_VERSION .devcontainer/.env | cut -d '=' -f2) \
+            --build-arg CLOUDFLARE_API_TOKEN=${{ secrets.CLOUDFLARE_API_TOKEN }} \
             --target prod --file .devcontainer/og-container/Dockerfile .
 
       - name: Delete previous workflow
