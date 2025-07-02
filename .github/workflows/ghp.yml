@@ -27,7 +27,8 @@ jobs:
         env:
           TZ: Asia/Tokyo
         run: |
-          echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+          echo ${{ github.event.repository.updated_at}} >> $GITHUB_ENV
+          echo "Current datetime: ${{ github.event.repository.updated_at }}"
 
       - name: Checkout code
         uses: actions/checkout@v4.2.2
