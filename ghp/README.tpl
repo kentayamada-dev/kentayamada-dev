@@ -8,11 +8,11 @@
 
 ## 🌟 **About Me**
 
-- 🚀 **Frontend Developer** passionate about mobile development
-- 🌍 **Location:** Japan 🇯🇵
-- 💼 **Focus:** Building beautiful mobile applications
-- ☕ **Powered by:** Coffee and curiosity
-- 🎯 **Goal:** Creating amazing user experiences
+<div>🚀 <strong>Frontend Developer:</strong> Passionate about web development</div>
+<div>📍 <strong>Location:</strong> Toronto 🇨🇦</div>
+<div>💼 <strong>Focus:</strong> Building beautiful and fast web applications</div>
+<div>☕ <strong>Powered by:</strong> Coffee and curiosity</div>
+<div>🎯 <strong>Goal:</strong> Creating amazing user experiences</div>
 
 ## 📊 **GitHub Analytics**
 
