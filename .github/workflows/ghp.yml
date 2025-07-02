@@ -57,7 +57,7 @@ jobs:
         with:
           repository: kentayamada-dev/kentayamada-dev
           branch: main
-          path: blob/main/README.md
+          path: README.md
 
       - name: Delete workflows except latest
         run: |
