@@ -41,7 +41,7 @@ class Automate:
         urls: list[dict[str, str]] = [
             {
                 "article_url": f"https://www.kentayamada.dev/en/articles/{item['fields']['slug']}",
-                "image_url": f"https://og.kentayamada058.workers.dev?title={quote(item['fields']['title'])}&subtitle={quote(item['fields']['subtitle'])}&date={quote(self.__get_date_string(item['sys']['createdAt'], current_date_string))}",  # noqa: E501
+                "image_url": f"https://og.kentayamada058.workers.dev?title={quote(item['fields']['title'])}&subtitle={quote(item['fields']['subtitle'])}&date={quote(self.__get_date_string(item['sys']['createdAt'], current_date_string))}&cache_buster=${quote(current_date_string)}",  # noqa: E501
             }
             for item in response["items"]
         ]

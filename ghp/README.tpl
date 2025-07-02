@@ -34,10 +34,6 @@
   <a href={{ url['article_url'] }}>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}&mode=dark" />
-      <source
-        srcset="{{ url['image_url'] }}"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
       <img src="{{ url['image_url'] }}" />
     </picture>
   </a>
