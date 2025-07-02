@@ -33,7 +33,7 @@
 {%- for url in urls %}
   <a href={{ url['article_url'] }}>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}" />
+      <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}&mode=dark" />
       <img src="{{ url['image_url'] }}" />
     </picture>
   </a>
