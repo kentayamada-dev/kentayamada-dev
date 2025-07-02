@@ -52,8 +52,8 @@ export default {
       searchParams.get("subtitle")?.slice(0, 200) ?? "Default Subtitle";
     const isDark = searchParams.get("mode") === "dark";
 
-    const accentColor = isDark ? "#185bb1" : "#185bb1";
-    const textColor = isDark ? "white" : "black";
+    const accentColor = isDark ? "#0481fb" : "#0969da";
+    const textColor = isDark ? "#d1d7e0" : "#1f2328";
 
     const svg = await satori(
       {
@@ -109,7 +109,7 @@ export default {
               type: "div",
               props: {
                 style: {
-                  fontWeight: FONT_MEDIUM,
+                  fontWeight: FONT_BOLD,
                   fontSize: "1.2rem",
                   marginTop: "0.5rem",
                   color: textColor,
