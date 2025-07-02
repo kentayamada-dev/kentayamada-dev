@@ -31,14 +31,12 @@
 ## 📝 **My Articles**
 
 {%- for url in urls %}
-<div>
   <a href={{ url['article_url'] }}>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}" />
       <img src="{{ url['image_url'] }}" />
     </picture>
   </a>
-<div>
 {% endfor %}
 
 <div align="center">
