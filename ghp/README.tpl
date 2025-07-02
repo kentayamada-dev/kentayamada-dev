@@ -8,11 +8,11 @@
 
 ## 🌟 **About Me**
 
-🚀 **Frontend Developer:** Passionate about web development
-📍 **Location:** Toronto 🇨🇦
-💼 **Focus:** Building beautiful and fast web applications
-☕ **Powered by:** Coffee and curiosity
-🎯 **Goal:** Creating amazing user experiences
+<div>🚀 **Frontend Developer:** Passionate about web development</div>
+<div>📍 **Location:** Toronto 🇨🇦</div>
+<div>💼 **Focus:** Building beautiful and fast web applications</div>
+<div>☕ **Powered by:** Coffee and curiosity</div>
+<div>🎯 **Goal:** Creating amazing user experiences</div>
 
 ## 📊 **GitHub Analytics**
 
