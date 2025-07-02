@@ -52,9 +52,12 @@ jobs:
           add: ./README.md
           pull: origin main
 
-      - name: Delete Image Cache
-        run: |
-          chmod +x ./.github/workflows/scripts/delete_github_image_caches.sh && ./.github/workflows/scripts/delete_github_image_caches.sh kentayamada-dev/kentayamada-dev
+      - name: Delete GitHub Image Cache
+        uses: koki-develop/hub-purge-action@v1.0.3
+        with:
+          repository: kentayamada-dev/kentayamada-dev
+          branch: main
+          path: blob/main/README.md
 
       - name: Delete workflows except latest
         run: |
