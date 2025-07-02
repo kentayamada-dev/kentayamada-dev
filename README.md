@@ -32,14 +32,14 @@
   <a href=https://www.kentayamada.dev/en/articles/introduction-to-react-hooks>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&mode=dark" />
-      <img width=400 src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029" />
+      <img src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029" />
     </picture>
   </a>
 
   <a href=https://www.kentayamada.dev/en/articles/why-react-doesnt-memoize-components-by-default>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&mode=dark" />
-      <img width=400 src="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029" />
+      <img src="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029" />
     </picture>
   </a>
 
