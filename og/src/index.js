@@ -1,7 +1,7 @@
 import satori from "satori";
 
-async function loadGoogleFont(font, text) {
-  const url = `https://fonts.googleapis.com/css2?family=${font}&text=${encodeURIComponent(
+async function loadGoogleFont(font, text, wght) {
+  const url = `https://fonts.googleapis.com/css2?family=${font}:wght@${wght}&text=${encodeURIComponent(
     text
   )}`;
   const css = await (await fetch(url)).text();
@@ -36,6 +36,11 @@ function hexToRgba(hex) {
   return `rgba(${r}, ${g}, ${b}, 0.1)`;
 }
 
+const FONT_NAME = "Open+Sans";
+const FONT_BOLD = 700;
+const FONT_MEDIUM = 500;
+const FONT_STYLE = "normal";
+
 export default {
   async fetch(request, env, ctx) {
     const { searchParams } = new URL(request.url);
@@ -45,6 +50,10 @@ export default {
     const title = searchParams.get("title")?.slice(0, 100) ?? "Default Title";
     const subtitle =
       searchParams.get("subtitle")?.slice(0, 200) ?? "Default Subtitle";
+    const isDark = searchParams.get("mode") === "dark";
+
+    const accentColor = isDark ? "#185bb1" : "#185bb1";
+    const textColor = isDark ? "white" : "black";
 
     const svg = await satori(
       {
@@ -78,7 +87,7 @@ export default {
                       style: {
                         height: "0.8rem",
                         width: "0.2rem",
-                        backgroundColor: "blue",
+                        backgroundColor: accentColor,
                       },
                     },
                   },
@@ -86,9 +95,9 @@ export default {
                     type: "div",
                     props: {
                       style: {
+                        fontWeight: FONT_MEDIUM,
                         fontSize: "0.8rem",
-                        fontWeight: "normal",
-                        color: "#314158",
+                        color: textColor,
                       },
                       children: date,
                     },
@@ -100,10 +109,10 @@ export default {
               type: "div",
               props: {
                 style: {
+                  fontWeight: FONT_MEDIUM,
                   fontSize: "1.2rem",
-                  fontWeight: "bold",
                   marginTop: "0.5rem",
-                  color: "#1d293d",
+                  color: textColor,
                 },
                 children: title,
               },
@@ -112,10 +121,10 @@ export default {
               type: "div",
               props: {
                 style: {
+                  fontWeight: FONT_MEDIUM,
                   fontSize: "0.8rem",
-                  fontWeight: "normal",
                   marginTop: "0.5rem",
-                  color: "#314158",
+                  color: textColor,
                 },
                 children: subtitle,
               },
@@ -134,17 +143,17 @@ export default {
                     props: {
                       style: {
                         fontSize: "0.8rem",
-                        color: "blue",
-                        fontWeight: "bold",
+                        color: accentColor,
+                        fontWeight: FONT_BOLD,
                       },
-                      children: "Read Article",
+                      children: readArticle,
                     },
                   },
                   {
                     type: "div",
                     props: {
                       style: {
-                        border: "solid blue",
+                        border: `solid ${accentColor}`,
                         borderWidth: "0 2.5px 2.5px 0",
                         padding: "3px",
                         transform: "rotate(-45deg)",
@@ -162,12 +171,24 @@ export default {
         height: 150,
         fonts: [
           {
-            name: "Open+Sans",
+            name: FONT_NAME,
             data: await loadGoogleFont(
-              "Open+Sans",
-              `${date}${title}${subtitle}${readArticle}`
+              FONT_NAME,
+              `${date}${title}${subtitle}${readArticle}`,
+              FONT_BOLD
             ),
-            style: "normal",
+            weight: FONT_BOLD,
+            style: FONT_STYLE,
+          },
+          {
+            name: FONT_NAME,
+            data: await loadGoogleFont(
+              FONT_NAME,
+              `${date}${title}${subtitle}${readArticle}`,
+              FONT_MEDIUM
+            ),
+            weight: FONT_MEDIUM,
+            style: FONT_STYLE,
           },
         ],
       }
