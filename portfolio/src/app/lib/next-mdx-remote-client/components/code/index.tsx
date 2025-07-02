@@ -29,7 +29,7 @@ const Code: CodeType = async (props) => {
   }
 
   return (
-    <code className='not-prose rounded-lg bg-slate-300/50 p-1 font-sans text-sm dark:bg-slate-700' {...rest}>
+    <code className='not-prose rounded-lg bg-slate-300/50 p-1 font-mono text-sm dark:bg-slate-700' {...rest}>
       {children}
     </code>
   );
