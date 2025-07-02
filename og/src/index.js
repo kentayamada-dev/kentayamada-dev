@@ -161,7 +161,7 @@ export default {
       },
       {
         width: 900,
-        height: 150,
+        height: 170,
         fonts: [
           {
             name: FONT_NAME,
