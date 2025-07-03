@@ -28,7 +28,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
-## 📝 **My Articles**
+## 📝 **My Latest Articles**
 
 {%- for url in urls %}
   <a href={{ url['article_url'] }}>
