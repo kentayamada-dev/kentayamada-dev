@@ -21,6 +21,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4.2.2
 
+      - name: Set CLEAN_VERCEL_CACHE build argument
+        run: |
+          if [ "${{ github.event_name }}" == "repository_dispatch" ]; then
+            echo "CLEAN_VERCEL_CACHE=true" >> $GITHUB_ENV
+          else
+            echo "CLEAN_VERCEL_CACHE=false" >> $GITHUB_ENV
+          fi
+
       - name: Deploy to vercel
         run: |
           docker build \
@@ -28,6 +36,7 @@ jobs:
             --build-arg PNPM_VERSION=$(grep PNPM_VERSION .devcontainer/.env | cut -d '=' -f2) \
             --build-arg VERCEL_TOKEN=${{ secrets.VERCEL_TOKEN }} \
             --build-arg PROJECT_NAME=portfolio \
+            --build-arg CLEAN_VERCEL_CACHE=${{ env.CLEAN_VERCEL_CACHE }} \
             --target prod --file .devcontainer/portfolio-container/Dockerfile .
 
       - name: Delete previous workflow

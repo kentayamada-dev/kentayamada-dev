@@ -41,6 +41,7 @@ ARG NODE_VERSION
 ARG PNPM_VERSION
 ARG VERCEL_TOKEN
 ARG PROJECT_NAME
+ARG CLEAN_VERCEL_CACHE
 
 WORKDIR /app
 
@@ -50,6 +51,7 @@ RUN apt update && apt --yes install --no-install-recommends ca-certificates curl
   && curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=$PNPM_VERSION SHELL=/bin/bash bash - \
   && . /root/.bashrc \
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir /root/.pnpm-store \
+  && if [ "$CLEAN_VERCEL_CACHE" = "true" ]; then pnpm dlx vercel cache purge --yes --token=$VERCEL_TOKEN; fi \
   && pnpm dlx vercel link --yes --project $PROJECT_NAME --token=$VERCEL_TOKEN \
   && pnpm dlx vercel pull --yes --environment=production --token=$VERCEL_TOKEN \
   && pnpm dlx vercel build --prod --token=$VERCEL_TOKEN \
