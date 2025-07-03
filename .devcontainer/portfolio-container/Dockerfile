@@ -53,6 +53,6 @@ RUN apt update && apt --yes install --no-install-recommends ca-certificates curl
   && pnpm env use --global $NODE_VERSION && pnpm config set store-dir /root/.pnpm-store \
   && pnpm dlx vercel link --yes --project $PROJECT_NAME --token=$VERCEL_TOKEN \
   && if [ "$CLEAN_VERCEL_CACHE" = "true" ]; then pnpm dlx vercel cache purge --yes --token=$VERCEL_TOKEN; fi \
-  && pnpm dlx vercel pull --yes --environment=production --token=$VERCEL_TOKEN \
-  && pnpm dlx vercel build --prod --token=$VERCEL_TOKEN \
-  && pnpm dlx vercel deploy --prebuilt --prod --force --token=$VERCEL_TOKEN
+  && pnpm dlx vercel pull --yes --environment=production \
+  && pnpm dlx vercel build --prod \
+  && pnpm dlx vercel deploy --prebuilt --prod --force
