@@ -3,6 +3,7 @@
 import { motion } from 'motion/react';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { RightArrowIcon } from '@/components/icons';
 import { getDateString } from '@/utils';
 import type { HomeArticleListType } from './types';
 
@@ -45,7 +46,9 @@ const HomeArticleList: HomeArticleListType = (props) => {
                     <p className='text-secondary line-clamp-[7] text-sm'>{article.subtitle}</p>
                     <div className='flex items-center'>
                       <span className='text-sm font-semibold text-blue-500'>{props.readArticle}</span>
-                      <div className='size-1 rotate-45 border-t-2 border-r-2 border-blue-500 p-1' />
+                      <span className='ml-2 size-5 text-blue-500'>
+                        <RightArrowIcon />
+                      </span>
                     </div>
                   </article>
                 </Link>

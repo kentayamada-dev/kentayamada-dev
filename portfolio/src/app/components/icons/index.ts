@@ -21,6 +21,7 @@ export { MinusIcon } from './minusIcon';
 export { MoonIcon } from './moonIcon';
 export { PlusIcon } from './plusIcon';
 export { ProjectIcon } from './projectIcon';
+export { RightArrowIcon } from './rightArrowIcon';
 export { StarIcon } from './starIcon';
 export { StorybookIcon } from './storybookIcon';
 export { SunIcon } from './sunIcon';
