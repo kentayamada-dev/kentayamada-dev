@@ -93,7 +93,7 @@ export default {
               props: {
                 style: {
                   fontWeight: FONT_BOLD,
-                  fontSize: "1.2rem",
+                  fontSize: "1.3rem",
                   marginTop: "0.5rem",
                   color: textColor,
                 },
@@ -105,7 +105,7 @@ export default {
               props: {
                 style: {
                   fontWeight: FONT_MEDIUM,
-                  fontSize: "0.8rem",
+                  fontSize: "0.9rem",
                   marginTop: "0.5rem",
                   color: textColor,
                 },
