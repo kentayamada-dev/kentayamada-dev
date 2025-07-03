@@ -8,11 +8,11 @@
 
 ## 🌟 **About Me**
 
-<div>🚀 <strong>Frontend Developer:</strong> Passionate about web development</div>
-<div>📍 <strong>Location:</strong> Toronto 🇨🇦</div>
-<div>💼 <strong>Focus:</strong> Building beautiful and fast web applications</div>
-<div>☕ <strong>Powered by:</strong> Coffee and curiosity</div>
-<div>🎯 <strong>Goal:</strong> Creating amazing user experiences</div>
+- 🚀 **Frontend Developer:** Passionate about web development
+- 📍 **Location:** Toronto 🇨🇦
+- 💼 **Focus:** Building beautiful and fast web applications
+- ☕ **Powered by:** Coffee and curiosity
+- 🎯 **Goal:** Creating amazing user experiences
 
 ## 📊 **GitHub Analytics**
 
@@ -31,15 +31,15 @@
 ## 📝 **My Articles**
   <a href=https://www.kentayamada.dev/en/articles/introduction-to-react-hooks>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-03T01%3A58%3A02Z&mode=dark" />
-      <img src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-03T01%3A58%3A02Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-03T02%3A01%3A21Z&mode=dark" />
+      <img src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-03T02%3A01%3A21Z" />
     </picture>
   </a>
 
   <a href=https://www.kentayamada.dev/en/articles/why-react-doesnt-memoize-components-by-default>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-03T01%3A58%3A02Z&mode=dark" />
-      <img src="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-03T01%3A58%3A02Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-03T02%3A01%3A21Z&mode=dark" />
+      <img src="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-03T02%3A01%3A21Z" />
     </picture>
   </a>
 
