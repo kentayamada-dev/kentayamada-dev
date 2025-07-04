@@ -11,7 +11,7 @@
 - 🚀 **Frontend Developer:** Passionate about web development
 - 📍 **Location:** Toronto, Canada
 - 💼 **Focus:** Building beautiful and fast web applications
-- ☕ **Powered by:** Coffee and curiosity
+- ☕ **Powered by:** Coffee, sushi, and curiosity
 - 🎯 **Goal:** Creating amazing user experiences
 
 ## 📊 **GitHub Analytics**
