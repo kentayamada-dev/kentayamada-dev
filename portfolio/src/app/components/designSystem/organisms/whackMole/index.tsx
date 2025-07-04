@@ -91,27 +91,30 @@ const WhackMole: WhackMoleType = () => {
     }, ANIMATION_DURATION * 1000);
   };
 
-  const handleMoleClick = useCallback((index: number): void => {
-    setMoleState((prev) => {
-      if (prev.hit.has(index)) {
-        return prev;
+  const handleMoleClick = useCallback(
+    (index: number): void => {
+      if (moleState.hit.has(index)) {
+        return;
       }
+
+      setMoleState((prev) => {
+        const newHit = new Set(prev.hit);
+
+        newHit.add(index);
+
+        const newVisible = new Set(prev.visible);
+
+        newVisible.delete(index);
+
+        return { hit: newHit, visible: newVisible };
+      });
 
       setHitCount((count) => {
         return count + 1;
       });
-
-      const newHit = new Set(prev.hit);
-
-      newHit.add(index);
-
-      const newVisible = new Set(prev.visible);
-
-      newVisible.delete(index);
-
-      return { hit: newHit, visible: newVisible };
-    });
-  }, []);
+    },
+    [moleState.hit]
+  );
 
   useEffect(() => {
     moleSequence.current = generateMoleSequence(TOTAL_STEPS, HOLE_COUNT, MAX_MOLES_PER_STEP);
@@ -125,16 +128,16 @@ const WhackMole: WhackMoleType = () => {
     <div aria-hidden className='bg-primary relative flex items-center justify-center overflow-hidden rounded-lg'>
       {!isGameStarted && (
         <div className='absolute inset-0 z-10 flex items-center justify-center bg-[rgba(0,0,0,0.6)]'>
-          <div className='font-pixel flex flex-col rounded-lg bg-white p-6 shadow-lg'>
-            <div className='mb-4 text-center'>
+          <div className='font-pixel flex flex-col rounded-lg bg-white p-8 shadow-lg'>
+            <div className='mb-6 text-center'>
               {stepIndexRef.current === 0 ? (
                 <h2 className='text-lg font-semibold text-amber-700'>WHACK-A-MOLE</h2>
               ) : (
                 <>
-                  <h2 className='mb-2 text-lg font-semibold text-amber-700'>
+                  <h2 className='mb-4 text-lg font-semibold text-amber-700'>
                     {getPerformanceMessage(Math.round((hitCount / totalMoleHeadsCount.current) * 100))}
                   </h2>
-                  <div className='text-sm text-black'>{`Hits: ${hitCount}/${totalMoleHeadsCount.current}`}</div>
+                  <div className='text-base text-black'>{`Hits: ${hitCount}/${totalMoleHeadsCount.current}`}</div>
                 </>
               )}
             </div>
@@ -149,16 +152,16 @@ const WhackMole: WhackMoleType = () => {
               tabIndex={-1}
               type='button'
             >
-              <span className='font-pixel text-sm font-semibold text-white'>START</span>
+              <span className='font-pixel text-base font-semibold text-white'>START</span>
             </button>
           </div>
         </div>
       )}
-      <div className='flex flex-col items-center bg-lime-200 p-4'>
+      <div className='flex flex-col items-center bg-lime-200 p-10'>
         <div className='font-pixel mb-3 flex w-full items-center justify-between text-xs'>
-          <div className='font-semibold text-amber-700'>{`Score: ${hitCount}`}</div>
+          <div className='text-sm font-semibold text-amber-700'>{`Score: ${hitCount}`}</div>
           <button
-            className='cursor-pointer rounded-lg bg-amber-700 px-2 py-1 text-white'
+            className='cursor-pointer rounded-lg bg-amber-700 px-2 py-1 text-sm text-white'
             onClick={() => {
               if (timeoutIdRef.current !== null) {
                 clearTimeout(timeoutIdRef.current);
@@ -175,7 +178,7 @@ const WhackMole: WhackMoleType = () => {
             END
           </button>
         </div>
-        <div className='grid size-56 grid-cols-3 gap-3'>
+        <div className='grid size-64 grid-cols-3 gap-3'>
           {Array.from({ length: HOLE_COUNT }, (_, index) => {
             return (
               <MoleHole

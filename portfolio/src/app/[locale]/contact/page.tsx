@@ -52,16 +52,16 @@ const Page: PageType = async (props) => {
             <div className='flex items-center gap-x-4'>
               <dt>
                 <span className='sr-only'>{contactLabel.locationLabel}</span>
-                <div className='size-5'>
+                <div className='size-5 text-blue-500'>
                   <LocationIcon />
                 </div>
               </dt>
-              <dd className='text-md font-medium text-slate-500 dark:text-slate-400'>{contactLabel.locationValue}</dd>
+              <dd className='text-md font-medium'>{contactLabel.locationValue}</dd>
             </div>
             <div className='flex items-center gap-x-4'>
               <dt>
                 <span className='sr-only'>{contactLabel.email}</span>
-                <div className='size-5'>
+                <div className='size-5 text-blue-500'>
                   <EmailIcon />
                 </div>
               </dt>

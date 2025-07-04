@@ -154,10 +154,10 @@ const getMetadata: GetMetadataType = async (locale, id) => {
   return metadata;
 };
 
-const getArticles: GetArticlesType = async (locale) => {
+const getArticles: GetArticlesType = async (locale, limit) => {
   const query = gql`
-    query Query($locale: String!, $order: [ArticleOrder]!) {
-      articleCollection(locale: $locale, order: $order) {
+    query Query($locale: String!, $order: [ArticleOrder]!, $limit: Int!) {
+      articleCollection(locale: $locale, order: $order, limit: $limit) {
         items {
           title
           slug
@@ -174,6 +174,7 @@ const getArticles: GetArticlesType = async (locale) => {
 
   const articles = (
     await apiRequest<ArticlesResponseType>('contentful', query, {
+      limit: limit ?? 10,
       locale,
       order: 'sys_publishedAt_DESC'
     })

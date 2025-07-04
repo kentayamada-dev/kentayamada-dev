@@ -40,7 +40,7 @@ const Page: PageType = async (props) => {
   const { readArticle } = dictionaries[locale];
   const articlesHref = navigationItems(locale).articles.href;
 
-  const articles = (await getArticles(locale)).map((article) => {
+  const articles = (await getArticles(locale, 2)).map((article) => {
     return {
       createdAt: new Date(article.sys.firstPublishedAt),
       href: `${articlesHref}/${article.slug}`,

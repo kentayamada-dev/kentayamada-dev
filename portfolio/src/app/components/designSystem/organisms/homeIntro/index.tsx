@@ -13,7 +13,7 @@ const HomeIntro: HomeIntroType = (props) => {
   return (
     <motion.div
       animate='show'
-      className='space-y-5 sm:space-y-8'
+      className='space-y-5 sm:space-y-10'
       initial='hidden'
       variants={{
         show: {
@@ -23,9 +23,9 @@ const HomeIntro: HomeIntroType = (props) => {
         }
       }}
     >
-      <div className='space-y-2'>
+      <div className='space-y-5'>
         <motion.div variants={VARIANTS}>
-          <h1 className='text-primary text-4xl font-semibold tracking-tight sm:text-6xl'>{props.title}</h1>
+          <h1 className='text-primary text-5xl font-bold tracking-tight sm:text-6xl'>{props.title}</h1>
         </motion.div>
         <motion.div variants={VARIANTS}>
           <h2 className='text-primary text-2xl font-medium tracking-tight sm:text-4xl'>{props.subtitle}</h2>

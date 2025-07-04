@@ -5,7 +5,7 @@ import type { ArticleListType } from './types';
 
 const ArticleList: ArticleListType = (props) => {
   return (
-    <div className='grid h-[inherit] grid-cols-1 gap-10 self-center sm:grid-cols-2 md:grid-cols-3'>
+    <div className='grid h-[inherit] grid-cols-1 gap-10 self-center md:grid-cols-2'>
       {props.articles.map((article) => {
         return (
           <Link className='bg-primary hover-primary flex rounded-lg p-5' href={article.href} key={article.href}>
