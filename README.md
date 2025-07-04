@@ -31,22 +31,22 @@
 ## 📝 **My Latest Articles**
   <a href=https://www.kentayamada.dev/en/articles/software-architecture-for-beginners-best-practices-guide>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&cache_buster=2025-07-04T04%3A31%3A18Z&mode=dark" />
-      <img src="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&cache_buster=2025-07-04T04%3A31%3A18Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&cache_buster=2025-07-04T05%3A00%3A44Z&mode=dark" />
+      <img src="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&cache_buster=2025-07-04T05%3A00%3A44Z" />
     </picture>
   </a>
 
   <a href=https://www.kentayamada.dev/en/articles/introduction-to-react-hooks>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-04T04%3A31%3A18Z&mode=dark" />
-      <img src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-04T04%3A31%3A18Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-04T05%3A00%3A44Z&mode=dark" />
+      <img src="https://og.kentayamada058.workers.dev?title=Introduction%20to%20React%20Hooks%3A%20Tutorial%20with%20Code%20Examples&subtitle=Learn%20React%20Hooks%20easily%21%20Beginner%27s%20guide%20with%20simple%20explanations%20and%20code%20examples.%20Understand%20useState%2C%20useEffect%2C%20and%20useContext.&date=Jun%2029&cache_buster=2025-07-04T05%3A00%3A44Z" />
     </picture>
   </a>
 
   <a href=https://www.kentayamada.dev/en/articles/why-react-doesnt-memoize-components-by-default>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-04T04%3A31%3A18Z&mode=dark" />
-      <img src="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-04T04%3A31%3A18Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-04T05%3A00%3A44Z&mode=dark" />
+      <img src="https://og.kentayamada058.workers.dev?title=Why%20React%20Doesn%27t%20Memoize%20Components%20by%20Default&subtitle=Discover%20why%20React%20doesn%27t%20automatically%20memoize%20components.%20Learn%20about%20memory%20overhead%2C%20comparison%20costs%2C%20and%20when%20to%20use%20React.memo%20for%20better%20performance.&date=Jun%2029&cache_buster=2025-07-04T05%3A00%3A44Z" />
     </picture>
   </a>
 
