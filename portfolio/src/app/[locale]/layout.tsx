@@ -6,6 +6,7 @@ import { fonts } from '@/constants/fonts';
 import { arrayOfLocales, dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { arrayOfThemes, defaultTheme } from '@/constants/themes';
+import { ProgressProvider } from '@/lib/bprogress';
 import type { LayoutGenerateStaticParamsType, LayoutPageType } from '@/types/components';
 // eslint-disable-next-line import/no-unresolved
 import 'katex/dist/katex.min.css';
@@ -27,9 +28,11 @@ const Layout: LayoutPageType = async (props) => {
     <html className={fonts} lang={locale} suppressHydrationWarning>
       <body>
         <ThemeProvider attribute='class' defaultTheme={defaultTheme} disableTransitionOnChange themes={arrayOfThemes}>
-          <Header author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} locale={locale} />
-          {props.children}
-          <Footer author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} />
+          <ProgressProvider>
+            <Header author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} locale={locale} />
+            {props.children}
+            <Footer author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} />
+          </ProgressProvider>
         </ThemeProvider>
         <Analytics />
         <SpeedInsights />

@@ -21,6 +21,7 @@
     "prepare": "cd .. && mkdir --parents ./portfolio/.husky && husky ./portfolio/.husky && echo 'chmod +x ./portfolio/husky-pre-commit.sh && ./portfolio/husky-pre-commit.sh' > ./portfolio/.husky/_/pre-commit"
   },
   "dependencies": {
+    "@bprogress/next": "3.2.12",
     "@googleapis/sheets": "10.0.1",
     "@headlessui/react": "2.2.0",
     "@t3-oss/env-nextjs": "0.12.0",
