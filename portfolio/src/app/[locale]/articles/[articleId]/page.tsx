@@ -58,7 +58,7 @@ const Page: ArticlePageType = async (props) => {
   const articleLikeCount = await getCount(likeKey);
 
   const articles = await Promise.all(
-    (await getArticles(locale)).map(async (articleData) => {
+    (await getArticles(locale, 2)).map(async (articleData) => {
       const viewCount = await getCount(getRedisKey('article', 'view', articleData.slug));
       const likeCount = await getCount(getRedisKey('article', 'like', articleData.slug));
 
