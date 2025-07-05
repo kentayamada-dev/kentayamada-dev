@@ -174,7 +174,7 @@ const getArticles: GetArticlesType = async (locale, limit) => {
 
   const articles = (
     await apiRequest<ArticlesResponseType>('contentful', query, {
-      limit,
+      limit: limit ?? 100,
       locale,
       order: 'sys_publishedAt_ASC'
     })
