@@ -34,7 +34,7 @@ class Automate:
 
     async def get_urls(self, access_token: str, current_date_string: str) -> list[dict[str, str]]:
         response = await self.__fetch_data(
-            "https://cdn.contentful.com/spaces/hgf9za4608k6/environments/master/entries?content_type=article&select=fields.slug,fields.title,fields.subtitle,sys.createdAt",
+            "https://cdn.contentful.com/spaces/hgf9za4608k6/environments/master/entries?content_type=article&limit=3&order=sys.publishedAt&select=fields.slug,fields.title,fields.subtitle,sys.createdAt",
             headers={"Authorization": f"Bearer {access_token}"},
         )
 
