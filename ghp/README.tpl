@@ -17,15 +17,15 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000&cache_buster={{ cache_buster }}" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true&cache_buster={{ cache_buster }}" />
 
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&cache_buster={{ cache_buster }}" />
 </div>
 
 ## 📝 **My Latest Articles**
@@ -33,8 +33,8 @@
 {%- for url in urls %}
   <a href={{ url['article_url'] }}>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}&mode=dark" />
-      <img src="{{ url['image_url'] }}" />
+      <source media="(prefers-color-scheme: dark)" srcset="{{ url['image_url'] }}&mode=dark&cache_buster={{ cache_buster }}" />
+      <img src="{{ url['image_url'] }}&cache_buster={{ cache_buster }}" />
     </picture>
   </a>
 {% endfor %}

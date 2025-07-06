@@ -1,6 +1,7 @@
 import asyncio
 from os import environ
 from pathlib import Path
+from urllib.parse import quote
 
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -17,9 +18,11 @@ async def main() -> None:
 
     template = Environment(loader=FileSystemLoader("."), autoescape=select_autoescape()).get_template("README.tpl")
 
+    cache_buster = quote(environ["CURRENT_DATETIME"])
+
     Path("./generated").mkdir(parents=True, exist_ok=True)
     Path("./generated/README.md").write_text(
-        template.render(urls=urls),
+        template.render(urls=urls, cache_buster=cache_buster),
         encoding="utf-8",
     )
 
