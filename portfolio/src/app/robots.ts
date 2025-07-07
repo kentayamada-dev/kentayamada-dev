@@ -4,7 +4,7 @@ import type { MetadataRoute } from 'next';
 const robots = (): MetadataRoute.Robots => {
   return {
     rules: {
-      allow: '/',
+      disallow: '/',
       userAgent: '*'
     },
     sitemap: `${envServer.SITE_URL}/sitemap.xml`
