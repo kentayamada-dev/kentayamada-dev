@@ -50,8 +50,12 @@ const getMetadataObject = (
 ): Metadata => {
   const { myName, siteName } = dictionaries[locale];
   const commonMetadata = getCommonMetadata(myName, siteName, description, title, coverImageUrl);
+  const url = `${envServer.SITE_URL}${path}`;
 
   return {
+    alternates: {
+      canonical: url
+    },
     ...commonMetadata,
     openGraph: {
       ...commonMetadata.openGraph,
@@ -59,7 +63,7 @@ const getMetadataObject = (
       modifiedTime: modifiedTime.toISOString(),
       publishedTime: publishedTime.toISOString(),
       type,
-      url: `${envServer.SITE_URL}${path}`
+      url
     }
   };
 };
