@@ -33,7 +33,11 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'article',
-    articlePath,
+    {
+      current: articlePath,
+      en: `${navigationItems('en').articles.href}/${articleId}`,
+      ja: `${navigationItems('ja').articles.href}/${articleId}`
+    },
     locale,
     article.subtitle,
     article.title,

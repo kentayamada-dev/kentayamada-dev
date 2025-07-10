@@ -22,7 +22,11 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'website',
-    navigationItems(locale).contact.href,
+    {
+      current: navigationItems(locale).contact.href,
+      en: navigationItems('en').contact.href,
+      ja: navigationItems('ja').contact.href
+    },
     locale,
     metadata.description,
     metadata.title,

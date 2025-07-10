@@ -40,7 +40,11 @@ const getCommonMetadata = (myName: string, siteName: string, description: string
 
 const getMetadataObject = (
   type: OpenGraphType,
-  path: string,
+  path: {
+    current: string;
+    en: string;
+    ja: string;
+  },
   locale: LocaleKeyType,
   description: string,
   title: string,
@@ -50,11 +54,18 @@ const getMetadataObject = (
 ): Metadata => {
   const { myName, siteName } = dictionaries[locale];
   const commonMetadata = getCommonMetadata(myName, siteName, description, title, coverImageUrl);
-  const url = `${envServer.SITE_URL}${path}`;
+  const currentUrl = `${envServer.SITE_URL}${path.current}`;
+  const enUrl = `${envServer.SITE_URL}${path.en}`;
+  const jaUrl = `${envServer.SITE_URL}${path.ja}`;
 
   return {
     alternates: {
-      canonical: url
+      canonical: currentUrl,
+      languages: {
+        'en': enUrl,
+        'ja': jaUrl,
+        'x-default': enUrl
+      }
     },
     ...commonMetadata,
     openGraph: {
@@ -63,7 +74,7 @@ const getMetadataObject = (
       modifiedTime: modifiedTime.toISOString(),
       publishedTime: publishedTime.toISOString(),
       type,
-      url
+      url: currentUrl
     }
   };
 };

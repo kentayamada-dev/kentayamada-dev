@@ -18,7 +18,11 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'website',
-    navigationItems(locale).projects.href,
+    {
+      current: navigationItems(locale).projects.href,
+      en: navigationItems('en').projects.href,
+      ja: navigationItems('ja').projects.href
+    },
     locale,
     metadata.description,
     metadata.title,

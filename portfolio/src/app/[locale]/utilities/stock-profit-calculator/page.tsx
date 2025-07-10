@@ -25,7 +25,11 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
   return getMetadataObject(
     'website',
-    `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`,
+    {
+      current: `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`,
+      en: `${navigationItems('en').utilities.href}/${stockProfitCalculatorId}`,
+      ja: `${navigationItems('ja').utilities.href}/${stockProfitCalculatorId}`
+    },
     locale,
     metadata.description,
     metadata.title,
