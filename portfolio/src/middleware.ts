@@ -1,5 +1,5 @@
 import { cookies } from 'next/headers';
-import { NextResponse } from 'next/server';
+import { NextResponse, userAgent } from 'next/server';
 import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18n';
 import { setLocaleCookie } from '@/lib/cookies-next';
 import { isValueInArray } from '@/typeGuards';
@@ -28,9 +28,15 @@ export const middleware: NextMiddleware = async (request) => {
     return new NextResponse(null, { status: 200 });
   }
 
+  const { isBot } = userAgent(request);
+  let response = NextResponse.next();
+
+  if (isBot) {
+    return response;
+  }
+
   const { pathname } = request.nextUrl;
   const cookieStore = await cookies();
-  let response = NextResponse.next();
 
   const foundLocale = arrayOfLocales.find((locale) => {
     return isPathStartingWith(pathname, locale);
