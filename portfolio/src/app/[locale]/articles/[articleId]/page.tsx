@@ -9,6 +9,7 @@ import { getArticleBySlug, getArticleSlugs, getArticles, getMetadata } from '@/l
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
+import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRedisKey, throwColoredError } from '@/utils';
 import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
@@ -91,7 +92,7 @@ const Page: ArticlePageType = async (props) => {
       {
         '@type': 'Person',
         'name': myName,
-        'url': `${envServer.SITE_URL}/${locale}`
+        'url': `${envServer.SITE_URL}${navigationItems(locale).home.href}`
       }
     ],
     'dateModified': article.sys.publishedAt,
@@ -102,20 +103,14 @@ const Page: ArticlePageType = async (props) => {
       {
         '@type': 'Organization',
         'name': metadata.title,
-        'url': `${envServer.SITE_URL}/${locale}`
+        'url': `${envServer.SITE_URL}${navigationItems(locale).home.href}`
       }
     ]
   };
 
   return (
     <>
-      <script
-        // eslint-disable-next-line react/no-danger
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(jsonLd).replace(/</gu, '\\u003c')
-        }}
-        type='application/ld+json'
-      />
+      <JsonLd jsonLd={jsonLd} />
       <ViewTracker keyName={viewKey} />
       <main className='my-20 flex max-w-7xl flex-col self-center sm:mx-10'>
         <Article

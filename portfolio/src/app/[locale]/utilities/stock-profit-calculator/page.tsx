@@ -3,12 +3,14 @@ import { notFound } from 'next/navigation';
 import { Calculator, LikeButtonWrapper } from '@/components/designSystem/organisms';
 import { MinusIcon, PlusIcon } from '@/components/icons';
 import { contentfulType } from '@/constants/contentful';
+import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
+import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRedisKey, throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
@@ -51,6 +53,7 @@ const Page: PageType = async (props) => {
   const utilityViewKey = getRedisKey('utility', 'view', stockProfitCalculatorId);
   const utilityLikeKey = getRedisKey('utility', 'like', stockProfitCalculatorId);
   const utilityLikeCount = await getCount(utilityLikeKey);
+  const { home: homeLabel, utilities: utilitiesLabel } = dictionaries[locale].navigation;
 
   const faqs = await Promise.all(
     (await getFaqs(locale, contentfulType.faq.calculator)).map(async (faq) => {
@@ -63,8 +66,33 @@ const Page: PageType = async (props) => {
     })
   );
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      {
+        '@type': 'ListItem',
+        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'name': homeLabel,
+        'position': 1
+      },
+      {
+        '@type': 'ListItem',
+        'item': `${envServer.SITE_URL}${navigationItems(locale).utilities.href}`,
+        'name': utilitiesLabel,
+        'position': 2
+      },
+      {
+        '@type': 'ListItem',
+        'name': utility.title,
+        'position': 3
+      }
+    ]
+  };
+
   return (
     <>
+      <JsonLd jsonLd={jsonLd} />
       <ViewTracker keyName={utilityViewKey} />
       <main className='w-full self-center px-5 py-10 sm:px-10 sm:py-20 md:max-w-4xl'>
         <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-4xl'>{utility.title}</h1>

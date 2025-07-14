@@ -1,10 +1,12 @@
 import { ArticleList } from '@/components/designSystem/molecules';
 import { contentfulType } from '@/constants/contentful';
+import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticles, getMetadata } from '@/lib/graphql-request';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
+import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { getRedisKey, throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
@@ -32,6 +34,7 @@ const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const title = dictionaries[locale].articles.latest;
   const articlesHref = navigationItems(locale).articles.href;
+  const { articles: articlesLabel, home: homeLabel } = dictionaries[locale].navigation;
 
   const articles = await Promise.all(
     (await getArticles(locale)).map(async (article) => {
@@ -50,11 +53,32 @@ const Page: PageType = async (props) => {
     })
   );
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      {
+        '@type': 'ListItem',
+        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'name': homeLabel,
+        'position': 1
+      },
+      {
+        '@type': 'ListItem',
+        'name': articlesLabel,
+        'position': 2
+      }
+    ]
+  };
+
   return (
-    <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
-      <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
-      <ArticleList articles={articles} locale={locale} />
-    </main>
+    <>
+      <JsonLd jsonLd={jsonLd} />
+      <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
+        <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
+        <ArticleList articles={articles} locale={locale} />
+      </main>
+    </>
   );
 };
 
