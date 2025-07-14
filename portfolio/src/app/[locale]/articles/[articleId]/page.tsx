@@ -1,9 +1,11 @@
 import { notFound } from 'next/navigation';
 import { ArticleList } from '@/components/designSystem/molecules';
 import { Article, LikeButtonWrapper } from '@/components/designSystem/organisms';
+import { contentfulType } from '@/constants/contentful';
+import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getArticleBySlug, getArticleSlugs, getArticles } from '@/lib/graphql-request';
+import { getArticleBySlug, getArticleSlugs, getArticles, getMetadata } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
@@ -50,8 +52,9 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
 const Page: ArticlePageType = async (props) => {
   const { articleId, locale } = await props.params;
   const article = await getArticleBySlug(locale, articleId);
+  const metadata = await getMetadata(locale, contentfulType.metadata.kentaYamada);
 
-  if (article === null) {
+  if (article === null || metadata === null) {
     return notFound();
   }
 
@@ -79,9 +82,40 @@ const Page: ArticlePageType = async (props) => {
   );
 
   const { content } = await getEvaluateResult(article.content, locale);
+  const { myName } = dictionaries[locale];
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    'author': [
+      {
+        '@type': 'Person',
+        'name': myName,
+        'url': `${envServer.SITE_URL}/${locale}`
+      }
+    ],
+    'dateModified': article.sys.publishedAt,
+    'datePublished': article.sys.firstPublishedAt,
+    'headline': article.title,
+    'image': [`${navigationItems(locale).articles.href}/${articleId}${OPENGRAPH_IMAGE_PATH}`],
+    'publisher': [
+      {
+        '@type': 'Organization',
+        'name': metadata.title,
+        'url': `${envServer.SITE_URL}/${locale}`
+      }
+    ]
+  };
 
   return (
     <>
+      <script
+        // eslint-disable-next-line react/no-danger
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</gu, '\\u003c')
+        }}
+        type='application/ld+json'
+      />
       <ViewTracker keyName={viewKey} />
       <main className='my-20 flex max-w-7xl flex-col self-center sm:mx-10'>
         <Article
