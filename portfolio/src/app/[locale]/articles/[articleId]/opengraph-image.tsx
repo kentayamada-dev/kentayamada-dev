@@ -63,7 +63,7 @@ const Image: ArticleImageType = async (props) => {
           >
             <span
               style={{
-                fontSize: '3.8rem'
+                fontSize: '4.3rem'
               }}
             >
               {article.title}
@@ -80,7 +80,7 @@ const Image: ArticleImageType = async (props) => {
                     key={topic}
                     style={{
                       color: 'rgba(23, 115, 244, 1)',
-                      fontSize: '1.5rem'
+                      fontSize: '2rem'
                     }}
                   >
                     {`#${topic}`}
@@ -118,7 +118,7 @@ const Image: ArticleImageType = async (props) => {
                 />
                 <span
                   style={{
-                    fontSize: '2rem'
+                    fontSize: '3rem'
                   }}
                 >
                   {myName}
