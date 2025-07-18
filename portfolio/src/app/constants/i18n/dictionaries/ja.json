@@ -37,6 +37,7 @@
       "message": "ご用件をお聞かせください"
     },
     "recaptchaError": "reCAPTCHA の検証に失敗しました。お手数ですが再度お試しください。",
+    "sending": "送信中...",
     "submit": "送信する"
   },
   "labels": {

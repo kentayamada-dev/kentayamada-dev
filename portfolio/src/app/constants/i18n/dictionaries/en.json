@@ -37,6 +37,7 @@
       "message": "How can I help you?"
     },
     "recaptchaError": "reCAPTCHA verification failed. Please try again.",
+    "sending": "Sending...",
     "submit": "Submit"
   },
   "labels": {

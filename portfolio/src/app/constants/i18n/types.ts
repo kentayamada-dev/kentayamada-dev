@@ -44,6 +44,7 @@ type DictionaryType = {
       message: string;
     };
     recaptchaError: string;
+    sending: string;
     submit: string;
   };
   labels: {

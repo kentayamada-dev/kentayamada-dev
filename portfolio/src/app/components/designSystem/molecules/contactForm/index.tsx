@@ -8,7 +8,7 @@ import { useMemo } from 'react';
 import ReCAPTCHA from 'react-google-recaptcha';
 import { Controller, useForm } from 'react-hook-form';
 import { Input, TextArea } from '@/components/designSystem/atoms';
-import { ChevronDownIcon } from '@/components/icons';
+import { ChevronDownIcon, LoadingIcon } from '@/components/icons';
 import { envClient } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { defaultIntlTelCode, intlTelList } from '@/constants/intlTel';
@@ -170,7 +170,16 @@ const ContactForm: ContactFormType = (props) => {
         disabled={props.isPending}
         type='submit'
       >
-        {form.submit}
+        {props.isPending ? (
+          <div className='flex items-center justify-center gap-3'>
+            <span className='size-5'>
+              <LoadingIcon />
+            </span>
+            <span>{form.sending}</span>
+          </div>
+        ) : (
+          <span>{form.submit}</span>
+        )}
       </button>
       {props.isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </Form>

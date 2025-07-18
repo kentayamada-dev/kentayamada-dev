@@ -16,6 +16,7 @@ export { HomeIcon } from './homeIcon';
 export { JpFlagIcon } from './jpFlagIcon';
 export { KyIcon } from './kyIcon';
 export { LinkIcon } from './linkIcon';
+export { LoadingIcon } from './loadingIcon';
 export { LocationIcon } from './locationIcon';
 export { MinusIcon } from './minusIcon';
 export { MoonIcon } from './moonIcon';
