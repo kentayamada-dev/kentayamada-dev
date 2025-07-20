@@ -3,7 +3,7 @@ import type { AsyncComponentType, ConditionalPickType, StrictOmitType } from '@/
 import type { CodeBlockProps } from './codeBlock/types';
 
 type CodeProps = StrictOmitType<ComponentPropsWithoutRef<'code'>, 'children'> &
-  ConditionalPickType<CodeBlockProps, 'copyCodeLabel'> & {
+  ConditionalPickType<CodeBlockProps, 'copyCodeLabel' | 'wordWrapLabel'> & {
     'children': string;
     'data-language': string | undefined;
     'data-title': string | undefined;

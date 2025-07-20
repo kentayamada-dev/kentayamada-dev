@@ -62,6 +62,7 @@ type DictionaryType = {
     selectCurrencyPairLabel: string;
     storybookLinkLabel: string;
     themeSwitcherLabel: string;
+    wordWrapLabel: string;
   };
   myName: string;
   navigation: {

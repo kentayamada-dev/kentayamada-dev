@@ -5,6 +5,7 @@ type CodeBlockProps = {
   html: string;
   lang: string;
   title: string;
+  wordWrapLabel: string;
 };
 
 type CodeBlockType = ComponentType<CodeBlockProps>;

@@ -1,7 +1,7 @@
 'use client';
 
 import { useRef, useState } from 'react';
-import { CheckIcon, CopyIcon } from '@/components/icons';
+import { CheckIcon, CodeWrapIcon, CopyIcon } from '@/components/icons';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { JSXElementType } from '@/types/components';
 import type { CodeBlockType } from './types';
@@ -33,6 +33,7 @@ const getIcons = (lang: string | undefined): JSXElementType => {
 
 const CodeBlock: CodeBlockType = (props) => {
   const [isCopied, setIsCopied] = useState(false);
+  const [isWordWrapEnabled, setIsWordWrapEnabled] = useState(false);
   const codeRef = useRef<HTMLDivElement>(null);
 
   const handleCopy: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
@@ -55,6 +56,20 @@ const CodeBlock: CodeBlockType = (props) => {
     }
   };
 
+  const toggleWordWrap: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
+    setIsWordWrapEnabled((prev) => {
+      return !prev;
+    });
+  };
+
+  const modifyHtml = (html: string): string => {
+    if (isWordWrapEnabled) {
+      return html.replace(/<pre/gu, '<pre style="white-space: pre-wrap; overflow-wrap: anywhere;"');
+    }
+
+    return html.replace(/<pre style="white-space: pre-wrap; overflow-wrap: anywhere;"/gu, '<pre');
+  };
+
   return (
     <div className='overflow-hidden rounded-lg border border-slate-300 text-sm dark:border-slate-600'>
       <div className='text-md flex justify-between border-b border-slate-300 bg-slate-300/50 px-4 py-1.5 dark:border-slate-600 dark:bg-slate-700'>
@@ -62,20 +77,32 @@ const CodeBlock: CodeBlockType = (props) => {
           <div className='size-4'>{getIcons(props.lang)}</div>
           <div>{props.title}</div>
         </div>
-        <button
-          aria-label={props.copyCodeLabel}
-          className='flex size-8 items-center justify-center overflow-hidden rounded-lg p-1.5 hover:cursor-pointer hover:bg-slate-300 hover:dark:bg-slate-600'
-          onClick={handleCopy}
-          type='button'
-        >
-          {isCopied ? <CheckIcon /> : <CopyIcon />}
-        </button>
+        <div className='flex gap-3'>
+          <button
+            aria-label={props.wordWrapLabel}
+            className={`${isWordWrapEnabled && 'text-blue-500'} flex size-8 items-center justify-center overflow-hidden rounded-lg p-1.5 hover:cursor-pointer hover:bg-slate-300 hover:dark:bg-slate-600`}
+            onClick={toggleWordWrap}
+            title={props.wordWrapLabel}
+            type='button'
+          >
+            <CodeWrapIcon />
+          </button>
+          <button
+            aria-label={props.copyCodeLabel}
+            className='flex size-8 items-center justify-center overflow-hidden rounded-lg p-1.5 hover:cursor-pointer hover:bg-slate-300 hover:dark:bg-slate-600'
+            onClick={handleCopy}
+            title={props.copyCodeLabel}
+            type='button'
+          >
+            {isCopied ? <CheckIcon /> : <CopyIcon />}
+          </button>
+        </div>
       </div>
       <div
         className='not-prose overflow-scroll py-4'
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{
-          __html: props.html
+          __html: modifyHtml(props.html)
         }}
         ref={codeRef}
       />

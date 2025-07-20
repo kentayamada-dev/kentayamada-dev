@@ -55,7 +55,8 @@
     "selectCurrencyLabel": "Select Currency",
     "selectCurrencyPairLabel": "Select Currency Pair",
     "storybookLinkLabel": "Storybook",
-    "themeSwitcherLabel": "Theme"
+    "themeSwitcherLabel": "Theme",
+    "wordWrapLabel": "Toggle word wrap"
   },
   "myName": "Kenta Yamada",
   "navigation": {

@@ -5,7 +5,7 @@ import type { CodeType } from './types';
 
 const Code: CodeType = async (props) => {
   // eslint-disable-next-line react/destructuring-assignment
-  const { children, className, copyCodeLabel, 'data-language': lang, 'data-title': title, ...rest } = props;
+  const { children, className, copyCodeLabel, 'data-language': lang, 'data-title': title, wordWrapLabel, ...rest } = props;
   const hasDataLanguage = Boolean(lang);
 
   if (hasDataLanguage && isDefined(lang) && isDefined(title)) {
@@ -25,7 +25,7 @@ const Code: CodeType = async (props) => {
       ]
     });
 
-    return <CodeBlock copyCodeLabel={copyCodeLabel} html={html} lang={lang} title={title} />;
+    return <CodeBlock copyCodeLabel={copyCodeLabel} html={html} lang={lang} title={title} wordWrapLabel={wordWrapLabel} />;
   }
 
   return (

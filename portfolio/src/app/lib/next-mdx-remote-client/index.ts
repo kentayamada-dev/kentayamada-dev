@@ -45,7 +45,7 @@ const options: MDXRemoteOptions = {
 };
 
 const getMDXComponents = (locale: LocaleKeyType): MDXComponents => {
-  const { copyCodeLabel } = dictionaries[locale].labels;
+  const { copyCodeLabel, wordWrapLabel } = dictionaries[locale].labels;
 
   const components = headingLevels.reduce<Record<string, ComponentType<HTMLAttributes<HTMLHeadingElement>>>>((acc, heading) => {
     acc[heading] = H(heading, locale);
@@ -58,7 +58,7 @@ const getMDXComponents = (locale: LocaleKeyType): MDXComponents => {
     a: A,
     code: (props): JSXElementType => {
       // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
-      return createElement(Code, { ...props, copyCodeLabel });
+      return createElement(Code, { ...props, copyCodeLabel, wordWrapLabel });
     },
     hr: Hr,
     input: Input,

@@ -55,7 +55,8 @@
     "selectCurrencyLabel": "通貨を選択",
     "selectCurrencyPairLabel": "通貨ペアを選択",
     "storybookLinkLabel": "Storybook",
-    "themeSwitcherLabel": "テーマ"
+    "themeSwitcherLabel": "テーマ",
+    "wordWrapLabel": "ワードラップの切り替え"
   },
   "myName": "山田健太",
   "navigation": {
