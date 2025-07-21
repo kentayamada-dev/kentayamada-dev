@@ -55,7 +55,7 @@
     "selectCurrencyLabel": "Select Currency",
     "selectCurrencyPairLabel": "Select Currency Pair",
     "storybookLinkLabel": "Storybook",
-    "themeSwitcherLabel": "Select Theme",
+    "themeSwitcherLabel": "Theme",
     "wordWrapLabel": "Toggle word wrap"
   },
   "myName": "Kenta Yamada",
@@ -70,9 +70,9 @@
   "readArticle": "Read article",
   "siteName": "Kenta Yamada's Portfolio",
   "theme": {
-    "dark": "Dark Theme",
-    "light": "Light Theme",
-    "system": "System Theme"
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
   },
   "utilities": "Utilities"
 }
