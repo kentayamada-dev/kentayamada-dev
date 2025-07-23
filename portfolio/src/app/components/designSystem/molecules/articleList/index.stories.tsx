@@ -1,7 +1,6 @@
 import { arrayOfLocales } from '@/constants/i18n';
 import { ArticleList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
-import type { JSXElementType } from '@/types/components';
 
 const meta = {
   argTypes: {
@@ -48,16 +47,7 @@ const meta = {
     ],
     locale: 'en'
   },
-  component: ArticleList,
-  decorators: [
-    (Story): JSXElementType => {
-      return (
-        <div className='flex min-h-screen w-96'>
-          <Story />
-        </div>
-      );
-    }
-  ]
+  component: ArticleList
 } satisfies Meta<typeof ArticleList>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;

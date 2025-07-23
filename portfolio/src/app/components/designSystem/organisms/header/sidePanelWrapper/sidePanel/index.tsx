@@ -71,7 +71,7 @@ const SidePanel: SidePanelType = (props) => {
             <div className='mt-2' />
             <LinkItem href={STORYBOOK_URL} icon={StorybookIcon} title='Storybook' />
             <LinkItem href={GITHUB_URL} icon={StyledGithubIcon} title='GitHub' />
-            <div className='mt-5'>
+            <div className='mt-5 text-center'>
               <CopyRight author={props.author} copyrightYear={props.copyrightYear} homepageUrl={props.homepageUrl} />
             </div>
           </div>

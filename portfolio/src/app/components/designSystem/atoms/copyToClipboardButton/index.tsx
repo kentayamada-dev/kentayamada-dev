@@ -5,7 +5,7 @@ import { useCopyToClipboard } from '@/hooks';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { CopyToClipboardButtonType } from './types';
 
-const CopyToClipboardButtonWrapper: CopyToClipboardButtonType = (props) => {
+const CopyToClipboardButton: CopyToClipboardButtonType = (props) => {
   const [isCopied, copy] = useCopyToClipboard();
 
   const handleCopyToClipboard: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
@@ -22,4 +22,4 @@ const CopyToClipboardButtonWrapper: CopyToClipboardButtonType = (props) => {
   );
 };
 
-export { CopyToClipboardButtonWrapper };
+export { CopyToClipboardButton };

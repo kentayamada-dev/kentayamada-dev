@@ -1,9 +1,7 @@
-import Link from 'next/link';
-import { ClockHistoryIcon, ClockIcon, FbIcon, XIcon } from '@/components/icons';
-import { dictionaries } from '@/constants/i18n';
+import { Share } from '@/components/designSystem/molecules';
+import { ClockHistoryIcon, ClockIcon } from '@/components/icons';
 import { getDateString, isSameDate } from '@/utils';
 import { LikeButtonWrapper } from '../likeButtonWrapper';
-import { CopyToClipboardButtonWrapper } from './copyToClipboardButtonWrapper';
 import { DesktopTableOfContents } from './desktopTableOfContents';
 import { MobileTableOfContents } from './mobileTableOfContents';
 import type { ArticleType } from './types';
@@ -11,7 +9,6 @@ import type { ArticleType } from './types';
 const ARTICLE_CLASS_NAME = 'article';
 
 const Article: ArticleType = (props) => {
-  const { shareFbLabel, shareXLabel, urlCopyLabel } = dictionaries[props.locale].labels;
   const updatedAtISO = props.updatedAt.toISOString();
   const createdAtISO = props.createdAt.toISOString();
   const isDateSame = isSameDate(props.updatedAt, props.createdAt);
@@ -54,20 +51,8 @@ const Article: ArticleType = (props) => {
               {props.content}
             </section>
             <div className='mt-5 flex justify-between'>
-              <LikeButtonWrapper likeCount={props.likeCount} likeKey={props.likeKey} locale={props.locale} />
-              <div className='bg-primary flex gap-5 rounded-lg p-3 text-white'>
-                <CopyToClipboardButtonWrapper label={urlCopyLabel} url={props.url} />
-                <Link aria-label={shareXLabel} href={`https://twitter.com/intent/tweet?url=${props.url}`} title={shareXLabel}>
-                  <div className='link-primary hover-tertiary size-10 rounded-lg p-1'>
-                    <XIcon />
-                  </div>
-                </Link>
-                <Link aria-label={shareFbLabel} href={`https://www.facebook.com/sharer/sharer.php?u=${props.url}`} title={shareFbLabel}>
-                  <div className='link-primary hover-tertiary size-10 rounded-lg p-1'>
-                    <FbIcon />
-                  </div>
-                </Link>
-              </div>
+              <LikeButtonWrapper incrementCountHandler={props.incrementCountHandler} likeCount={props.likeCount} locale={props.locale} />
+              <Share locale={props.locale} url={props.url} />
             </div>
           </div>
           <aside className='sticky top-20 hidden self-start md:block'>

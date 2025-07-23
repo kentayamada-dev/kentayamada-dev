@@ -1,3 +1,4 @@
+import { fn } from '@storybook/test';
 import { arrayOfLocales } from '@/constants/i18n';
 import { Article } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -59,8 +60,8 @@ const meta = {
       </section>
     ),
     createdAt: new Date('2022-08-26T21:50:14.930Z'),
+    incrementCountHandler: fn(),
     likeCount: 10,
-    likeKey: 'likeKey',
     locale: 'en',
     tocTitle: 'Toc Title',
     topics: ['React', 'JavaScript', 'TypeScript'],

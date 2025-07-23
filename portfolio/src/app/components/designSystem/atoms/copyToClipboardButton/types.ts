@@ -7,4 +7,4 @@ type CopyToClipboardButtonProps = {
 
 type CopyToClipboardButtonType = ComponentType<CopyToClipboardButtonProps>;
 
-export type { CopyToClipboardButtonProps, CopyToClipboardButtonType };
+export type { CopyToClipboardButtonType };

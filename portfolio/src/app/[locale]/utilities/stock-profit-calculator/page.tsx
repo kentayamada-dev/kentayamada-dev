@@ -9,7 +9,7 @@ import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { getMetadataObject } from '@/lib/nextjs';
-import { getCount } from '@/lib/nextjs/actions';
+import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRedisKey, throwColoredError } from '@/utils';
@@ -90,6 +90,11 @@ const Page: PageType = async (props) => {
     ]
   };
 
+  const incrementCountHandler = async (): Promise<void> => {
+    'use server';
+    await incrementCount(utilityLikeKey);
+  };
+
   return (
     <>
       <JsonLd jsonLd={jsonLd} />
@@ -98,7 +103,7 @@ const Page: PageType = async (props) => {
         <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-4xl'>{utility.title}</h1>
         <Calculator locale={locale} />
         <div className='mt-5 flex flex-row-reverse'>
-          <LikeButtonWrapper likeCount={utilityLikeCount} likeKey={utilityLikeKey} locale={locale} />
+          <LikeButtonWrapper incrementCountHandler={incrementCountHandler} likeCount={utilityLikeCount} locale={locale} />
         </div>
         <div className='bg-primary mt-20 divide-y divide-slate-900/10 rounded-lg p-5 sm:p-10 dark:divide-slate-300/10'>
           <h2 className='text-primary pb-5 text-2xl font-semibold sm:text-2xl'>{faqLabel}</h2>

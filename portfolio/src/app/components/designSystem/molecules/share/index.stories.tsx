@@ -1,6 +1,5 @@
-import { fn } from '@storybook/test';
 import { arrayOfLocales } from '@/constants/i18n';
-import { LikeButton } from '.';
+import { Share } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
@@ -8,12 +7,11 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    likeCount: 100,
     locale: 'en',
-    onLike: fn()
+    url: '#'
   },
-  component: LikeButton
-} satisfies Meta<typeof LikeButton>;
+  component: Share
+} satisfies Meta<typeof Share>;
 
 const Primary = {} as const satisfies StoryObj<typeof meta>;
 

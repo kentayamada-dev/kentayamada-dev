@@ -2,7 +2,6 @@
 
 import { startTransition, useOptimistic } from 'react';
 import { LikeButton } from '@/components/designSystem/molecules';
-import { incrementCount } from '@/lib/nextjs/actions';
 import type { LikeButtonWrapperType } from './types';
 
 type OptimisticStateType = {
@@ -24,7 +23,7 @@ const LikeButtonWrapper: LikeButtonWrapperType = (props) => {
 
     // eslint-disable-next-line no-void
     void (async (): Promise<void> => {
-      await incrementCount(props.likeKey);
+      await props.incrementCountHandler();
     })();
   };
 

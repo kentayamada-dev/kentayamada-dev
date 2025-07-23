@@ -3,7 +3,7 @@ import type { CopyRightType } from './types';
 
 const CopyRight: CopyRightType = (props) => {
   return (
-    <p className='text-secondary text-center text-sm'>
+    <p className='text-secondary text-sm'>
       {`© ${props.copyrightYear} `}
       <Link className='hover:underline' href={props.homepageUrl}>
         {props.author}

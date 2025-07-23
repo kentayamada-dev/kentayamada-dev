@@ -33,7 +33,7 @@ const LikeButton: LikeButtonType = (props) => {
   };
 
   return (
-    <div className='flex items-center justify-center gap-3'>
+    <div className='flex items-center gap-3'>
       <button
         aria-label={likeLabel}
         className='bg-primary cursor-pointer items-center justify-center rounded-full disabled:cursor-not-allowed'

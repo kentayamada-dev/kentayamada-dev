@@ -5,6 +5,8 @@ export { LikeButton } from './likeButton';
 export type { LikeButtonProps } from './likeButton/types';
 export { ProjectsList } from './projectsList';
 export type { ProjectsListProps, ProjectsListType } from './projectsList/types';
+export { Share } from './share';
+export type { ShareProps } from './share/types';
 export { Switcher } from './switcher';
 export type { SwitcherProps } from './switcher/types';
 export { UtilitiesList } from './utilitiesList';

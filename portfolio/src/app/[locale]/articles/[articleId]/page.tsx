@@ -8,7 +8,7 @@ import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles, getMetadata } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
-import { getCount } from '@/lib/nextjs/actions';
+import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRedisKey, throwColoredError } from '@/utils';
@@ -108,6 +108,11 @@ const Page: ArticlePageType = async (props) => {
     ]
   };
 
+  const incrementCountHandler = async (): Promise<void> => {
+    'use server';
+    await incrementCount(likeKey);
+  };
+
   return (
     <>
       <JsonLd jsonLd={jsonLd} />
@@ -117,8 +122,8 @@ const Page: ArticlePageType = async (props) => {
           articleTitle={article.title}
           content={content}
           createdAt={new Date(article.sys.firstPublishedAt)}
+          incrementCountHandler={incrementCountHandler}
           likeCount={articleLikeCount}
-          likeKey={likeKey}
           locale={locale}
           tocTitle={articlesDict.toc}
           topics={article.topics.sort()}

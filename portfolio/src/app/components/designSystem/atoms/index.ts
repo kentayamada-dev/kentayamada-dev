@@ -1,5 +1,6 @@
 export { CopyRight } from './copyRight';
 export type { CopyRightProps } from './copyRight/types';
+export { CopyToClipboardButton } from './copyToClipboardButton';
 export { CustomImage } from './customImage';
 export { CustomLink } from './customLink';
 export { Input } from './input';
