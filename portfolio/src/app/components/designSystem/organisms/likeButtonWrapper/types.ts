@@ -7,4 +7,4 @@ type LikeButtonWrapperProps = ConditionalPickType<LikeButtonProps, 'likeCount' |
 
 type LikeButtonWrapperType = ComponentType<LikeButtonWrapperProps>;
 
-export type { LikeButtonWrapperType };
+export type { LikeButtonWrapperProps, LikeButtonWrapperType };

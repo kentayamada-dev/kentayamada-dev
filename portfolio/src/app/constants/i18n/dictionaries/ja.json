@@ -54,8 +54,11 @@
     "selectCountryCodeLabel": "国コードを選択",
     "selectCurrencyLabel": "通貨を選択",
     "selectCurrencyPairLabel": "通貨ペアを選択",
+    "shareFbLabel": "Facebookでシェア",
+    "shareXLabel": "X(Twitter)でシェア",
     "storybookLinkLabel": "Storybook",
     "themeSwitcherLabel": "テーマ",
+    "urlCopyLabel": "URLをコピー",
     "wordWrapLabel": "ワードラップの切り替え"
   },
   "myName": "山田健太",

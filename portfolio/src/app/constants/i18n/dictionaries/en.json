@@ -54,8 +54,11 @@
     "selectCountryCodeLabel": "Select Country Code",
     "selectCurrencyLabel": "Select Currency",
     "selectCurrencyPairLabel": "Select Currency Pair",
+    "shareFbLabel": "Share on Facebook",
+    "shareXLabel": "Share on X(Twitter)",
     "storybookLinkLabel": "Storybook",
     "themeSwitcherLabel": "Theme",
+    "urlCopyLabel": "Copy URL",
     "wordWrapLabel": "Toggle word wrap"
   },
   "myName": "Kenta Yamada",

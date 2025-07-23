@@ -6,5 +6,6 @@ export { Header } from './header';
 export { HomeArticleList } from './homeArticleList';
 export { HomeIntro } from './homeIntro';
 export { LikeButtonWrapper } from './likeButtonWrapper';
+export type { LikeButtonWrapperProps } from './likeButtonWrapper/types';
 export { NotFound } from './notFound';
 export { WhackMole } from './whackMole';

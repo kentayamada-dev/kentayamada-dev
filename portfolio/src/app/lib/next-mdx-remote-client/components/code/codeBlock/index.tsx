@@ -2,6 +2,7 @@
 
 import { useRef, useState } from 'react';
 import { CheckIcon, CodeWrapIcon, CopyIcon } from '@/components/icons';
+import { useCopyToClipboard } from '@/hooks';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { JSXElementType } from '@/types/components';
 import type { CodeBlockType } from './types';
@@ -32,28 +33,15 @@ const getIcons = (lang: string | undefined): JSXElementType => {
 };
 
 const CodeBlock: CodeBlockType = (props) => {
-  const [isCopied, setIsCopied] = useState(false);
   const [isWordWrapEnabled, setIsWordWrapEnabled] = useState(false);
+  const [isCopied, copy] = useCopyToClipboard();
   const codeRef = useRef<HTMLDivElement>(null);
 
   const handleCopy: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
-    if (isCopied) {
-      return;
-    }
-
-    const codeToCopy = codeRef.current?.textContent ?? '';
-
-    if (codeToCopy) {
-      // eslint-disable-next-line no-void
-      void (async (): Promise<void> => {
-        await navigator.clipboard.writeText(codeToCopy.trim());
-        setIsCopied(true);
-
-        setTimeout(() => {
-          setIsCopied(false);
-        }, 2000);
-      })();
-    }
+    // eslint-disable-next-line no-void
+    void (async (): Promise<void> => {
+      await copy(codeRef.current?.textContent?.trim() ?? '');
+    })();
   };
 
   const toggleWordWrap: ComponentPropsWithoutRef<'button'>['onClick'] = () => {

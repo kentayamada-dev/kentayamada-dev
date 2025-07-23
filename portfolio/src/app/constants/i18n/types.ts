@@ -60,8 +60,11 @@ type DictionaryType = {
     openTocLabel: string;
     selectCountryCodeLabel: string;
     selectCurrencyPairLabel: string;
+    shareFbLabel: string;
+    shareXLabel: string;
     storybookLinkLabel: string;
     themeSwitcherLabel: string;
+    urlCopyLabel: string;
     wordWrapLabel: string;
   };
   myName: string;

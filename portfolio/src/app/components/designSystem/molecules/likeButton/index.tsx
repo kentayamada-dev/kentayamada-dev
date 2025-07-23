@@ -1,9 +1,9 @@
 'use client';
 
+import NumberFlow from '@number-flow/react';
 import { useRef, useState } from 'react';
 import { LikeAnimation } from '@/components/designSystem/atoms';
 import { dictionaries } from '@/constants/i18n';
-import { formatNumber } from '@/utils';
 import type { LottieRefCurrentProps } from 'lottie-react';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { LikeButtonType } from './types';
@@ -33,19 +33,27 @@ const LikeButton: LikeButtonType = (props) => {
   };
 
   return (
-    <button
-      aria-label={likeLabel}
-      className='hover-primary bg-primary flex w-fit cursor-pointer items-center justify-center rounded-full py-2 pr-6 pl-3 disabled:cursor-not-allowed'
-      disabled={isDisabled}
-      onClick={handleClick}
-      title={likeLabel}
-      type='button'
-    >
-      <div className='size-10'>
-        <LikeAnimation ref={lottieRef} />
-      </div>
-      <span className='text-secondary'>{formatNumber(props.likeCount, props.locale)}</span>
-    </button>
+    <div className='flex items-center justify-center gap-3'>
+      <button
+        aria-label={likeLabel}
+        className='bg-primary cursor-pointer items-center justify-center rounded-full disabled:cursor-not-allowed'
+        disabled={isDisabled}
+        onClick={handleClick}
+        title={likeLabel}
+        type='button'
+      >
+        <div className='size-14'>
+          <LikeAnimation ref={lottieRef} />
+        </div>
+      </button>
+      <NumberFlow
+        className='text-secondary text-lg'
+        format={{ maximumFractionDigits: 1, notation: 'compact' }}
+        locales={props.locale}
+        respectMotionPreference
+        value={props.likeCount}
+      />
+    </div>
   );
 };
 

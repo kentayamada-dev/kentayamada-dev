@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { ArticleList } from '@/components/designSystem/molecules';
-import { Article, LikeButtonWrapper } from '@/components/designSystem/organisms';
+import { Article } from '@/components/designSystem/organisms';
 import { contentfulType } from '@/constants/contentful';
 import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
@@ -117,14 +117,14 @@ const Page: ArticlePageType = async (props) => {
           articleTitle={article.title}
           content={content}
           createdAt={new Date(article.sys.firstPublishedAt)}
+          likeCount={articleLikeCount}
+          likeKey={likeKey}
           locale={locale}
           tocTitle={articlesDict.toc}
           topics={article.topics.sort()}
           updatedAt={new Date(article.sys.publishedAt)}
+          url={`${envServer.SITE_URL}${navigationItems(locale).articles.href}/${articleId}`}
         />
-        <div className='mt-5'>
-          <LikeButtonWrapper likeCount={articleLikeCount} likeKey={likeKey} locale={locale} />
-        </div>
         <div className='mt-20 w-full px-5 sm:px-0'>
           <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{articlesDict.recommend}</h2>
           <ArticleList articles={articles} locale={locale} />

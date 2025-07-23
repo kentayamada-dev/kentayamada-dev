@@ -1,12 +1,11 @@
 'use client';
 
-import { motion } from 'motion/react';
+import NumberFlow, { continuous } from '@number-flow/react';
 import { useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Input, InputWithCombobox } from '@/components/designSystem/atoms';
 import { currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
-import { useAnimatedNumber } from '@/lib/motion';
 import { isValueInArray } from '@/typeGuards';
 import { getCurrencyPairs } from '@/utils';
 import type { ComponentPropsWithoutRef } from 'react';
@@ -33,10 +32,13 @@ const Calculator: CalculatorType = (props) => {
   } = dictionaries[props.locale];
 
   const [currencyPair, setCurrencyPair] = useState<CurrencyPairType>('USD/JPY');
-  const [stockProfitDisplay, setStockProfit] = useAnimatedNumber();
-  const [forexProfitDisplay, setForexProfit] = useAnimatedNumber();
-  const [totalProfitDisplay, setTotalProfit] = useAnimatedNumber();
   const { handleSubmit, register } = useForm<CalculatorInputsType>();
+
+  const [profitData, setProfitData] = useState({
+    fxProfitInQuoteCurrency: 0,
+    stockProfitInQuoteCurrency: 0,
+    totalProfitInQuoteCurrency: 0
+  });
 
   const [baseCurrency, quoteCurrency] = useMemo(() => {
     // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
@@ -47,24 +49,6 @@ const Calculator: CalculatorType = (props) => {
     return getCurrencyPairs(baseCurrency, currencies);
   }, [baseCurrency]);
 
-  const items = [
-    {
-      currency: quoteCurrency,
-      label: calculator.stockProfitLoss,
-      value: stockProfitDisplay
-    },
-    {
-      currency: quoteCurrency,
-      label: calculator.forexProfitLoss,
-      value: forexProfitDisplay
-    },
-    {
-      currency: quoteCurrency,
-      label: calculator.totalProfitLoss,
-      value: totalProfitDisplay
-    }
-  ];
-
   const onSubmit: SubmitHandler<CalculatorInputsType> = (data) => {
     const { buyPrice, buyRate, sellPrice, sellRate, shares } = data;
     const totalBuyInQuoteCurrency = buyPrice * buyRate * shares;
@@ -74,9 +58,7 @@ const Calculator: CalculatorType = (props) => {
     const fxProfitInQuoteCurrency = totalSellInQuoteCurrency - hypotheticalSellInQuoteCurrency;
     const totalProfitInQuoteCurrency = totalSellInQuoteCurrency - totalBuyInQuoteCurrency;
 
-    setStockProfit(stockProfitInQuoteCurrency);
-    setForexProfit(fxProfitInQuoteCurrency);
-    setTotalProfit(totalProfitInQuoteCurrency);
+    setProfitData({ fxProfitInQuoteCurrency, stockProfitInQuoteCurrency, totalProfitInQuoteCurrency });
   };
 
   const handleCurrencyChange: InputWithComboboxProps['handleOptionChange'] = (newCurrency): void => {
@@ -99,6 +81,24 @@ const Calculator: CalculatorType = (props) => {
       await handleSubmit(onSubmit)();
     })();
   };
+
+  const items = [
+    {
+      currency: quoteCurrency,
+      label: calculator.stockProfitLoss,
+      value: profitData.stockProfitInQuoteCurrency
+    },
+    {
+      currency: quoteCurrency,
+      label: calculator.forexProfitLoss,
+      value: profitData.fxProfitInQuoteCurrency
+    },
+    {
+      currency: quoteCurrency,
+      label: calculator.totalProfitLoss,
+      value: profitData.totalProfitInQuoteCurrency
+    }
+  ];
 
   return (
     <div className='grid grid-cols-1 gap-10 md:grid-cols-2'>
@@ -189,7 +189,7 @@ const Calculator: CalculatorType = (props) => {
             <div className='bg-primary grid content-center items-center rounded-lg px-4 py-5' key={item.label}>
               <dt className='text-secondary text-base'>{label}</dt>
               <dd className='text-primary mt-1 flex justify-between text-2xl font-semibold'>
-                <motion.span>{value}</motion.span>
+                <NumberFlow locales={props.locale} plugins={[continuous]} respectMotionPreference spinTiming={{ duration: 1000 }} value={value} />
                 <span>{currency}</span>
               </dd>
             </div>
