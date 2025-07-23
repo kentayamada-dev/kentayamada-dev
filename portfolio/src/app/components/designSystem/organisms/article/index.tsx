@@ -50,7 +50,7 @@ const Article: ArticleType = (props) => {
             <section className={`${ARTICLE_CLASS_NAME} bg-primary prose dark:prose-invert max-w-none rounded-lg p-7 sm:p-10`}>
               {props.content}
             </section>
-            <div className='mt-5 flex justify-between'>
+            <div className='mt-5 flex justify-between px-3 sm:p-0'>
               <LikeButtonWrapper incrementCountHandler={props.incrementCountHandler} likeCount={props.likeCount} locale={props.locale} />
               <Share locale={props.locale} url={props.url} />
             </div>
