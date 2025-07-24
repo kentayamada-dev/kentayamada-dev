@@ -4,10 +4,12 @@ import NumberFlow, { continuous } from '@number-flow/react';
 import { useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Input, InputWithCombobox } from '@/components/designSystem/atoms';
+import { Share } from '@/components/designSystem/molecules';
 import { currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
 import { isValueInArray } from '@/typeGuards';
 import { getCurrencyPairs } from '@/utils';
+import { LikeButtonWrapper } from '../likeButtonWrapper';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
 import type { InputWithComboboxProps } from '@/components/designSystem/atoms';
@@ -195,6 +197,12 @@ const Calculator: CalculatorType = (props) => {
             </div>
           );
         })}
+        <div className='flex items-end'>
+          <div className='flex w-full justify-between gap-0 md:justify-end md:gap-8'>
+            <LikeButtonWrapper incrementCountHandler={props.incrementCountHandler} likeCount={props.likeCount} locale={props.locale} />
+            <Share locale={props.locale} url={props.url} />
+          </div>
+        </div>
       </dl>
     </div>
   );

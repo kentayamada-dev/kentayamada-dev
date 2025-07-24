@@ -1,6 +1,6 @@
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react';
 import { notFound } from 'next/navigation';
-import { Calculator, LikeButtonWrapper } from '@/components/designSystem/organisms';
+import { Calculator } from '@/components/designSystem/organisms';
 import { MinusIcon, PlusIcon } from '@/components/icons';
 import { contentfulType } from '@/constants/contentful';
 import { envServer } from '@/constants/env';
@@ -101,10 +101,12 @@ const Page: PageType = async (props) => {
       <ViewTracker keyName={utilityViewKey} />
       <main className='w-full self-center px-5 py-10 sm:px-10 sm:py-20 md:max-w-4xl'>
         <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-4xl'>{utility.title}</h1>
-        <Calculator locale={locale} />
-        <div className='mt-5 flex flex-row-reverse'>
-          <LikeButtonWrapper incrementCountHandler={incrementCountHandler} likeCount={utilityLikeCount} locale={locale} />
-        </div>
+        <Calculator
+          incrementCountHandler={incrementCountHandler}
+          likeCount={utilityLikeCount}
+          locale={locale}
+          url={`${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`}
+        />
         <div className='bg-primary mt-20 divide-y divide-slate-900/10 rounded-lg p-5 sm:p-10 dark:divide-slate-300/10'>
           <h2 className='text-primary pb-5 text-2xl font-semibold sm:text-2xl'>{faqLabel}</h2>
           <dl className='divide-y divide-slate-900/10 dark:divide-slate-300/10'>

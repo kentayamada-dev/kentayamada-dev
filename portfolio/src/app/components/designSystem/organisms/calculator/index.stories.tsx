@@ -1,3 +1,4 @@
+import { fn } from '@storybook/test';
 import { arrayOfLocales } from '@/constants/i18n';
 import { Calculator } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
@@ -7,7 +8,10 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    locale: 'en'
+    incrementCountHandler: fn(),
+    likeCount: 100,
+    locale: 'en',
+    url: '#'
   },
   component: Calculator
 } satisfies Meta<typeof Calculator>;

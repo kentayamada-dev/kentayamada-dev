@@ -1,5 +1,6 @@
-import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { ComponentType } from '@/types/components';
+import type { ShareProps } from '@/components/designSystem/molecules';
+import type { ComponentType, ConditionalPickType } from '@/types/components';
+import type { LikeButtonWrapperProps } from '../likeButtonWrapper/types';
 
 type CalculatorInputsType = {
   buyPrice: number;
@@ -9,9 +10,7 @@ type CalculatorInputsType = {
   shares: number;
 };
 
-type CalculatorProps = {
-  locale: LocaleKeyType;
-};
+type CalculatorProps = ConditionalPickType<LikeButtonWrapperProps, 'incrementCountHandler' | 'likeCount'> & ShareProps;
 
 type CalculatorType = ComponentType<CalculatorProps>;
 
