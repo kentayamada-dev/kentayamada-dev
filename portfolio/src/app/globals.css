@@ -20,10 +20,11 @@
 }
 
 .scroll-hint-icon {
-  background: repeating-radial-gradient(#64748b, transparent 100px);
+  background: var(--color-slate-900);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  border-radius: var(--radius-lg);
 }
 
 @layer base {
@@ -53,52 +54,94 @@
   }
 }
 
-@layer components {
-  .border-primary {
-    @apply border-slate-900/10 dark:border-slate-300/10;
-  }
-  .text-primary {
-    @apply text-slate-900 dark:text-slate-200;
-  }
-  .text-secondary {
-    @apply text-slate-600 dark:text-slate-400;
-  }
-  .text-tertiary {
-    @apply text-slate-400 dark:text-slate-500;
-  }
-  .placeholder-primary {
-    @apply placeholder:text-slate-400 dark:placeholder:text-slate-600;
-  }
-  .bg-primary {
-    @apply bg-slate-100 dark:bg-slate-800;
-  }
-  .hover-primary {
-    @apply hover:brightness-95 dark:hover:brightness-125;
-  }
-  .hover-secondary {
-    @apply hover:bg-slate-100 hover:dark:bg-slate-600/30;
-  }
-  .hover-tertiary {
-    @apply hover:bg-slate-200 hover:dark:bg-slate-600/30;
-  }
-  .link-primary {
-    @apply text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200;
-  }
-  .btn-icon {
-    @apply rounded-lg p-1 text-slate-500 hover:cursor-pointer hover:bg-slate-100 dark:text-slate-400 hover:dark:bg-slate-600/30;
-  }
-  .section-footnotes h2 {
+@utility border-primary {
+  @apply border-slate-900/10 dark:border-slate-300/10;
+}
+
+@utility text-primary {
+  @apply text-slate-900 dark:text-slate-200;
+}
+
+@utility text-secondary {
+  @apply text-slate-600 dark:text-slate-400;
+}
+
+@utility text-tertiary {
+  @apply text-slate-400 dark:text-slate-500;
+}
+
+@utility placeholder-primary {
+  @apply placeholder:text-slate-400 dark:placeholder:text-slate-600;
+}
+
+@utility bg-primary {
+  @apply bg-slate-100 dark:bg-slate-800;
+}
+
+@utility hover-primary {
+  @apply hover:brightness-95 dark:hover:brightness-125;
+}
+
+@utility hover-secondary {
+  @apply hover:bg-slate-100 hover:dark:bg-slate-600/30;
+}
+
+@utility hover-tertiary {
+  @apply hover:bg-slate-200 hover:dark:bg-slate-600/30;
+}
+
+@utility link-primary {
+  @apply text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200;
+}
+
+@utility btn-icon {
+  @apply rounded-lg p-1 text-slate-500 hover:cursor-pointer hover:bg-slate-100 dark:text-slate-400 hover:dark:bg-slate-600/30;
+}
+
+@utility section-footnotes {
+  h2 {
     @apply mt-0;
   }
-  .shadow-primary {
-    box-shadow:
-      rgba(101, 119, 134, 0.2) 0px 0px 15px,
-      rgba(101, 119, 134, 0.15) 0px 0px 3px 1px;
+}
 
-    @variant dark {
-      box-shadow:
-        rgba(136, 153, 166, 0.3) 0px 0px 15px,
-        rgba(136, 153, 166, 0.25) 0px 0px 3px 1px;
+@utility shadow-primary {
+  box-shadow:
+    rgba(101, 119, 134, 0.2) 0px 0px 15px,
+    rgba(101, 119, 134, 0.15) 0px 0px 3px 1px;
+
+  @variant dark {
+    box-shadow:
+      rgba(136, 153, 166, 0.3) 0px 0px 15px,
+      rgba(136, 153, 166, 0.25) 0px 0px 3px 1px;
+  }
+}
+
+@utility custom-table {
+  @apply overflow-x-auto;
+  table {
+    @apply min-w-xl border-separate border-spacing-0 rounded-lg border border-slate-300 dark:border-slate-600;
+
+    th,
+    td {
+      @apply border-r border-b border-slate-300 p-2 text-base dark:border-slate-600;
+
+      &:last-child {
+        @apply border-r-0;
+      }
+    }
+    th {
+      @apply bg-slate-300/50 dark:bg-slate-700;
+    }
+    tbody {
+      tr {
+        @apply hover:bg-slate-200/60 hover:dark:bg-slate-700/50;
+        &:last-child {
+          th,
+          td {
+            @apply border-b-0;
+          }
+        }
+      }
     }
   }
 }

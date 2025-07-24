@@ -19,6 +19,10 @@
         "files.associations": {
           "*.css": "tailwindcss"
         },
+        "tailwindCSS.experimental.configFile": "src/app/globals.css",
+        "tailwindCSS.lint.cssConflict": "error",
+        "tailwindCSS.lint.usedBlocklistedClass": "error",
+        "tailwindCSS.validate": true,
         "editor.colorDecorators": false,
         "editor.quickSuggestions": {
           "strings": "on"

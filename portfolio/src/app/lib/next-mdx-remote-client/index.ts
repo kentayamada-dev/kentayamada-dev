@@ -7,6 +7,7 @@ import { visit } from 'unist-util-visit';
 import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
 import { A, Code, H, Hr, Input, Li, Section, Span, Ul } from './components';
+import { Table } from './components/table';
 import type { EvaluateResult, MDXComponents, MDXRemoteOptions } from 'next-mdx-remote-client/rsc';
 import type { ComponentType, HTMLAttributes } from 'react';
 import type { LocaleKeyType } from '@/constants/i18n/types';
@@ -65,6 +66,7 @@ const getMDXComponents = (locale: LocaleKeyType): MDXComponents => {
     li: Li,
     section: Section,
     span: Span,
+    table: Table,
     ul: Ul
   };
 };
