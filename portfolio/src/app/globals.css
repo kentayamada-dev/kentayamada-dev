@@ -119,7 +119,7 @@
 @utility custom-table {
   @apply overflow-x-auto;
   table {
-    @apply min-w-xl border-separate border-spacing-0 rounded-lg border border-slate-300 dark:border-slate-600;
+    @apply min-w-xl border-separate border-spacing-0 overflow-hidden rounded-lg border border-slate-300 dark:border-slate-600;
 
     th,
     td {
