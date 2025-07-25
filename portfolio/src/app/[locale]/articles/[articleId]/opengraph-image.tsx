@@ -50,8 +50,8 @@ const Image: ArticleImageType = async (props) => {
             flexDirection: 'column',
             height: '90%',
             justifyContent: 'space-between',
-            padding: '2.5rem',
-            width: '90%'
+            padding: '3.1rem',
+            width: '95%'
           }}
         >
           <div
