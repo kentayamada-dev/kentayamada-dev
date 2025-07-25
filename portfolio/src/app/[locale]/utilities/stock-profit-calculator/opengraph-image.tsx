@@ -1,32 +1,36 @@
 import { ImageResponse } from 'next/og';
-// eslint-disable-next-line import/no-nodejs-modules
-import { readFile } from 'node:fs/promises';
-// eslint-disable-next-line import/no-nodejs-modules
-import { join } from 'node:path';
 import { contentfulType } from '@/constants/contentful';
 import { envServer } from '@/constants/env';
 import { getUtilityBySlug } from '@/lib/graphql-request';
 import { throwColoredError } from '@/utils';
 import type { UtilityImageType } from '@/types/components';
 
-const size = {
-  height: 630,
-  width: 1200
-};
+const CONTENT_TYPE = 'image/png';
+const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
+const FONT_NAME = 'Noto+Sans+JP';
+const FONT_BOLD = 700;
+const FONT_REGULAR = 400;
+const FONT_STYLE = 'normal';
 
-const contentType = 'image/png';
-const stockProfitCalculatorId = contentfulType.metadata.stockProfitCalculator;
+const loadGoogleFont = async (font: string, text: string, weight: number): Promise<ArrayBuffer> => {
+  const url = `https://fonts.googleapis.com/css2?family=${font}:wght@${weight}&text=${encodeURIComponent(text)}`;
+  const css = await (await fetch(url)).text();
+  // eslint-disable-next-line @stylistic/wrap-regex
+  const resource = /src: url\((?<url>.+)\) format\('(?<format>opentype|truetype)'\)/u.exec(css);
+  const response = await fetch(resource?.[1] ?? '');
+
+  return response.arrayBuffer();
+};
 
 const Image: UtilityImageType = async (props) => {
   const { locale } = await props.params;
-  const utility = await getUtilityBySlug(locale, stockProfitCalculatorId);
+  const utility = await getUtilityBySlug(locale, STOCK_PROFIT_CALCULATOR_ID);
 
   if (utility === null) {
-    return throwColoredError(`utility <${stockProfitCalculatorId}> is empty`, 'red');
+    return throwColoredError(`utility <${STOCK_PROFIT_CALCULATOR_ID}> is empty`, 'red');
   }
 
-  const notoSansJPBold = await readFile(join(process.cwd(), 'assets/NotoSansJP-Bold.ttf'));
-  const notoSansJPRegular = await readFile(join(process.cwd(), 'assets/NotoSansJP-Regular.ttf'));
+  const domain = new URL(envServer.SITE_URL).hostname;
 
   return new ImageResponse(
     (
@@ -75,7 +79,7 @@ const Image: UtilityImageType = async (props) => {
                 marginTop: '1rem'
               }}
             >
-              {new URL(envServer.SITE_URL).hostname}
+              {domain}
             </span>
             <span
               style={{
@@ -91,21 +95,24 @@ const Image: UtilityImageType = async (props) => {
       </div>
     ),
     {
-      ...size,
       fonts: [
         {
-          data: notoSansJPBold,
-          name: 'Noto Sans JP',
-          weight: 700
+          data: await loadGoogleFont(FONT_NAME, utility.title, FONT_BOLD),
+          name: FONT_NAME,
+          style: FONT_STYLE,
+          weight: FONT_BOLD
         },
         {
-          data: notoSansJPRegular,
-          name: 'Noto Sans JP',
-          weight: 400
+          data: await loadGoogleFont(FONT_NAME, domain, FONT_REGULAR),
+          name: FONT_NAME,
+          style: FONT_STYLE,
+          weight: FONT_REGULAR
         }
-      ]
+      ],
+      height: 630,
+      width: 1200
     }
   );
 };
 
-export { contentType, Image as default, size };
+export { CONTENT_TYPE, Image as default };
