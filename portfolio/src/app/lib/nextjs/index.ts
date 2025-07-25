@@ -4,11 +4,12 @@ import type { Metadata } from 'next';
 import type { OpenGraphType } from 'next/dist/lib/metadata/types/opengraph-types';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
-const OPENGRAPH_IMAGE_PATH = '/opengraph-image';
-
-const OPENGRAPH_IMAGE_SIZE = {
-  HEIGHT: 630,
-  WIDTH: 1200
+const OG = {
+  PATH: '/opengraph-image',
+  SIZE: {
+    HEIGHT: 630,
+    WIDTH: 1200
+  }
 };
 
 const getCommonMetadata = (myName: string, siteName: string, description: string, title: string, coverImageUrl: string): Metadata => {
@@ -19,10 +20,10 @@ const getCommonMetadata = (myName: string, siteName: string, description: string
       description,
       images: [
         {
-          height: OPENGRAPH_IMAGE_SIZE.HEIGHT,
+          height: OG.SIZE.HEIGHT,
           secureUrl: coverImageUrl,
           url: coverImageUrl,
-          width: OPENGRAPH_IMAGE_SIZE.WIDTH
+          width: OG.SIZE.WIDTH
         }
       ],
       siteName,
@@ -89,4 +90,4 @@ const getNotFoundMetadataObject = (locale: LocaleKeyType, description: string, t
   return getCommonMetadata(myName, siteName, description, title, coverImageUrl);
 };
 
-export { OPENGRAPH_IMAGE_PATH, OPENGRAPH_IMAGE_SIZE, getMetadataObject, getNotFoundMetadataObject };
+export { OG, getMetadataObject, getNotFoundMetadataObject };

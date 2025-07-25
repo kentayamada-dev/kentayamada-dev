@@ -8,7 +8,7 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
-import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
+import { OG, getMetadataObject } from '@/lib/nextjs';
 import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
@@ -37,7 +37,7 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     locale,
     metadata.description,
     metadata.title,
-    `${currentPath}${OPENGRAPH_IMAGE_PATH}`,
+    `${currentPath}${OG.PATH}`,
     new Date(metadata.sys.publishedAt),
     new Date(metadata.sys.firstPublishedAt)
   );

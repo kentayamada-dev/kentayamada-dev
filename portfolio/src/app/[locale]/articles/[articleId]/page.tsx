@@ -7,7 +7,7 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getArticleBySlug, getArticleSlugs, getArticles, getMetadata } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
-import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
+import { OG, getMetadataObject } from '@/lib/nextjs';
 import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
@@ -44,7 +44,7 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
     locale,
     article.subtitle,
     article.title,
-    `${articlePath}${OPENGRAPH_IMAGE_PATH}`,
+    `${articlePath}${OG.PATH}`,
     new Date(article.sys.publishedAt),
     new Date(article.sys.firstPublishedAt)
   );
@@ -98,7 +98,7 @@ const Page: ArticlePageType = async (props) => {
     'dateModified': article.sys.publishedAt,
     'datePublished': article.sys.firstPublishedAt,
     'headline': article.title,
-    'image': [`${navigationItems(locale).articles.href}/${articleId}${OPENGRAPH_IMAGE_PATH}`],
+    'image': [`${navigationItems(locale).articles.href}/${articleId}${OG.PATH}`],
     'publisher': [
       {
         '@type': 'Organization',

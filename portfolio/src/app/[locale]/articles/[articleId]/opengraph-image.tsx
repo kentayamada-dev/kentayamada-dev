@@ -5,7 +5,7 @@ import { join } from 'node:path';
 /* eslint-enable import/no-nodejs-modules */
 import { dictionaries } from '@/constants/i18n';
 import { getArticleBySlug } from '@/lib/graphql-request';
-import { OPENGRAPH_IMAGE_SIZE } from '@/lib/nextjs';
+import { OG } from '@/lib/nextjs';
 import { getGoogleFont, throwColoredError } from '@/utils';
 import type { ArticleImageType } from '@/types/components';
 
@@ -142,8 +142,8 @@ const Image: ArticleImageType = async (props) => {
           weight: FONT_BOLD
         }
       ],
-      height: OPENGRAPH_IMAGE_SIZE.HEIGHT,
-      width: OPENGRAPH_IMAGE_SIZE.WIDTH
+      height: OG.SIZE.HEIGHT,
+      width: OG.SIZE.WIDTH
     }
   );
 };

@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og';
 import { contentfulType } from '@/constants/contentful';
 import { envServer } from '@/constants/env';
 import { getUtilityBySlug } from '@/lib/graphql-request';
-import { OPENGRAPH_IMAGE_SIZE } from '@/lib/nextjs';
+import { OG } from '@/lib/nextjs';
 import { getGoogleFont, throwColoredError } from '@/utils';
 import type { UtilityImageType } from '@/types/components';
 
@@ -99,8 +99,8 @@ const Image: UtilityImageType = async (props) => {
           weight: FONT_REGULAR
         }
       ],
-      height: OPENGRAPH_IMAGE_SIZE.HEIGHT,
-      width: OPENGRAPH_IMAGE_SIZE.WIDTH
+      height: OG.SIZE.HEIGHT,
+      width: OG.SIZE.WIDTH
     }
   );
 };
