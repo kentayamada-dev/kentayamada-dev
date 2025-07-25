@@ -12,6 +12,13 @@ const reactRule = addPrefixRule(reactPrefix, {
       'extensions': ['.tsx']
     }
   ],
+  'jsx-handler-names': [
+    'error',
+    {
+      checkLocalVariables: true,
+      checkInlineFunction: true
+    }
+  ],
   'jsx-indent': ['error', 2],
   'jsx-indent-props': ['error', 2],
   'jsx-max-props-per-line': [

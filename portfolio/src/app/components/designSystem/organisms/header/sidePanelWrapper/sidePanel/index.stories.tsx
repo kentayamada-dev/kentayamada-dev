@@ -21,10 +21,10 @@ const meta = {
   },
   args: {
     currentPathname: navigation.home.href,
-    handleToggle: fn(),
     isOpened: true,
     items: navigation,
     locale: 'en',
+    onToggle: fn(),
     ...copyRightStory.args
   },
   component: SidePanel

@@ -90,7 +90,7 @@ const Page: PageType = async (props) => {
     ]
   };
 
-  const incrementCountHandler = async (): Promise<void> => {
+  const handleCountLike = async (): Promise<void> => {
     'use server';
     await incrementCount(utilityLikeKey);
   };
@@ -102,9 +102,10 @@ const Page: PageType = async (props) => {
       <main className='w-full self-center px-5 py-10 sm:px-10 sm:py-20 md:max-w-4xl'>
         <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-4xl'>{utility.title}</h1>
         <Calculator
-          incrementCountHandler={incrementCountHandler}
           likeCount={utilityLikeCount}
           locale={locale}
+          onCountLike={handleCountLike}
+          title={utility.title}
           url={`${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`}
         />
         <div className='bg-primary mt-20 divide-y divide-slate-900/10 rounded-lg p-5 sm:p-10 dark:divide-slate-300/10'>

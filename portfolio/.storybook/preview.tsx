@@ -1,7 +1,6 @@
 import { withThemeByClassName } from '@storybook/addon-themes';
 import { Decorator, Preview, ReactRenderer } from '@storybook/react';
 import { customViewports, viewportKeys } from '../src/app/lib/storybook';
-import { arrayOfLocales } from '../src/app/constants/i18n';
 import { notoSansJP } from '../src/app/constants/fonts';
 // @ts-expect-error library not found
 import { action } from '@storybook/addon-actions';

@@ -5,10 +5,10 @@ import type { ComponentType } from '@/types/components';
 
 type SidePanelProps = CopyRightProps & {
   currentPathname: string;
-  handleToggle: VoidFunction;
   isOpened: boolean;
   items: NavigationType;
   locale: LocaleKeyType;
+  onToggle: VoidFunction;
 };
 
 type SidePanelType = ComponentType<SidePanelProps>;

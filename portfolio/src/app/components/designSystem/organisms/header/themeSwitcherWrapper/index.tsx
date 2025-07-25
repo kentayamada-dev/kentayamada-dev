@@ -7,7 +7,7 @@ import { useNextTheme } from '@/lib/next-themes';
 import type { ThemeSwitcherWrapperType } from './types';
 
 const ThemeSwitcherWrapper: ThemeSwitcherWrapperType = (props) => {
-  const { options, setTheme, theme, themeKey } = useNextTheme(props.locale);
+  const { options, setTheme: handleSetTheme, theme, themeKey } = useNextTheme(props.locale);
   const [isMounted, setIsMounted] = useState(false);
   const { themeSwitcherLabel } = dictionaries[props.locale].labels;
 
@@ -16,7 +16,14 @@ const ThemeSwitcherWrapper: ThemeSwitcherWrapperType = (props) => {
   }, []);
 
   return (
-    <Switcher buttonIcon={theme.icon} buttonLabel={themeSwitcherLabel} isMounted={isMounted} onChange={setTheme} options={options} value={themeKey} />
+    <Switcher
+      buttonIcon={theme.icon}
+      buttonLabel={themeSwitcherLabel}
+      isMounted={isMounted}
+      onChange={handleSetTheme}
+      options={options}
+      value={themeKey}
+    />
   );
 };
 

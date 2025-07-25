@@ -108,7 +108,7 @@ const Page: ArticlePageType = async (props) => {
     ]
   };
 
-  const incrementCountHandler = async (): Promise<void> => {
+  const handleCountLike = async (): Promise<void> => {
     'use server';
     await incrementCount(likeKey);
   };
@@ -122,9 +122,9 @@ const Page: ArticlePageType = async (props) => {
           articleTitle={article.title}
           content={content}
           createdAt={new Date(article.sys.firstPublishedAt)}
-          incrementCountHandler={incrementCountHandler}
           likeCount={articleLikeCount}
           locale={locale}
+          onCountLike={handleCountLike}
           tocTitle={articlesDict.toc}
           topics={article.topics.sort()}
           updatedAt={new Date(article.sys.publishedAt)}

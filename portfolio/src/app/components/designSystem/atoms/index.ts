@@ -13,3 +13,4 @@ export { NotFoundAnimation } from './notFoundAnimation';
 export { TextArea } from './textArea';
 export { YoutubeEmbed } from './youtubeEmbed';
 export { default as copyRightStory } from './copyRight/index.stories';
+export { default as copyToClipboardButtonStory } from './copyToClipboardButton/index.stories';

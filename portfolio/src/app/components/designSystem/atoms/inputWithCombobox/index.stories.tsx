@@ -4,7 +4,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   args: {
-    handleOptionChange: fn(),
+    handleChangeInput: fn(),
     label: 'Label',
     optionValue: 'option1',
     options: ['option1', 'option2', 'option3'],

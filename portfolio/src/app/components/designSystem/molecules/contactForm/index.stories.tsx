@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { ContactForm } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
@@ -8,11 +8,11 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    action: fn(),
-    handleRc: fn(),
     isPending: false,
     isRcError: false,
-    locale: 'en',
+    locale: defaultLocale,
+    onAction: fn(),
+    onChangeRc: fn(),
     recaptchaRef: {
       current: null
     },

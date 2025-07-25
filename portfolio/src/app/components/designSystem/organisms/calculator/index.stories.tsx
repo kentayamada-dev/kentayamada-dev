@@ -1,17 +1,17 @@
 import { fn } from '@storybook/test';
-import { arrayOfLocales } from '@/constants/i18n';
+import { likeButtonStory, shareStory } from '@/components/designSystem/molecules';
 import { Calculator } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   argTypes: {
-    locale: { control: 'select', options: arrayOfLocales }
+    ...likeButtonStory.argTypes,
+    ...shareStory.argTypes
   },
   args: {
-    incrementCountHandler: fn(),
-    likeCount: 100,
-    locale: 'en',
-    url: '#'
+    ...likeButtonStory.args,
+    ...shareStory.args,
+    onCountLike: fn()
   },
   component: Calculator
 } satisfies Meta<typeof Calculator>;

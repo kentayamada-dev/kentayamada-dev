@@ -1,4 +1,4 @@
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { ProjectsList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
@@ -7,43 +7,43 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    locale: 'en',
+    locale: defaultLocale,
     projects: [
       {
         createdAt: new Date('2025-03-14T04:07:48Z'),
-        description: 'Project 1',
-        forkCount: 5,
-        name: 'project-1',
-        stargazerCount: 23,
+        description: 'A React-based web application for managing tasks efficiently.',
+        forkCount: 0,
+        name: 'task-manager',
+        stargazerCount: 45,
         updatedAt: new Date('2025-12-20T18:07:56Z'),
-        url: '/project-1'
+        url: '/projects/task-manager'
       },
       {
         createdAt: new Date('2024-03-21T04:13:15Z'),
-        description: 'Project 2',
-        forkCount: 4,
-        name: 'project-2',
+        description: 'A TypeScript library for data visualization with charts and graphs.',
+        forkCount: 8,
+        name: 'data-viz-lib',
         stargazerCount: 0,
         updatedAt: new Date('2025-03-20T18:08:02Z'),
-        url: '/project-2'
+        url: '/projects/data-viz-lib'
       },
       {
         createdAt: new Date('2023-01-03T06:43:49Z'),
-        description: 'Project 3',
+        description: 'A Node.js API for handling user authentication and authorization.',
         forkCount: 0,
-        name: 'project-3',
-        stargazerCount: 4,
+        name: 'auth-api',
+        stargazerCount: 0,
         updatedAt: new Date('2024-03-20T18:08:07Z'),
-        url: '/project-3'
+        url: '/projects/auth-api'
       },
       {
         createdAt: new Date('2022-01-03T06:43:49Z'),
-        description: 'Project 4',
-        forkCount: 0,
-        name: 'project-4',
-        stargazerCount: 0,
+        description: 'A Python script for automating data cleaning and preprocessing.',
+        forkCount: 3,
+        name: 'data-cleaner',
+        stargazerCount: 10,
         updatedAt: new Date('2022-03-20T18:08:07Z'),
-        url: '/project-4'
+        url: '/projects/data-cleaner'
       }
     ]
   },

@@ -26,13 +26,13 @@ const SidePanel: SidePanelType = (props) => {
       <button
         aria-label={openSidePanelLabel}
         className='btn-icon mr-4 size-8 md:hidden'
-        onClick={props.handleToggle}
+        onClick={props.onToggle}
         title={openSidePanelLabel}
         type='button'
       >
         <ThreeBarsIcon />
       </button>
-      <Dialog onClose={props.handleToggle} open={props.isOpened}>
+      <Dialog onClose={props.onToggle} open={props.isOpened}>
         <DialogBackdrop
           className='fixed inset-0 z-30 bg-black/20 backdrop-blur-xs transition-opacity duration-500 data-[closed]:opacity-0 dark:bg-slate-900/80'
           transition
@@ -45,7 +45,7 @@ const SidePanel: SidePanelType = (props) => {
             aria-label={closeSidePanelLabel}
             className='btn-icon ml-auto size-8'
             data-autofocus
-            onClick={props.handleToggle}
+            onClick={props.onToggle}
             title={closeSidePanelLabel}
             type='button'
           >
@@ -60,7 +60,7 @@ const SidePanel: SidePanelType = (props) => {
                     key={key}
                   >
                     <Link href={href} legacyBehavior passHref>
-                      <NavItem icon={icon} onClick={props.handleToggle} title={title} />
+                      <NavItem icon={icon} onClick={props.onToggle} title={title} />
                     </Link>
                   </li>
                 );

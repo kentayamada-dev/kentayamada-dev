@@ -3,7 +3,7 @@ import type { ComponentPropsWithoutRef } from 'react';
 import type { ComponentType, RequiredCallbackType, StrictOmitType } from '@/types/components';
 
 type InputWithComboboxProps = StrictOmitType<ComponentPropsWithoutRef<'input'>, 'className' | 'id' | 'title'> & {
-  handleOptionChange: RequiredCallbackType<ListboxProps['onChange']>;
+  handleChangeInput: RequiredCallbackType<ListboxProps['onChange']>;
   label: string;
   optionValue: ListboxButtonProps['value'];
   options: readonly string[];

@@ -63,13 +63,13 @@ const Calculator: CalculatorType = (props) => {
     setProfitData({ fxProfitInQuoteCurrency, stockProfitInQuoteCurrency, totalProfitInQuoteCurrency });
   };
 
-  const handleCurrencyChange: InputWithComboboxProps['handleOptionChange'] = (newCurrency): void => {
+  const onCurrencyChange: InputWithComboboxProps['handleChangeInput'] = (newCurrency): void => {
     if (isValueInArray(newCurrency, currencies)) {
       setCurrencyPair(newCurrency === 'USD' ? 'USD/JPY' : `${newCurrency}/USD`);
     }
   };
 
-  const handleCurrencyPairChange: InputWithComboboxProps['handleOptionChange'] = (newCurrency): void => {
+  const onCurrencyPairChange: InputWithComboboxProps['handleChangeInput'] = (newCurrency): void => {
     if (isValueInArray(newCurrency, ALL_CURRENCY_PAIRS)) {
       setCurrencyPair(newCurrency);
     }
@@ -106,7 +106,7 @@ const Calculator: CalculatorType = (props) => {
     <div className='grid grid-cols-1 gap-10 md:grid-cols-2'>
       <form className='space-y-7' onSubmit={handleFormSubmit}>
         <InputWithCombobox
-          handleOptionChange={handleCurrencyChange}
+          handleChangeInput={onCurrencyChange}
           inputMode='decimal'
           label={calculator.buyPrice}
           max='1000'
@@ -121,7 +121,7 @@ const Calculator: CalculatorType = (props) => {
           {...register('buyPrice')}
         />
         <InputWithCombobox
-          handleOptionChange={handleCurrencyChange}
+          handleChangeInput={onCurrencyChange}
           inputMode='decimal'
           label={calculator.sellPrice}
           max='1000'
@@ -136,7 +136,7 @@ const Calculator: CalculatorType = (props) => {
           {...register('sellPrice')}
         />
         <InputWithCombobox
-          handleOptionChange={handleCurrencyPairChange}
+          handleChangeInput={onCurrencyPairChange}
           inputMode='decimal'
           label={calculator.buyRate}
           max='1000'
@@ -151,7 +151,7 @@ const Calculator: CalculatorType = (props) => {
           {...register('buyRate')}
         />
         <InputWithCombobox
-          handleOptionChange={handleCurrencyPairChange}
+          handleChangeInput={onCurrencyPairChange}
           inputMode='decimal'
           label={calculator.sellRate}
           max='1000'
@@ -199,8 +199,8 @@ const Calculator: CalculatorType = (props) => {
         })}
         <div className='flex items-end'>
           <div className='flex w-full justify-between gap-0 md:justify-end md:gap-8'>
-            <LikeButtonWrapper incrementCountHandler={props.incrementCountHandler} likeCount={props.likeCount} locale={props.locale} />
-            <Share locale={props.locale} url={props.url} />
+            <LikeButtonWrapper likeCount={props.likeCount} locale={props.locale} onCountLike={props.onCountLike} />
+            <Share locale={props.locale} title={props.title} url={props.url} />
           </div>
         </div>
       </dl>

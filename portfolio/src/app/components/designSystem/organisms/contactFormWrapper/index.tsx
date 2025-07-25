@@ -44,17 +44,18 @@ export const ContactFormWrapper: ContactFormWrapperType = (props) => {
 
   const [state, action, isPending] = useActionState(actionWithRecaptcha, {});
 
-  const handleRc = (value: string): void => {
+  const handleChangeRc = (value: string): void => {
     recaptchaToken.current = value;
   };
 
   return (
     <ContactForm
-      action={action}
-      handleRc={handleRc}
       isPending={isPending}
       isRcError={isRcError}
       locale={props.locale}
+      // eslint-disable-next-line react/jsx-handler-names
+      onAction={action}
+      onChangeRc={handleChangeRc}
       recaptchaRef={recaptchaRef}
       state={state}
     />

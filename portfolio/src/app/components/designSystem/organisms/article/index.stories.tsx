@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Article } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';
@@ -60,9 +60,9 @@ const meta = {
       </section>
     ),
     createdAt: new Date('2022-08-26T21:50:14.930Z'),
-    incrementCountHandler: fn(),
     likeCount: 10,
-    locale: 'en',
+    locale: defaultLocale,
+    onCountLike: fn(),
     tocTitle: 'Toc Title',
     topics: ['React', 'JavaScript', 'TypeScript'],
     updatedAt: new Date('2023-08-26T21:50:14.930Z'),

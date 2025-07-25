@@ -3,6 +3,7 @@ import type { ComponentType } from '@/types/components';
 
 type ShareProps = {
   locale: LocaleKeyType;
+  title: string;
   url: string;
 };
 

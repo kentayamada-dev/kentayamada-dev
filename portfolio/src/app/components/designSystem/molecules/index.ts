@@ -12,5 +12,7 @@ export type { SwitcherProps } from './switcher/types';
 export { UtilitiesList } from './utilitiesList';
 export type { UtilitiesListType } from './utilitiesList/types';
 export { contactSchema } from './contactForm/schema';
+export { default as likeButtonStory } from './likeButton/index.stories';
 export { default as projectsListStory } from './projectsList/index.stories';
+export { default as shareStory } from './share/index.stories';
 export { default as utilitiesListStory } from './utilitiesList/index.stories';

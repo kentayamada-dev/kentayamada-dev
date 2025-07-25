@@ -16,18 +16,18 @@ const LikeButtonWrapper: LikeButtonWrapperType = (props) => {
     };
   });
 
-  const onLike = (): void => {
+  const handleLike = (): void => {
     startTransition(() => {
       setOptimisticLikes(optimisticLikes.likes + 1);
     });
 
     // eslint-disable-next-line no-void
     void (async (): Promise<void> => {
-      await props.incrementCountHandler();
+      await props.onCountLike();
     })();
   };
 
-  return <LikeButton likeCount={optimisticLikes.likes} locale={props.locale} onLike={onLike} />;
+  return <LikeButton likeCount={optimisticLikes.likes} locale={props.locale} onLike={handleLike} />;
 };
 
 export { LikeButtonWrapper };

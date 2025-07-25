@@ -1,4 +1,4 @@
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { ArticleList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
@@ -9,43 +9,43 @@ const meta = {
   args: {
     articles: [
       {
-        createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        href: '#',
-        likeCount: 20,
-        subtitle: 'Subtitle',
-        title: 'Title',
-        topics: ['React', 'JavaScript', 'TypeScript'],
-        viewCount: 10
+        createdAt: new Date('2025-07-20T10:15:30.000Z'),
+        href: '/articles/react-for-beginners',
+        likeCount: 0,
+        subtitle: 'Learn the basics of React',
+        title: 'React for Beginners',
+        topics: ['React', 'JavaScript'],
+        viewCount: 120
       },
       {
-        createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        href: '#',
-        likeCount: 20,
-        subtitle: 'Subtitle',
-        title: 'Title',
-        topics: ['React', 'JavaScript', 'TypeScript'],
-        viewCount: 10
+        createdAt: new Date('2025-07-18T14:45:00.000Z'),
+        href: '/articles/mastering-typescript',
+        likeCount: 30,
+        subtitle: 'Advanced TypeScript techniques',
+        title: 'Mastering TypeScript',
+        topics: [],
+        viewCount: 0
       },
       {
-        createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        href: '#',
-        likeCount: 20,
-        subtitle: 'Subtitle',
-        title: 'Title',
-        topics: ['React', 'JavaScript', 'TypeScript'],
-        viewCount: 10
+        createdAt: new Date('2025-07-15T08:30:45.000Z'),
+        href: '/articles/scalable-react-apps',
+        likeCount: 0,
+        subtitle: 'Building scalable applications',
+        title: 'Scalable React Apps',
+        topics: ['React', 'TypeScript', 'Architecture'],
+        viewCount: 0
       },
       {
-        createdAt: new Date('2025-08-26T21:50:14.930Z'),
-        href: '#',
-        likeCount: 20,
-        subtitle: 'Subtitle',
-        title: 'Title',
-        topics: ['React', 'JavaScript', 'TypeScript'],
-        viewCount: 10
+        createdAt: new Date('2025-07-10T16:20:10.000Z'),
+        href: '/articles/javascript-closures-explained',
+        likeCount: 15,
+        subtitle: 'Understanding JavaScript closures',
+        title: 'JavaScript Closures Explained',
+        topics: ['JavaScript'],
+        viewCount: 50
       }
     ],
-    locale: 'en'
+    locale: defaultLocale
   },
   component: ArticleList
 } satisfies Meta<typeof ArticleList>;

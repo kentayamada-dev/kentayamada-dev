@@ -1,9 +1,9 @@
 import type { ShareProps } from '@/components/designSystem/molecules';
-import type { ComponentType, ConditionalPickType, JSXElementType } from '@/types/components';
+import type { ComponentType, ConditionalPickType, JSXElementType, StrictOmitType } from '@/types/components';
 import type { LikeButtonWrapperProps } from '../likeButtonWrapper/types';
 
-type ArticleProps = ConditionalPickType<LikeButtonWrapperProps, 'incrementCountHandler' | 'likeCount'> &
-  ShareProps & {
+type ArticleProps = ConditionalPickType<LikeButtonWrapperProps, 'onCountLike' | 'likeCount'> &
+  StrictOmitType<ShareProps, 'title'> & {
     articleTitle: string;
     content: JSXElementType;
     createdAt: Date;

@@ -10,7 +10,11 @@ const Share: ShareType = (props) => {
   return (
     <div className='bg-primary flex gap-5 rounded-lg p-3 text-white'>
       <CopyToClipboardButton label={urlCopyLabel} url={props.url} />
-      <Link aria-label={shareXLabel} href={`https://twitter.com/intent/tweet?url=${props.url}`} title={shareXLabel}>
+      <Link
+        aria-label={shareXLabel}
+        href={`https://twitter.com/intent/tweet?url=${props.url}&text=${encodeURIComponent(props.title)}`}
+        title={shareXLabel}
+      >
         <div className='link-primary hover-tertiary size-10 rounded-lg p-1'>
           <XIcon />
         </div>

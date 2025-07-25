@@ -17,11 +17,11 @@ type ContactFormStateType = Partial<{
 }>;
 
 type ContactFormProps = {
-  action: (payload: FormData) => void;
-  handleRc: (value: string) => void;
   isPending: boolean;
   isRcError: boolean;
   locale: LocaleKeyType;
+  onAction: (payload: FormData) => void;
+  onChangeRc: (value: string) => void;
   recaptchaRef: RefObject<ReCAPTCHA>;
   state: ContactFormStateType;
 };

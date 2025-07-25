@@ -58,7 +58,8 @@ const ContactForm: ContactFormType = (props) => {
   }, [props.locale]);
 
   return (
-    <Form action={props.action} className='flex flex-col space-y-6'>
+    // eslint-disable-next-line react/jsx-handler-names
+    <Form action={props.onAction} className='flex flex-col space-y-6'>
       <div className='grid grid-cols-2 gap-4'>
         <Input
           autoComplete='given-name'
@@ -164,7 +165,7 @@ const ContactForm: ContactFormType = (props) => {
         rows={4}
         {...register('message')}
       />
-      <ReCAPTCHA hl={props.locale} onChange={props.handleRc} ref={props.recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
+      <ReCAPTCHA hl={props.locale} onChange={props.onChangeRc} ref={props.recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
       <button
         className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white hover:brightness-95 disabled:cursor-not-allowed dark:hover:brightness-110'
         disabled={props.isPending}

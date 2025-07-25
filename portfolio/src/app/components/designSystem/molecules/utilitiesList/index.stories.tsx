@@ -1,4 +1,4 @@
-import { arrayOfLocales } from '@/constants/i18n';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { UtilitiesList } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
@@ -7,35 +7,35 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    locale: 'en',
+    locale: defaultLocale,
     utilities: [
       {
-        href: '/title-1',
-        likeCount: 10,
-        subtitle: 'Subtitle 1',
-        title: 'Title 1',
-        viewCount: 20
+        href: '/utilities/calculator',
+        likeCount: 150,
+        subtitle: 'Perform basic and advanced mathematical calculations.',
+        title: 'Calculator',
+        viewCount: 1200
       },
       {
-        href: '/title-2',
-        likeCount: 100,
-        subtitle: 'Subtitle 2',
-        title: 'Title 2',
-        viewCount: 2
-      },
-      {
-        href: '/title-3',
+        href: '/utilities/unit-converter',
         likeCount: 0,
-        subtitle: 'Subtitle 3',
-        title: 'Title 3',
-        viewCount: 200
+        subtitle: 'Convert between different units of measurement.',
+        title: 'Unit Converter',
+        viewCount: 950
       },
       {
-        href: '/title-4',
-        likeCount: 1000,
-        subtitle: 'Subtitle 4',
-        title: 'Title 4',
-        viewCount: 20
+        href: '/utilities/loan-calculator',
+        likeCount: 75,
+        subtitle: 'Calculate loan payments and interest rates.',
+        title: 'Loan Calculator',
+        viewCount: 0
+      },
+      {
+        href: '/utilities/age-calculator',
+        likeCount: 0,
+        subtitle: 'Find out your exact age in years, months, and days.',
+        title: 'Age Calculator',
+        viewCount: 0
       }
     ]
   },

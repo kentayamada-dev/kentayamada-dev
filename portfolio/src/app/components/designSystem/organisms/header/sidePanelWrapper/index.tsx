@@ -12,7 +12,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
   const [isOpened, setIsOpened] = useState(false);
   const pathname = usePathname();
 
-  const handleToggle: SidePanelProps['handleToggle'] = () => {
+  const handleToggle: SidePanelProps['onToggle'] = () => {
     setIsOpened((prev) => {
       return !prev;
     });
@@ -27,11 +27,11 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
       author={props.author}
       copyrightYear={props.copyrightYear}
       currentPathname={pathname.split('/').slice(0, 3).join('/')}
-      handleToggle={handleToggle}
       homepageUrl={props.homepageUrl}
       isOpened={isOpened}
       items={navigationItems(props.locale)}
       locale={props.locale}
+      onToggle={handleToggle}
     />
   );
 };

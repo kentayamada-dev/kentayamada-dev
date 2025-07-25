@@ -1,4 +1,5 @@
-import { arrayOfLocales } from '@/constants/i18n';
+import { copyToClipboardButtonStory } from '@/components/designSystem/atoms';
+import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Share } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
@@ -7,8 +8,9 @@ const meta = {
     locale: { control: 'select', options: arrayOfLocales }
   },
   args: {
-    locale: 'en',
-    url: '#'
+    locale: defaultLocale,
+    ...copyToClipboardButtonStory.args,
+    title: 'Share'
   },
   component: Share
 } satisfies Meta<typeof Share>;

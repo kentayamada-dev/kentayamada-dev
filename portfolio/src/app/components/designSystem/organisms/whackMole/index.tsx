@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { ANIMATION_DURATION, HOLE_COUNT, MAX_MOLES_PER_STEP, TOTAL_STEPS, WAIT_DURATION } from './constants';
 import { MoleHole } from './moleHole';
+import type { ComponentPropsWithoutRef } from 'react';
 import type { MoleStateType, WhackMoleType } from './types';
 
 const getPerformanceMessage = (percentage: number): string => {
@@ -116,6 +117,24 @@ const WhackMole: WhackMoleType = () => {
     [moleState.hit]
   );
 
+  const handleEndButton: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
+    if (timeoutIdRef.current !== null) {
+      clearTimeout(timeoutIdRef.current);
+    }
+    setIsGameStarted(false);
+    setMoleState({
+      hit: new Set(),
+      visible: new Set()
+    });
+  };
+
+  const handleStartButton: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
+    setHitCount(0);
+    stepIndexRef.current = 0;
+    setIsGameStarted(true);
+    showMole();
+  };
+
   useEffect(() => {
     moleSequence.current = generateMoleSequence(TOTAL_STEPS, HOLE_COUNT, MAX_MOLES_PER_STEP);
 
@@ -143,12 +162,7 @@ const WhackMole: WhackMoleType = () => {
             </div>
             <button
               className='button cursor-pointer rounded-lg border-b-[1px] border-amber-700 bg-amber-600 px-5 py-3 [box-shadow:0_10px_0_0_#92400e,0_15px_0_0_#92400e41] transition-all duration-150 select-none active:translate-y-2 active:border-b-[0px] active:[box-shadow:0_0px_0_0_#92400e,0_0px_0_0_#92400e41]'
-              onClick={() => {
-                setHitCount(0);
-                stepIndexRef.current = 0;
-                setIsGameStarted(true);
-                showMole();
-              }}
+              onClick={handleStartButton}
               tabIndex={-1}
               type='button'
             >
@@ -162,16 +176,7 @@ const WhackMole: WhackMoleType = () => {
           <div className='text-sm font-semibold text-amber-700'>{`Score: ${hitCount}`}</div>
           <button
             className='cursor-pointer rounded-lg bg-amber-700 px-2 py-1 text-sm text-white'
-            onClick={() => {
-              if (timeoutIdRef.current !== null) {
-                clearTimeout(timeoutIdRef.current);
-              }
-              setIsGameStarted(false);
-              setMoleState({
-                hit: new Set(),
-                visible: new Set()
-              });
-            }}
+            onClick={handleEndButton}
             tabIndex={-1}
             type='button'
           >

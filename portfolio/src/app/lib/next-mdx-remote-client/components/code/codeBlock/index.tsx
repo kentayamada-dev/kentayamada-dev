@@ -44,7 +44,7 @@ const CodeBlock: CodeBlockType = (props) => {
     })();
   };
 
-  const toggleWordWrap: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
+  const handleWordWrap: ComponentPropsWithoutRef<'button'>['onClick'] = () => {
     setIsWordWrapEnabled((prev) => {
       return !prev;
     });
@@ -69,7 +69,7 @@ const CodeBlock: CodeBlockType = (props) => {
           <button
             aria-label={props.wordWrapLabel}
             className={`${isWordWrapEnabled && 'text-blue-500'} flex size-8 items-center justify-center overflow-hidden rounded-lg p-1.5 hover:cursor-pointer hover:bg-slate-300 hover:dark:bg-slate-600`}
-            onClick={toggleWordWrap}
+            onClick={handleWordWrap}
             title={props.wordWrapLabel}
             type='button'
           >

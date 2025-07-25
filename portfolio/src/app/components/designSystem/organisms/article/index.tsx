@@ -51,8 +51,8 @@ const Article: ArticleType = (props) => {
               {props.content}
             </section>
             <div className='mt-5 flex justify-between px-3 sm:p-0'>
-              <LikeButtonWrapper incrementCountHandler={props.incrementCountHandler} likeCount={props.likeCount} locale={props.locale} />
-              <Share locale={props.locale} url={props.url} />
+              <LikeButtonWrapper likeCount={props.likeCount} locale={props.locale} onCountLike={props.onCountLike} />
+              <Share locale={props.locale} title={props.articleTitle} url={props.url} />
             </div>
           </div>
           <aside className='sticky top-20 hidden self-start md:block'>

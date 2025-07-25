@@ -6,16 +6,16 @@ const useMediaQuery = (callback: VoidFunction): void => {
     const breakpointMd = styles.getPropertyValue('--breakpoint-md');
     const mediaQueryList = window.matchMedia(`(min-width: ${breakpointMd})`);
 
-    const handleMediaQueryChange = (event: MediaQueryListEvent): void => {
+    const onMediaQueryChange = (event: MediaQueryListEvent): void => {
       if (event.matches) {
         callback();
       }
     };
 
-    mediaQueryList.addEventListener('change', handleMediaQueryChange);
+    mediaQueryList.addEventListener('change', onMediaQueryChange);
 
     return (): void => {
-      mediaQueryList.removeEventListener('change', handleMediaQueryChange);
+      mediaQueryList.removeEventListener('change', onMediaQueryChange);
     };
   }, []);
 };

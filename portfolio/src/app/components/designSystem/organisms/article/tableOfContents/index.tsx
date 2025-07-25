@@ -35,7 +35,7 @@ const TableOfContents: TableOfContentsType = (props) => {
     let lastActiveId = '';
     let isTicking = false;
 
-    const handleScroll: VoidFunction = () => {
+    const onScroll: VoidFunction = () => {
       if (!isTicking) {
         window.requestAnimationFrame(() => {
           const scrollPosition = window.scrollY + SCROLL_OFFSET;
@@ -62,16 +62,16 @@ const TableOfContents: TableOfContentsType = (props) => {
       }
     };
 
-    const throttledHandleScroll: VoidFunction = () => {
+    const throttledOnScroll: VoidFunction = () => {
       if (!isTicking) {
-        setTimeout(handleScroll, SCROLL_THROTTLE_DELAY);
+        setTimeout(onScroll, SCROLL_THROTTLE_DELAY);
       }
     };
 
-    window.addEventListener('scroll', throttledHandleScroll);
+    window.addEventListener('scroll', throttledOnScroll);
 
     return (): void => {
-      window.removeEventListener('scroll', throttledHandleScroll);
+      window.removeEventListener('scroll', throttledOnScroll);
     };
   }, [headings]);
 

@@ -10,7 +10,7 @@ type CalculatorInputsType = {
   shares: number;
 };
 
-type CalculatorProps = ConditionalPickType<LikeButtonWrapperProps, 'incrementCountHandler' | 'likeCount'> & ShareProps;
+type CalculatorProps = ConditionalPickType<LikeButtonWrapperProps, 'onCountLike' | 'likeCount'> & ShareProps;
 
 type CalculatorType = ComponentType<CalculatorProps>;
 

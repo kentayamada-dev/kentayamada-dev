@@ -4,7 +4,7 @@ import type { InputWithComboboxType } from './types';
 
 const InputWithCombobox: InputWithComboboxType = (props) => {
   // eslint-disable-next-line react/destructuring-assignment
-  const { handleOptionChange, label, name, optionValue, options, title, ...inputProps } = props;
+  const { handleChangeInput, label, name, optionValue, options, title, ...inputProps } = props;
 
   return (
     <div className='relative'>
@@ -19,7 +19,7 @@ const InputWithCombobox: InputWithComboboxType = (props) => {
           {...inputProps}
         />
         <div>
-          <Listbox onChange={handleOptionChange} value={optionValue}>
+          <Listbox onChange={handleChangeInput} value={optionValue}>
             <ListboxButton
               aria-label={title}
               className='bg-primary flex h-full w-full items-center justify-center rounded-l-none rounded-r-lg pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2'

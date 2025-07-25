@@ -3,9 +3,14 @@ import { memo } from 'react';
 import { ANIMATION_DURATION, HIT_ANIMATION_DURATION } from '../constants';
 import { MoleHead } from './moleHead';
 import { MoleHeadHit } from './moleHeadHit';
+import type { ComponentPropsWithoutRef } from 'react';
 import type { MoleHoleType } from './types';
 
 const MoleHole = memo<Parameters<MoleHoleType>[0]>((props) => {
+  const handleMoleClick: ComponentPropsWithoutRef<'div'>['onClick'] = () => {
+    props.onMoleClick(props.index);
+  };
+
   return (
     <div className='relative overflow-hidden rounded-b-[100px_50px]'>
       <div className='absolute bottom-0 h-7 w-full rounded-[50%] bg-black' />
@@ -13,9 +18,7 @@ const MoleHole = memo<Parameters<MoleHoleType>[0]>((props) => {
         animate={props.isHit ? { rotate: [0, -10, 10, 0] } : { y: props.isVisible ? '0%' : '100%' }}
         className='absolute inset-0 flex cursor-pointer items-end justify-center'
         initial={{ y: '100%' }}
-        onClick={() => {
-          props.onMoleClick(props.index);
-        }}
+        onClick={handleMoleClick}
         role='button'
         tabIndex={-1}
         transition={{
