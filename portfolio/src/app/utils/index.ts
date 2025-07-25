@@ -2,6 +2,7 @@ export { formatNumber } from './formatNumber';
 export { getCurrencyPairs } from './getCurrencyPairs';
 export { getDateString } from './getDateString';
 export { getEntries } from './getEntries';
+export { getGoogleFont } from './getGoogleFont';
 export { getKeysFromObject } from './getKeysFromObject';
 export { getPeriod } from './getPeriod';
 export { getRedisKey } from './getRedisKey';

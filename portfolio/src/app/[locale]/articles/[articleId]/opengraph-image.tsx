@@ -5,15 +5,13 @@ import { join } from 'node:path';
 /* eslint-enable import/no-nodejs-modules */
 import { dictionaries } from '@/constants/i18n';
 import { getArticleBySlug } from '@/lib/graphql-request';
-import { throwColoredError } from '@/utils';
+import { OPENGRAPH_IMAGE_SIZE } from '@/lib/nextjs';
+import { getGoogleFont, throwColoredError } from '@/utils';
 import type { ArticleImageType } from '@/types/components';
 
-const size = {
-  height: 630,
-  width: 1200
-};
-
-const contentType = 'image/png';
+const FONT_NAME = 'Noto+Sans+JP';
+const FONT_BOLD = 700;
+const FONT_STYLE = 'normal';
 
 const Image: ArticleImageType = async (props) => {
   const { articleId, locale } = await props.params;
@@ -26,7 +24,10 @@ const Image: ArticleImageType = async (props) => {
   const { myName } = dictionaries[locale];
   const logoData = await readFile(join(process.cwd(), 'assets/avatar.jpeg'));
   const logoSrc = Uint8Array.from(logoData).buffer;
-  const notoSansJP = await readFile(join(process.cwd(), 'assets/NotoSansJP-Bold.ttf'));
+
+  const topics = article.topics.map((topic) => {
+    return `#${topic}`;
+  });
 
   return new ImageResponse(
     (
@@ -74,7 +75,7 @@ const Image: ArticleImageType = async (props) => {
                 gap: 20
               }}
             >
-              {article.topics.map((topic) => {
+              {topics.map((topic) => {
                 return (
                   <span
                     key={topic}
@@ -83,7 +84,7 @@ const Image: ArticleImageType = async (props) => {
                       fontSize: '1.7rem'
                     }}
                   >
-                    {`#${topic}`}
+                    {topic}
                   </span>
                 );
               })}
@@ -133,15 +134,18 @@ const Image: ArticleImageType = async (props) => {
       </div>
     ),
     {
-      ...size,
       fonts: [
         {
-          data: notoSansJP,
-          name: 'Noto Sans JP'
+          data: await getGoogleFont(FONT_NAME, `${article.title}${topics.join('')}${myName}`, FONT_BOLD),
+          name: FONT_NAME,
+          style: FONT_STYLE,
+          weight: FONT_BOLD
         }
-      ]
+      ],
+      height: OPENGRAPH_IMAGE_SIZE.HEIGHT,
+      width: OPENGRAPH_IMAGE_SIZE.WIDTH
     }
   );
 };
 
-export { contentType, Image as default, size };
+export { Image as default };

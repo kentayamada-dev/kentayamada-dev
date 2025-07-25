@@ -2,25 +2,15 @@ import { ImageResponse } from 'next/og';
 import { contentfulType } from '@/constants/contentful';
 import { envServer } from '@/constants/env';
 import { getUtilityBySlug } from '@/lib/graphql-request';
-import { throwColoredError } from '@/utils';
+import { OPENGRAPH_IMAGE_SIZE } from '@/lib/nextjs';
+import { getGoogleFont, throwColoredError } from '@/utils';
 import type { UtilityImageType } from '@/types/components';
 
-const CONTENT_TYPE = 'image/png';
 const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
 const FONT_NAME = 'Noto+Sans+JP';
 const FONT_BOLD = 700;
 const FONT_REGULAR = 400;
 const FONT_STYLE = 'normal';
-
-const loadGoogleFont = async (font: string, text: string, weight: number): Promise<ArrayBuffer> => {
-  const url = `https://fonts.googleapis.com/css2?family=${font}:wght@${weight}&text=${encodeURIComponent(text)}`;
-  const css = await (await fetch(url)).text();
-  // eslint-disable-next-line @stylistic/wrap-regex
-  const resource = /src: url\((?<url>.+)\) format\('(?<format>opentype|truetype)'\)/u.exec(css);
-  const response = await fetch(resource?.[1] ?? '');
-
-  return response.arrayBuffer();
-};
 
 const Image: UtilityImageType = async (props) => {
   const { locale } = await props.params;
@@ -67,7 +57,7 @@ const Image: UtilityImageType = async (props) => {
           >
             <span
               style={{
-                fontSize: '4.5rem',
+                fontSize: '5rem',
                 fontWeight: 700
               }}
             >
@@ -75,7 +65,7 @@ const Image: UtilityImageType = async (props) => {
             </span>
             <span
               style={{
-                fontSize: '3rem',
+                fontSize: '2rem',
                 marginTop: '1rem'
               }}
             >
@@ -97,22 +87,22 @@ const Image: UtilityImageType = async (props) => {
     {
       fonts: [
         {
-          data: await loadGoogleFont(FONT_NAME, utility.title, FONT_BOLD),
+          data: await getGoogleFont(FONT_NAME, utility.title, FONT_BOLD),
           name: FONT_NAME,
           style: FONT_STYLE,
           weight: FONT_BOLD
         },
         {
-          data: await loadGoogleFont(FONT_NAME, domain, FONT_REGULAR),
+          data: await getGoogleFont(FONT_NAME, domain, FONT_REGULAR),
           name: FONT_NAME,
           style: FONT_STYLE,
           weight: FONT_REGULAR
         }
       ],
-      height: 630,
-      width: 1200
+      height: OPENGRAPH_IMAGE_SIZE.HEIGHT,
+      width: OPENGRAPH_IMAGE_SIZE.WIDTH
     }
   );
 };
 
-export { CONTENT_TYPE, Image as default };
+export { Image as default };
