@@ -106,7 +106,7 @@ const Page: PageType = async (props) => {
           locale={locale}
           onCountLike={handleCountLike}
           title={utility.title}
-          url={`${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`}
+          url={`${envServer.SITE_URL}${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`}
         />
         <div className='bg-primary mt-20 divide-y divide-slate-900/10 rounded-lg p-5 sm:p-10 dark:divide-slate-300/10'>
           <h2 className='text-primary pb-5 text-2xl font-semibold sm:text-2xl'>{faqLabel}</h2>
