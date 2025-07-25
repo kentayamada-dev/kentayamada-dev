@@ -48,7 +48,7 @@ const Image: ArticleImageType = async (props) => {
             boxShadow: '0 0 15px #65778633, 0 0 3px 1px #65778626',
             display: 'flex',
             flexDirection: 'column',
-            height: '90%',
+            height: '95%',
             justifyContent: 'space-between',
             padding: '3.1rem',
             width: '95%'
