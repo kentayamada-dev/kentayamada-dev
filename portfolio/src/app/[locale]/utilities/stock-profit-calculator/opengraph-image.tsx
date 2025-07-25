@@ -73,7 +73,7 @@ const Image: UtilityImageType = async (props) => {
             </span>
             <span
               style={{
-                marginTop: '8rem'
+                marginTop: '7rem'
               }}
             >
               <svg fill='black' height='80' viewBox='-5 -5 160 110'>
