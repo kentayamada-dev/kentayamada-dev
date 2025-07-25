@@ -48,10 +48,10 @@ const Image: ArticleImageType = async (props) => {
             boxShadow: '0 0 15px #65778633, 0 0 3px 1px #65778626',
             display: 'flex',
             flexDirection: 'column',
-            height: '95%',
+            height: '90%',
             justifyContent: 'space-between',
-            padding: '3.1rem',
-            width: '95%'
+            padding: '2.5rem 3rem 4rem',
+            width: '93%'
           }}
         >
           <div
@@ -63,7 +63,7 @@ const Image: ArticleImageType = async (props) => {
           >
             <span
               style={{
-                fontSize: '4.3rem'
+                fontSize: '4rem'
               }}
             >
               {article.title}
@@ -80,7 +80,7 @@ const Image: ArticleImageType = async (props) => {
                     key={topic}
                     style={{
                       color: 'rgba(23, 115, 244, 1)',
-                      fontSize: '2rem'
+                      fontSize: '1.7rem'
                     }}
                   >
                     {`#${topic}`}
@@ -109,7 +109,7 @@ const Image: ArticleImageType = async (props) => {
                 }}
               >
                 <img
-                  height='80'
+                  height='85'
                   // @ts-expect-error type error
                   src={logoSrc}
                   style={{
@@ -118,7 +118,7 @@ const Image: ArticleImageType = async (props) => {
                 />
                 <span
                   style={{
-                    fontSize: '3rem'
+                    fontSize: '2.7rem'
                   }}
                 >
                   {myName}
