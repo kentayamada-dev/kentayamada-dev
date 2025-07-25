@@ -67,6 +67,8 @@ type GenerateMetadataType = AsyncMetadataComponentType<PageProps>;
 
 type ArticleImageType = AsyncImageComponentType<ArticlePageProps>;
 
+type UtilityImageType = AsyncImageComponentType<PageProps>;
+
 type ArticlePageType = AsyncComponentType<ArticlePageProps>;
 
 type PageType = AsyncComponentType<PageProps>;
@@ -98,5 +100,6 @@ export type {
   NotFoundPageType,
   PageType,
   RequiredCallbackType,
-  StrictOmitType
+  StrictOmitType,
+  UtilityImageType
 };

@@ -8,7 +8,7 @@ import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/graphql-request';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
-import { getMetadataObject } from '@/lib/nextjs';
+import { OPENGRAPH_IMAGE_PATH, getMetadataObject } from '@/lib/nextjs';
 import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
@@ -25,17 +25,19 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     return throwColoredError(`metadata <${stockProfitCalculatorId}> is empty`, 'red');
   }
 
+  const currentPath = `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`;
+
   return getMetadataObject(
     'website',
     {
-      current: `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`,
+      current: currentPath,
       en: `${navigationItems('en').utilities.href}/${stockProfitCalculatorId}`,
       ja: `${navigationItems('ja').utilities.href}/${stockProfitCalculatorId}`
     },
     locale,
     metadata.description,
     metadata.title,
-    metadata.coverImage.url,
+    `${currentPath}${OPENGRAPH_IMAGE_PATH}`,
     new Date(metadata.sys.publishedAt),
     new Date(metadata.sys.firstPublishedAt)
   );
