@@ -47,16 +47,20 @@ const Article: ArticleType = (props) => {
         </div>
         <div className='mt-20 grid [grid-template-areas:"left_right"] md:gap-x-8'>
           <div className='max-w-none overflow-auto'>
-            <section className={`${ARTICLE_CLASS_NAME} bg-primary prose dark:prose-invert max-w-none rounded-lg p-7 sm:p-10`}>
+            <section className={`${ARTICLE_CLASS_NAME} bg-primary prose dark:prose-invert max-w-none rounded-none p-7 sm:rounded-lg sm:p-10`}>
               {props.content}
             </section>
-            <div className='mt-5 flex justify-between px-3 sm:p-0'>
+            <div className='mt-5 flex justify-between px-3 sm:p-0 md:hidden'>
               <LikeButtonWrapper likeCount={props.likeCount} locale={props.locale} onCountLike={props.onCountLike} />
               <Share locale={props.locale} title={props.articleTitle} url={props.url} />
             </div>
           </div>
           <aside className='sticky top-20 hidden self-start md:block'>
             <DesktopTableOfContents articleClassName={ARTICLE_CLASS_NAME} title={props.tocTitle} />
+            <div className='mt-16 flex justify-between px-3 sm:p-0'>
+              <LikeButtonWrapper likeCount={props.likeCount} locale={props.locale} onCountLike={props.onCountLike} />
+              <Share locale={props.locale} title={props.articleTitle} url={props.url} />
+            </div>
           </aside>
         </div>
       </article>
