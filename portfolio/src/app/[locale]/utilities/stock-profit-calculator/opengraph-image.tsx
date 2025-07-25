@@ -52,7 +52,7 @@ const Image: UtilityImageType = async (props) => {
               alignItems: 'center',
               display: 'flex',
               flexDirection: 'column',
-              marginTop: '5rem'
+              marginTop: '4rem'
             }}
           >
             <span
@@ -65,7 +65,7 @@ const Image: UtilityImageType = async (props) => {
             </span>
             <span
               style={{
-                fontSize: '2rem',
+                fontSize: '2.5rem',
                 marginTop: '1rem'
               }}
             >
@@ -73,7 +73,7 @@ const Image: UtilityImageType = async (props) => {
             </span>
             <span
               style={{
-                marginTop: '7rem'
+                marginTop: '6rem'
               }}
             >
               <svg fill='black' height='80' viewBox='-5 -5 160 110'>
