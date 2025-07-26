@@ -1,26 +1,24 @@
 import { ImageResponse } from 'next/og';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
-import { getUtilityBySlug } from '@/lib/graphql-request';
+import { getMetadata } from '@/lib/graphql-request';
 import { OG } from '@/lib/nextjs';
 import { getGoogleFont, throwColoredError } from '@/utils';
 import type { UtilityImageType } from '@/types/components';
 
 const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
-const FONT_NAME = 'Noto+Sans+JP';
+const FONT_NAME = 'Noto Sans JP';
 const FONT_BOLD = 700;
 const FONT_REGULAR = 400;
-const FONT_STYLE = 'normal';
 
 const Image: UtilityImageType = async (props) => {
   const { locale } = await props.params;
-  const utility = await getUtilityBySlug(locale, STOCK_PROFIT_CALCULATOR_ID);
+  const metadata = await getMetadata(locale, STOCK_PROFIT_CALCULATOR_ID);
 
-  if (utility === null) {
-    return throwColoredError(`utility <${STOCK_PROFIT_CALCULATOR_ID}> is empty`, 'red');
+  if (metadata === null) {
+    return throwColoredError(`metadata <${STOCK_PROFIT_CALCULATOR_ID}> is empty`, 'red');
   }
 
-  const domain = new URL(envServer.SITE_URL).hostname;
+  const title = metadata.title.toUpperCase();
 
   return new ImageResponse(
     (
@@ -29,9 +27,10 @@ const Image: UtilityImageType = async (props) => {
           alignItems: 'center',
           backgroundImage: 'linear-gradient(90deg, rgba(23, 115, 244, 1), rgba(14, 244, 255, 1))',
           display: 'flex',
-          fontFamily: 'Noto Sans JP',
+          fontFamily: FONT_NAME,
           height: '100%',
           justifyContent: 'center',
+          textAlign: 'center',
           width: '100%'
         }}
       >
@@ -39,41 +38,43 @@ const Image: UtilityImageType = async (props) => {
           style={{
             background: 'white',
             borderRadius: '1rem',
-            boxShadow: '0 0 15px #65778633, 0 0 3px 1px #65778626',
+            boxShadow: '0px 4px 16px rgba(17,17,26,0.1), 0px 8px 24px rgba(17,17,26,0.1), 0px 16px 56px rgba(17,17,26,0.1)',
             display: 'flex',
-            height: '90%',
+            height: '87%',
             justifyContent: 'center',
-            padding: '2.5rem 3rem 4rem',
-            width: '93%'
+            padding: '3rem',
+            width: '90%'
           }}
         >
           <div
             style={{
               alignItems: 'center',
               display: 'flex',
-              flexDirection: 'column',
-              marginTop: '4rem'
+              flexDirection: 'column'
             }}
           >
             <span
               style={{
-                fontSize: '5rem',
-                fontWeight: 700
+                fontSize: locale === 'ja' ? '7rem' : '4.3rem',
+                fontWeight: FONT_BOLD,
+                marginTop: locale === 'ja' ? '0' : '4rem'
               }}
             >
-              {utility.title}
+              {title}
             </span>
             <span
               style={{
-                fontSize: '2.5rem',
-                marginTop: '1rem'
+                fontSize: locale === 'ja' ? '2rem' : '1.7rem',
+                marginTop: '2.5rem'
               }}
             >
-              {domain}
+              {metadata.description}
             </span>
             <span
               style={{
-                marginTop: '6rem'
+                justifyContent: 'flex-end',
+                marginTop: 'auto',
+                width: '100%'
               }}
             >
               <svg fill='black' height='80' viewBox='-5 -5 160 110'>
@@ -87,15 +88,17 @@ const Image: UtilityImageType = async (props) => {
     {
       fonts: [
         {
-          data: await getGoogleFont(FONT_NAME, utility.title, FONT_BOLD),
+          data: await getGoogleFont(
+            `https://fonts.googleapis.com/css2?family=${FONT_NAME.replace(/\s/gu, '+')}:wght@${FONT_BOLD}&text=${encodeURIComponent(title)}`
+          ),
           name: FONT_NAME,
-          style: FONT_STYLE,
           weight: FONT_BOLD
         },
         {
-          data: await getGoogleFont(FONT_NAME, domain, FONT_REGULAR),
+          data: await getGoogleFont(
+            `https://fonts.googleapis.com/css2?family=${FONT_NAME.replace(/\s/gu, '+')}:wght@${FONT_REGULAR}&text=${encodeURIComponent(metadata.description)}`
+          ),
           name: FONT_NAME,
-          style: FONT_STYLE,
           weight: FONT_REGULAR
         }
       ],

@@ -1,5 +1,4 @@
-const getGoogleFont = async (font: string, text: string, weight: number): Promise<ArrayBuffer> => {
-  const url = `https://fonts.googleapis.com/css2?family=${font}:wght@${weight}&text=${encodeURIComponent(text)}`;
+const getGoogleFont = async (url: string): Promise<ArrayBuffer> => {
   const css = await (await fetch(url)).text();
   // eslint-disable-next-line @stylistic/wrap-regex
   const resource = /src: url\((?<url>.+)\) format\('(?<format>opentype|truetype)'\)/u.exec(css);
