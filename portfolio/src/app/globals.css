@@ -52,6 +52,10 @@
   html.dark .shiki span {
     color: var(--shiki-dark) !important;
   }
+  p {
+    word-break: auto-phrase;
+    text-wrap: pretty;
+  }
 }
 
 @utility border-primary {
