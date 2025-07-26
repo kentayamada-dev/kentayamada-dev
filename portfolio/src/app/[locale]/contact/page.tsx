@@ -83,7 +83,7 @@ const Page: PageType = async (props) => {
                     <LocationIcon />
                   </div>
                 </dt>
-                <dd className='text-md font-medium'>{contactLabel.locationValue}</dd>
+                <dd className='font-medium'>{contactLabel.locationValue}</dd>
               </div>
               <div className='flex items-center gap-x-4'>
                 <dt>
@@ -93,7 +93,7 @@ const Page: PageType = async (props) => {
                   </div>
                 </dt>
                 <dd>
-                  <Link className='link-primary text-md font-medium' href={`mailto:${EMAIL}`}>
+                  <Link className='link-primary font-medium' href={`mailto:${EMAIL}`}>
                     {EMAIL}
                   </Link>
                 </dd>

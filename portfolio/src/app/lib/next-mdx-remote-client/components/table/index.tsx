@@ -17,7 +17,7 @@ const Table: TableType = (props) => {
   }, []);
 
   return (
-    <div className='custom-table not-prose' ref={ref}>
+    <div className='not-prose custom-table' ref={ref}>
       <table {...props} />
     </div>
   );

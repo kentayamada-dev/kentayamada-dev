@@ -22,7 +22,7 @@ const InputWithCombobox: InputWithComboboxType = (props) => {
           <Listbox onChange={handleChangeInput} value={optionValue}>
             <ListboxButton
               aria-label={title}
-              className='bg-primary flex h-full w-full items-center justify-center rounded-l-none rounded-r-lg pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2'
+              className='bg-primary flex size-full items-center justify-center rounded-l-none rounded-r-lg pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2'
               title={title}
             >
               <div className='mr-1.5 text-black dark:text-white'>{optionValue}</div>

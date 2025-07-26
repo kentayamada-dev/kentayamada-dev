@@ -20,7 +20,7 @@ const Span: SpanType = (props) => {
 
   return (
     <span
-      className={className === 'katex-display' ? `${className} !m-0 overflow-auto py-7` : className}
+      className={className === 'katex-display' ? `${className} overflow-auto py-7` : className}
       ref={className === 'katex-display' ? spanRef : null}
       {...rest}
     />

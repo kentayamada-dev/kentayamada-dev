@@ -60,7 +60,7 @@ const CodeBlock: CodeBlockType = (props) => {
 
   return (
     <div className='overflow-hidden rounded-lg border border-slate-300 text-sm dark:border-slate-600'>
-      <div className='text-md flex justify-between border-b border-slate-300 bg-slate-300/50 px-4 py-1.5 dark:border-slate-600 dark:bg-slate-700'>
+      <div className='flex justify-between border-b border-slate-300 bg-slate-300/50 px-4 py-1.5 dark:border-slate-600 dark:bg-slate-700'>
         <div className='flex items-center gap-2'>
           <div className='size-4'>{getIcons(props.lang)}</div>
           <div>{props.title}</div>

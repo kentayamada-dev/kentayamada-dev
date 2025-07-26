@@ -104,10 +104,10 @@ const ContactForm: ContactFormType = (props) => {
               // eslint-disable-next-line no-restricted-syntax
               render={({ field: { ref, value, ...rest } }) => {
                 return (
-                  <Listbox as='div' className='h-full w-full' value={value} {...rest}>
+                  <Listbox as='div' className='size-full' value={value} {...rest}>
                     <ListboxButton
                       aria-label={selectCountryCodeLabel}
-                      className={`${props.state.errors?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex h-full w-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
+                      className={`${props.state.errors?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex size-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
                       ref={ref}
                       title={selectCountryCodeLabel}
                     >

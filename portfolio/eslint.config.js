@@ -9,6 +9,7 @@ import { vitestExtend, vitestPlugin, vitestPrefix, vitestRule, vitestGlobals } f
 import { nextExtend, nextPlugin, nextPrefix, nextRule } from './.eslint/next.js';
 import { reactHooksExtend, reactHooksPlugin, reactHooksPrefix, reactHooksRule } from './.eslint/react-hooks.js';
 import { storybookExtend, storybookPlugin, storybookPrefix, storybookRule } from './.eslint/storybook.js';
+import { tailwindcssExtend, tailwindcssPlugin, tailwindcssPrefix, tailwindcssRule } from './.eslint/tailwindcss.js';
 import { eslintCommentsExtend, eslintCommentsPlugin, eslintCommentsPrefix, eslintCommentsRule } from './.eslint/eslint-comments.js';
 import {
   sortDestructureKeysExtend,
@@ -29,7 +30,7 @@ export default tseslintPlugin.config(
         node: true
       },
       'import/cache': {
-        'lifetime': '∞'
+        lifetime: '∞'
       }
     },
     languageOptions: {
@@ -81,6 +82,9 @@ export default tseslintPlugin.config(
     settings: {
       react: {
         version: 'detect'
+      },
+      'better-tailwindcss': {
+        entryPoint: `${import.meta.dirname}/src/app/globals.css`
       }
     },
     languageOptions: {
@@ -89,13 +93,15 @@ export default tseslintPlugin.config(
     plugins: {
       [reactPrefix]: reactPlugin,
       [nextPrefix]: nextPlugin,
-      [reactHooksPrefix]: reactHooksPlugin
+      [reactHooksPrefix]: reactHooksPlugin,
+      [tailwindcssPrefix]: tailwindcssPlugin
     },
-    extends: [reactExtend, nextExtend, reactHooksExtend],
+    extends: [reactExtend, nextExtend, reactHooksExtend, tailwindcssExtend],
     rules: {
       ...reactRule,
       ...nextRule,
       ...reactHooksRule,
+      ...tailwindcssRule,
       '@stylistic/jsx-quotes': ['error', 'prefer-single'],
       [`${customPrefix}/${customPluginRulesName.jsxSpreadPropsLast}`]: 'error'
     }

@@ -24,7 +24,7 @@ const Header: HeaderType = (props) => {
           <KyIcon />
         </Link>
       </span>
-      <span className='gap-x-reverse flex items-center gap-x-2'>
+      <span className='flex items-center gap-x-2'>
         <span className='hidden md:block'>
           <NavItemsWrapper locale={props.locale} navLabel={globalNavLabel} />
         </span>
