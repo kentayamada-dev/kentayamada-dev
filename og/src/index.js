@@ -25,7 +25,7 @@ const FONT_MEDIUM = 500;
 const FONT_STYLE = "normal";
 
 export default {
-  async fetch(request, env, ctx) {
+  async fetch(request) {
     const { searchParams } = new URL(request.url);
 
     const readArticle = "Read Article";
@@ -108,6 +108,8 @@ export default {
                   fontSize: "0.9rem",
                   marginTop: "0.5rem",
                   color: textColor,
+                  wordBreak: "auto-phrase",
+                  textWrap: "pretty"
                 },
                 children: subtitle,
               },
