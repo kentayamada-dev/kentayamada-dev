@@ -25,10 +25,10 @@ const generateStaticParams: TopicGenerateStaticParamsType = async () => {
 
 const generateMetadata: TopicGenerateMetadataType = async (props) => {
   const { locale, topicId } = await props.params;
-  const metadata = await getMetadata(locale, contentfulType.metadata.articles);
+  const metadata = await getMetadata(locale, contentfulType.metadata.topics);
 
   if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.articles}> is empty`, 'red');
+    return throwColoredError(`metadata <${contentfulType.metadata.topics}> is empty`, 'red');
   }
 
   const topicPath = `${navigationItems(locale).topics.href}/${topicId}`;
