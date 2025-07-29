@@ -2,12 +2,14 @@ import { envServer } from '@/constants/env';
 import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
 import { getSitemap } from '@/lib/graphql-request';
+import { getTopics } from '@/lib/rest-request';
 import { isDefined } from '@/typeGuards';
 import type { MetadataRoute } from 'next';
 
 const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
   const today = new Date();
   const { articleItems, utilityItems } = await getSitemap();
+  const topics = await getTopics();
 
   const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Sitemap[0] => {
     return {
@@ -34,7 +36,13 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
     });
   });
 
-  return [...staticPaths, ...articlePaths, ...utilityPaths];
+  const topicsPaths = arrayOfLocales.flatMap((locale) => {
+    return topics.slugs.map((topic) => {
+      return createSitemapEntry(`${envServer.SITE_URL}${navigationItems(locale).topics.href}/${topic}`, topics.updatedAt);
+    });
+  });
+
+  return [...staticPaths, ...articlePaths, ...utilityPaths, ...topicsPaths];
 };
 
 export { sitemap as default };
