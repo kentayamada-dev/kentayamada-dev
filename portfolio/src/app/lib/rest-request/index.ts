@@ -2,9 +2,9 @@
 
 import { restRequest } from './client';
 import { TopicSchema } from './schema';
-import type { SlugsType } from '@/types/contentful';
+import type { GetTopicsType } from './types';
 
-const getTopics = async (): Promise<SlugsType> => {
+const getTopics = async (): Promise<GetTopicsType> => {
   const response = await restRequest('contentful');
   const topics = TopicSchema.parse(response);
 
@@ -14,10 +14,10 @@ const getTopics = async (): Promise<SlugsType> => {
         return field.id === 'topics';
       })
       ?.items?.validations[0]?.in.map((topic) => {
-        return { slug: encodeURIComponent(topic) };
+        return encodeURIComponent(topic);
       }) ?? [];
 
-  return topicSlugs;
+  return { createdAt: topics.sys.createdAt, slugs: topicSlugs, updatedAt: topics.sys.updatedAt };
 };
 
 export { getTopics };

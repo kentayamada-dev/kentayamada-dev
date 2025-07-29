@@ -14,7 +14,11 @@ const TopicSchema = z.object({
         })
         .optional()
     })
-  )
+  ),
+  sys: z.object({
+    createdAt: z.string().datetime(),
+    updatedAt: z.string().datetime()
+  })
 });
 
 export { TopicSchema };

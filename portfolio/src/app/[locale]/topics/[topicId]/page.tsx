@@ -1,36 +1,31 @@
 import { notFound } from 'next/navigation';
 import { ArticleList } from '@/components/designSystem/molecules';
 import { HashTagIcon } from '@/components/icons';
-import { contentfulType } from '@/constants/contentful';
 import { envServer } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getArticlesByTopic, getMetadata } from '@/lib/graphql-request';
+import { getArticlesByTopic } from '@/lib/graphql-request';
 import { OG, getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { getTopics } from '@/lib/rest-request';
-import { getRedisKey, throwColoredError } from '@/utils';
+import { getRedisKey } from '@/utils';
 import type { TopicGenerateMetadataType, TopicGenerateStaticParamsType, TopicPageType } from '@/types/components';
 
 const generateStaticParams: TopicGenerateStaticParamsType = async () => {
-  const topicSlugs = await getTopics();
+  const topics = await getTopics();
 
-  return topicSlugs.map((topic) => {
+  return topics.slugs.map((slug) => {
     return {
-      topicId: topic.slug
+      topicId: slug
     };
   });
 };
 
 const generateMetadata: TopicGenerateMetadataType = async (props) => {
   const { locale, topicId } = await props.params;
-  const metadata = await getMetadata(locale, contentfulType.metadata.topics);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.topics}> is empty`, 'red');
-  }
-
+  const topic = decodeURIComponent(topicId);
+  const topics = await getTopics();
   const topicPath = `${navigationItems(locale).topics.href}/${topicId}`;
 
   return getMetadataObject(
@@ -41,11 +36,11 @@ const generateMetadata: TopicGenerateMetadataType = async (props) => {
       ja: `${navigationItems('ja').topics.href}/${topicId}`
     },
     locale,
-    metadata.description,
-    metadata.title,
+    locale === 'en' ? `Explore our comprehensive list of ${topic} articles` : `${topic}に関する記事一覧をご覧ください`,
+    locale === 'en' ? `List of ${topic} Articles` : `${topic}の記事一覧`,
     `${topicPath}${OG.PATH}`,
-    new Date(metadata.sys.publishedAt),
-    new Date(metadata.sys.firstPublishedAt)
+    new Date(topics.updatedAt),
+    new Date(topics.createdAt)
   );
 };
 

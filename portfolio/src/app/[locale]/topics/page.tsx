@@ -40,10 +40,10 @@ const Page: PageType = async (props) => {
 
   const navigation = navigationItems(locale);
 
-  const topics = (await getTopics()).map((topic) => {
+  const topics = (await getTopics()).slugs.map((slug) => {
     return {
-      href: `${navigation.topics.href}/${topic.slug}`,
-      title: decodeURIComponent(topic.slug)
+      href: `${navigation.topics.href}/${slug}`,
+      title: decodeURIComponent(slug)
     };
   });
 
