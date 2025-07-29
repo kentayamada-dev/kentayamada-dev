@@ -36,9 +36,12 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const title = dictionaries[locale].utilities;
-  const utilitiesHref = navigationItems(locale).utilities.href;
-  const { home: homeLabel, utilities: utilitiesLabel } = dictionaries[locale].navigation;
+  const navigation = navigationItems(locale);
+
+  const {
+    navigation: { home: homeLabel, utilities: utilitiesLabel },
+    utilities: title
+  } = dictionaries[locale];
 
   const utilities = await Promise.all(
     (await getUtilities(locale)).map(async (utility) => {
@@ -46,7 +49,7 @@ const Page: PageType = async (props) => {
       const likeCount = await getCount(getRedisKey('utility', 'like', utility.slug));
 
       return {
-        href: `${utilitiesHref}/${utility.slug}`,
+        href: `${navigation.utilities.href}/${utility.slug}`,
         likeCount,
         subtitle: utility.subtitle,
         title: utility.title,
@@ -61,7 +64,7 @@ const Page: PageType = async (props) => {
     'itemListElement': [
       {
         '@type': 'ListItem',
-        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'item': `${envServer.SITE_URL}${navigation.home.href}`,
         'name': homeLabel,
         'position': 1
       },
@@ -70,14 +73,15 @@ const Page: PageType = async (props) => {
         'name': utilitiesLabel,
         'position': 2
       }
-    ]
+    ],
+    'name': navigation.utilities.href
   };
 
   return (
     <>
       <JsonLd jsonLd={jsonLd} />
       <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
-        <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
+        <h1 className='text-primary mb-8 text-3xl font-bold tracking-tight sm:text-4xl'>{title}</h1>
         <UtilitiesList locale={locale} utilities={utilities} />
       </main>
     </>

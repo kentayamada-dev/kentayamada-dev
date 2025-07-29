@@ -59,11 +59,12 @@ const Page: ArticlePageType = async (props) => {
     return notFound();
   }
 
-  const articlesDict = dictionaries[locale].articles;
-  const articlesHref = navigationItems(locale).articles.href;
+  const navigation = navigationItems(locale);
+  const { articles: articlesDict, myName } = dictionaries[locale];
   const viewKey = getRedisKey('article', 'view', articleId);
   const likeKey = getRedisKey('article', 'like', articleId);
   const articleLikeCount = await getCount(likeKey);
+  const { content } = await getEvaluateResult(article.content, locale);
 
   const articles = await Promise.all(
     (await getArticles(locale, 2)).map(async (articleData) => {
@@ -72,7 +73,7 @@ const Page: ArticlePageType = async (props) => {
 
       return {
         createdAt: new Date(article.sys.firstPublishedAt),
-        href: `${articlesHref}/${articleData.slug}`,
+        href: `${navigation.articles.href}/${articleData.slug}`,
         likeCount,
         subtitle: article.subtitle,
         title: articleData.title,
@@ -82,9 +83,6 @@ const Page: ArticlePageType = async (props) => {
     })
   );
 
-  const { content } = await getEvaluateResult(article.content, locale);
-  const { myName } = dictionaries[locale];
-
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -92,18 +90,18 @@ const Page: ArticlePageType = async (props) => {
       {
         '@type': 'Person',
         'name': myName,
-        'url': `${envServer.SITE_URL}${navigationItems(locale).home.href}`
+        'url': `${envServer.SITE_URL}${navigation.home.href}`
       }
     ],
     'dateModified': article.sys.publishedAt,
     'datePublished': article.sys.firstPublishedAt,
     'headline': article.title,
-    'image': [`${navigationItems(locale).articles.href}/${articleId}${OG.PATH}`],
+    'image': [`${envServer.SITE_URL}${navigation.articles.href}/${articleId}${OG.PATH}`],
     'publisher': [
       {
         '@type': 'Organization',
         'name': metadata.title,
-        'url': `${envServer.SITE_URL}${navigationItems(locale).home.href}`
+        'url': `${envServer.SITE_URL}${navigation.home.href}`
       }
     ]
   };
@@ -112,6 +110,13 @@ const Page: ArticlePageType = async (props) => {
     'use server';
     await incrementCount(likeKey);
   };
+
+  const topics = article.topics.sort().map((topic) => {
+    return {
+      path: `${navigation.topics.href}/${encodeURIComponent(topic)}`,
+      title: topic
+    };
+  });
 
   return (
     <>
@@ -126,12 +131,12 @@ const Page: ArticlePageType = async (props) => {
           locale={locale}
           onCountLike={handleCountLike}
           tocTitle={articlesDict.toc}
-          topics={article.topics.sort()}
+          topics={topics}
           updatedAt={new Date(article.sys.publishedAt)}
-          url={`${envServer.SITE_URL}${navigationItems(locale).articles.href}/${articleId}`}
+          url={`${envServer.SITE_URL}${navigation.articles.href}/${articleId}`}
         />
         <div className='mt-20 w-full px-5 sm:px-0'>
-          <h2 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{articlesDict.recommend}</h2>
+          <h2 className='text-primary mb-8 text-3xl font-bold tracking-tight sm:text-4xl'>{articlesDict.recommend}</h2>
           <ArticleList articles={articles} locale={locale} />
         </div>
       </main>

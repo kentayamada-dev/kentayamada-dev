@@ -25,19 +25,19 @@ const generateMetadata: GenerateMetadataType = async (props) => {
     return throwColoredError(`metadata <${stockProfitCalculatorId}> is empty`, 'red');
   }
 
-  const currentPath = `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`;
+  const stockProfitCalculatorPath = `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`;
 
   return getMetadataObject(
     'website',
     {
-      current: currentPath,
+      current: stockProfitCalculatorPath,
       en: `${navigationItems('en').utilities.href}/${stockProfitCalculatorId}`,
       ja: `${navigationItems('ja').utilities.href}/${stockProfitCalculatorId}`
     },
     locale,
     metadata.description,
     metadata.title,
-    `${currentPath}${OG.PATH}`,
+    `${stockProfitCalculatorPath}${OG.PATH}`,
     new Date(metadata.sys.publishedAt),
     new Date(metadata.sys.firstPublishedAt)
   );
@@ -50,12 +50,17 @@ const Page: PageType = async (props) => {
   if (utility === null) {
     return notFound();
   }
+  const navigation = navigationItems(locale);
+  const stockProfitCalculatorPath = `${navigation.utilities.href}/${stockProfitCalculatorId}`;
 
-  const faqLabel = dictionaries[locale].faq;
+  const {
+    faq: faqLabel,
+    navigation: { home: homeLabel, utilities: utilitiesLabel }
+  } = dictionaries[locale];
+
   const utilityViewKey = getRedisKey('utility', 'view', stockProfitCalculatorId);
   const utilityLikeKey = getRedisKey('utility', 'like', stockProfitCalculatorId);
   const utilityLikeCount = await getCount(utilityLikeKey);
-  const { home: homeLabel, utilities: utilitiesLabel } = dictionaries[locale].navigation;
 
   const faqs = await Promise.all(
     (await getFaqs(locale, contentfulType.faq.calculator)).map(async (faq) => {
@@ -74,13 +79,13 @@ const Page: PageType = async (props) => {
     'itemListElement': [
       {
         '@type': 'ListItem',
-        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'item': `${envServer.SITE_URL}${navigation.home.href}`,
         'name': homeLabel,
         'position': 1
       },
       {
         '@type': 'ListItem',
-        'item': `${envServer.SITE_URL}${navigationItems(locale).utilities.href}`,
+        'item': `${envServer.SITE_URL}${navigation.utilities.href}`,
         'name': utilitiesLabel,
         'position': 2
       },
@@ -89,7 +94,8 @@ const Page: PageType = async (props) => {
         'name': utility.title,
         'position': 3
       }
-    ]
+    ],
+    'name': stockProfitCalculatorPath
   };
 
   const handleCountLike = async (): Promise<void> => {
@@ -102,13 +108,13 @@ const Page: PageType = async (props) => {
       <JsonLd jsonLd={jsonLd} />
       <ViewTracker keyName={utilityViewKey} />
       <main className='w-full self-center px-5 py-10 sm:px-10 sm:py-20 md:max-w-4xl'>
-        <h1 className='text-primary mb-10 text-center text-3xl font-semibold sm:text-4xl'>{utility.title}</h1>
+        <h1 className='text-primary mb-10 text-center text-3xl font-semibold tracking-tight sm:text-5xl'>{utility.title}</h1>
         <Calculator
           likeCount={utilityLikeCount}
           locale={locale}
           onCountLike={handleCountLike}
           title={utility.title}
-          url={`${envServer.SITE_URL}${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`}
+          url={`${envServer.SITE_URL}${stockProfitCalculatorPath}`}
         />
         <div className='bg-primary mt-20 divide-y divide-slate-900/10 rounded-lg p-5 sm:p-10 dark:divide-slate-300/10'>
           <h2 className='text-primary pb-5 text-2xl font-semibold sm:text-2xl'>{faqLabel}</h2>

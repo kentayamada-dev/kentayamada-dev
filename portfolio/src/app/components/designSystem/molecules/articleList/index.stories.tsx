@@ -14,7 +14,6 @@ const meta = {
         likeCount: 0,
         subtitle: 'Learn the basics of React',
         title: 'React for Beginners',
-        topics: ['React', 'JavaScript'],
         viewCount: 120
       },
       {
@@ -23,7 +22,6 @@ const meta = {
         likeCount: 30,
         subtitle: 'Advanced TypeScript techniques',
         title: 'Mastering TypeScript',
-        topics: [],
         viewCount: 0
       },
       {
@@ -32,7 +30,6 @@ const meta = {
         likeCount: 0,
         subtitle: 'Building scalable applications',
         title: 'Scalable React Apps',
-        topics: ['React', 'TypeScript', 'Architecture'],
         viewCount: 0
       },
       {
@@ -41,7 +38,6 @@ const meta = {
         likeCount: 15,
         subtitle: 'Understanding JavaScript closures',
         title: 'JavaScript Closures Explained',
-        topics: ['JavaScript'],
         viewCount: 50
       }
     ],

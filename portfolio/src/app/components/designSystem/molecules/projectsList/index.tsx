@@ -12,7 +12,7 @@ const ProjectsList: ProjectsListType = (props) => {
         return (
           <Link className='bg-primary hover-primary flex min-h-72 flex-col rounded-lg p-5' href={url} key={name}>
             <h2 className='text-primary text-2xl font-bold'>{name}</h2>
-            <p className='text-secondary mt-2 text-base'>{description}</p>
+            <p className='text-secondary mt-4 text-base'>{description}</p>
             <div className='mt-auto pt-5'>
               <div className='text-secondary flex justify-between text-base font-semibold'>
                 <div className='flex gap-x-3'>
@@ -31,7 +31,7 @@ const ProjectsList: ProjectsListType = (props) => {
                 </div>
                 <div className='flex flex-col gap-1'>
                   <div className='flex items-center gap-x-1'>
-                    <span className='size-4'>
+                    <span className='size-5'>
                       <ClockHistoryIcon />
                     </span>
                     <time className='text-secondary text-sm' dateTime={updatedAt.toISOString()} itemProp='dateModified'>
@@ -39,7 +39,7 @@ const ProjectsList: ProjectsListType = (props) => {
                     </time>
                   </div>
                   <div className='flex items-center gap-x-1'>
-                    <span className='size-4'>
+                    <span className='size-5'>
                       <ClockIcon />
                     </span>
                     <time className='text-secondary text-sm' dateTime={createdAt.toISOString()} itemProp='datePublished'>

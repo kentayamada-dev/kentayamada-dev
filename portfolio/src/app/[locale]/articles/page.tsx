@@ -32,9 +32,13 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const title = dictionaries[locale].articles.latest;
-  const articlesHref = navigationItems(locale).articles.href;
-  const { articles: articlesLabel, home: homeLabel } = dictionaries[locale].navigation;
+
+  const {
+    articles: { latest: title },
+    navigation: { articles: articlesLabel, home: homeLabel }
+  } = dictionaries[locale];
+
+  const navigation = navigationItems(locale);
 
   const articles = await Promise.all(
     (await getArticles(locale)).map(async (article) => {
@@ -43,7 +47,7 @@ const Page: PageType = async (props) => {
 
       return {
         createdAt: new Date(article.sys.firstPublishedAt),
-        href: `${articlesHref}/${article.slug}`,
+        href: `${navigation.articles.href}/${article.slug}`,
         likeCount,
         subtitle: article.subtitle,
         title: article.title,
@@ -59,7 +63,7 @@ const Page: PageType = async (props) => {
     'itemListElement': [
       {
         '@type': 'ListItem',
-        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'item': `${envServer.SITE_URL}${navigation.home.href}`,
         'name': homeLabel,
         'position': 1
       },
@@ -68,14 +72,15 @@ const Page: PageType = async (props) => {
         'name': articlesLabel,
         'position': 2
       }
-    ]
+    ],
+    'name': navigation.articles.href
   };
 
   return (
     <>
       <JsonLd jsonLd={jsonLd} />
       <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
-        <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
+        <h1 className='text-primary mb-8 text-3xl font-bold tracking-tight sm:text-4xl'>{title}</h1>
         <ArticleList articles={articles} locale={locale} />
       </main>
     </>

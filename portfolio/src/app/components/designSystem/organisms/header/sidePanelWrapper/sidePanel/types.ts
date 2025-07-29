@@ -1,12 +1,12 @@
 import type { CopyRightProps } from '@/components/designSystem/atoms';
 import type { LocaleKeyType } from '@/constants/i18n/types';
-import type { NavigationType } from '@/constants/navigation/types';
+import type { NavigationItemType } from '@/constants/navigation/types';
 import type { ComponentType } from '@/types/components';
 
 type SidePanelProps = CopyRightProps & {
   currentPathname: string;
   isOpened: boolean;
-  items: NavigationType;
+  items: Record<string, NavigationItemType>;
   locale: LocaleKeyType;
   onToggle: VoidFunction;
 };

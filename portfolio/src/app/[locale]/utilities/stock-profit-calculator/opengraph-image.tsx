@@ -57,6 +57,7 @@ const Image: UtilityImageType = async (props) => {
               style={{
                 fontSize: locale === 'ja' ? '7rem' : '4.3rem',
                 fontWeight: FONT_BOLD,
+                letterSpacing: '-0.025em',
                 marginTop: locale === 'ja' ? '0' : '4rem'
               }}
             >

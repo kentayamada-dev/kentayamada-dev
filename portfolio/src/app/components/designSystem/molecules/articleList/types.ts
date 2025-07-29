@@ -8,7 +8,6 @@ type ArticleListProps = {
     likeCount: number;
     subtitle: string;
     title: string;
-    topics: string[];
     viewCount: number;
   }[];
   locale: LocaleKeyType;

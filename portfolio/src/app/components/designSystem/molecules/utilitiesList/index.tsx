@@ -10,8 +10,8 @@ const UtilitiesList: UtilitiesListType = (props) => {
         return (
           <Link className='bg-primary hover-primary rounded-lg p-3' href={utility.href} key={utility.href}>
             <article className='flex min-h-60 flex-col'>
-              <h2 className='text-primary text-2xl font-bold'>{utility.title}</h2>
-              <p className='text-secondary mt-2 text-base'>{utility.subtitle}</p>
+              <h2 className='text-primary text-2xl font-bold tracking-tight'>{utility.title}</h2>
+              <p className='text-secondary mt-4 text-base'>{utility.subtitle}</p>
               <div className='text-secondary mt-auto flex items-center justify-end gap-x-3 text-base'>
                 <div className='flex items-center gap-x-2'>
                   <div className='size-5'>

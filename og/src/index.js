@@ -96,6 +96,7 @@ export default {
                   fontSize: "1.3rem",
                   marginTop: "0.5rem",
                   color: textColor,
+                  letterSpacing: '-0.025em'
                 },
                 children: title,
               },

@@ -10,14 +10,9 @@ const ArticleList: ArticleListType = (props) => {
         return (
           <Link className='bg-primary hover-primary flex rounded-lg p-5' href={article.href} key={article.href}>
             <article className='flex min-h-60 flex-col'>
-              <h2 className='text-primary text-2xl font-bold'>{article.title}</h2>
-              <p className='text-secondary mt-2 text-base'>{article.subtitle}</p>
+              <h2 className='text-primary text-2xl font-bold tracking-tight'>{article.title}</h2>
+              <p className='text-secondary mt-4 text-base'>{article.subtitle}</p>
               <div className='mt-auto flex flex-col gap-y-2 pt-5'>
-                <div className='flex flex-wrap gap-x-2 gap-y-1'>
-                  {article.topics.map((topic) => {
-                    return <span className='text-sm text-blue-500' key={topic}>{`#${topic}`}</span>;
-                  })}
-                </div>
                 <div className='text-secondary flex justify-between text-base'>
                   <time dateTime={article.createdAt.toISOString()} itemProp='datePublished'>
                     {getDateString(article.createdAt, props.locale)}

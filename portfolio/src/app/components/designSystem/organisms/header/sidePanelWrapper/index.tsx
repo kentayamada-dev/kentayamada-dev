@@ -22,6 +22,12 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
     setIsOpened(false);
   });
 
+  const items = Object.fromEntries(
+    Object.entries(navigationItems(props.locale)).filter(([_, value]) => {
+      return !value.isHidden;
+    })
+  );
+
   return (
     <SidePanel
       author={props.author}
@@ -29,7 +35,7 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
       currentPathname={pathname.split('/').slice(0, 3).join('/')}
       homepageUrl={props.homepageUrl}
       isOpened={isOpened}
-      items={navigationItems(props.locale)}
+      items={items}
       locale={props.locale}
       onToggle={handleToggle}
     />

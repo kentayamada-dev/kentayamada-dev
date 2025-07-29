@@ -2,8 +2,11 @@ import type { JSXElementType } from '@/types/components';
 
 const CodeWrapIcon = (): JSXElementType => {
   return (
-    <svg fill='currentColor' viewBox='0 0 24 24'>
-      <path d='M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z' />
+    <svg fill='none' stroke='currentColor' viewBox='0 0 24 24'>
+      <line x1='3' x2='21' y1='6' y2='6' />
+      <path d='M3 12h15a3 3 0 1 1 0 6h-4' />
+      <polyline points='16 16 14 18 16 20' />
+      <line x1='3' x2='10' y1='18' y2='18' />
     </svg>
   );
 };

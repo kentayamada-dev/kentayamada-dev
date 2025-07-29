@@ -73,8 +73,10 @@ type DictionaryType = {
     contact: string;
     home: string;
     projects: string;
+    topics: string;
     utilities: string;
   };
+  popularTopics: string;
   projects: string;
   readArticle: string;
   siteName: string;

@@ -23,15 +23,16 @@ const Layout: LayoutPageType = async (props) => {
   const currentYear = new Date().getFullYear();
   const { locale } = await props.params;
   const { myName } = dictionaries[locale];
+  const navigation = navigationItems(locale);
 
   return (
     <html className={fonts} lang={locale} suppressHydrationWarning>
       <body>
         <ThemeProvider attribute='class' defaultTheme={defaultTheme} disableTransitionOnChange themes={arrayOfThemes}>
           <ProgressProvider>
-            <Header author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} locale={locale} />
+            <Header author={myName} copyrightYear={currentYear} homepageUrl={navigation.home.href} locale={locale} />
             {props.children}
-            <Footer author={myName} copyrightYear={currentYear} homepageUrl={navigationItems(locale).home.href} />
+            <Footer author={myName} copyrightYear={currentYear} homepageUrl={navigation.home.href} />
           </ProgressProvider>
         </ThemeProvider>
         <Analytics />

@@ -64,7 +64,11 @@ const meta = {
     locale: defaultLocale,
     onCountLike: fn(),
     tocTitle: 'Toc Title',
-    topics: ['React', 'JavaScript', 'TypeScript'],
+    topics: [
+      { path: 'react', title: 'React' },
+      { path: 'javaScript', title: 'JavaScript' },
+      { path: 'typeScript', title: 'TypeScript' }
+    ],
     updatedAt: new Date('2023-08-26T21:50:14.930Z'),
     url: '#'
   },

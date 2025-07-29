@@ -3,9 +3,12 @@ import type { IconType } from '@/types/components';
 type NavigationItemType = {
   href: string;
   icon: IconType;
+  isHidden: boolean;
   title: string;
 };
 
-type NavigationType = Record<'home' | 'articles' | 'utilities' | 'projects' | 'contact', NavigationItemType>;
+type NavigationKeyType = 'home' | 'articles' | 'utilities' | 'projects' | 'contact' | 'topics';
 
-export type { NavigationType };
+type NavigationType = Record<NavigationKeyType, NavigationItemType>;
+
+export type { NavigationItemType, NavigationType };

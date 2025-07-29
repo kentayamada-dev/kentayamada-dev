@@ -45,12 +45,20 @@ type ArticleGenerateStaticParams = {
   articleId: string;
 };
 
+type TopicGenerateStaticParams = {
+  topicId: string;
+};
+
 type PageProps = {
   params: Promise<LayoutGenerateStaticParams>;
 };
 
 type ArticlePageProps = {
   params: Promise<LayoutGenerateStaticParams & ArticleGenerateStaticParams>;
+};
+
+type TopicPageProps = {
+  params: Promise<LayoutGenerateStaticParams & TopicGenerateStaticParams>;
 };
 
 type NextLayoutProps = PageProps & ConditionalPickType<PropsWithChildren, 'children'>;
@@ -69,7 +77,11 @@ type ArticleImageType = AsyncImageComponentType<ArticlePageProps>;
 
 type UtilityImageType = AsyncImageComponentType<PageProps>;
 
+type TopicImageType = AsyncImageComponentType<TopicPageProps>;
+
 type ArticlePageType = AsyncComponentType<ArticlePageProps>;
+
+type TopicPageType = AsyncComponentType<TopicPageProps>;
 
 type PageType = AsyncComponentType<PageProps>;
 
@@ -79,9 +91,13 @@ type NotFoundPageType = AsyncComponentType;
 
 type ArticleGenerateMetadataType = AsyncMetadataComponentType<ArticlePageProps>;
 
+type TopicGenerateMetadataType = AsyncMetadataComponentType<TopicPageProps>;
+
 type LayoutGenerateStaticParamsType = () => LayoutGenerateStaticParams[];
 
 type ArticleGenerateStaticParamsType = () => Promise<ArticleGenerateStaticParams[]>;
+
+type TopicGenerateStaticParamsType = () => Promise<TopicGenerateStaticParams[]>;
 
 export type {
   ArticleGenerateMetadataType,
@@ -101,5 +117,9 @@ export type {
   PageType,
   RequiredCallbackType,
   StrictOmitType,
+  TopicGenerateMetadataType,
+  TopicGenerateStaticParamsType,
+  TopicImageType,
+  TopicPageType,
   UtilityImageType
 };

@@ -19,7 +19,7 @@ const createApiClient = (api: keyof typeof API_ENDPOINTS): GraphQLClient => {
   });
 };
 
-export const apiRequest = async <T>(api: keyof typeof API_ENDPOINTS, query: string, variables: Record<string, unknown> = {}): Promise<T> => {
+export const graphqlRequest = async <T>(api: keyof typeof API_ENDPOINTS, query: string, variables: Record<string, unknown> = {}): Promise<T> => {
   try {
     const client = createApiClient(api);
 

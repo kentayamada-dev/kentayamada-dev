@@ -46,8 +46,12 @@ const Page: PageType = async (props) => {
     return notFound();
   }
 
-  const { contact: contactLabel } = dictionaries[locale];
-  const { contact: contactNavLabel, home: homeNavLabel } = dictionaries[locale].navigation;
+  const navigation = navigationItems(locale);
+
+  const {
+    contact: contactLabel,
+    navigation: { contact: contactNavLabel, home: homeNavLabel }
+  } = dictionaries[locale];
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -55,7 +59,7 @@ const Page: PageType = async (props) => {
     'itemListElement': [
       {
         '@type': 'ListItem',
-        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'item': `${envServer.SITE_URL}${navigation.home.href}`,
         'name': homeNavLabel,
         'position': 1
       },
@@ -64,7 +68,8 @@ const Page: PageType = async (props) => {
         'name': contactNavLabel,
         'position': 2
       }
-    ]
+    ],
+    'name': navigation.contact.href
   };
 
   return (

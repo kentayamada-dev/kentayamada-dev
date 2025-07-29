@@ -20,6 +20,8 @@ type GetContentByLocaleType<T> = (locale: LocaleKeyType) => Promise<DeepReadonly
 
 type GetContentByLocaleLimitType<T> = (locale: LocaleKeyType, limit?: number) => Promise<DeepReadonlyType<T>>;
 
+type GetContentByLocaleTopicType<T> = (locale: LocaleKeyType, topic: string) => Promise<DeepReadonlyType<T>>;
+
 type GetContentBySlugType<T> = (locale: LocaleKeyType, slug: string) => Promise<DeepReadonlyType<T>>;
 
 type GetSlugsType = GetContentType<SlugsType>;
@@ -31,6 +33,8 @@ type GetProjectsType = GetContentType<ProjectItemsType>;
 type GetContactType = GetContentByLocaleType<ContactType | null>;
 
 type GetArticlesType = GetContentByLocaleLimitType<ArticlesType>;
+
+type GetArticlesByTopicType = GetContentByLocaleTopicType<ArticlesType | null>;
 
 type GetUtilitiesType = GetContentByLocaleType<UtilitiesType>;
 
@@ -47,6 +51,7 @@ type GetFaqsType = GetContentBySlugType<FaqsType>;
 export type {
   GetAboutType,
   GetArticleBySlugType,
+  GetArticlesByTopicType,
   GetArticlesType,
   GetContactType,
   GetFaqsType,

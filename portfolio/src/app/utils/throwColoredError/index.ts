@@ -5,7 +5,10 @@ const colorCodes: Record<ColorNameType, string> = {
 };
 
 const throwColoredError = (message: string, color: ColorNameType, info?: string): never => {
-  throw new Error(`\x1b[1;${colorCodes[color]}m${message}\x1b[0m\n${info}`);
+  const stack = new Error().stack?.split('\n')[2]?.match(/src\/.*:\d+:\d+/u)?.[0];
+
+  // eslint-disable-next-line no-undefined
+  throw new Error(`\x1b[1;${colorCodes[color]}m${message}${stack === undefined ? '' : ` (${stack})`}\x1b[0m${info === undefined ? '' : `\n${info}`}`);
 };
 
 export { throwColoredError };

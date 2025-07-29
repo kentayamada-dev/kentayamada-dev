@@ -1,7 +1,7 @@
 'use cache';
 
 import { gql } from 'graphql-request';
-import { apiRequest } from './client';
+import { graphqlRequest } from './client';
 import type {
   AboutResponseType,
   ArticleResponseType,
@@ -20,6 +20,7 @@ import type {
 import type {
   GetAboutType,
   GetArticleBySlugType,
+  GetArticlesByTopicType,
   GetArticlesType,
   GetContactType,
   GetFaqsType,
@@ -62,8 +63,8 @@ const getProjects: GetProjectsType = async () => {
 
   do {
     // eslint-disable-next-line no-await-in-loop
-    const userData: ProjectPinnedItemsType = (await apiRequest<ProjectResponseType>('github', query, { cursor, username: 'kentayamada-dev' })).user
-      .pinnedItems;
+    const userData: ProjectPinnedItemsType = (await graphqlRequest<ProjectResponseType>('github', query, { cursor, username: 'kentayamada-dev' }))
+      .user.pinnedItems;
 
     pinnedRepos = [...pinnedRepos, ...userData.nodes];
 
@@ -95,7 +96,7 @@ const getSitemap: GetSitemapType = async () => {
     }
   `;
 
-  const response = await apiRequest<SitemapResponseType>('contentful', query);
+  const response = await graphqlRequest<SitemapResponseType>('contentful', query);
   const articleItems = response.articleCollection.items;
   const utilityItems = response.utilityCollection.items;
 
@@ -113,7 +114,7 @@ const getArticleSlugs: GetSlugsType = async () => {
     }
   `;
 
-  const articleSlugs = (await apiRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
+  const articleSlugs = (await graphqlRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
 
   return articleSlugs;
 };
@@ -139,7 +140,7 @@ const getMetadata: GetMetadataType = async (locale, id) => {
   `;
 
   const [metadata] = (
-    await apiRequest<MetadataResponseType>('contentful', query, {
+    await graphqlRequest<MetadataResponseType>('contentful', query, {
       locale,
       where: {
         id
@@ -173,7 +174,7 @@ const getArticles: GetArticlesType = async (locale, limit) => {
   `;
 
   const articles = (
-    await apiRequest<ArticlesResponseType>('contentful', query, {
+    await graphqlRequest<ArticlesResponseType>('contentful', query, {
       limit: limit ?? 100,
       locale,
       order: 'sys_firstPublishedAt_DESC'
@@ -196,7 +197,7 @@ const getContact: GetContactType = async (locale) => {
   `;
 
   const [contact] = (
-    await apiRequest<ContactResponseType>('contentful', query, {
+    await graphqlRequest<ContactResponseType>('contentful', query, {
       locale
     })
   ).contactCollection.items;
@@ -222,7 +223,7 @@ const getUtilities: GetUtilitiesType = async (locale) => {
   `;
 
   const utilities = (
-    await apiRequest<UtilitiesResponseType>('contentful', query, {
+    await graphqlRequest<UtilitiesResponseType>('contentful', query, {
       locale,
       order: 'sys_publishedAt_DESC'
     })
@@ -249,7 +250,7 @@ const getAbout: GetAboutType = async (locale) => {
   `;
 
   const [about] = (
-    await apiRequest<AboutResponseType>('contentful', query, {
+    await graphqlRequest<AboutResponseType>('contentful', query, {
       locale
     })
   ).aboutCollection.items;
@@ -280,7 +281,7 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
   `;
 
   const [article] = (
-    await apiRequest<ArticleResponseType>('contentful', query, {
+    await graphqlRequest<ArticleResponseType>('contentful', query, {
       locale,
       where: {
         slug
@@ -295,6 +296,42 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
   return article;
 };
 
+const getArticlesByTopic: GetArticlesByTopicType = async (locale, topic) => {
+  const query = gql`
+    query Query($locale: String!, $order: [ArticleOrder]!, $where: ArticleFilter!) {
+      articleCollection(locale: $locale, order: $order, where: $where) {
+        items {
+          title
+          slug
+          subtitle
+          topics
+          sys {
+            publishedAt
+            firstPublishedAt
+          }
+        }
+      }
+    }
+  `;
+
+  const articles = (
+    await graphqlRequest<ArticlesResponseType>('contentful', query, {
+      locale,
+      order: 'sys_firstPublishedAt_DESC',
+      where: {
+        // eslint-disable-next-line camelcase
+        topics_contains_all: [topic]
+      }
+    })
+  ).articleCollection.items;
+
+  if (articles.length === 0) {
+    return null;
+  }
+
+  return articles;
+};
+
 const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
   const query = gql`
     query Query($where: UtilityFilter, $locale: String) {
@@ -307,7 +344,7 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
   `;
 
   const [utility] = (
-    await apiRequest<UtilityResponseType>('contentful', query, {
+    await graphqlRequest<UtilityResponseType>('contentful', query, {
       locale,
       where: {
         slug
@@ -335,7 +372,7 @@ const getFaqs: GetFaqsType = async (locale, id) => {
   `;
 
   const faqs = (
-    await apiRequest<FaqsResponseType>('contentful', query, {
+    await graphqlRequest<FaqsResponseType>('contentful', query, {
       locale,
       order: 'id_ASC',
       where: {
@@ -353,6 +390,7 @@ export {
   getArticleBySlug,
   getArticleSlugs,
   getArticles,
+  getArticlesByTopic,
   getContact,
   getFaqs,
   getMetadata,

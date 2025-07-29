@@ -67,8 +67,10 @@
     "contact": "お問い合わせ",
     "home": "ホーム",
     "projects": "プロジェクト",
+    "topics": "トピックス",
     "utilities": "ユーティリティ"
   },
+  "popularTopics": "人気のトピックス",
   "projects": "プロジェクト",
   "readArticle": "記事を読む",
   "siteName": "山田健太のポートフォリオ",

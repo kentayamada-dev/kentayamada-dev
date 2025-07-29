@@ -9,6 +9,7 @@ const contentfulType = {
     pageNotFound: 'page-not-found',
     projects: 'projects',
     stockProfitCalculator: 'stock-profit-calculator',
+    topics: 'topics',
     utilities: 'utilities'
   }
 } as const;

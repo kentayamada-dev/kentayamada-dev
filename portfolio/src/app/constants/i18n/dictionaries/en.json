@@ -67,8 +67,10 @@
     "contact": "Contact",
     "home": "Home",
     "projects": "Projects",
+    "topics": "Topics",
     "utilities": "Utilities"
   },
+  "popularTopics": "Popular Topics",
   "projects": "Projects",
   "readArticle": "Read article",
   "siteName": "Kenta Yamada's Portfolio",

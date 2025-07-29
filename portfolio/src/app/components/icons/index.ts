@@ -13,6 +13,7 @@ export { FbIcon } from './fbIcon';
 export { ForksIcon } from './forksIcon';
 export { GbFlagIcon } from './gbFlagIcon';
 export { GithubIcon } from './githubIcon';
+export { HashTagIcon } from './hashTagIcon';
 export { HeartIcon } from './heartIcon';
 export { HomeIcon } from './homeIcon';
 export { JpFlagIcon } from './jpFlagIcon';

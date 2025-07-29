@@ -36,8 +36,13 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const title = dictionaries[locale].projects;
-  const { home: homeLabel, projects: projectsLabel } = dictionaries[locale].navigation;
+
+  const {
+    navigation: { home: homeLabel, projects: projectsLabel },
+    projects: title
+  } = dictionaries[locale];
+
+  const navigation = navigationItems(locale);
 
   const projects: ProjectsListProps['projects'] = (await getProjects())
     .map((project) => {
@@ -61,7 +66,7 @@ const Page: PageType = async (props) => {
     'itemListElement': [
       {
         '@type': 'ListItem',
-        'item': `${envServer.SITE_URL}${navigationItems(locale).home.href}`,
+        'item': `${envServer.SITE_URL}${navigation.home.href}`,
         'name': homeLabel,
         'position': 1
       },
@@ -70,14 +75,15 @@ const Page: PageType = async (props) => {
         'name': projectsLabel,
         'position': 2
       }
-    ]
+    ],
+    'name': navigation.projects.href
   };
 
   return (
     <>
       <JsonLd jsonLd={jsonLd} />
       <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
-        <h1 className='text-primary mb-8 text-3xl font-semibold sm:text-4xl'>{title}</h1>
+        <h1 className='text-primary mb-8 text-3xl font-bold tracking-tight sm:text-4xl'>{title}</h1>
         <ProjectsList locale={locale} projects={projects} />
       </main>
     </>

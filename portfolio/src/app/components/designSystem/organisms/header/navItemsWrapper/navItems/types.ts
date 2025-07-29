@@ -1,9 +1,9 @@
-import type { NavigationType } from '@/constants/navigation/types';
+import type { NavigationItemType } from '@/constants/navigation/types';
 import type { ComponentType } from '@/types/components';
 
 type NavItemsProps = {
   currentPathname: string;
-  items: NavigationType;
+  items: Record<string, NavigationItemType>;
   navLabel: string;
 };
 

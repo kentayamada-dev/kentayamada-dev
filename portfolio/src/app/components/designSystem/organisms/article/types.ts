@@ -8,7 +8,10 @@ type ArticleProps = ConditionalPickType<LikeButtonWrapperProps, 'onCountLike' | 
     content: JSXElementType;
     createdAt: Date;
     tocTitle: string;
-    topics: string[];
+    topics: {
+      path: string;
+      title: string;
+    }[];
     updatedAt: Date;
   };
 
