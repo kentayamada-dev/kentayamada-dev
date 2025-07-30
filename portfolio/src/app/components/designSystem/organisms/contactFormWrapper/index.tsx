@@ -1,6 +1,6 @@
 'use client';
 
-import { useActionState, useRef, useState } from 'react';
+import { useActionState, useEffect, useRef, useState } from 'react';
 import { ContactForm, contactSchema } from '@/components/designSystem/molecules';
 import { createPost, verifyRecaptcha } from './actions';
 import type { ContactFormStateType } from '@/components/designSystem/molecules';
@@ -10,6 +10,17 @@ export const ContactFormWrapper: ContactFormWrapperType = (props) => {
   const recaptchaRef = useRef(null);
   const recaptchaToken = useRef('');
   const [isRcError, setIsRcError] = useState(false);
+  const [isSuccess, setIsSuccess] = useState(false);
+
+  useEffect(() => {
+    if (!isSuccess) {
+      return;
+    }
+
+    setTimeout(() => {
+      setIsSuccess(false);
+    }, 2000);
+  }, [isSuccess]);
 
   const actionWithRecaptcha = async (_prevState: ContactFormStateType, formData: FormData): Promise<ContactFormStateType> => {
     const rawData = Object.fromEntries(formData);
@@ -38,11 +49,12 @@ export const ContactFormWrapper: ContactFormWrapperType = (props) => {
     recaptchaRef.current.reset();
 
     setIsRcError(false);
+    setIsSuccess(true);
 
     return result;
   };
 
-  const [state, action, isPending] = useActionState(actionWithRecaptcha, {});
+  const [state, handleAction, isPending] = useActionState(actionWithRecaptcha, {});
 
   const handleChangeRc = (value: string): void => {
     recaptchaToken.current = value;
@@ -50,14 +62,14 @@ export const ContactFormWrapper: ContactFormWrapperType = (props) => {
 
   return (
     <ContactForm
-      isPending={isPending}
       isRcError={isRcError}
       locale={props.locale}
-      // eslint-disable-next-line react/jsx-handler-names
-      onAction={action}
+      onAction={handleAction}
       onChangeRc={handleChangeRc}
       recaptchaRef={recaptchaRef}
       state={state}
+      // eslint-disable-next-line no-nested-ternary
+      status={isSuccess ? 'success' : isPending ? 'loading' : 'idle'}
     />
   );
 };

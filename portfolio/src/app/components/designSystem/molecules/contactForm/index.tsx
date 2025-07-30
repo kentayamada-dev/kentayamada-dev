@@ -7,8 +7,8 @@ import { useMemo } from 'react';
 // eslint-disable-next-line import/no-named-as-default
 import ReCAPTCHA from 'react-google-recaptcha';
 import { Controller, useForm } from 'react-hook-form';
-import { Input, TextArea } from '@/components/designSystem/atoms';
-import { ChevronDownIcon, LoadingIcon } from '@/components/icons';
+import { Input, StatefulButton, TextArea } from '@/components/designSystem/atoms';
+import { ChevronDownIcon } from '@/components/icons';
 import { envClient } from '@/constants/env';
 import { dictionaries } from '@/constants/i18n';
 import { defaultIntlTelCode, intlTelList } from '@/constants/intlTel';
@@ -166,22 +166,7 @@ const ContactForm: ContactFormType = (props) => {
         {...register('message')}
       />
       <ReCAPTCHA hl={props.locale} onChange={props.onChangeRc} ref={props.recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
-      <button
-        className='w-full cursor-pointer rounded-lg bg-blue-500 px-5 py-2.5 text-center font-semibold text-white hover:brightness-95 disabled:cursor-not-allowed dark:hover:brightness-110'
-        disabled={props.isPending}
-        type='submit'
-      >
-        {props.isPending ? (
-          <div className='flex items-center justify-center gap-3'>
-            <span className='size-5'>
-              <LoadingIcon />
-            </span>
-            <span>{form.sending}</span>
-          </div>
-        ) : (
-          <span>{form.submit}</span>
-        )}
-      </button>
+      <StatefulButton status={props.status} title={form.submit} />
       {props.isRcError ? <p className='mt-2 flex justify-center text-red-600'>{form.recaptchaError}</p> : null}
     </Form>
   );

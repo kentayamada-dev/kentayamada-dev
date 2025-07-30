@@ -1,21 +1,22 @@
 import { fn } from '@storybook/test';
+import { statefulButtonStory } from '@/components/designSystem/atoms';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { ContactForm } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
   argTypes: {
-    locale: { control: 'select', options: arrayOfLocales }
+    locale: { control: 'select', options: arrayOfLocales },
+    ...statefulButtonStory.argTypes
   },
   args: {
-    isPending: false,
+    ...statefulButtonStory.args,
     isRcError: false,
     locale: defaultLocale,
     onAction: fn(),
     onChangeRc: fn(),
-    recaptchaRef: {
-      current: null
-    },
+    // @ts-expect-error throws error in storybook
+    recaptchaRef: null,
     state: {
       data: {
         countryCode: 'AD',
