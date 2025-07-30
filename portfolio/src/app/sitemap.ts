@@ -6,17 +6,18 @@ import { getTopics } from '@/lib/rest-request';
 import { isDefined } from '@/typeGuards';
 import type { MetadataRoute } from 'next';
 
-const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
+const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Sitemap[0] => {
   const today = new Date();
+
+  return {
+    lastModified: isDefined(publishedAt) ? publishedAt : today,
+    url
+  };
+};
+
+const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
   const { articleItems, utilityItems } = await getSitemap();
   const topics = await getTopics();
-
-  const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Sitemap[0] => {
-    return {
-      lastModified: isDefined(publishedAt) ? publishedAt : today,
-      url
-    };
-  };
 
   const staticPaths = arrayOfLocales.flatMap((locale) => {
     return Object.values(navigationItems(locale)).map((item) => {
