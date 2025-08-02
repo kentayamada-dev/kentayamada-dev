@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Switcher } from '@/components/designSystem/molecules';
+import { Switcher } from '@/components/designSystem/molecules/switcher';
 import { dictionaries } from '@/constants/i18n';
 import { useNextTheme } from '@/lib/next-themes';
 import type { ThemeSwitcherWrapperType } from './types';

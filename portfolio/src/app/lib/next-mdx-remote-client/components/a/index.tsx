@@ -1,7 +1,7 @@
 import Link from 'next/link';
-import { YoutubeEmbed } from '@/components/designSystem/atoms';
-import { isDefined } from '@/typeGuards';
-import { throwColoredError } from '@/utils';
+import { YoutubeEmbed } from '@/components/designSystem/atoms/youtubeEmbed';
+import { isDefined } from '@/typeGuards/isDefined';
+import { throwColoredError } from '@/utils/throwColoredError';
 import type { AType } from './types';
 
 const isYouTubeUrl = (url: string): boolean => {

@@ -1,7 +1,7 @@
 import { fn } from '@storybook/test';
-import { copyRightStory } from '@/components/designSystem/atoms';
+import copyRightStory from '@/components/designSystem/atoms/copyRight/index.stories';
 import { navigationItems } from '@/constants/navigation';
-import { mapObjectByKeyValue } from '@/utils';
+import { mapObjectByKeyValue } from '@/utils/mapObjectByKeyValue';
 import { SidePanel } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 

@@ -1,4 +1,4 @@
-import { SunIcon } from '@/components/icons';
+import { SunIcon } from '@/components/icons/sunIcon';
 import { ListItem } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 

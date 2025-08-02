@@ -1,25 +1,26 @@
 'use cache';
 
-import { gql } from 'graphql-request';
-import { graphqlRequest } from './client';
-import type {
-  AboutResponseType,
-  ArticleResponseType,
-  ArticleSlugsResponseType,
-  ArticlesResponseType,
-  ContactResponseType,
-  FaqsResponseType,
-  MetadataResponseType,
-  ProjectItemsType,
-  ProjectPinnedItemsType,
-  ProjectResponseType,
-  SitemapResponseType,
-  UtilitiesResponseType,
-  UtilityResponseType
-} from '@/types/contentful';
+import { gql } from 'graphql-tag';
+import { restRequest } from './client';
+import {
+  AboutSchema,
+  ArticleSlugSchema,
+  ArticleSlugsSchema,
+  ArticlesSchema,
+  ArticlesTopicSchema,
+  ContactSchema,
+  FaqsSchema,
+  MetadataSchema,
+  ProjectsInfoSchema,
+  SitemapSchema,
+  TopicSchema,
+  UtilitiesSchema,
+  UtilitySlugSchema
+} from './schema';
 import type {
   GetAboutType,
   GetArticleBySlugType,
+  GetArticleSlugsType,
   GetArticlesByTopicType,
   GetArticlesType,
   GetContactType,
@@ -27,13 +28,14 @@ import type {
   GetMetadataType,
   GetProjectsType,
   GetSitemapType,
-  GetSlugsType,
+  GetTopicType,
   GetUtilitiesType,
-  GetUtilityBySlugType
+  GetUtilityBySlugType,
+  ProjectsType
 } from './types';
 
 const getProjects: GetProjectsType = async () => {
-  let pinnedRepos: ProjectItemsType = [];
+  let pinnedRepos: ProjectsType = [];
   let cursor: string | null = null;
 
   const query = gql`
@@ -62,13 +64,20 @@ const getProjects: GetProjectsType = async () => {
   `;
 
   do {
-    // eslint-disable-next-line no-await-in-loop
-    const userData: ProjectPinnedItemsType = (await graphqlRequest<ProjectResponseType>('github', query, { cursor, username: 'kentayamada-dev' }))
-      .user.pinnedItems;
+    const projects = ProjectsInfoSchema.parse(
+      // eslint-disable-next-line no-await-in-loop
+      await restRequest('github', {
+        query,
+        variables: {
+          cursor,
+          username: 'kentayamada-dev'
+        }
+      })
+    );
 
-    pinnedRepos = [...pinnedRepos, ...userData.nodes];
+    pinnedRepos = [...pinnedRepos, ...projects.nodes];
 
-    cursor = userData.pageInfo.hasNextPage ? userData.pageInfo.endCursor : null;
+    cursor = projects.pageInfo.hasNextPage ? projects.pageInfo.endCursor : null;
   } while (cursor !== null);
 
   return pinnedRepos;
@@ -96,14 +105,12 @@ const getSitemap: GetSitemapType = async () => {
     }
   `;
 
-  const response = await graphqlRequest<SitemapResponseType>('contentful', query);
-  const articleItems = response.articleCollection.items;
-  const utilityItems = response.utilityCollection.items;
+  const sitemap = SitemapSchema.parse(await restRequest('contentful-gql', { query }));
 
-  return { articleItems, utilityItems };
+  return sitemap;
 };
 
-const getArticleSlugs: GetSlugsType = async () => {
+const getArticleSlugs: GetArticleSlugsType = async () => {
   const query = gql`
     query Query {
       articleCollection {
@@ -114,7 +121,7 @@ const getArticleSlugs: GetSlugsType = async () => {
     }
   `;
 
-  const articleSlugs = (await graphqlRequest<ArticleSlugsResponseType>('contentful', query)).articleCollection.items;
+  const articleSlugs = ArticleSlugsSchema.parse(await restRequest('contentful-gql', { query }));
 
   return articleSlugs;
 };
@@ -139,18 +146,17 @@ const getMetadata: GetMetadataType = async (locale, id) => {
     }
   `;
 
-  const [metadata] = (
-    await graphqlRequest<MetadataResponseType>('contentful', query, {
-      locale,
-      where: {
-        id
+  const metadata = MetadataSchema.parse(
+    await restRequest('contentful-gql', {
+      query,
+      variables: {
+        locale,
+        where: {
+          id
+        }
       }
     })
-  ).metaDataCollection.items;
-
-  if (!metadata) {
-    return null;
-  }
+  );
 
   return metadata;
 };
@@ -173,13 +179,9 @@ const getArticles: GetArticlesType = async (locale, limit) => {
     }
   `;
 
-  const articles = (
-    await graphqlRequest<ArticlesResponseType>('contentful', query, {
-      limit: limit ?? 100,
-      locale,
-      order: 'sys_firstPublishedAt_DESC'
-    })
-  ).articleCollection.items;
+  const articles = ArticlesSchema.parse(
+    await restRequest('contentful-gql', { query, variables: { limit: limit ?? 100, locale, order: 'sys_firstPublishedAt_DESC' } })
+  );
 
   return articles;
 };
@@ -196,15 +198,7 @@ const getContact: GetContactType = async (locale) => {
     }
   `;
 
-  const [contact] = (
-    await graphqlRequest<ContactResponseType>('contentful', query, {
-      locale
-    })
-  ).contactCollection.items;
-
-  if (!contact) {
-    return null;
-  }
+  const contact = ContactSchema.parse(await restRequest('contentful-gql', { query, variables: { locale } }));
 
   return contact;
 };
@@ -222,12 +216,7 @@ const getUtilities: GetUtilitiesType = async (locale) => {
     }
   `;
 
-  const utilities = (
-    await graphqlRequest<UtilitiesResponseType>('contentful', query, {
-      locale,
-      order: 'sys_publishedAt_DESC'
-    })
-  ).utilityCollection.items;
+  const utilities = UtilitiesSchema.parse(await restRequest('contentful-gql', { query, variables: { locale, order: 'sys_publishedAt_DESC' } }));
 
   return utilities;
 };
@@ -249,15 +238,7 @@ const getAbout: GetAboutType = async (locale) => {
     }
   `;
 
-  const [about] = (
-    await graphqlRequest<AboutResponseType>('contentful', query, {
-      locale
-    })
-  ).aboutCollection.items;
-
-  if (!about) {
-    return null;
-  }
+  const about = AboutSchema.parse(await restRequest('contentful-gql', { query, variables: { locale } }));
 
   return about;
 };
@@ -280,18 +261,17 @@ const getArticleBySlug: GetArticleBySlugType = async (locale, slug) => {
     }
   `;
 
-  const [article] = (
-    await graphqlRequest<ArticleResponseType>('contentful', query, {
-      locale,
-      where: {
-        slug
+  const article = ArticleSlugSchema.parse(
+    await restRequest('contentful-gql', {
+      query,
+      variables: {
+        locale,
+        where: {
+          slug
+        }
       }
     })
-  ).articleCollection.items;
-
-  if (!article) {
-    return null;
-  }
+  );
 
   return article;
 };
@@ -314,20 +294,19 @@ const getArticlesByTopic: GetArticlesByTopicType = async (locale, topic) => {
     }
   `;
 
-  const articles = (
-    await graphqlRequest<ArticlesResponseType>('contentful', query, {
-      locale,
-      order: 'sys_firstPublishedAt_DESC',
-      where: {
-        // eslint-disable-next-line camelcase
-        topics_contains_all: [topic]
+  const articles = ArticlesTopicSchema.parse(
+    await restRequest('contentful-gql', {
+      query,
+      variables: {
+        locale,
+        order: 'sys_firstPublishedAt_DESC',
+        where: {
+          // eslint-disable-next-line camelcase
+          topics_contains_all: [topic]
+        }
       }
     })
-  ).articleCollection.items;
-
-  if (articles.length === 0) {
-    return null;
-  }
+  );
 
   return articles;
 };
@@ -343,18 +322,17 @@ const getUtilityBySlug: GetUtilityBySlugType = async (locale, slug) => {
     }
   `;
 
-  const [utility] = (
-    await graphqlRequest<UtilityResponseType>('contentful', query, {
-      locale,
-      where: {
-        slug
+  const utility = UtilitySlugSchema.parse(
+    await restRequest('contentful-gql', {
+      query,
+      variables: {
+        locale,
+        where: {
+          slug
+        }
       }
     })
-  ).utilityCollection.items;
-
-  if (!utility) {
-    return null;
-  }
+  );
 
   return utility;
 };
@@ -371,18 +349,27 @@ const getFaqs: GetFaqsType = async (locale, id) => {
     }
   `;
 
-  const faqs = (
-    await graphqlRequest<FaqsResponseType>('contentful', query, {
-      locale,
-      order: 'id_ASC',
-      where: {
-        // eslint-disable-next-line camelcase
-        id_contains: id
+  const faqs = FaqsSchema.parse(
+    await restRequest('contentful-gql', {
+      query,
+      variables: {
+        locale,
+        order: 'id_ASC',
+        where: {
+          // eslint-disable-next-line camelcase
+          id_contains: id
+        }
       }
     })
-  ).faqCollection.items;
+  );
 
   return faqs;
+};
+
+const getTopic: GetTopicType = async () => {
+  const topic = TopicSchema.parse(await restRequest('contentful-rest'));
+
+  return topic;
 };
 
 export {
@@ -396,6 +383,7 @@ export {
   getMetadata,
   getProjects,
   getSitemap,
+  getTopic,
   getUtilities,
   getUtilityBySlug
 };

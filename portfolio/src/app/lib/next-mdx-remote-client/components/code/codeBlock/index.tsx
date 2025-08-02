@@ -1,8 +1,10 @@
 'use client';
 
 import { useRef, useState } from 'react';
-import { CheckIcon, CodeWrapIcon, CopyIcon } from '@/components/icons';
-import { useCopyToClipboard } from '@/hooks';
+import { CheckIcon } from '@/components/icons/checkIcon';
+import { CodeWrapIcon } from '@/components/icons/codeWrapIcon';
+import { CopyIcon } from '@/components/icons/copyIcon';
+import { useCopyToClipboard } from '@/hooks/useCopyToClipboard';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { JSXElementType } from '@/types/components';
 import type { CodeBlockType } from './types';

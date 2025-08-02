@@ -1,4 +1,4 @@
-import { copyRightStory } from '@/components/designSystem/atoms';
+import copyRightStory from '@/components/designSystem/atoms/copyRight/index.stories';
 import { Footer } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';

@@ -1,5 +1,5 @@
 import { codeToHtml } from 'shiki';
-import { isDefined } from '@/typeGuards';
+import { isDefined } from '@/typeGuards/isDefined';
 import { CodeBlock } from './codeBlock';
 import type { CodeType } from './types';
 

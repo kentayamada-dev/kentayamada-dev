@@ -4,6 +4,7 @@ import { getExtend, addPrefixRule, validateRules } from './utils.js';
 const vitestPrefix = 'vitest';
 
 const vitestRule = addPrefixRule(vitestPrefix, {
+  'no-importing-vitest-globals': 'off',
   'prefer-to-be-falsy': 'off',
   'prefer-to-be-truthy': 'off',
   'no-hooks': [

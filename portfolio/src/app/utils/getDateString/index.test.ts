@@ -1,7 +1,7 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { getDateString } from '.';
 
-describe('getDateString', () => {
+describe(getDateString, () => {
   beforeEach(() => {
     vi.useFakeTimers();
     vi.setSystemTime(new Date('2024/08/08 09:00:00'));

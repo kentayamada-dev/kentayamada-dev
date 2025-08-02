@@ -1,11 +1,14 @@
 import { Dialog, DialogBackdrop, DialogPanel } from '@headlessui/react';
 import Link from 'next/link';
-import { CopyRight } from '@/components/designSystem/atoms';
-import { CrossIcon, GithubIcon, StorybookIcon, ThreeBarsIcon } from '@/components/icons';
+import { CopyRight } from '@/components/designSystem/atoms/copyRight';
+import { ListItem } from '@/components/designSystem/atoms/listItem';
+import { CrossIcon } from '@/components/icons/crossIcon';
+import { GithubIcon } from '@/components/icons/githubIcon';
+import { StorybookIcon } from '@/components/icons/storybookIcon';
+import { ThreeBarsIcon } from '@/components/icons/threeBarsIcon';
 import { dictionaries } from '@/constants/i18n';
 import { GITHUB_URL, STORYBOOK_URL } from '@/constants/navigation';
 import { LinkItem } from './linkItem';
-import { NavItem } from './navItem';
 import type { JSXElementType } from '@/types/components';
 import type { SidePanelType } from './types';
 
@@ -59,8 +62,8 @@ const SidePanel: SidePanelType = (props) => {
                     className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} hover-secondary rounded-lg p-2 font-medium hover:cursor-pointer`}
                     key={key}
                   >
-                    <Link href={href} legacyBehavior passHref>
-                      <NavItem icon={icon} onClick={props.onToggle} title={title} />
+                    <Link href={href}>
+                      <ListItem icon={icon} title={title} />
                     </Link>
                   </li>
                 );

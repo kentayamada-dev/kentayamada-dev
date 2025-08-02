@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { getCurrencyPairs } from '.';
 
-describe('getCurrencyPairs', () => {
+describe(getCurrencyPairs, () => {
   it('should return valid currency pairs excluding the base currency', () => {
     expect.assertions(1);
 

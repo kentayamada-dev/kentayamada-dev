@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { NotFoundAnimation } from '@/components/designSystem/atoms';
+import { NotFoundAnimation } from '@/components/designSystem/atoms/notFoundAnimation';
 import type { NotFoundType } from './types';
 
 const NotFound: NotFoundType = (props) => {

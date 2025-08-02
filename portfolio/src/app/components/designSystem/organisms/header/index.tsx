@@ -1,5 +1,7 @@
 import Link from 'next/link';
-import { GithubIcon, KyIcon, StorybookIcon } from '@/components/icons';
+import { GithubIcon } from '@/components/icons/githubIcon';
+import { KyIcon } from '@/components/icons/kyIcon';
+import { StorybookIcon } from '@/components/icons/storybookIcon';
 import { dictionaries } from '@/constants/i18n';
 import { GITHUB_URL, STORYBOOK_URL } from '@/constants/navigation';
 import { LocaleSwitcherWrapper } from './localeSwitcherWrapper';

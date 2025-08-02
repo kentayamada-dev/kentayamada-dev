@@ -1,6 +1,9 @@
 import Link from 'next/link';
-import { ClockHistoryIcon, ClockIcon, ForksIcon, StarIcon } from '@/components/icons';
-import { getDateString } from '@/utils';
+import { ClockHistoryIcon } from '@/components/icons/clockHistoryIcon';
+import { ClockIcon } from '@/components/icons/clockIcon';
+import { ForksIcon } from '@/components/icons/forksIcon';
+import { StarIcon } from '@/components/icons/starIcon';
+import { getDateString } from '@/utils/getDateString';
 import type { ProjectsListType } from './types';
 
 const ProjectsList: ProjectsListType = (props) => {

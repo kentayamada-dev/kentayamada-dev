@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { isSameDate } from '.';
 
-describe('isSameDate', () => {
+describe(isSameDate, () => {
   it('should return true for the same date', () => {
     expect.assertions(1);
 

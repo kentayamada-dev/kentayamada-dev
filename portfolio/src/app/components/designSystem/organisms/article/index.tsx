@@ -1,7 +1,10 @@
 import Link from 'next/link';
-import { Share } from '@/components/designSystem/molecules';
-import { ClockHistoryIcon, ClockIcon, HashTagIcon } from '@/components/icons';
-import { getDateString, isSameDate } from '@/utils';
+import { Share } from '@/components/designSystem/molecules/share';
+import { ClockHistoryIcon } from '@/components/icons/clockHistoryIcon';
+import { ClockIcon } from '@/components/icons/clockIcon';
+import { HashTagIcon } from '@/components/icons/hashTagIcon';
+import { getDateString } from '@/utils/getDateString';
+import { isSameDate } from '@/utils/isSameDate';
 import { LikeButtonWrapper } from '../likeButtonWrapper';
 import { DesktopTableOfContents } from './desktopTableOfContents';
 import { MobileTableOfContents } from './mobileTableOfContents';

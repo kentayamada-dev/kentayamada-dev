@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { formatNumber } from '.';
 
-describe('formatNumber', () => {
+describe(formatNumber, () => {
   it('formats numbers in English locale ("en")', () => {
     expect.assertions(4);
 

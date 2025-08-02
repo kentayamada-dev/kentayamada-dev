@@ -1,6 +1,6 @@
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
-import { ListItem } from '@/components/designSystem/atoms';
-import { getEntries } from '@/utils';
+import { ListItem } from '@/components/designSystem/atoms/listItem';
+import { getEntries } from '@/utils/getEntries';
 import type { SwitcherType } from './types';
 
 const Switcher: SwitcherType = (props) => {

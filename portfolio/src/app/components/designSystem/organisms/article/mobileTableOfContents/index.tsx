@@ -2,9 +2,10 @@
 
 import { Transition, TransitionChild } from '@headlessui/react';
 import { useState } from 'react';
-import { CrossIcon, TableOfContentsIcon } from '@/components/icons';
+import { CrossIcon } from '@/components/icons/crossIcon';
+import { TableOfContentsIcon } from '@/components/icons/tableOfContents';
 import { dictionaries } from '@/constants/i18n';
-import { useMediaQuery } from '@/hooks';
+import { useMediaQuery } from '@/hooks/useMediaQuery';
 import { TableOfContents } from '../tableOfContents';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { MobileTableOfContentsType } from './types';

@@ -1,4 +1,4 @@
-import type { ListItemProps } from '@/components/designSystem/atoms';
+import type { ListItemProps } from '@/components/designSystem/atoms/listItem/types';
 import type { ComponentType } from '@/types/components';
 
 type LinkItemProps = ListItemProps & {

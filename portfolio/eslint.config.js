@@ -6,6 +6,7 @@ import { sortExportsExtend, sortExportsPlugin, sortExportsPrefix, sortExportsRul
 import { cspellExtend, cspellPlugin, cspellPrefix, cspellRule } from './.eslint/cspell.js';
 import { reactExtend, reactPlugin, reactPrefix, reactRule } from './.eslint/react.js';
 import { vitestExtend, vitestPlugin, vitestPrefix, vitestRule, vitestGlobals } from './.eslint/vitest.js';
+import { noBarrelFilesExtend, noBarrelFilesPlugin, noBarrelFilesPrefix, noBarrelFilesRule } from './.eslint/no-barrel-files.js';
 import { nextExtend, nextPlugin, nextPrefix, nextRule } from './.eslint/next.js';
 import { reactHooksExtend, reactHooksPlugin, reactHooksPrefix, reactHooksRule } from './.eslint/react-hooks.js';
 import { storybookExtend, storybookPlugin, storybookPrefix, storybookRule } from './.eslint/storybook.js';
@@ -51,6 +52,7 @@ export default tseslintPlugin.config(
       [sortExportsPrefix]: sortExportsPlugin,
       [eslintCommentsPrefix]: eslintCommentsPlugin,
       [customPrefix]: customPlugin,
+      [noBarrelFilesPrefix]: noBarrelFilesPlugin,
       ...tseslintConfig.plugins
     },
     extends: [
@@ -61,7 +63,8 @@ export default tseslintPlugin.config(
       cspellExtend,
       sortDestructureKeysExtend,
       sortExportsExtend,
-      eslintCommentsExtend
+      eslintCommentsExtend,
+      noBarrelFilesExtend
     ],
     rules: {
       ...eslintRule,
@@ -73,6 +76,7 @@ export default tseslintPlugin.config(
       ...sortDestructureKeysRule,
       ...sortExportsRule,
       ...eslintCommentsRule,
+      ...noBarrelFilesRule,
       [`${customPrefix}/${customPluginRulesName.importOrder}`]: 'error'
     }
   },

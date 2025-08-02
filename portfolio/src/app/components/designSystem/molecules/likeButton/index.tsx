@@ -2,7 +2,7 @@
 
 import NumberFlow from '@number-flow/react';
 import { useRef, useState } from 'react';
-import { LikeAnimation } from '@/components/designSystem/atoms';
+import { LikeAnimation } from '@/components/designSystem/atoms/likeAnimation';
 import { dictionaries } from '@/constants/i18n';
 import type { LottieRefCurrentProps } from 'lottie-react';
 import type { ComponentPropsWithoutRef } from 'react';

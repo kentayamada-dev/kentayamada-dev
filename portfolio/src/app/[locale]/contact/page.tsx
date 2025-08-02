@@ -1,15 +1,14 @@
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
-import { ContactFormWrapper } from '@/components/designSystem/organisms';
-import { EmailIcon, LocationIcon } from '@/components/icons';
+import { ContactFormWrapper } from '@/components/designSystem/organisms/contactFormWrapper';
+import { EmailIcon } from '@/components/icons/emailIcon';
+import { LocationIcon } from '@/components/icons/locationIcon';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getContact, getMetadata } from '@/lib/graphql-request';
+import { getContact, getMetadata } from '@/lib/fetch';
 import { getMetadataObject } from '@/lib/nextjs';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
-import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const EMAIL = 'kentayamada058@outlook.com';
@@ -17,10 +16,6 @@ const EMAIL = 'kentayamada058@outlook.com';
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, contentfulType.metadata.contact);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.contact}> is empty`, 'red');
-  }
 
   return getMetadataObject(
     'website',
@@ -41,11 +36,6 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const contact = await getContact(locale);
-
-  if (contact === null) {
-    return notFound();
-  }
-
   const navigation = navigationItems(locale);
 
   const {

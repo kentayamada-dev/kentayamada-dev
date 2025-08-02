@@ -1,4 +1,9 @@
-import { ArticleIcon, EmailIcon, HashTagIcon, HomeIcon, ProjectIcon, UtilityIcon } from '@/components/icons';
+import { ArticleIcon } from '@/components/icons/articleIcon';
+import { EmailIcon } from '@/components/icons/emailIcon';
+import { HashTagIcon } from '@/components/icons/hashTagIcon';
+import { HomeIcon } from '@/components/icons/homeIcon';
+import { ProjectIcon } from '@/components/icons/projectIcon';
+import { UtilityIcon } from '@/components/icons/utilityIcon';
 import { dictionaries } from '../i18n';
 import type { LocaleKeyType } from '../i18n/types';
 import type { NavigationType } from './types';

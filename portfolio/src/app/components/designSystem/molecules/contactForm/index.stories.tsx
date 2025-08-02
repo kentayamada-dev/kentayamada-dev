@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { statefulButtonStory } from '@/components/designSystem/atoms';
+import statefulButtonStory from '@/components/designSystem/atoms/statefulButton/index.stories';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { ContactForm } from '.';
 import type { Meta, StoryObj } from '@storybook/react';

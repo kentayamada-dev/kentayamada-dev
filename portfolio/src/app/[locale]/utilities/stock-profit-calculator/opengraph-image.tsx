@@ -1,8 +1,8 @@
 import { ImageResponse } from 'next/og';
 import { contentfulType } from '@/constants/contentful';
-import { getMetadata } from '@/lib/graphql-request';
+import { getMetadata } from '@/lib/fetch';
 import { OG } from '@/lib/nextjs';
-import { getGoogleFont, throwColoredError } from '@/utils';
+import { getGoogleFont } from '@/utils/getGoogleFont';
 import type { UtilityImageType } from '@/types/components';
 
 const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
@@ -13,11 +13,6 @@ const FONT_REGULAR = 400;
 const Image: UtilityImageType = async (props) => {
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, STOCK_PROFIT_CALCULATOR_ID);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${STOCK_PROFIT_CALCULATOR_ID}> is empty`, 'red');
-  }
-
   const title = metadata.title.toUpperCase();
 
   return new ImageResponse(

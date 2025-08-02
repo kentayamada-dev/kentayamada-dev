@@ -1,6 +1,6 @@
 import { createEnv } from '@t3-oss/env-nextjs';
 import { z } from 'zod';
-import { isDefined } from '@/typeGuards';
+import { isDefined } from '@/typeGuards/isDefined';
 
 export const envClient = createEnv({
   client: {

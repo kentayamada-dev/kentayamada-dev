@@ -1,4 +1,4 @@
-import { copyRightStory } from '@/components/designSystem/atoms';
+import copyRightStory from '@/components/designSystem/atoms/copyRight/index.stories';
 import { arrayOfLocales } from '@/constants/i18n';
 import { Header } from '.';
 import type { Meta, StoryObj } from '@storybook/react';

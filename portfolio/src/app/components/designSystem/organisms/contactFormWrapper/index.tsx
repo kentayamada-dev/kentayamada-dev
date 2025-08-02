@@ -1,9 +1,11 @@
 'use client';
 
 import { useActionState, useEffect, useRef, useState } from 'react';
-import { ContactForm, contactSchema } from '@/components/designSystem/molecules';
+import { flattenError } from 'zod';
+import { ContactForm } from '@/components/designSystem/molecules/contactForm';
+import { contactSchema } from '@/components/designSystem/molecules/contactForm/schema';
 import { createPost, verifyRecaptcha } from './actions';
-import type { ContactFormStateType } from '@/components/designSystem/molecules';
+import type { ContactFormSchemaType, ContactFormStateType } from '@/components/designSystem/molecules/contactForm/types';
 import type { ContactFormWrapperType } from './types';
 
 export const ContactFormWrapper: ContactFormWrapperType = (props) => {
@@ -27,8 +29,10 @@ export const ContactFormWrapper: ContactFormWrapperType = (props) => {
     const parsed = contactSchema.safeParse(rawData);
 
     if (!parsed.success) {
-      // @ts-expect-error type mismatch
-      return { data: rawData, errors: parsed.error.formErrors };
+      const flattened = flattenError(parsed.error);
+
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
+      return { data: rawData as ContactFormSchemaType, error: flattened };
     }
 
     const isHuman = await verifyRecaptcha(recaptchaToken.current);

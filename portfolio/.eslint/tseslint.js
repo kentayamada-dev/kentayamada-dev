@@ -42,36 +42,8 @@ const tseslintRule = addPrefixRule(tseslintPrefix, {
     {
       'patterns': [
         {
-          'group': ['**/icons/*'],
-          'message': "Please import from '@/components/icons' instead."
-        },
-        {
-          'group': ['**/atoms/*'],
-          'message': "Please import from '@/components/atoms' instead."
-        },
-        {
-          'group': ['**/molecules/*'],
-          'message': "Please import from '@/components/molecules' instead."
-        },
-        {
-          'group': ['**/organisms/*'],
-          'message': "Please import from '@/components/organisms' instead."
-        },
-        {
-          'group': ['**/templates/*'],
-          'message': "Please import from '@/components/templates' instead."
-        },
-        {
-          'group': ['**/hooks/*'],
-          'message': "Please import from '@/hooks' instead."
-        },
-        {
-          'group': ['**/utils/*'],
-          'message': "Please import from '@/utils' instead."
-        },
-        {
-          'group': ['**/typeGuards/*'],
-          'message': "Please import from '@/typeGuards' instead."
+          'group': ['../../*'],
+          'message': "Please import from '@/' instead."
         }
       ],
       'paths': [

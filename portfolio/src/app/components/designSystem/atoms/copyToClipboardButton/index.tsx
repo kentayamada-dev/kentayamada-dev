@@ -1,7 +1,8 @@
 'use client';
 
-import { CheckIcon, LinkIcon } from '@/components/icons';
-import { useCopyToClipboard } from '@/hooks';
+import { CheckIcon } from '@/components/icons/checkIcon';
+import { LinkIcon } from '@/components/icons/linkIcon';
+import { useCopyToClipboard } from '@/hooks/useCopyToClipboard';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { CopyToClipboardButtonType } from './types';
 

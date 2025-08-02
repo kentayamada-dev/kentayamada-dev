@@ -1,4 +1,4 @@
-import { copyToClipboardButtonStory } from '@/components/designSystem/atoms';
+import copyToClipboardButtonStory from '@/components/designSystem/atoms/copyToClipboardButton/index.stories';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Share } from '.';
 import type { Meta, StoryObj } from '@storybook/react';

@@ -2,7 +2,8 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   experimental: {
-    useCache: true
+    useCache: true,
+    optimizeRouterScrolling: true
   },
   eslint: {
     ignoreDuringBuilds: true

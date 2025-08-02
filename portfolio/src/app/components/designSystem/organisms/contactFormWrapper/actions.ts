@@ -3,10 +3,10 @@
 import { auth, sheets } from '@googleapis/sheets';
 import { headers } from 'next/headers';
 import { Resend } from 'resend';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { X_REAL_IP_HEADER } from '@/constants/navigation';
 import { siteVerifySchema } from './schema';
-import type { ContactFormSchemaType, ContactFormStateType } from '@/components/designSystem/molecules';
+import type { ContactFormSchemaType, ContactFormStateType } from '@/components/designSystem/molecules/contactForm/types';
 
 const EMAIL_FROM = 'portfolio@notify.kentayamada.dev';
 const EMAIL_TO = 'contact@kentayamada.dev';

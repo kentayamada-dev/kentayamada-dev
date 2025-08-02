@@ -1,4 +1,4 @@
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import type { Metadata } from 'next';
 import type { OpenGraphType } from 'next/dist/lib/metadata/types/opengraph-types';
@@ -12,10 +12,12 @@ const OG = {
   }
 };
 
+const METADATA_BASE = new URL(envServer.SITE_URL);
+
 const getCommonMetadata = (myName: string, siteName: string, description: string, title: string, coverImageUrl: string): Metadata => {
   return {
     description,
-    metadataBase: new URL(envServer.SITE_URL),
+    metadataBase: METADATA_BASE,
     openGraph: {
       description,
       images: [

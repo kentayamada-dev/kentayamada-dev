@@ -1,7 +1,7 @@
 'use client';
 
 import { startTransition, useOptimistic } from 'react';
-import { LikeButton } from '@/components/designSystem/molecules';
+import { LikeButton } from '@/components/designSystem/molecules/likeButton';
 import type { LikeButtonWrapperType } from './types';
 
 type OptimisticStateType = {

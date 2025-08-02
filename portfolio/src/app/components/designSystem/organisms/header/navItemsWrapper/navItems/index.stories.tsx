@@ -1,5 +1,5 @@
 import { navigationItems } from '@/constants/navigation';
-import { mapObjectByKeyValue } from '@/utils';
+import { mapObjectByKeyValue } from '@/utils/mapObjectByKeyValue';
 import { NavItems } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 

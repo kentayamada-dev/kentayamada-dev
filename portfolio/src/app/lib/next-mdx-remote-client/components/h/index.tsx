@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { LinkIcon } from '@/components/icons';
+import { LinkIcon } from '@/components/icons/linkIcon';
 import { dictionaries } from '@/constants/i18n';
 import { headingLevels } from '@/constants/toc';
 import type { HTMLAttributes } from 'react';

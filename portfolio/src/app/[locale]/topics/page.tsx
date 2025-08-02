@@ -1,22 +1,16 @@
 import Link from 'next/link';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getMetadata } from '@/lib/graphql-request';
+import { getMetadata, getTopic } from '@/lib/fetch';
 import { getMetadataObject } from '@/lib/nextjs';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
-import { getTopics } from '@/lib/rest-request';
-import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, contentfulType.metadata.topics);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.topics}> is empty`, 'red');
-  }
 
   return getMetadataObject(
     'website',
@@ -40,7 +34,7 @@ const Page: PageType = async (props) => {
 
   const navigation = navigationItems(locale);
 
-  const topics = (await getTopics()).slugs.map((slug) => {
+  const topics = (await getTopic()).topic.map((slug) => {
     return {
       href: `${navigation.topics.href}/${slug}`,
       title: decodeURIComponent(slug)

@@ -2,8 +2,8 @@ import { cookies } from 'next/headers';
 import { NextResponse, userAgent } from 'next/server';
 import { arrayOfLocales, defaultLocale, localeCookieName } from '@/constants/i18n';
 import { setLocaleCookie } from '@/lib/cookies-next';
-import { isValueInArray } from '@/typeGuards';
-import { isPathStartingWith } from '@/utils';
+import { isValueInArray } from '@/typeGuards/isValueInArray';
+import { isPathStartingWith } from '@/utils/isPathStartingWith';
 import type { MiddlewareConfig, NextMiddleware } from 'next/server';
 import type { LocaleKeyType } from '@/constants/i18n/types';
 
@@ -12,7 +12,7 @@ const getLocale = (acceptLanguage: string | null, cookieLocale: string | null): 
     return cookieLocale;
   }
 
-  const primaryLang = acceptLanguage?.split(',')[0]?.split(';')[0]?.trim()?.split('-')[0];
+  const primaryLang = acceptLanguage?.split(',')[0]?.split(';')[0]?.trim().split('-')[0];
 
   return isValueInArray(primaryLang, arrayOfLocales) ? primaryLang : defaultLocale;
 };

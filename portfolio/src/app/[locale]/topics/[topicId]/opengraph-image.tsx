@@ -1,6 +1,8 @@
 import { ImageResponse } from 'next/og';
+import { getTopic } from '@/lib/fetch';
 import { OG } from '@/lib/nextjs';
-import { getGoogleFont } from '@/utils';
+import { getGoogleFont } from '@/utils/getGoogleFont';
+import { throwColoredError } from '@/utils/throwColoredError';
 import type { TopicImageType } from '@/types/components';
 
 const FONT_NAME = 'Noto Sans JP';
@@ -9,6 +11,11 @@ const FONT_WEIGHT = 700;
 const Image: TopicImageType = async (props) => {
   const { topicId } = await props.params;
   const topic = decodeURIComponent(topicId);
+  const topics = await getTopic();
+
+  if (!topics.topic.includes(topicId)) {
+    return throwColoredError(`topic <${topic}> is not found`, 'red');
+  }
 
   return new ImageResponse(
     (

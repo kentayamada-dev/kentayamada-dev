@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { getKeysFromObject } from '.';
 
-describe('getKeysFromObject', () => {
+describe(getKeysFromObject, () => {
   it('should return the keys of an object', () => {
     expect.assertions(1);
 

@@ -1,22 +1,18 @@
-import { ArticleList } from '@/components/designSystem/molecules';
+import { ArticleList } from '@/components/designSystem/molecules/articleList';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getArticles, getMetadata } from '@/lib/graphql-request';
+import { getArticles, getMetadata } from '@/lib/fetch';
 import { getMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
-import { getRedisKey, throwColoredError } from '@/utils';
+import { getRedisKey } from '@/utils/getRedisKey';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, contentfulType.metadata.articles);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.articles}> is empty`, 'red');
-  }
 
   return getMetadataObject(
     'website',

@@ -1,17 +1,17 @@
 import { notFound } from 'next/navigation';
-import { ArticleList } from '@/components/designSystem/molecules';
-import { Article } from '@/components/designSystem/organisms';
+import { ArticleList } from '@/components/designSystem/molecules/articleList';
+import { Article } from '@/components/designSystem/organisms/article';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getArticleBySlug, getArticleSlugs, getArticles, getMetadata } from '@/lib/graphql-request';
+import { getArticleBySlug, getArticleSlugs, getArticles, getMetadata } from '@/lib/fetch';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
-import { OG, getMetadataObject } from '@/lib/nextjs';
+import { OG, getMetadataObject, getNotFoundMetadataObject } from '@/lib/nextjs';
 import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
-import { getRedisKey, throwColoredError } from '@/utils';
+import { getRedisKey } from '@/utils/getRedisKey';
 import type { ArticleGenerateMetadataType, ArticleGenerateStaticParamsType, ArticlePageType } from '@/types/components';
 
 const generateStaticParams: ArticleGenerateStaticParamsType = async () => {
@@ -29,7 +29,9 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
   const article = await getArticleBySlug(locale, articleId);
 
   if (article === null) {
-    return throwColoredError(`article <${articleId}> is empty`, 'red');
+    const metadata = await getMetadata(locale, contentfulType.metadata.pageNotFound);
+
+    return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);
   }
 
   const articlePath = `${navigationItems(locale).articles.href}/${articleId}`;
@@ -53,12 +55,12 @@ const generateMetadata: ArticleGenerateMetadataType = async (props) => {
 const Page: ArticlePageType = async (props) => {
   const { articleId, locale } = await props.params;
   const article = await getArticleBySlug(locale, articleId);
-  const metadata = await getMetadata(locale, contentfulType.metadata.kentaYamada);
 
-  if (article === null || metadata === null) {
-    return notFound();
+  if (article === null) {
+    notFound();
   }
 
+  const metadata = await getMetadata(locale, contentfulType.metadata.kentaYamada);
   const navigation = navigationItems(locale);
   const { articles: articlesDict, myName } = dictionaries[locale];
   const viewKey = getRedisKey('article', 'view', articleId);

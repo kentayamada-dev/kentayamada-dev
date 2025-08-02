@@ -1,21 +1,17 @@
-import { notFound } from 'next/navigation';
-import { CustomImage } from '@/components/designSystem/atoms';
-import { HomeArticleList, HomeIntro, WhackMole } from '@/components/designSystem/organisms';
+import { CustomImage } from '@/components/designSystem/atoms/customImage';
+import { HomeArticleList } from '@/components/designSystem/organisms/homeArticleList';
+import { HomeIntro } from '@/components/designSystem/organisms/homeIntro';
+import { WhackMole } from '@/components/designSystem/organisms/whackMole';
 import { contentfulType } from '@/constants/contentful';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getAbout, getArticles, getMetadata } from '@/lib/graphql-request';
+import { getAbout, getArticles, getMetadata } from '@/lib/fetch';
 import { getMetadataObject } from '@/lib/nextjs';
-import { throwColoredError } from '@/utils';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, contentfulType.metadata.kentaYamada);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.kentaYamada}> is empty`, 'red');
-  }
 
   return getMetadataObject(
     'profile',
@@ -32,11 +28,6 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
   const about = await getAbout(locale);
-
-  if (about === null) {
-    return notFound();
-  }
-
   const { readArticle } = dictionaries[locale];
   const articlesHref = navigationItems(locale).articles.href;
 

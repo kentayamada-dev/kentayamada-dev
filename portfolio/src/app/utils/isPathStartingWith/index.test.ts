@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { isPathStartingWith } from '.';
 
-describe('isPathStartingWith', () => {
+describe(isPathStartingWith, () => {
   it('should return true when path starts with basePath', () => {
     expect.assertions(1);
 

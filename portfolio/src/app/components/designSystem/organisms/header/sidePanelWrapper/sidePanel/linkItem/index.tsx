@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { ListItem } from '@/components/designSystem/atoms';
+import { ListItem } from '@/components/designSystem/atoms/listItem';
 import type { LinkItemType } from './types';
 
 const LinkItem: LinkItemType = (props) => {

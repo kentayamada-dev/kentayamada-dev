@@ -1,4 +1,4 @@
-import { GithubIcon } from '@/components/icons';
+import { GithubIcon } from '@/components/icons/githubIcon';
 import { LinkItem } from '.';
 import type { Meta, StoryObj } from '@storybook/react';
 import type { JSXElementType } from '@/types/components';

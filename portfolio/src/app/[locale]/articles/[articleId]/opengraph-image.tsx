@@ -4,9 +4,10 @@ import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 /* eslint-enable import/no-nodejs-modules */
 import { dictionaries } from '@/constants/i18n';
-import { getArticleBySlug } from '@/lib/graphql-request';
+import { getArticleBySlug } from '@/lib/fetch';
 import { OG } from '@/lib/nextjs';
-import { getGoogleFont, throwColoredError } from '@/utils';
+import { getGoogleFont } from '@/utils/getGoogleFont';
+import { throwColoredError } from '@/utils/throwColoredError';
 import type { ArticleImageType } from '@/types/components';
 
 const FONT_NAME = 'Noto Sans JP';

@@ -1,38 +1,33 @@
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react';
-import { notFound } from 'next/navigation';
-import { Calculator } from '@/components/designSystem/organisms';
-import { MinusIcon, PlusIcon } from '@/components/icons';
+import { Calculator } from '@/components/designSystem/organisms/calculator';
+import { MinusIcon } from '@/components/icons/minusIcon';
+import { PlusIcon } from '@/components/icons/plusIcon';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/graphql-request';
+import { getFaqs, getMetadata, getUtilityBySlug } from '@/lib/fetch';
 import { getEvaluateResult } from '@/lib/next-mdx-remote-client';
 import { OG, getMetadataObject } from '@/lib/nextjs';
 import { getCount, incrementCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
 import { ViewTracker } from '@/lib/nextjs/viewTracker';
-import { getRedisKey, throwColoredError } from '@/utils';
+import { getRedisKey } from '@/utils/getRedisKey';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
-const stockProfitCalculatorId = contentfulType.metadata.stockProfitCalculator;
+const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const metadata = await getMetadata(locale, stockProfitCalculatorId);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${stockProfitCalculatorId}> is empty`, 'red');
-  }
-
-  const stockProfitCalculatorPath = `${navigationItems(locale).utilities.href}/${stockProfitCalculatorId}`;
+  const metadata = await getMetadata(locale, STOCK_PROFIT_CALCULATOR_ID);
+  const stockProfitCalculatorPath = `${navigationItems(locale).utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`;
 
   return getMetadataObject(
     'website',
     {
       current: stockProfitCalculatorPath,
-      en: `${navigationItems('en').utilities.href}/${stockProfitCalculatorId}`,
-      ja: `${navigationItems('ja').utilities.href}/${stockProfitCalculatorId}`
+      en: `${navigationItems('en').utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`,
+      ja: `${navigationItems('ja').utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`
     },
     locale,
     metadata.description,
@@ -45,21 +40,17 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const utility = await getUtilityBySlug(locale, stockProfitCalculatorId);
-
-  if (utility === null) {
-    return notFound();
-  }
+  const utility = await getUtilityBySlug(locale, STOCK_PROFIT_CALCULATOR_ID);
   const navigation = navigationItems(locale);
-  const stockProfitCalculatorPath = `${navigation.utilities.href}/${stockProfitCalculatorId}`;
+  const stockProfitCalculatorPath = `${navigation.utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`;
 
   const {
     faq: faqLabel,
     navigation: { home: homeLabel, utilities: utilitiesLabel }
   } = dictionaries[locale];
 
-  const utilityViewKey = getRedisKey('utility', 'view', stockProfitCalculatorId);
-  const utilityLikeKey = getRedisKey('utility', 'like', stockProfitCalculatorId);
+  const utilityViewKey = getRedisKey('utility', 'view', STOCK_PROFIT_CALCULATOR_ID);
+  const utilityLikeKey = getRedisKey('utility', 'like', STOCK_PROFIT_CALCULATOR_ID);
   const utilityLikeCount = await getCount(utilityLikeKey);
 
   const faqs = await Promise.all(

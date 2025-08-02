@@ -1,7 +1,9 @@
-import { ComputerIcon, MoonIcon, SunIcon } from '@/components/icons';
-import { getKeysFromObject } from '@/utils';
-import { defaultLocale, dictionaries } from '../i18n';
-import type { LocaleKeyType } from '../i18n/types';
+import { ComputerIcon } from '@/components/icons/computerIcon';
+import { MoonIcon } from '@/components/icons/moonIcon';
+import { SunIcon } from '@/components/icons/sunIcon';
+import { defaultLocale, dictionaries } from '@/constants/i18n';
+import { getKeysFromObject } from '@/utils/getKeysFromObject';
+import type { LocaleKeyType } from '@/constants/i18n/types';
 import type { ThemeOptionKeyType, ThemeOptionsType } from './types';
 
 const themeOptions = (locale: LocaleKeyType): ThemeOptionsType => {

@@ -1,21 +1,21 @@
 import { notFound } from 'next/navigation';
-import { ArticleList } from '@/components/designSystem/molecules';
-import { HashTagIcon } from '@/components/icons';
-import { envServer } from '@/constants/env';
+import { ArticleList } from '@/components/designSystem/molecules/articleList';
+import { HashTagIcon } from '@/components/icons/hashTagIcon';
+import { contentfulType } from '@/constants/contentful';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getArticlesByTopic } from '@/lib/graphql-request';
-import { OG, getMetadataObject } from '@/lib/nextjs';
+import { getArticlesByTopic, getMetadata, getTopic } from '@/lib/fetch';
+import { OG, getMetadataObject, getNotFoundMetadataObject } from '@/lib/nextjs';
 import { getCount } from '@/lib/nextjs/actions';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
-import { getTopics } from '@/lib/rest-request';
-import { getRedisKey } from '@/utils';
+import { getRedisKey } from '@/utils/getRedisKey';
 import type { TopicGenerateMetadataType, TopicGenerateStaticParamsType, TopicPageType } from '@/types/components';
 
 const generateStaticParams: TopicGenerateStaticParamsType = async () => {
-  const topics = await getTopics();
+  const { topic } = await getTopic();
 
-  return topics.slugs.map((slug) => {
+  return topic.map((slug) => {
     return {
       topicId: slug
     };
@@ -25,7 +25,14 @@ const generateStaticParams: TopicGenerateStaticParamsType = async () => {
 const generateMetadata: TopicGenerateMetadataType = async (props) => {
   const { locale, topicId } = await props.params;
   const topic = decodeURIComponent(topicId);
-  const topics = await getTopics();
+  const topics = await getTopic();
+
+  if (!topics.topic.includes(topic)) {
+    const metadata = await getMetadata(locale, contentfulType.metadata.pageNotFound);
+
+    return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);
+  }
+
   const topicPath = `${navigationItems(locale).topics.href}/${topicId}`;
 
   return getMetadataObject(
@@ -47,12 +54,13 @@ const generateMetadata: TopicGenerateMetadataType = async (props) => {
 const Page: TopicPageType = async (props) => {
   const { locale, topicId } = await props.params;
   const topic = decodeURIComponent(topicId);
-  const articlesByTopic = await getArticlesByTopic(locale, topic);
+  const topics = await getTopic();
 
-  if (!articlesByTopic) {
-    return notFound();
+  if (!topics.topic.includes(topicId)) {
+    notFound();
   }
 
+  const articlesByTopic = await getArticlesByTopic(locale, topic);
   const navigation = navigationItems(locale);
   const { articles: articlesLabel, home: homeLabel, topics: topicsLabel } = dictionaries[locale].navigation;
 

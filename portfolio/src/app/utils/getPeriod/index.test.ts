@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { getPeriod } from '.';
 
-describe('getPeriod', () => {
+describe(getPeriod, () => {
   const PRESENT_LABEL = 'Present';
   const ERROR_MESSAGE = 'Both start and end dates must be midnight in UTC.';
 

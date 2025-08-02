@@ -7,12 +7,14 @@ import { useMemo } from 'react';
 // eslint-disable-next-line import/no-named-as-default
 import ReCAPTCHA from 'react-google-recaptcha';
 import { Controller, useForm } from 'react-hook-form';
-import { Input, StatefulButton, TextArea } from '@/components/designSystem/atoms';
-import { ChevronDownIcon } from '@/components/icons';
-import { envClient } from '@/constants/env';
+import { Input } from '@/components/designSystem/atoms/input';
+import { StatefulButton } from '@/components/designSystem/atoms/statefulButton';
+import { TextArea } from '@/components/designSystem/atoms/textArea';
+import { ChevronDownIcon } from '@/components/icons/chevronDownIcon';
+import { envClient } from '@/constants/env/client';
 import { dictionaries } from '@/constants/i18n';
 import { defaultIntlTelCode, intlTelList } from '@/constants/intlTel';
-import { getEntries } from '@/utils';
+import { getEntries } from '@/utils/getEntries';
 import type { IntlTelEntryType, IntlTelKeyType } from '@/constants/intlTel/types';
 import type { ContactFormSchemaType, ContactFormType } from './types';
 
@@ -94,7 +96,7 @@ const ContactForm: ContactFormType = (props) => {
           {`${form.phoneNumber} (${form.optional})`}
         </label>
         <div
-          className={`${props.state.errors?.fieldErrors.phoneNumber ? 'outline-red-600' : 'outline-gray-300 has-[input:focus-within]:outline-blue-500 dark:outline-gray-600'} flex overflow-hidden rounded-lg outline-1 -outline-offset-1 has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2`}
+          className={`${props.state.error?.fieldErrors.phoneNumber ? 'outline-red-600' : 'outline-gray-300 has-[input:focus-within]:outline-blue-500 dark:outline-gray-600'} flex overflow-hidden rounded-lg outline-1 -outline-offset-1 has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2`}
         >
           <div>
             <Controller
@@ -107,7 +109,7 @@ const ContactForm: ContactFormType = (props) => {
                   <Listbox as='div' className='size-full' value={value} {...rest}>
                     <ListboxButton
                       aria-label={selectCountryCodeLabel}
-                      className={`${props.state.errors?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex size-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
+                      className={`${props.state.error?.fieldErrors.phoneNumber && 'focus:outline-red-600'} bg-primary flex size-full items-center justify-center rounded-l-lg rounded-r-none pr-2 pl-3 focus-within:relative hover:cursor-pointer focus:outline-2 focus:-outline-offset-2`}
                       ref={ref}
                       title={selectCountryCodeLabel}
                     >
@@ -154,7 +156,7 @@ const ContactForm: ContactFormType = (props) => {
             {...register('phoneNumber')}
           />
         </div>
-        {props.state.errors?.fieldErrors.phoneNumber ? <p className='mt-2 flex text-red-600'>{form.phoneNumberError}</p> : null}
+        {props.state.error?.fieldErrors.phoneNumber ? <p className='mt-2 flex text-red-600'>{form.phoneNumberError}</p> : null}
       </div>
       <TextArea
         autoComplete='on'

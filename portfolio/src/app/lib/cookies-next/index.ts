@@ -1,5 +1,5 @@
 import { setCookie } from 'cookies-next';
-import { envClient } from '@/constants/env';
+import { envClient } from '@/constants/env/client';
 import { localeCookieName } from '@/constants/i18n';
 import type { SetLocaleCookieType } from './types';
 

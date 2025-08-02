@@ -3,4 +3,6 @@ onlyBuiltDependencies:
   - '@vercel/speed-insights'
   - core-js-pure
   - esbuild
+  - oxc-resolver
   - sharp
+  - unrs-resolver

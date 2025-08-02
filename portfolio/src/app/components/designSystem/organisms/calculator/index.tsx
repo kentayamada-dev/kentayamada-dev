@@ -3,16 +3,17 @@
 import NumberFlow, { continuous } from '@number-flow/react';
 import { useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
-import { Input, InputWithCombobox } from '@/components/designSystem/atoms';
-import { Share } from '@/components/designSystem/molecules';
+import { Input } from '@/components/designSystem/atoms/input';
+import { InputWithCombobox } from '@/components/designSystem/atoms/inputWithCombobox';
+import { Share } from '@/components/designSystem/molecules/share';
 import { currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
-import { isValueInArray } from '@/typeGuards';
-import { getCurrencyPairs } from '@/utils';
+import { isValueInArray } from '@/typeGuards/isValueInArray';
+import { getCurrencyPairs } from '@/utils/getCurrencyPairs';
 import { LikeButtonWrapper } from '../likeButtonWrapper';
 import type { ComponentPropsWithoutRef } from 'react';
 import type { SubmitHandler } from 'react-hook-form';
-import type { InputWithComboboxProps } from '@/components/designSystem/atoms';
+import type { InputWithComboboxProps } from '@/components/designSystem/atoms/inputWithCombobox/types';
 import type { CurrencyPairType, CurrencyType } from '@/constants/currencies/types';
 import type { CalculatorInputsType, CalculatorType } from './types';
 

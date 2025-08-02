@@ -1,9 +1,8 @@
-import { envServer } from '@/constants/env';
 import { arrayOfLocales } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getSitemap } from '@/lib/graphql-request';
-import { getTopics } from '@/lib/rest-request';
-import { isDefined } from '@/typeGuards';
+import { envServer } from './constants/env/server';
+import { getSitemap, getTopic } from './lib/fetch';
+import { isDefined } from './typeGuards/isDefined';
 import type { MetadataRoute } from 'next';
 
 const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Sitemap[0] => {
@@ -17,7 +16,7 @@ const createSitemapEntry = (url: string, publishedAt?: string): MetadataRoute.Si
 
 const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
   const { articleItems, utilityItems } = await getSitemap();
-  const topics = await getTopics();
+  const topicInfo = await getTopic();
 
   const staticPaths = arrayOfLocales.flatMap((locale) => {
     return Object.values(navigationItems(locale)).map((item) => {
@@ -38,8 +37,8 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
   });
 
   const topicsPaths = arrayOfLocales.flatMap((locale) => {
-    return topics.slugs.map((topic) => {
-      return createSitemapEntry(`${envServer.SITE_URL}${navigationItems(locale).topics.href}/${topic}`, topics.updatedAt);
+    return topicInfo.topic.map((topicItem) => {
+      return createSitemapEntry(`${envServer.SITE_URL}${navigationItems(locale).topics.href}/${topicItem}`, topicInfo.updatedAt);
     });
   });
 

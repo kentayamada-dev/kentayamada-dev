@@ -1,4 +1,4 @@
-import type { ShareProps } from '@/components/designSystem/molecules';
+import type { ShareProps } from '@/components/designSystem/molecules/share/types';
 import type { ComponentType, ConditionalPickType, JSXElementType, StrictOmitType } from '@/types/components';
 import type { LikeButtonWrapperProps } from '../likeButtonWrapper/types';
 

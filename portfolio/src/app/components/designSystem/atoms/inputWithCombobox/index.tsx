@@ -1,5 +1,5 @@
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
-import { ChevronDownIcon } from '@/components/icons';
+import { ChevronDownIcon } from '@/components/icons/chevronDownIcon';
 import type { InputWithComboboxType } from './types';
 
 const InputWithCombobox: InputWithComboboxType = (props) => {

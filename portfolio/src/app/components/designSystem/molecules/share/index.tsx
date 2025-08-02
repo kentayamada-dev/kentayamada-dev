@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import { CopyToClipboardButton } from '@/components/designSystem/atoms';
-import { FbIcon, XIcon } from '@/components/icons';
+import { CopyToClipboardButton } from '@/components/designSystem/atoms/copyToClipboardButton';
+import { FbIcon } from '@/components/icons/fbIcon';
+import { XIcon } from '@/components/icons/xIcon';
 import { dictionaries } from '@/constants/i18n';
 import type { ShareType } from './types';
 

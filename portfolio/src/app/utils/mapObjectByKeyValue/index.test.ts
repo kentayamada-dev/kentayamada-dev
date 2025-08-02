@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { mapObjectByKeyValue } from '.';
 
-describe('mapObjectByKeyValue', () => {
+describe(mapObjectByKeyValue, () => {
   const navigationItems = {
     about: { href: '/about', id: 2, title: 'About' },
     contact: { href: '/contact', id: 3, title: 'Contact' },

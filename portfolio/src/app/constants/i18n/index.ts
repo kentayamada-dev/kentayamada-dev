@@ -1,6 +1,7 @@
-import { GbFlagIcon, JpFlagIcon } from '@/components/icons';
-import { envClient } from '@/constants/env';
-import { getKeysFromObject } from '@/utils';
+import { GbFlagIcon } from '@/components/icons/gbFlagIcon';
+import { JpFlagIcon } from '@/components/icons/jpFlagIcon';
+import { getKeysFromObject } from '@/utils/getKeysFromObject';
+import { envClient } from '../env/client';
 import en from './dictionaries/en.json';
 import ja from './dictionaries/ja.json';
 import type { DictionariesType, LocaleKeyType, LocaleType } from './types';

@@ -3,8 +3,8 @@
 import { motion } from 'motion/react';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import { RightArrowIcon } from '@/components/icons';
-import { getDateString } from '@/utils';
+import { RightArrowIcon } from '@/components/icons/rightArrowIcon';
+import { getDateString } from '@/utils/getDateString';
 import type { HomeArticleListType } from './types';
 
 const ANIMATION_DELAY = 1;

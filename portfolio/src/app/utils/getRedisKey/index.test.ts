@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { getRedisKey } from '.';
 
-describe('getRedisKey', () => {
+describe(getRedisKey, () => {
   it('should return the correct Redis key for valid inputs', () => {
     expect.assertions(1);
 

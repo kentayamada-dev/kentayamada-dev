@@ -1,9 +1,9 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { navigationItems } from '@/constants/navigation';
-import { useMediaQuery } from '@/hooks';
+import { useMediaQuery } from '@/hooks/useMediaQuery';
 import { SidePanel } from './sidePanel';
 import type { SidePanelProps } from './sidePanel/types';
 import type { SidePanelWrapperType } from './types';
@@ -21,6 +21,10 @@ const SidePanelWrapper: SidePanelWrapperType = (props) => {
   useMediaQuery(() => {
     setIsOpened(false);
   });
+
+  useEffect(() => {
+    setIsOpened(false);
+  }, [pathname]);
 
   const items = Object.fromEntries(
     Object.entries(navigationItems(props.locale)).filter(([_, value]) => {

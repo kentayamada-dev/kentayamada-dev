@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { JpFlagIcon } from '@/components/icons';
+import { JpFlagIcon } from '@/components/icons/jpFlagIcon';
 import { arrayOfLocales, defaultLocale, locales } from '@/constants/i18n';
 import { Switcher } from '.';
 import type { Meta, StoryObj } from '@storybook/react';

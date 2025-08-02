@@ -4,6 +4,7 @@ import { getExtend, addPrefixRule, validateRules } from './utils.js';
 const importPrefix = 'import';
 
 const importRule = addPrefixRule(importPrefix, {
+  'enforce-node-protocol-usage': ['error', 'always'],
   'extensions': ['error', 'never', { 'json': 'always', 'css': 'always' }],
   'no-unassigned-import': [
     'error',

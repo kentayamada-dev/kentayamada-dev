@@ -22,9 +22,9 @@
       "@/types/*": ["./app/types/*"],
       "@/constants/*": ["./app/constants/*"],
       "@/lib/*": ["./app/lib/*"],
-      "@/utils": ["./app/utils/index.ts"],
-      "@/hooks": ["./app/hooks/index.ts"],
-      "@/typeGuards": ["./app/typeGuards/index.ts"]
+      "@/utils/*": ["./app/utils/*"],
+      "@/hooks/*": ["./app/hooks/*"],
+      "@/typeGuards/*": ["./app/typeGuards/*"]
     },
     "resolveJsonModule": true,
     // Emit

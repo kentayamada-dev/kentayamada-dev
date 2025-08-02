@@ -1,4 +1,4 @@
-import { CopyRight } from '@/components/designSystem/atoms';
+import { CopyRight } from '@/components/designSystem/atoms/copyRight';
 import type { FooterType } from './types';
 
 const Footer: FooterType = (props) => {

@@ -1,6 +1,6 @@
 import { useTheme } from 'next-themes';
 import { defaultTheme, themeOptions } from '@/constants/themes';
-import { isDefined } from '@/typeGuards';
+import { isDefined } from '@/typeGuards/isDefined';
 import type { ThemeOptionKeyType, ThemeOptionsType } from '@/constants/themes/types';
 import type { UseNextThemeType } from './types';
 

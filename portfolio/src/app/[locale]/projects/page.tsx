@@ -1,22 +1,17 @@
-import { ProjectsList } from '@/components/designSystem/molecules';
+import { ProjectsList } from '@/components/designSystem/molecules/projectsList';
 import { contentfulType } from '@/constants/contentful';
-import { envServer } from '@/constants/env';
+import { envServer } from '@/constants/env/server';
 import { dictionaries } from '@/constants/i18n';
 import { navigationItems } from '@/constants/navigation';
-import { getMetadata, getProjects } from '@/lib/graphql-request';
+import { getMetadata, getProjects } from '@/lib/fetch';
 import { getMetadataObject } from '@/lib/nextjs';
 import { JsonLd } from '@/lib/nextjs/jsonLd';
-import { throwColoredError } from '@/utils';
-import type { ProjectsListProps } from '@/components/designSystem/molecules';
+import type { ProjectsListProps } from '@/components/designSystem/molecules/projectsList/types';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
   const metadata = await getMetadata(locale, contentfulType.metadata.projects);
-
-  if (metadata === null) {
-    return throwColoredError(`metadata <${contentfulType.metadata.projects}> is empty`, 'red');
-  }
 
   return getMetadataObject(
     'website',
@@ -49,9 +44,9 @@ const Page: PageType = async (props) => {
       return {
         createdAt: new Date(project.createdAt),
         description: project.description,
-        forkCount: Number(project.forkCount),
+        forkCount: project.forkCount,
         name: project.name,
-        stargazerCount: Number(project.stargazerCount),
+        stargazerCount: project.stargazerCount,
         updatedAt: new Date(project.updatedAt),
         url: project.url
       };

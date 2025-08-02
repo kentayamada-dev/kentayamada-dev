@@ -1,6 +1,8 @@
 import Link from 'next/link';
-import { EyeIcon, HeartIcon } from '@/components/icons';
-import { formatNumber, getDateString } from '@/utils';
+import { EyeIcon } from '@/components/icons/eyeIcon';
+import { HeartIcon } from '@/components/icons/heartIcon';
+import { formatNumber } from '@/utils/formatNumber';
+import { getDateString } from '@/utils/getDateString';
 import type { ArticleListType } from './types';
 
 const ArticleList: ArticleListType = (props) => {

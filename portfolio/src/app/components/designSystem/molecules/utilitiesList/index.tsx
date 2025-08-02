@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import { EyeIcon, HeartIcon } from '@/components/icons';
-import { formatNumber } from '@/utils';
+import { EyeIcon } from '@/components/icons/eyeIcon';
+import { HeartIcon } from '@/components/icons/heartIcon';
+import { formatNumber } from '@/utils/formatNumber';
 import type { UtilitiesListType } from './types';
 
 const UtilitiesList: UtilitiesListType = (props) => {
