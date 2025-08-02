@@ -27,7 +27,7 @@ const generateMetadata: TopicGenerateMetadataType = async (props) => {
   const topic = decodeURIComponent(topicId);
   const topics = await getTopic();
 
-  if (!topics.topic.includes(topic)) {
+  if (!topics.topic.includes(topicId)) {
     const metadata = await getMetadata(locale, contentfulType.metadata.pageNotFound);
 
     return getNotFoundMetadataObject(locale, metadata.description, metadata.title, metadata.coverImage.url);

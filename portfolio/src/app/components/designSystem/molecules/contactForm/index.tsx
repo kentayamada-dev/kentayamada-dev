@@ -164,7 +164,7 @@ const ContactForm: ContactFormType = (props) => {
         label={form.message}
         placeholder={form.placeHolder.message}
         required
-        rows={4}
+        rows={6}
         {...register('message')}
       />
       <ReCAPTCHA hl={props.locale} onChange={props.onChangeRc} ref={props.recaptchaRef} sitekey={envClient.NEXT_PUBLIC_RECAPTCHA_SITEKEY} />
