@@ -55,7 +55,7 @@ const Article: ArticleType = (props) => {
                       href={topic.path}
                       key={topic.path}
                     >
-                      <div className='size-5 rounded-full bg-slate-300/50 p-1 text-blue-500 dark:bg-slate-700'>
+                      <div className='size-5 rounded-full bg-blue-200/50 p-1 text-blue-500 dark:bg-blue-900/40'>
                         <HashTagIcon isBold />
                       </div>
                       <span className='pr-1 text-sm text-black dark:text-white'>{topic.title}</span>
