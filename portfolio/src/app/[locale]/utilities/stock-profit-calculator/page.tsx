@@ -99,7 +99,7 @@ const Page: PageType = async (props) => {
       <JsonLd jsonLd={jsonLd} />
       <ViewTracker keyName={utilityViewKey} />
       <main className='w-full self-center px-5 py-10 sm:px-10 sm:py-20 md:max-w-4xl'>
-        <h1 className='text-primary mb-10 text-center text-3xl font-semibold tracking-tight sm:text-5xl'>{utility.title}</h1>
+        <h1 className='text-primary mb-10 text-center text-3xl font-semibold tracking-tight sm:text-4xl'>{utility.title}</h1>
         <Calculator
           likeCount={utilityLikeCount}
           locale={locale}

@@ -124,7 +124,7 @@ const Page: ArticlePageType = async (props) => {
     <>
       <JsonLd jsonLd={jsonLd} />
       <ViewTracker keyName={viewKey} />
-      <main className='my-20 flex max-w-7xl flex-col self-center sm:mx-10'>
+      <main className='my-10 flex max-w-7xl flex-col self-center sm:mx-10 sm:my-20'>
         <Article
           articleTitle={article.title}
           content={content}
@@ -138,7 +138,7 @@ const Page: ArticlePageType = async (props) => {
           url={`${envServer.SITE_URL}${navigation.articles.href}/${articleId}`}
         />
         <div className='mt-20 w-full px-5 sm:px-0'>
-          <h2 className='text-primary mb-8 text-3xl font-bold tracking-tight sm:text-4xl'>{articlesDict.recommend}</h2>
+          <h2 className='text-primary mb-8 text-2xl font-bold tracking-tight sm:text-4xl'>{articlesDict.recommend}</h2>
           <ArticleList articles={articles} locale={locale} />
         </div>
       </main>

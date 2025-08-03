@@ -23,8 +23,8 @@ const Article: ArticleType = (props) => {
         <MobileTableOfContents articleClassName={ARTICLE_CLASS_NAME} locale={props.locale} title={props.tocTitle} />
       </aside>
       <article className='flex flex-col items-center'>
-        <h1 className='text-primary text-center text-3xl font-semibold tracking-tight sm:max-w-5xl sm:text-5xl'>{props.articleTitle}</h1>
-        <div className='text-secondary mt-10 flex justify-center gap-x-5 text-sm'>
+        <h1 className='text-primary text-center text-2xl font-semibold tracking-tight sm:max-w-5xl sm:text-4xl'>{props.articleTitle}</h1>
+        <div className='text-secondary mt-5 flex justify-center gap-x-5 text-sm sm:mt-10'>
           {!isDateSame && (
             <div className='flex items-center gap-x-1'>
               <span className='size-5'>
@@ -44,7 +44,7 @@ const Article: ArticleType = (props) => {
             </time>
           </div>
         </div>
-        <div className='mt-20 grid [grid-template-areas:"left_right"] md:gap-x-8'>
+        <div className='mt-10 grid [grid-template-areas:"left_right"] sm:mt-20 md:gap-x-8'>
           <div className='max-w-none overflow-auto'>
             <div className='bg-primary rounded-none p-7 sm:rounded-lg sm:p-10'>
               <div className='mb-3 flex gap-3'>
@@ -58,7 +58,7 @@ const Article: ArticleType = (props) => {
                       <div className='size-5 rounded-full bg-blue-200/50 p-1 text-blue-500 dark:bg-blue-900/40'>
                         <HashTagIcon isBold />
                       </div>
-                      <span className='pr-1 text-sm text-black dark:text-white'>{topic.title}</span>
+                      <span className='pr-1 text-xs text-black sm:text-sm dark:text-white'>{topic.title}</span>
                     </Link>
                   );
                 })}

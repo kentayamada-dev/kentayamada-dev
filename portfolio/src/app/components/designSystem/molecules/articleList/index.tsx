@@ -11,11 +11,11 @@ const ArticleList: ArticleListType = (props) => {
       {props.articles.map((article) => {
         return (
           <Link className='bg-primary hover-primary flex rounded-lg p-5' href={article.href} key={article.href}>
-            <article className='flex min-h-60 flex-col'>
-              <h2 className='text-primary text-2xl font-bold tracking-tight'>{article.title}</h2>
-              <p className='text-secondary mt-4 text-base'>{article.subtitle}</p>
+            <article className='flex min-h-52 flex-col sm:min-h-60'>
+              <h2 className='text-primary text-xl font-bold tracking-tight sm:text-2xl'>{article.title}</h2>
+              <p className='text-secondary mt-4 text-sm sm:text-base'>{article.subtitle}</p>
               <div className='mt-auto flex flex-col gap-y-2 pt-5'>
-                <div className='text-secondary flex justify-between text-base'>
+                <div className='text-secondary flex justify-between text-sm sm:text-base'>
                   <time dateTime={article.createdAt.toISOString()} itemProp='datePublished'>
                     {getDateString(article.createdAt, props.locale)}
                   </time>

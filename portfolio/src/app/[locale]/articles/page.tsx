@@ -75,8 +75,8 @@ const Page: PageType = async (props) => {
   return (
     <>
       <JsonLd jsonLd={jsonLd} />
-      <main className='w-full self-center px-5 py-10 sm:max-w-7xl sm:px-10 sm:py-20'>
-        <h1 className='text-primary mb-8 text-3xl font-bold tracking-tight sm:text-4xl'>{title}</h1>
+      <main className='w-full self-center px-5 py-8 sm:max-w-7xl sm:px-10 sm:py-20'>
+        <h1 className='text-primary mb-8 text-2xl font-bold tracking-tight sm:text-4xl'>{title}</h1>
         <ArticleList articles={articles} locale={locale} />
       </main>
     </>
