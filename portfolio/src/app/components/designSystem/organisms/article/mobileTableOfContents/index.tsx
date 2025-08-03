@@ -30,7 +30,7 @@ const MobileTableOfContents: MobileTableOfContentsType = (props) => {
     <>
       <button
         aria-label={openTocLabel}
-        className='fixed right-5 bottom-5 z-10 inline-flex size-14 rounded-full bg-blue-500 p-2.5 text-white hover:cursor-pointer sm:right-16 md:hidden'
+        className='fixed right-5 bottom-5 z-10 inline-flex size-12 rounded-full bg-blue-500 p-2.5 text-white hover:cursor-pointer sm:right-16 sm:size-14 md:hidden'
         onClick={handleOpenDrawer}
         title={openTocLabel}
         type='button'
