@@ -9,9 +9,7 @@ const config: StorybookConfig = {
         backgrounds: false
       }
     },
-    '@storybook/addon-a11y',
-    'storybook-dark-mode',
-    '@storybook/addon-themes'
+    '@storybook/addon-a11y'
   ],
   framework: '@storybook/nextjs',
   env: (config) => {

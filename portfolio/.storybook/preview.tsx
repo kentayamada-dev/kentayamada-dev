@@ -1,5 +1,4 @@
-import { withThemeByClassName } from '@storybook/addon-themes';
-import { Decorator, Preview, ReactRenderer } from '@storybook/react';
+import { Decorator, Preview } from '@storybook/react';
 import { customViewports, viewportKeys } from '../src/app/lib/storybook';
 import { notoSansJP } from '../src/app/constants/fonts';
 // @ts-expect-error library not found
@@ -21,6 +20,32 @@ const preventNavigation: Decorator = (Story) => (
 );
 
 const preview: Preview = {
+  globalTypes: {
+    themeStory: {
+      description: 'Theme for Story',
+      toolbar: {
+        title: 'Story',
+        items: [
+          { value: 'light', icon: 'sun', title: 'Light' },
+          { value: 'dark', icon: 'moon', title: 'Dark' }
+        ]
+      }
+    },
+    themeUI: {
+      description: 'Theme for UI',
+      toolbar: {
+        title: 'UI',
+        items: [
+          { value: 'light', icon: 'sun', title: 'Light' },
+          { value: 'dark', icon: 'moon', title: 'Dark' }
+        ]
+      }
+    }
+  },
+  initialGlobals: {
+    themeStory: 'light',
+    themeUI: 'light'
+  },
   parameters: {
     controls: {
       matchers: {
@@ -38,20 +63,23 @@ const preview: Preview = {
   },
   decorators: [
     preventNavigation,
+    (Story, context) => {
+      const isDark = context.globals.themeStory === 'dark';
+      const html = document.documentElement;
+      if (isDark) {
+        html.classList.add('dark');
+      } else {
+        html.classList.remove('dark');
+      }
+      return <Story />;
+    },
     (Story) => {
       return (
         <span className={notoSansJP.className}>
           <Story />
         </span>
       );
-    },
-    withThemeByClassName<ReactRenderer>({
-      themes: {
-        light: 'light',
-        dark: 'dark'
-      },
-      defaultTheme: 'light'
-    })
+    }
   ]
 };
 

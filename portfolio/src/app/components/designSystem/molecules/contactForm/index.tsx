@@ -2,7 +2,6 @@
 
 import { Listbox, ListboxButton, ListboxOption, ListboxOptions } from '@headlessui/react';
 import Form from 'next/form';
-import { useMemo } from 'react';
 // @ts-expect-error type not found
 // eslint-disable-next-line import/no-named-as-default
 import ReCAPTCHA from 'react-google-recaptcha';
@@ -13,9 +12,8 @@ import { TextArea } from '@/components/designSystem/atoms/textArea';
 import { ChevronDownIcon } from '@/components/icons/chevronDownIcon';
 import { envClient } from '@/constants/env/client';
 import { dictionaries } from '@/constants/i18n';
-import { defaultIntlTelCode, intlTelList } from '@/constants/intlTel';
+import { countriesData, defaultIntlTelCode } from '@/constants/intlTel';
 import { getEntries } from '@/utils/getEntries';
-import type { IntlTelEntryType, IntlTelKeyType } from '@/constants/intlTel/types';
 import type { ContactFormSchemaType, ContactFormType } from './types';
 
 const ContactForm: ContactFormType = (props) => {
@@ -23,6 +21,8 @@ const ContactForm: ContactFormType = (props) => {
     form,
     labels: { selectCountryCodeLabel }
   } = dictionaries[props.locale];
+
+  const countries = countriesData[props.locale];
 
   const { control, register, watch } = useForm<ContactFormSchemaType>({
     defaultValues: {
@@ -34,30 +34,6 @@ const ContactForm: ContactFormType = (props) => {
       phoneNumber: ''
     }
   });
-
-  const countriesData = useMemo<Record<IntlTelKeyType, IntlTelEntryType>>(() => {
-    return getEntries(intlTelList)
-      .map(([key, value]) => {
-        return {
-          key,
-          ...value,
-          label: new Intl.DisplayNames([props.locale], { type: 'region' }).of(key) ?? ''
-        };
-      })
-      .sort((firstCountry, secondCountry) => {
-        return firstCountry.label.localeCompare(secondCountry.label);
-      })
-      .reduce<Record<IntlTelKeyType, IntlTelEntryType>>(
-        // eslint-disable-next-line no-restricted-syntax
-        (acc, { key, ...rest }) => {
-          acc[key] = rest;
-
-          return acc;
-        },
-        // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-        {} as Record<IntlTelKeyType, IntlTelEntryType>
-      );
-  }, [props.locale]);
 
   return (
     // eslint-disable-next-line react/jsx-handler-names
@@ -113,10 +89,7 @@ const ContactForm: ContactFormType = (props) => {
                       ref={ref}
                       title={selectCountryCodeLabel}
                     >
-                      <div
-                        className='mr-2 size-5 bg-contain bg-center bg-no-repeat'
-                        style={{ backgroundImage: `url(${countriesData[value].icon})` }}
-                      />
+                      <div className='mr-2 size-5 bg-contain bg-center bg-no-repeat' style={{ backgroundImage: `url(${countries[value].icon})` }} />
                       <div className='text-tertiary size-5'>
                         <ChevronDownIcon />
                       </div>
@@ -125,7 +98,7 @@ const ContactForm: ContactFormType = (props) => {
                       aria-label={selectCountryCodeLabel}
                       className='absolute top-20 h-60 w-fit overflow-auto rounded-lg bg-white ring-1 ring-gray-300 dark:bg-slate-800 dark:ring-gray-600'
                     >
-                      {getEntries(countriesData).map(([key, { code, icon, label }]) => {
+                      {getEntries(countries).map(([key, { code, icon, label }]) => {
                         return (
                           <ListboxOption
                             className='group relative cursor-pointer px-2 py-3 select-none data-[focus]:bg-slate-100 data-[focus]:text-white data-[focus]:dark:bg-slate-600/30'
@@ -151,7 +124,7 @@ const ContactForm: ContactFormType = (props) => {
             className='placeholder-primary bg-primary grow p-2.5 text-base text-black focus:outline-hidden dark:text-white'
             defaultValue={props.state.data?.phoneNumber}
             id='phoneNumber'
-            placeholder={countriesData[watch('countryCode')].format}
+            placeholder={countries[watch('countryCode')].format}
             type='tel'
             {...register('phoneNumber')}
           />

@@ -5,14 +5,13 @@ import { OG } from '@/lib/nextjs';
 import { getGoogleFont } from '@/utils/getGoogleFont';
 import type { UtilityImageType } from '@/types/components';
 
-const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
 const FONT_NAME = 'Noto Sans JP';
 const FONT_BOLD = 700;
 const FONT_REGULAR = 400;
 
 const Image: UtilityImageType = async (props) => {
   const { locale } = await props.params;
-  const metadata = await getMetadata(locale, STOCK_PROFIT_CALCULATOR_ID);
+  const metadata = await getMetadata(locale, contentfulType.metadata.stockProfitCalculator);
   const title = metadata.title.toUpperCase();
 
   return new ImageResponse(

@@ -15,19 +15,17 @@ import { ViewTracker } from '@/lib/nextjs/viewTracker';
 import { getRedisKey } from '@/utils/getRedisKey';
 import type { GenerateMetadataType, PageType } from '@/types/components';
 
-const STOCK_PROFIT_CALCULATOR_ID = contentfulType.metadata.stockProfitCalculator;
-
 const generateMetadata: GenerateMetadataType = async (props) => {
   const { locale } = await props.params;
-  const metadata = await getMetadata(locale, STOCK_PROFIT_CALCULATOR_ID);
-  const stockProfitCalculatorPath = `${navigationItems(locale).utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`;
+  const metadata = await getMetadata(locale, contentfulType.metadata.stockProfitCalculator);
+  const stockProfitCalculatorPath = `${navigationItems(locale).utilities.href}/${contentfulType.metadata.stockProfitCalculator}`;
 
   return getMetadataObject(
     'website',
     {
       current: stockProfitCalculatorPath,
-      en: `${navigationItems('en').utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`,
-      ja: `${navigationItems('ja').utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`
+      en: `${navigationItems('en').utilities.href}/${contentfulType.metadata.stockProfitCalculator}`,
+      ja: `${navigationItems('ja').utilities.href}/${contentfulType.metadata.stockProfitCalculator}`
     },
     locale,
     metadata.description,
@@ -40,17 +38,17 @@ const generateMetadata: GenerateMetadataType = async (props) => {
 
 const Page: PageType = async (props) => {
   const { locale } = await props.params;
-  const utility = await getUtilityBySlug(locale, STOCK_PROFIT_CALCULATOR_ID);
+  const utility = await getUtilityBySlug(locale, contentfulType.metadata.stockProfitCalculator);
   const navigation = navigationItems(locale);
-  const stockProfitCalculatorPath = `${navigation.utilities.href}/${STOCK_PROFIT_CALCULATOR_ID}`;
+  const stockProfitCalculatorPath = `${navigation.utilities.href}/${contentfulType.metadata.stockProfitCalculator}`;
 
   const {
     faq: faqLabel,
     navigation: { home: homeLabel, utilities: utilitiesLabel }
   } = dictionaries[locale];
 
-  const utilityViewKey = getRedisKey('utility', 'view', STOCK_PROFIT_CALCULATOR_ID);
-  const utilityLikeKey = getRedisKey('utility', 'like', STOCK_PROFIT_CALCULATOR_ID);
+  const utilityViewKey = getRedisKey('utility', 'view', contentfulType.metadata.stockProfitCalculator);
+  const utilityLikeKey = getRedisKey('utility', 'like', contentfulType.metadata.stockProfitCalculator);
   const utilityLikeCount = await getCount(utilityLikeKey);
 
   const faqs = await Promise.all(
