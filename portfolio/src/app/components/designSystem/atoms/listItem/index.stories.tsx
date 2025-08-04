@@ -1,6 +1,6 @@
 import { SunIcon } from '@/components/icons/sunIcon';
 import { ListItem } from '.';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 
 const meta = {
   args: {

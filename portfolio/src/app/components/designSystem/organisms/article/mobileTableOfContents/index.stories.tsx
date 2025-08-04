@@ -2,7 +2,7 @@ import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { viewportKeys } from '@/lib/storybook';
 import desktopTableOfContentsStory from '../desktopTableOfContents/index.stories';
 import { MobileTableOfContents } from '.';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 
 const meta = {
   argTypes: {

@@ -1,6 +1,6 @@
 import { arrayOfLocales } from '@/constants/i18n';
 import { HomeArticleList } from '.';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 
 const meta = {
   argTypes: {

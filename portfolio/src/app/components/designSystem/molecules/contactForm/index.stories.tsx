@@ -1,8 +1,8 @@
-import { fn } from '@storybook/test';
+import { fn } from 'storybook/test';
 import statefulButtonStory from '@/components/designSystem/atoms/statefulButton/index.stories';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { ContactForm } from '.';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 
 const meta = {
   argTypes: {

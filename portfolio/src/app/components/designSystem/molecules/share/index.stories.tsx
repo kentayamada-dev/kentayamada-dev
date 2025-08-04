@@ -1,7 +1,7 @@
 import copyToClipboardButtonStory from '@/components/designSystem/atoms/copyToClipboardButton/index.stories';
 import { arrayOfLocales, defaultLocale } from '@/constants/i18n';
 import { Share } from '.';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 
 const meta = {
   argTypes: {

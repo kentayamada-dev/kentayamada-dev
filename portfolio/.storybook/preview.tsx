@@ -1,8 +1,7 @@
-import { Decorator, Preview } from '@storybook/react';
+import { Decorator, Preview } from '@storybook/nextjs-vite';
 import { customViewports, viewportKeys } from '../src/app/lib/storybook';
 import { notoSansJP } from '../src/app/constants/fonts';
-// @ts-expect-error library not found
-import { action } from '@storybook/addon-actions';
+import { action } from 'storybook/actions';
 import '../src/app/globals.css';
 
 const preventNavigation: Decorator = (Story) => (
@@ -44,9 +43,11 @@ const preview: Preview = {
   },
   initialGlobals: {
     themeStory: 'light',
-    themeUI: 'light'
+    themeUI: 'light',
+    viewport: { value: viewportKeys.iPadAir }
   },
   parameters: {
+    backgrounds: { disable: true },
     controls: {
       matchers: {
         date: /(createdAt|updatedAt)$/i
@@ -59,7 +60,11 @@ const preview: Preview = {
       }
     },
     layout: 'fullscreen',
-    viewport: { viewports: customViewports, defaultViewport: viewportKeys.iPadAir }
+    viewport: {
+      options: {
+        ...customViewports
+      }
+    }
   },
   decorators: [
     preventNavigation,

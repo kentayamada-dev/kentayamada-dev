@@ -1,17 +1,9 @@
-import { StorybookConfig } from '@storybook/nextjs';
+import { StorybookConfig } from '@storybook/nextjs-vite';
 
 const config: StorybookConfig = {
   stories: ['../src/app/components/**/index.stories.tsx'],
-  addons: [
-    {
-      name: '@storybook/addon-essentials',
-      options: {
-        backgrounds: false
-      }
-    },
-    '@storybook/addon-a11y'
-  ],
-  framework: '@storybook/nextjs',
+  addons: ['@storybook/addon-a11y'],
+  framework: '@storybook/nextjs-vite',
   env: (config) => {
     return {
       ...config,

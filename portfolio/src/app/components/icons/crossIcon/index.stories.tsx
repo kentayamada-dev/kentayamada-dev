@@ -1,5 +1,5 @@
 import { CrossIcon } from '.';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 import type { JSXElementType } from '@/types/components';
 
 const meta = {

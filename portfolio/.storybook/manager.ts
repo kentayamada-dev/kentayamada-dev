@@ -1,5 +1,5 @@
-import { addons } from '@storybook/manager-api';
-import { themes } from '@storybook/theming';
+import { addons } from 'storybook/manager-api';
+import { themes } from 'storybook/theming';
 
 function camelToTitle(str: string): string {
   const result = str.replace(/([a-z])([A-Z])/g, '$1 $2');
