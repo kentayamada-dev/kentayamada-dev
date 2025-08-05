@@ -41,7 +41,7 @@ const SidePanel: SidePanelType = (props) => {
           transition
         />
         <DialogPanel
-          className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-lg bg-white p-5 text-sm shadow-xl duration-500 data-[closed]:-translate-x-full sm:text-base dark:bg-slate-800'
+          className='fixed inset-y-0 z-30 flex h-full w-80 flex-col rounded-r-lg bg-white p-5 shadow-xl duration-500 data-[closed]:-translate-x-full dark:bg-slate-800'
           transition
         >
           <button
@@ -59,7 +59,7 @@ const SidePanel: SidePanelType = (props) => {
               {Object.entries(props.items).map(([key, { href, icon, title }]) => {
                 return (
                   <li
-                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} hover-secondary rounded-lg p-2 font-medium hover:cursor-pointer`}
+                    className={`${props.currentPathname === href ? 'text-blue-500' : 'link-primary'} hover-secondary rounded-lg p-2 text-base font-medium hover:cursor-pointer`}
                     key={key}
                   >
                     <Link href={href}>
