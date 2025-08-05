@@ -1,4 +1,4 @@
-import { Decorator, Preview } from '@storybook/nextjs-vite';
+import { Preview } from '@storybook/nextjs-vite';
 import { customViewports, viewportKeys } from '../src/app/lib/storybook';
 import { notoSansJP } from '../src/app/constants/fonts';
 import { action } from 'storybook/actions';
