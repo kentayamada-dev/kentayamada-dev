@@ -1,12 +1,12 @@
 'use client';
 
 import NumberFlow, { continuous } from '@number-flow/react';
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Input } from '@/components/designSystem/atoms/input';
 import { InputWithCombobox } from '@/components/designSystem/atoms/inputWithCombobox';
 import { Share } from '@/components/designSystem/molecules/share';
-import { currencies } from '@/constants/currencies';
+import { allCurrencyPairs, currencies } from '@/constants/currencies';
 import { dictionaries } from '@/constants/i18n';
 import { isValueInArray } from '@/typeGuards/isValueInArray';
 import { getCurrencyPairs } from '@/utils/getCurrencyPairs';
@@ -17,17 +17,6 @@ import type { InputWithComboboxProps } from '@/components/designSystem/atoms/inp
 import type { CurrencyPairType, CurrencyType } from '@/constants/currencies/types';
 import type { CalculatorInputsType, CalculatorType } from './types';
 
-const ALL_CURRENCY_PAIRS: CurrencyPairType[] = currencies.flatMap((base) => {
-  return currencies
-    .filter((quote) => {
-      return quote !== base;
-    })
-    .map((quote) => {
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-type-assertion
-      return `${base}/${quote}` as CurrencyPairType;
-    });
-});
-
 const Calculator: CalculatorType = (props) => {
   const {
     calculator,
@@ -36,6 +25,7 @@ const Calculator: CalculatorType = (props) => {
 
   const [currencyPair, setCurrencyPair] = useState<CurrencyPairType>('USD/JPY');
   const { handleSubmit, register } = useForm<CalculatorInputsType>();
+  const ref = useRef<HTMLDListElement>(null);
 
   const [profitData, setProfitData] = useState({
     fxProfitInQuoteCurrency: 0,
@@ -71,13 +61,14 @@ const Calculator: CalculatorType = (props) => {
   };
 
   const onCurrencyPairChange: InputWithComboboxProps['handleChangeInput'] = (newCurrency): void => {
-    if (isValueInArray(newCurrency, ALL_CURRENCY_PAIRS)) {
+    if (isValueInArray(newCurrency, allCurrencyPairs)) {
       setCurrencyPair(newCurrency);
     }
   };
 
   const handleFormSubmit: ComponentPropsWithoutRef<'form'>['onSubmit'] = (event) => {
     event.preventDefault();
+    ref.current?.scrollIntoView();
 
     // eslint-disable-next-line no-void
     void (async (): Promise<void> => {
@@ -184,7 +175,7 @@ const Calculator: CalculatorType = (props) => {
           {calculator.calculate}
         </button>
       </form>
-      <dl className='grid grid-cols-1 grid-rows-none gap-5 md:grid-rows-4'>
+      <dl className='grid grid-cols-1 grid-rows-none gap-5 md:grid-rows-4' ref={ref}>
         {items.map((item) => {
           const { currency, label, value } = item;
 
