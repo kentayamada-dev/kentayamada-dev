@@ -4,20 +4,6 @@ import { notoSansJP } from '../src/app/constants/fonts';
 import { action } from 'storybook/actions';
 import '../src/app/globals.css';
 
-const preventNavigation: Decorator = (Story) => (
-  <div
-    onClick={(event) => {
-      const anchor = (event.target as HTMLElement).closest('a');
-      if (anchor) {
-        event.preventDefault();
-        action('link-click')(anchor.getAttribute('href'));
-      }
-    }}
-  >
-    <Story />
-  </div>
-);
-
 const preview: Preview = {
   globalTypes: {
     themeStory: {
@@ -47,8 +33,10 @@ const preview: Preview = {
     viewport: { value: viewportKeys.iPadAir }
   },
   parameters: {
+    options: { selectedPanel: 'storybook/controls/panel' },
     backgrounds: { disable: true },
     controls: {
+      disableSaveFromUI: true,
       matchers: {
         date: /(createdAt|updatedAt)$/i
       }
@@ -67,7 +55,6 @@ const preview: Preview = {
     }
   },
   decorators: [
-    preventNavigation,
     (Story, context) => {
       const isDark = context.globals.themeStory === 'dark';
       const html = document.documentElement;
@@ -76,11 +63,17 @@ const preview: Preview = {
       } else {
         html.classList.remove('dark');
       }
-      return <Story />;
-    },
-    (Story) => {
       return (
-        <span className={notoSansJP.className}>
+        <span
+          className={notoSansJP.className}
+          onClick={(event) => {
+            const anchor = (event.target as HTMLElement).closest('a');
+            if (anchor) {
+              event.preventDefault();
+              action('link-click')(anchor.getAttribute('href'));
+            }
+          }}
+        >
           <Story />
         </span>
       );

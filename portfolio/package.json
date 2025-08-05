@@ -57,7 +57,6 @@
     "@cspell/eslint-plugin": "9.2.0",
     "@eslint/js": "9.32.0",
     "@next/eslint-plugin-next": "15.4.5",
-    "@storybook/addon-a11y": "9.1.1",
     "@storybook/nextjs-vite": "9.1.1",
     "@stylistic/eslint-plugin": "5.2.2",
     "@tailwindcss/postcss": "4.1.11",
