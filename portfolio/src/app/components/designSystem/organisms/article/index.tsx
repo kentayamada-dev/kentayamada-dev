@@ -23,7 +23,7 @@ const Article: ArticleType = (props) => {
         <MobileTableOfContents articleClassName={ARTICLE_CLASS_NAME} locale={props.locale} title={props.tocTitle} />
       </aside>
       <article className='flex flex-col items-center'>
-        <h1 className='text-primary text-center text-2xl font-semibold tracking-tight sm:max-w-5xl sm:text-4xl'>{props.articleTitle}</h1>
+        <h1 className='text-primary px-7 text-center text-2xl font-semibold tracking-tight sm:max-w-5xl sm:text-4xl'>{props.articleTitle}</h1>
         <div className='text-secondary mt-5 flex justify-center gap-x-5 text-sm sm:mt-10'>
           {!isDateSame && (
             <div className='flex items-center gap-x-1'>
