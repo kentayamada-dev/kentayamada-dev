@@ -17,36 +17,36 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000&cache_buster=2025-09-27T16%3A01%3A18Z" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000&cache_buster=2025-09-27T16%3A31%3A16Z" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true&cache_buster=2025-09-27T16%3A01%3A18Z" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true&cache_buster=2025-09-27T16%3A31%3A16Z" />
 
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&cache_buster=2025-09-27T16%3A01%3A18Z" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&cache_buster=2025-09-27T16%3A31%3A16Z" />
 </div>
 
 ## 📝 **My Latest Articles**
   <a href=https://www.kentayamada.dev/en/articles/storybook-atomic-design>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20Storybook%20and%20Atomic%20Design%20Accelerate%20UI%20Development&subtitle=Learn%20how%20Storybook%20and%20Atomic%20Design%20improve%20UI%20consistency%2C%20speed%20up%20delivery%2C%20align%20teams%2C%20and%20enable%20safer%20refactoring%20at%20scale.&date=Sep%2013&mode=dark&cache_buster=2025-09-27T16%3A01%3A18Z" />
-      <img src="https://og.kentayamada058.workers.dev?title=Why%20Storybook%20and%20Atomic%20Design%20Accelerate%20UI%20Development&subtitle=Learn%20how%20Storybook%20and%20Atomic%20Design%20improve%20UI%20consistency%2C%20speed%20up%20delivery%2C%20align%20teams%2C%20and%20enable%20safer%20refactoring%20at%20scale.&date=Sep%2013&cache_buster=2025-09-27T16%3A01%3A18Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Why%20Storybook%20and%20Atomic%20Design%20Accelerate%20UI%20Development&subtitle=Learn%20how%20Storybook%20and%20Atomic%20Design%20improve%20UI%20consistency%2C%20speed%20up%20delivery%2C%20align%20teams%2C%20and%20enable%20safer%20refactoring%20at%20scale.&date=Sep%2013&mode=dark&cache_buster=2025-09-27T16%3A31%3A16Z" />
+      <img src="https://og.kentayamada058.workers.dev?title=Why%20Storybook%20and%20Atomic%20Design%20Accelerate%20UI%20Development&subtitle=Learn%20how%20Storybook%20and%20Atomic%20Design%20improve%20UI%20consistency%2C%20speed%20up%20delivery%2C%20align%20teams%2C%20and%20enable%20safer%20refactoring%20at%20scale.&date=Sep%2013&cache_buster=2025-09-27T16%3A31%3A16Z" />
     </picture>
   </a>
 
   <a href=https://www.kentayamada.dev/en/articles/7-essential-software-design-patterns>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=7%20Essential%20Software%20Design%20Patterns&subtitle=Learn%207%20essential%20Gang%20of%20Four%20design%20patterns%20with%20clear%20JavaScript%20examples%3A%20Singleton%2C%20Builder%2C%20Factory%2C%20Facade%2C%20Adapter%2C%20Strategy%2C%20and%20Observer.&date=Jul%2013&mode=dark&cache_buster=2025-09-27T16%3A01%3A18Z" />
-      <img src="https://og.kentayamada058.workers.dev?title=7%20Essential%20Software%20Design%20Patterns&subtitle=Learn%207%20essential%20Gang%20of%20Four%20design%20patterns%20with%20clear%20JavaScript%20examples%3A%20Singleton%2C%20Builder%2C%20Factory%2C%20Facade%2C%20Adapter%2C%20Strategy%2C%20and%20Observer.&date=Jul%2013&cache_buster=2025-09-27T16%3A01%3A18Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=7%20Essential%20Software%20Design%20Patterns&subtitle=Learn%207%20essential%20Gang%20of%20Four%20design%20patterns%20with%20clear%20JavaScript%20examples%3A%20Singleton%2C%20Builder%2C%20Factory%2C%20Facade%2C%20Adapter%2C%20Strategy%2C%20and%20Observer.&date=Jul%2013&mode=dark&cache_buster=2025-09-27T16%3A31%3A16Z" />
+      <img src="https://og.kentayamada058.workers.dev?title=7%20Essential%20Software%20Design%20Patterns&subtitle=Learn%207%20essential%20Gang%20of%20Four%20design%20patterns%20with%20clear%20JavaScript%20examples%3A%20Singleton%2C%20Builder%2C%20Factory%2C%20Facade%2C%20Adapter%2C%20Strategy%2C%20and%20Observer.&date=Jul%2013&cache_buster=2025-09-27T16%3A31%3A16Z" />
     </picture>
   </a>
 
   <a href=https://www.kentayamada.dev/en/articles/software-architecture-for-beginners-best-practices-guide>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&mode=dark&cache_buster=2025-09-27T16%3A01%3A18Z" />
-      <img src="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&cache_buster=2025-09-27T16%3A01%3A18Z" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&mode=dark&cache_buster=2025-09-27T16%3A31%3A16Z" />
+      <img src="https://og.kentayamada058.workers.dev?title=Software%20Architecture%20for%20Beginners%3A%20Best%20Practices%20Guide&subtitle=Learn%20software%20architecture%20basics%3A%20monoliths%20vs%20microservices%2C%20key%20principles%2C%20and%20practical%20frameworks%20for%20choosing%20the%20right%20design.&date=Jul%2003&cache_buster=2025-09-27T16%3A31%3A16Z" />
     </picture>
   </a>
 
