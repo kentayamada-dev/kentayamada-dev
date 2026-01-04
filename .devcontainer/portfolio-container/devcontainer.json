@@ -31,12 +31,12 @@
       "extensions": [
         "mhutchie.git-graph",
         "Exelord.git-commits",
-        "esbenp.prettier-vscode",
         "bradlc.vscode-tailwindcss",
         "dbaeumer.vscode-eslint",
         "formulahendry.auto-rename-tag",
         "kentayamada.vscode-statusbar-commands",
-        "kentayamada.vscode-gpt-project-loader"
+        "kentayamada.vscode-gpt-project-loader",
+        "prettier.prettier-vscode"
       ]
     }
   }
