@@ -25,7 +25,7 @@
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&cache_buster={{ cache_buster }}" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=kentayamada-dev&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&cache_buster={{ cache_buster }}" />
 </div>
 
 ## 📝 **My Latest Articles**
