@@ -17,7 +17,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000&cache_buster={{ cache_buster }}" />
+  <img src="https://streak-stats.demolab.com?user=kentayamada-dev&theme=transparent&hide_border=true&card_width=1000&cache_buster={{ cache_buster }}" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kentayamada-dev&hide_title=true&bg_color=inherit&color=0080FF&line=0080FF&point=0080FF&area_color=000080&area=true&hide_border=true&cache_buster={{ cache_buster }}" />
