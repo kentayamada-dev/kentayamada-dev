@@ -9,7 +9,7 @@
 ## 🌟 **About Me**
 
 - 🚀 **Frontend Developer:** Passionate about web development
-- 📍 **Location:** Toronto, Canada
+- 📍 **Location:** Tokyo, Japan
 - 💼 **Focus:** Building beautiful and fast web applications
 - ☕ **Powered by:** Coffee, ramen, and curiosity
 - 🎯 **Goal:** Creating amazing user experiences
