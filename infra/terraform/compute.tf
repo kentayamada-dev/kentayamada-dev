@@ -153,7 +153,7 @@ resource "oci_core_instance" "n8n" {
 
     ignore_changes = [
       create_vnic_details[0].defined_tags, # provider の ignore_defined_tags は VNIC のような入れ子のタグに効かない（ソースからの推測） https://github.com/oracle/terraform-provider-oci/blob/v9.12.1/internal/tfresource/tags_helper.go#L46-L52
-      metadata,                           # cloud-init は初回起動のときに使う https://docs.cloud-init.io/en/latest/explanation/first_boot.html
+      metadata,                            # cloud-init は初回起動のときに使う https://docs.cloud-init.io/en/latest/explanation/first_boot.html
       source_details[0].source_id,         # 新しいイメージが出るたびにブートボリュームを置き換えない
     ]
   }
