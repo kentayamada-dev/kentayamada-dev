@@ -14,7 +14,7 @@ setup() {
   echo '* [404] <https://example.com/gone>' >"${report}"
   # 外部リンクの定期検査はこのファイルも読むため、lychee が検査しない example.com をダミーの URL に使う
   # https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/README.md?plain=1#L175
-  export GITHUB_SERVER_URL=https://example.com GITHUB_REPOSITORY=owner/repo GITHUB_RUN_ID=123
+  export GITHUB_SERVER_URL=https://example.com GITHUB_REPOSITORY=owner/repo GITHUB_RUN_ID=123 GITHUB_SHA=fedcba9876543210fedcba9876543210fedcba98
 
   # gh issue の偽物。GitHub 上の issue を $STUB_DIR/issues.json、ラベルの名前を $STUB_DIR/labels.json として読み書きする
   export STUB_DIR="${BATS_TEST_TMPDIR}/stub"
@@ -304,7 +304,7 @@ assert_github_issues() {
 
   assert_github_issues '[
     {"number": 185, "title": "docs: 外部リンクの定期検査で見つかったリンク切れを直す", "state": "open", "body": "前回の結果"},
-    {"number": 186, "title": "chore: 定期検査で見つかった GitHub の設定と定義のずれを直す", "state": "open", "body": "[GitHub の設定の定期検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。定義を直すか、`.github/scripts/sync-github-settings/sync-github-settings.sh` で GitHub を定義に揃えてください。\n\n```diff\nずれ: ラベル bug が GitHub にありません\n```\n", "labels": ["configuration"]}
+    {"number": 186, "title": "chore: 定期検査で見つかった GitHub の設定と定義のずれを直す", "state": "open", "body": "[GitHub の設定の定期検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。定義を直すか、[`.github/scripts/sync-github-settings/sync-github-settings.sh`](https://example.com/owner/repo/blob/fedcba9876543210fedcba9876543210fedcba98/.github/scripts/sync-github-settings/sync-github-settings.sh) で GitHub を定義に揃えてください。\n\n```diff\nずれ: ラベル bug が GitHub にありません\n```\n", "labels": ["configuration"]}
   ]'
 }
 
@@ -324,8 +324,8 @@ assert_github_issues() {
 
 @test "osv-scanner では、Code scanning のアラートを表にした本文で、脆弱性の issue を作る" {
   cat >"${BATS_TEST_TMPDIR}/alerts.json" <<'EOF'
-{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: glob の脆弱性"}, "most_recent_instance": {"message": {"text": "Package 'glob@13.0.6' is vulnerable to 'CVE-2026-0001' (also known as 'GHSA-aaaa-bbbb-cccc')."}, "location": {"path": ".github/textlint/pnpm-lock.yaml"}}}
-{"html_url": "https://example.com/alerts/2", "rule": {"id": "GHSA-dddd-eeee-ffff", "security_severity_level": "high", "description": "GHSA-dddd-eeee-ffff: minimatch の脆弱性"}, "most_recent_instance": {"message": {"text": "Package 'minimatch@10.2.6' is vulnerable to 'GHSA-dddd-eeee-ffff'."}, "location": {"path": "portfolio/pnpm-lock.yaml"}}}
+{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: glob の脆弱性"}, "most_recent_instance": {"commit_sha": "0123456789abcdef0123456789abcdef01234567", "message": {"text": "Package 'glob@13.0.6' is vulnerable to 'CVE-2026-0001' (also known as 'GHSA-aaaa-bbbb-cccc')."}, "location": {"path": ".github/textlint/pnpm-lock.yaml"}}}
+{"html_url": "https://example.com/alerts/2", "rule": {"id": "GHSA-dddd-eeee-ffff", "security_severity_level": "high", "description": "GHSA-dddd-eeee-ffff: minimatch の脆弱性"}, "most_recent_instance": {"commit_sha": "89abcdef0123456789abcdef0123456789abcdef", "message": {"text": "Package 'minimatch@10.2.6' is vulnerable to 'GHSA-dddd-eeee-ffff'."}, "location": {"path": "portfolio/pnpm-lock.yaml"}}}
 EOF
   given_github_issues '[{"number": 185, "title": "docs: 外部リンクの定期検査で見つかったリンク切れを直す", "state": "open", "body": "前回の結果"}]'
 
@@ -333,31 +333,43 @@ EOF
 
   assert_github_issues '[
     {"number": 185, "title": "docs: 外部リンクの定期検査で見つかったリンク切れを直す", "state": "open", "body": "前回の結果"},
-    {"number": 186, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの `osv-scanner.toml` で理由と期限を付けて除外してください。\n\nCode scanning で開いているアラート:\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob@13.0.6 | glob の脆弱性 | .github/textlint/pnpm-lock.yaml |\n| [GHSA-dddd-eeee-ffff](https://example.com/alerts/2) | high | minimatch@10.2.6 | minimatch の脆弱性 | portfolio/pnpm-lock.yaml |\n", "labels": ["dependencies", "security"]}
+    {"number": 186, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの [`osv-scanner.toml`](https://google.github.io/osv-scanner/configuration/#ignore-vulnerabilities-by-id) で理由と期限を付けて除外してください。\n\n[Code scanning で開いているアラート](https://example.com/owner/repo/security/code-scanning?query=is%3Aopen+branch%3Amain+tool%3Aosv-scanner):\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob@13.0.6 | [glob の脆弱性](https://osv.dev/CVE-2026-0001) | [.github/textlint/pnpm-lock.yaml](https://example.com/owner/repo/blob/0123456789abcdef0123456789abcdef01234567/.github/textlint/pnpm-lock.yaml) |\n| [GHSA-dddd-eeee-ffff](https://example.com/alerts/2) | high | minimatch@10.2.6 | [minimatch の脆弱性](https://osv.dev/GHSA-dddd-eeee-ffff) | [portfolio/pnpm-lock.yaml](https://example.com/owner/repo/blob/89abcdef0123456789abcdef0123456789abcdef/portfolio/pnpm-lock.yaml) |\n", "labels": ["dependencies", "security"]}
   ]'
 }
 
 @test "osv-scanner で、メッセージからパッケージを取り出せなければ、メッセージをそのまま載せる" {
   cat >"${BATS_TEST_TMPDIR}/alerts.json" <<'EOF'
-{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: glob の脆弱性"}, "most_recent_instance": {"message": {"text": "glob 13.0.6 に脆弱性がある"}, "location": {"path": "pnpm-lock.yaml"}}}
+{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: glob の脆弱性"}, "most_recent_instance": {"commit_sha": "0123456789abcdef0123456789abcdef01234567", "message": {"text": "glob 13.0.6 に脆弱性がある"}, "location": {"path": "pnpm-lock.yaml"}}}
 EOF
 
   run -0 "${script}" osv-scanner "${BATS_TEST_TMPDIR}/alerts.json"
 
   assert_github_issues '[
-    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの `osv-scanner.toml` で理由と期限を付けて除外してください。\n\nCode scanning で開いているアラート:\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob 13.0.6 に脆弱性がある | glob の脆弱性 | pnpm-lock.yaml |\n", "labels": ["dependencies", "security"]}
+    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの [`osv-scanner.toml`](https://google.github.io/osv-scanner/configuration/#ignore-vulnerabilities-by-id) で理由と期限を付けて除外してください。\n\n[Code scanning で開いているアラート](https://example.com/owner/repo/security/code-scanning?query=is%3Aopen+branch%3Amain+tool%3Aosv-scanner):\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob 13.0.6 に脆弱性がある | [glob の脆弱性](https://osv.dev/CVE-2026-0001) | [pnpm-lock.yaml](https://example.com/owner/repo/blob/0123456789abcdef0123456789abcdef01234567/pnpm-lock.yaml) |\n", "labels": ["dependencies", "security"]}
   ]'
 }
 
 @test "osv-scanner で、値に | があれば、列が分かれないようにエスケープする" {
   cat >"${BATS_TEST_TMPDIR}/alerts.json" <<'EOF'
-{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: a | b の脆弱性"}, "most_recent_instance": {"message": {"text": "Package 'glob@13.0.6' is vulnerable to 'CVE-2026-0001'."}, "location": {"path": "pnpm-lock.yaml"}}}
+{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: a | b の脆弱性"}, "most_recent_instance": {"commit_sha": "0123456789abcdef0123456789abcdef01234567", "message": {"text": "Package 'glob@13.0.6' is vulnerable to 'CVE-2026-0001'."}, "location": {"path": "pnpm-lock.yaml"}}}
 EOF
 
   run -0 "${script}" osv-scanner "${BATS_TEST_TMPDIR}/alerts.json"
 
   assert_github_issues '[
-    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの `osv-scanner.toml` で理由と期限を付けて除外してください。\n\nCode scanning で開いているアラート:\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob@13.0.6 | a \\| b の脆弱性 | pnpm-lock.yaml |\n", "labels": ["dependencies", "security"]}
+    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの [`osv-scanner.toml`](https://google.github.io/osv-scanner/configuration/#ignore-vulnerabilities-by-id) で理由と期限を付けて除外してください。\n\n[Code scanning で開いているアラート](https://example.com/owner/repo/security/code-scanning?query=is%3Aopen+branch%3Amain+tool%3Aosv-scanner):\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob@13.0.6 | [a \\| b の脆弱性](https://osv.dev/CVE-2026-0001) | [pnpm-lock.yaml](https://example.com/owner/repo/blob/0123456789abcdef0123456789abcdef01234567/pnpm-lock.yaml) |\n", "labels": ["dependencies", "security"]}
+  ]'
+}
+
+@test "osv-scanner で、アラートに検査したコミットがなければ、ファイルをリンクにせずパスだけを載せる" {
+  cat >"${BATS_TEST_TMPDIR}/alerts.json" <<'EOF'
+{"html_url": "https://example.com/alerts/1", "rule": {"id": "CVE-2026-0001", "security_severity_level": "medium", "description": "CVE-2026-0001: glob の脆弱性"}, "most_recent_instance": {"message": {"text": "Package 'glob@13.0.6' is vulnerable to 'CVE-2026-0001'."}, "location": {"path": "pnpm-lock.yaml"}}}
+EOF
+
+  run -0 "${script}" osv-scanner "${BATS_TEST_TMPDIR}/alerts.json"
+
+  assert_github_issues '[
+    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの [`osv-scanner.toml`](https://google.github.io/osv-scanner/configuration/#ignore-vulnerabilities-by-id) で理由と期限を付けて除外してください。\n\n[Code scanning で開いているアラート](https://example.com/owner/repo/security/code-scanning?query=is%3Aopen+branch%3Amain+tool%3Aosv-scanner):\n\n| アラート | 重大度 | パッケージ | 概要 | ファイル |\n| --- | --- | --- | --- | --- |\n| [CVE-2026-0001](https://example.com/alerts/1) | medium | glob@13.0.6 | [glob の脆弱性](https://osv.dev/CVE-2026-0001) | pnpm-lock.yaml |\n", "labels": ["dependencies", "security"]}
   ]'
 }
 
@@ -367,7 +379,7 @@ EOF
   run -0 "${script}" osv-scanner "${BATS_TEST_TMPDIR}/alerts.json"
 
   assert_github_issues '[
-    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの `osv-scanner.toml` で理由と期限を付けて除外してください。\n\nCode scanning で開いているアラート:\n\nなし。検査そのものが失敗していないか、実行のログを確認してください。\n", "labels": ["dependencies", "security"]}
+    {"number": 1, "title": "fix: main の依存関係の検査で見つかった脆弱性を直す", "state": "open", "body": "[main の依存関係の検査](https://example.com/owner/repo/actions/runs/123) が失敗しました。脆弱性のあるパッケージを上げるか、すぐに上げられなければ、ロックファイルと同じディレクトリの [`osv-scanner.toml`](https://google.github.io/osv-scanner/configuration/#ignore-vulnerabilities-by-id) で理由と期限を付けて除外してください。\n\n[Code scanning で開いているアラート](https://example.com/owner/repo/security/code-scanning?query=is%3Aopen+branch%3Amain+tool%3Aosv-scanner):\n\nなし。検査そのものが失敗していないか、実行のログを確認してください。\n", "labels": ["dependencies", "security"]}
   ]'
 }
 
