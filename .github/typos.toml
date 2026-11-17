@@ -2,8 +2,12 @@
 # デフォルトでは、ディレクトリを走査するときに .github・.devcontainer など . で始まるファイルとディレクトリを読まないため
 # https://github.com/crate-ci/typos/blob/v1.51.1/docs/reference.md#filesignore-hidden
 ignore-hidden = false
-# 隠しファイルを読むと、.git のなかまで読むため
-extend-exclude = [".git"]
+extend-exclude = [
+  # 隠しファイルを読むと、.git のなかまで読むため
+  ".git",
+  # n8n のワークフローのバックアップが書き出す JSON で、Google Drive のファイルの ID のような英数字の並びを誤綴りと判定するため
+  "infra/workflows",
+]
 
 [default]
 extend-ignore-re = [

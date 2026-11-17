@@ -33,13 +33,16 @@ Cloudflare の provider は、環境変数 `CLOUDFLARE_API_TOKEN` のトーク�
 ### backend と変数
 
 state は、OCI Object Storage のバケット `terraform-state` に置く。
-バケットは Terraform の管理外で、バージョニングを有効にした非公開のバケットを作っておく。
+バケットは Terraform の管理外のため、バージョニングを有効にした非公開のバケットを、先に作る。
 
 backend の namespace と変数の値は、テナンシやアカウントを特定できるため、git の管理外のファイルに書く。
 
 1. [`backend.tfbackend.example`](../infra/terraform/backend.tfbackend.example) を `backend.tfbackend` にコピーし、namespace を書き換える
 2. [`terraform.tfvars.example`](../infra/terraform/terraform.tfvars.example) を `terraform.tfvars` にコピーし、値を書き換える。値の意味は [`variables.tf`](../infra/terraform/variables.tf) にある
 3. `terraform init -backend-config=backend.tfbackend` で初期化する
+
+`terraform init` は、[`.terraform.lock.hcl`](../infra/terraform/.terraform.lock.hcl) にないプラットフォームのハッシュを足す。
+Dev Container で初めて実行して差分が出たら、コミットする。
 
 ## サーバーを準備する
 
@@ -86,7 +89,7 @@ OS のパッケージは自動では更新しない。サーバーで `sudo apt 
 ## 暗号化キーを控える
 
 n8n は、認証情報を暗号化するキーを初回起動で作り、ブロックボリュームに保存する。
-ボリュームを失うと認証情報を復号できなくなるため、キーを控えておく。
+ボリュームを失うと認証情報を復号できなくなるため、キーを控える。
 キーは、サーバーの `infra/` で `sudo docker compose exec n8n cat /home/node/.n8n/config` を実行すると表示される。
 
 ## ワークフローのバックアップ
