@@ -2,7 +2,7 @@
 # 作り直すとトークンが変わるため、サーバーの .env の CF_TUNNEL_TOKEN も入れ替える
 resource "cloudflare_zero_trust_tunnel_cloudflared" "n8n" {
   account_id = var.cloudflare_account_id
-  name = "n8n"
+  name       = "n8n"
   config_src = "cloudflare"
 }
 
