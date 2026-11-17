@@ -20,3 +20,7 @@ rules:
   comments:
     # Renovate はアクションの SHA の後ろに `# v7` のようなコメントを空白 1 つで書くため
     min-spaces-from-content: 1
+    # cloud-init は 1 行目の見出し `#cloud-config` で設定の形式を見分け、# の後に空白を入れられないため
+    # https://docs.cloud-init.io/en/latest/explanation/format/index.html
+    ignore: |
+      infra/terraform/cloud-init.yaml

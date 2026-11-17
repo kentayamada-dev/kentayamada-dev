@@ -1,0 +1,405 @@
+{
+  "id": "mihBGGvM5ero2WtP",
+  "name": "GitHubバックアップ",
+  "active": true,
+  "createdAt": "2026-08-28T08:11:06.191Z",
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "14 23 * * *"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -160,
+        96
+      ],
+      "id": "f154a4a6-9acc-419c-bec2-6b0a0e43c12a",
+      "name": "毎日23時14分に実行"
+    },
+    {
+      "parameters": {
+        "url": "https://api.github.com/user/repos?per_page=100",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "githubApi",
+        "options": {
+          "pagination": {
+            "pagination": {
+              "parameters": {
+                "parameters": [
+                  {
+                    "name": "page",
+                    "value": "={{ $pageCount + 1 }}"
+                  }
+                ]
+              },
+              "paginationCompleteWhen": "other",
+              "completeExpression": "={{ $response.body.length < 100 }}"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        64,
+        96
+      ],
+      "id": "4f799152-7d3b-4ece-ba85-3bdcd2a76b78",
+      "name": "全てのレポジトリ取得",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "githubApi": {
+          "id": "Z9dTIH8OijsBIZfO",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "fileFolder",
+        "returnAll": true,
+        "filter": {
+          "folderId": {
+            "__rl": true,
+            "value": "1i38Cz2iTC5BANaNG6KL5yZM9C8U7hdge",
+            "mode": "list",
+            "cachedResultName": "GitHub Backup",
+            "cachedResultUrl": "https://drive.google.com/drive/folders/1i38Cz2iTC5BANaNG6KL5yZM9C8U7hdge"
+          },
+          "whatToSearch": "files"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        288,
+        96
+      ],
+      "id": "f40d82b1-1c28-4fba-82e5-fadd93142776",
+      "name": "全てのバックアップファイル取得",
+      "executeOnce": true,
+      "alwaysOutputData": true,
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "zPDLGiZIzw3NRgu3",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// GitHubに無くなったリポジトリのバックアップ（Drive上のファイル）を削除対象にする\nconst normalize = (v) =>\n  String(v ?? \"\").trim().replace(/\\.zip$/i, \"\").toLowerCase();\n\nconst repoNames = new Set(\n  $(\"全てのレポジトリ取得\").all()\n    .map((i) => normalize(i.json.name))\n    .filter(Boolean),\n);\n\n// 安全装置: GitHub側のリポジトリが1件も取れていない場合は\n// (トークン失効・API障害などの可能性があるため) 何も削除しない\nif (repoNames.size === 0) {\n  return [];\n}\n\n// Driveのフォルダが空のときは Always Output Data で空のアイテムが来るので、IDのないものは除く\nreturn $input.all()\n  .map((i) => i.json)\n  .filter((f) => {\n    const key = normalize(f.name);\n    return f.id && key && !repoNames.has(key);\n  })\n  .map((f) => ({ json: { name: f.name, id: f.id } }));\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        512,
+        0
+      ],
+      "id": "af4347fe-1366-4dd6-b32d-0f81ad84e6ab",
+      "name": "削除するファイル"
+    },
+    {
+      "parameters": {
+        "operation": "deleteFile",
+        "fileId": {
+          "__rl": true,
+          "value": "={{ $json.id }}",
+          "mode": "id"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        736,
+        0
+      ],
+      "id": "1950f313-ede3-462a-8623-4e79879dd58f",
+      "name": "ファイル削除",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "zPDLGiZIzw3NRgu3",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// GitHubのリポジトリごとに、Drive上の既存バックアップのファイルIDを紐付ける\nconst normalize = (v) =>\n  String(v ?? \"\").trim().replace(/\\.zip$/i, \"\").toLowerCase();\n\n// Driveの既存バックアップを「リポジトリ名(小文字) → ファイルID」で索引化\n// (Driveのフォルダが空のときは Always Output Data で空のアイテムが来るので、IDのないものは除く)\nconst driveIdByName = new Map();\nfor (const { json: f } of $input.all()) {\n  const key = normalize(f.name);\n  if (f.id && key && !driveIdByName.has(key)) {\n    driveIdByName.set(key, f.id);\n  }\n}\n\nreturn $(\"全てのレポジトリ取得\").all()\n  .map((i) => i.json)\n  .filter((r) => r.name && r.owner?.login)\n  .map((r) => ({\n    json: {\n      owner: r.owner.login,\n      name: r.name,\n      driveFileId: driveIdByName.get(normalize(r.name)) ?? null,\n    },\n  }));\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        512,
+        192
+      ],
+      "id": "783540f9-95dc-421a-80f4-90a304f5bb2f",
+      "name": "バックアップ対象リスト"
+    },
+    {
+      "parameters": {
+        "url": "=https://api.github.com/repos/{{ $json.owner }}/{{ $json.name }}/zipball",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "githubApi",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        736,
+        192
+      ],
+      "id": "07c1c5f9-8044-4797-b718-5dd184edabfa",
+      "name": "レポジトリダウンロード",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "githubApi": {
+          "id": "Z9dTIH8OijsBIZfO",
+          "name": "GitHub account"
+        }
+      },
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "loose",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "95b5df8b-767c-4d9f-8c2c-ef5cd251ff2e",
+              "leftValue": "={{ $json.driveFileId }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "looseTypeValidation": true,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        960,
+        96
+      ],
+      "id": "ce95e50c-61ae-4add-a0ca-2f2ada89177d",
+      "name": "レポジトリが存在している"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "fileId": {
+          "__rl": true,
+          "value": "={{ $json.driveFileId }}",
+          "mode": "id"
+        },
+        "changeFileContent": true,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        1184,
+        0
+      ],
+      "id": "bfc6f833-67df-4d1c-b80a-38c01831851d",
+      "name": "レポジトリアップデート",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "zPDLGiZIzw3NRgu3",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "name": "={{ $json.name }}.zip",
+        "driveId": {
+          "__rl": true,
+          "value": "My Drive",
+          "mode": "list",
+          "cachedResultName": "My Drive",
+          "cachedResultUrl": "https://drive.google.com/drive/my-drive"
+        },
+        "folderId": {
+          "__rl": true,
+          "value": "1i38Cz2iTC5BANaNG6KL5yZM9C8U7hdge",
+          "mode": "list",
+          "cachedResultName": "GitHub Backup",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/1i38Cz2iTC5BANaNG6KL5yZM9C8U7hdge"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        1184,
+        192
+      ],
+      "id": "b46a9dea-f45f-4eef-ae02-81bd1c4704b2",
+      "name": "レポジトリアップロード",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "zPDLGiZIzw3NRgu3",
+          "name": "Google Drive account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// 「レポジトリダウンロード」で失敗したリポジトリをまとめて、ワークフローをエラーで止める。\n// エラーで止めると「エラー通知」ワークフローが Slack に知らせる（以前はエラー出力がどこにもつながっておらず、黙って抜け落ちていた）。\n//\n// 注意: このノードはキャンバス上で「レポジトリが存在している」より下に置くこと。\n// 実行順序 v1 では上にある分岐から先に動くので、下に置けば成功したリポジトリのアップロードが全部終わってから止まる。\n// 上に置くと先にここで止まり、その日は1件もアップロードされない。\nconst MAX_LINES = 10;\n\nconst lines = $input.all().map((item, i) => {\n  // エラー出力のアイテムには元の入力（owner / name）と error が入っている。\n  // 入っていなければ、ペアになっている「バックアップ対象リスト」の行から取る\n  let repo = item.json ?? {};\n  if (!repo.name) {\n    try {\n      repo = $('バックアップ対象リスト').itemMatching(i).json;\n    } catch (e) {\n      // 対応する行が見つからないときは名前不明のまま報告する\n    }\n  }\n  const err = item.json?.error ?? {};\n  const reason = typeof err === 'string'\n    ? err\n    : (err.message || err.description || JSON.stringify(err));\n  const status = typeof err === 'object' ? (err.httpCode ?? err.status ?? err.statusCode ?? '') : '';\n  const name = repo.name ? `${repo.owner ? `${repo.owner}/` : ''}${repo.name}` : '(リポジトリ名不明)';\n  return `${name}${status ? ` [${status}]` : ''}: ${String(reason).slice(0, 80)}`;\n});\n\nif (lines.length === 0) return [];\n\nthrow new Error(\n  `${lines.length}件のリポジトリをダウンロードできず、バックアップしていません。\\n`\n  + lines.slice(0, MAX_LINES).map((s) => `・${s}`).join('\\n')\n  + (lines.length > MAX_LINES ? `\\n他 ${lines.length - MAX_LINES}件` : ''),\n);\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        960,
+        288
+      ],
+      "id": "8dee0492-dab2-45c6-a699-0b161d6c029e",
+      "name": "ダウンロード失敗を通知"
+    }
+  ],
+  "connections": {
+    "毎日23時14分に実行": {
+      "main": [
+        [
+          {
+            "node": "全てのレポジトリ取得",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "全てのレポジトリ取得": {
+      "main": [
+        [
+          {
+            "node": "全てのバックアップファイル取得",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "全てのバックアップファイル取得": {
+      "main": [
+        [
+          {
+            "node": "削除するファイル",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "バックアップ対象リスト",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "削除するファイル": {
+      "main": [
+        [
+          {
+            "node": "ファイル削除",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "バックアップ対象リスト": {
+      "main": [
+        [
+          {
+            "node": "レポジトリダウンロード",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "レポジトリダウンロード": {
+      "main": [
+        [
+          {
+            "node": "レポジトリが存在している",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "ダウンロード失敗を通知",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "レポジトリが存在している": {
+      "main": [
+        [
+          {
+            "node": "レポジトリアップデート",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "レポジトリアップロード",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "nodeGroups": [],
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "errorWorkflow": "d88ctEMElygY3yRA"
+  },
+  "meta": null,
+  "tags": []
+}

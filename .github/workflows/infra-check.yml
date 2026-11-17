@@ -1,0 +1,37 @@
+name: infra の Terraform の書式・構文
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  infra-check:
+    name: infra-check
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # Terraform の版を infra の Dockerfile だけで管理するため、Dev Container と同じイメージのなかで検査する。
+      # Dockerfile の ARG の値は compose.yaml から渡すため、docker build ではなく Compose でビルドする
+      - run: docker compose build infra
+      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .terraform を作れるようにする
+      - run: chmod a+w infra/terraform
+      - run: docker compose run --rm infra terraform fmt -check -diff -recursive
+      # CI には backend の設定と認証情報がないため、backend を使わずにプロバイダーだけを取得する。ロックファイルは書き換えずに照合する
+      # https://developer.hashicorp.com/terraform/cli/commands/init
+      - run: docker compose run --rm infra terraform init -backend=false -lockfile=readonly -input=false
+      - run: docker compose run --rm infra terraform validate

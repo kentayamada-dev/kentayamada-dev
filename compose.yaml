@@ -1,4 +1,4 @@
-# USER_NAME を変えるときは、すべての devcontainer.json の remoteUser も合わせる
+# USER_NAME を変えるときは、すべての devcontainer.json の remoteUser と、infra の .oci のマウント先も合わせる
 x-build-args: &build-args
   USER_NAME: dev
   HISTORY_DIR: &history-dir /commandhistory
@@ -46,16 +46,25 @@ services:
       context: .devcontainer/infra
       args: *build-args
     hostname: infra
-    working_dir: /workspace/infra
+    working_dir: /workspace/infra/terraform
     volumes:
       - *workspace-volume
       - type: volume
         source: infra-history
         target: *history-dir
+      # OCI の provider と backend は ~/.oci/config の API キーで認証する。CI のようにホストにないときは空のディレクトリを作る
+      - type: bind
+        source: ~/.oci
+        target: /home/dev/.oci
+        read_only: true
+        bind:
+          create_host_path: true
     environment:
       # 版は Renovate で上げるため、新しい版の確認で HashiCorp の Checkpoint に問い合わせさせない
       # https://developer.hashicorp.com/terraform/cli/commands#upgrade-and-security-bulletin-checks
       CHECKPOINT_DISABLE: 1
+      # Cloudflare の provider が読むトークンを、ホストの環境変数から渡す。ホストで設定していなければ渡さない
+      CLOUDFLARE_API_TOKEN:
 
 volumes:
   portfolio-node-modules:

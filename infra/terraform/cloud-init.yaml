@@ -1,0 +1,81 @@
+#cloud-config
+# cloud-init は初回起動のときにこの設定を使うため、書き換えても今のインスタンスには効かず、作り直したときに効く
+# https://docs.cloud-init.io/en/latest/explanation/first_boot.html
+
+# SSH を開けず、シリアル・コンソールでログインするため
+chpasswd:
+  expire: false
+  users:
+    - name: ubuntu
+      password: ${password_hash}
+      # type は小文字で書く。大文字の HASH はどの値とも一致せず、パスワードが設定されない
+      # https://github.com/canonical/cloud-init/blob/26.2/cloudinit/config/cc_set_passwords.py#L34-L45
+      type: hash
+
+ssh_pwauth: false
+
+# git は、下の runcmd でリポジトリを取得するのに使う
+package_update: true
+packages:
+  - git
+
+write_files:
+  # cloudflared（QUIC）の UDP のバッファが足りないという警告が出るため、上限を上げる。値は quic-go の推奨
+  # https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes/a3327deff89d2428d48596ce0e643531f9944f99
+  # 上限はカーネル全体で 1 つの値で、コンテナのなかでは読み取り専用のため、ホストで上げる。次の起動からは systemd-sysctl が読む
+  # https://github.com/torvalds/linux/blob/v7.0/net/core/sysctl_net_core.c#L709-L727
+  - path: /etc/sysctl.d/99-cloudflared-quic.conf
+    content: |
+      net.core.rmem_max=7500000
+      net.core.wmem_max=7500000
+
+  # 乗っ取られたワークフローに、メタデータ（user_data のパスワードのハッシュなど）を読ませないため、コンテナからメタデータの 80 番への接続を拒否する
+  # DOCKER-USER はコンテナの通信だけに効き、Docker は中身を変えないため、ホストの cloud-init や Oracle Cloud Agent は読める
+  # https://github.com/docker/docs/blob/670073947d7b7046bc419b40a27c5a448d9b6c9b/content/manuals/engine/network/firewall-iptables.md#L22-L54
+  # 同じアドレスの 53 番は VCN の DNS で、コンテナの名前解決に要るため止めない
+  # https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/dns.htm
+  # ルールは再起動で消えるため、コンテナが動き出す前に、起動のたびに入れる
+  - path: /etc/systemd/system/block-container-imds.service
+    content: |
+      [Unit]
+      Description=Block containers from the instance metadata service
+      Before=docker.service
+
+      [Service]
+      Type=oneshot
+      RemainAfterExit=yes
+      ExecStart=/bin/sh -c 'iptables -N DOCKER-USER 2>/dev/null || true; iptables -C DOCKER-USER -d 169.254.169.254/32 -p tcp --dport 80 -j REJECT --reject-with tcp-reset 2>/dev/null || iptables -I DOCKER-USER -d 169.254.169.254/32 -p tcp --dport 80 -j REJECT --reject-with tcp-reset'
+
+      [Install]
+      WantedBy=docker.service
+
+# runcmd は 1 つの /bin/sh のスクリプトとして、packages を入れたあとに動く
+# https://github.com/canonical/cloud-init/blob/26.2/doc/module-docs/cc_runcmd/data.yaml#L7-L13
+runcmd:
+  # そのままだと途中で失敗しても次へ進み、最後のコマンドの結果だけが成否になるため、止めて cloud-init status をエラーにする
+  - set -e
+  # Ubuntu の docker.io などは非公式で、公式のものと衝突するため、Docker の apt のリポジトリから入れる
+  # https://github.com/docker/docs/blob/670073947d7b7046bc419b40a27c5a448d9b6c9b/content/manuals/engine/install/ubuntu.md#L67-L92
+  # Docker の手順と同じく、ASCII 形式の鍵を .asc のまま apt に読ませる
+  # https://github.com/docker/docs/blob/670073947d7b7046bc419b40a27c5a448d9b6c9b/content/manuals/engine/install/ubuntu.md#L132-L143
+  - install -m 0755 -d /etc/apt/keyrings
+  - curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+  - chmod 644 /etc/apt/keyrings/docker.asc
+  # templatefile が置き換えるのは $ の直後に { が続く形だけのため、$( ) や $VERSION_CODENAME はそのまま残る
+  # https://developer.hashicorp.com/terraform/language/expressions/strings#interpolation
+  - echo "deb [signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" > /etc/apt/sources.list.d/docker.list
+  - apt-get update
+  # docker-ce-cli と containerd.io は docker-ce の依存として入る。docker-buildx-plugin は、イメージを作らないため書かない
+  # https://github.com/docker/docker-ce-packaging/blob/7dd5329e5e96151d24495dd52472142c976a825d/deb/common/control#L24-L31
+  - DEBIAN_FRONTEND=noninteractive apt-get install -y docker-ce docker-compose-plugin
+  - systemctl daemon-reload
+  - systemctl enable --now block-container-imds.service
+  - iptables -C DOCKER-USER -d 169.254.169.254/32 -p tcp --dport 80 -j REJECT --reject-with tcp-reset
+  # 自動で pull すると確認なしに本番へ出るため、作成時点の main だけを取得し、その後は手で pull する
+  # .env は秘密の値が入り、ここに書くと OCI のメタデータに残るため、サーバーで手で作る
+  - git clone https://github.com/kentayamada-dev/kentayamada-dev.git /home/ubuntu/kentayamada-dev
+  - chown -R ubuntu:ubuntu /home/ubuntu/kentayamada-dev
+  # 失敗しても n8n は動くため、clone のあとに反映し、反映した値を読み直して確認する
+  - sysctl -p /etc/sysctl.d/99-cloudflared-quic.conf
+  - test "$(sysctl -n net.core.rmem_max)" -ge 7500000
+  - test "$(sysctl -n net.core.wmem_max)" -ge 7500000
