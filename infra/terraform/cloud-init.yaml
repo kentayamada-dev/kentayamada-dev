@@ -14,7 +14,7 @@ chpasswd:
 
 ssh_pwauth: false
 
-# git は、下の runcmd でリポジトリを取得するのに使う
+# git は、runcmd でリポジトリを取得するのに使う
 package_update: true
 packages:
   - git

@@ -2,7 +2,7 @@
 
 ## 概要
 
-[`infra/`](../infra/) では、n8n を Oracle Cloud Infrastructure（OCI）の Always Free のインスタンスで動かすためのインフラを管理する。
+[`infra/`](../infra/) では、n8n を Oracle Cloud Infrastructure（OCI）の Ampere A1 のインスタンスで動かすためのインフラを管理する。
 
 - [`infra/terraform/`](../infra/terraform/): OCI のネットワーク・インスタンス・ブロックボリュームと、Cloudflare Tunnel・Access を Terraform で管理する
 - [`infra/docker-compose.yml`](../infra/docker-compose.yml): サーバーで n8n と cloudflared を動かす

@@ -12,7 +12,7 @@ docker=(sudo docker)
 if docker info >/dev/null 2>&1; then
   docker=(docker)
 fi
-# docker compose exec は標準入力を読み、下の確認（y/N）への入力を横取りするため、/dev/null をつなぐ
+# docker compose exec は標準入力を読み、取り込む前の確認（y/N）への入力を横取りするため、/dev/null をつなぐ
 compose() { "${docker[@]}" compose "$@" </dev/null; }
 
 shopt -s nullglob
