@@ -1,7 +1,8 @@
 {
   "$schema": "./.github/oxfmt/node_modules/oxfmt/configuration_schema.json",
   // portfolio/ は portfolio-check が portfolio/.oxfmtrc.jsonc の設定で検査するため、ここでは整形しない
-  "ignorePatterns": ["/portfolio/"],
+  // infra/workflows/ は n8n のワークフローのバックアップが書き出す JSON で、整形してもバックアップのたびに元の形に戻るため
+  "ignorePatterns": ["/portfolio/", "/infra/workflows/"],
   // 見出しの行が 1 行に収まらない表の列を揃えさせず、セルを 1 つ変えただけで表のすべての行が変わらないようにする
   // 段落の改行は、日本語の文字に隣り合うものだけが残る。proseWrap は YAML にも効くため、.md だけに指定する
   // https://github.com/oxc-project/oxc/blob/oxfmt_v0.75.0/crates/oxc_formatter_markdown/src/print/table.rs https://github.com/oxc-project/oxc/blob/oxfmt_v0.75.0/crates/oxc_formatter_markdown/src/print/cjk.rs https://oxc.rs/docs/guide/usage/formatter/config-file-reference.html

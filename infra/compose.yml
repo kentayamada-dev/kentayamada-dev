@@ -1,0 +1,48 @@
+# 値は同じディレクトリの .env から読み、未設定や空のときは起動しない
+services:
+  n8n:
+    # 作り直しやイメージの取り直しで確認していない版が入らないよう、版を固定する。n8n は版が上がると動かなくなる変更がある
+    # https://docs.n8n.io/release-notes/v20-breaking-changes
+    # イメージのリポジトリを変えるときは、setup-data-volume.sh の n8n_repository も合わせる
+    image: n8nio/n8n:2.47.3
+    # container_name を変えるときは、cloudflare.tf のトンネルの転送先のホスト名も合わせる
+    container_name: n8n
+    restart: unless-stopped
+    # ホストにはポートを開けず、cf のコンテナから Docker のネットワークのなかで届ける
+    environment:
+      BINANCE_API_SECRET: ${BINANCE_API_SECRET:?.env に設定してください}
+      BINANCE_API_KEY: ${BINANCE_API_KEY:?.env に設定してください}
+      # ワークフローから $env を読めるあいだは、暗号化キーを環境変数で渡さず、n8n が初回起動で作って config のファイルに保存したものを使う
+      # https://github.com/n8n-io/n8n/blob/n8n@2.47.3/packages/@n8n/config/src/configs/instance-settings-config.ts#L9-L22
+      # config のファイルは、ノードからは読めず（N8N_BLOCK_FILE_ACCESS_TO_N8N_FILES のデフォルト）、n8n のユーザーだけが読める権限にする
+      # https://github.com/n8n-io/n8n/blob/n8n@2.47.3/packages/@n8n/config/src/configs/security.config.ts#L50-L57
+      N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS: "true"
+      # Binance のワークフローが $env から API キーを読むため。2.0 から、デフォルトでは読めない
+      # https://docs.n8n.io/release-notes/v20-breaking-changes
+      N8N_BLOCK_ENV_ACCESS_IN_NODE: "false"
+      # n8n の前にあるリバースプロキシ（cloudflared）の数
+      # https://docs.n8n.io/deploy/host-n8n/configure-n8n/basic-configuration/configuration-examples/configure-webhook-urls-with-reverse-proxy
+      N8N_PROXY_HOPS: "1"
+      GENERIC_TIMEZONE: Asia/Tokyo
+      TZ: Asia/Tokyo
+      N8N_WEBHOOK_URL: https://${SUBDOMAIN:?.env に設定してください}.${DOMAIN_NAME:?.env に設定してください}/
+    # データはブロックボリュームに置き、インスタンスを作り直しても残す。マウントしていないときに空の data で始めないよう、起動に失敗させる
+    # source を変えるときは、setup-data-volume.sh の mount_point も合わせる
+    volumes:
+      - type: bind
+        source: /srv/n8n/data
+        target: /home/node/.n8n
+        bind:
+          create_host_path: false
+
+  cf:
+    # 最新版から 1 年より古い版はサポートされないため、latest を使い続ける
+    # https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/downloads/#deprecated-releases
+    image: cloudflare/cloudflared:latest
+    container_name: cf
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run
+    environment:
+      TUNNEL_TOKEN: ${CF_TUNNEL_TOKEN:?.env に設定してください}
+    depends_on:
+      - n8n

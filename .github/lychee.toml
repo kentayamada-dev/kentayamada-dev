@@ -13,6 +13,8 @@ exclude_path = [
   '^\.github/mise\.lock$',
   '^\.github/yamllint/uv\.lock$',
   '^\.github/check-jsonschema/uv\.lock$',
+  # n8n のワークフローの URL は、n8n の式（{{ }}）を含むものや、ログインの要る API・Google Drive を指すもので、開けないため
+  '^infra/workflows/',
 ]
 
 exclude = [

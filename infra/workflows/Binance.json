@@ -1,0 +1,717 @@
+{
+  "id": "bqe9sH9ofWw2jxo5",
+  "name": "Binance",
+  "active": true,
+  "createdAt": "2026-09-19T03:31:52.934Z",
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "15 10 * * *"
+            }
+          ]
+        }
+      },
+      "id": "20aed4d6-7faa-4463-aa36-3d2cb349cf4c",
+      "name": "毎日10時15分に実行",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -2464,
+        96
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "a3",
+              "name": "slackChannel",
+              "value": "C0C2U33NS65",
+              "type": "string"
+            },
+            {
+              "id": "a5",
+              "name": "trackFiat",
+              "value": true,
+              "type": "boolean"
+            },
+            {
+              "id": "a6",
+              "name": "trackTransfers",
+              "value": true,
+              "type": "boolean"
+            },
+            {
+              "id": "a7",
+              "name": "countFiatSell",
+              "value": true,
+              "type": "boolean"
+            },
+            {
+              "id": "a8",
+              "name": "anomalyPct",
+              "value": 20,
+              "type": "number"
+            },
+            {
+              "id": "a9",
+              "name": "countDepositFeeAsLoss",
+              "value": false,
+              "type": "boolean"
+            },
+            {
+              "id": "a10",
+              "name": "useChartBlocks",
+              "value": true,
+              "type": "boolean"
+            },
+            {
+              "id": "a11",
+              "name": "chartDays",
+              "value": 14,
+              "type": "number"
+            },
+            {
+              "id": "a12",
+              "name": "anomalyMinJpy",
+              "value": 20000,
+              "type": "number"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "4771bc2e-3859-4714-8486-318e04f3e048",
+      "name": "設定",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -2240,
+        96
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.binance.com/api/v3/ticker/price",
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": true
+            }
+          }
+        }
+      },
+      "id": "ef13a4f4-fab1-49e1-bef9-93c50869bab3",
+      "name": "価格一覧を取得",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -2016,
+        96
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "url": "https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=32",
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": true
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -1792,
+        96
+      ],
+      "id": "386ef49f-5628-476d-b127-871040b18a3f",
+      "name": "日次BTC価格を取得",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "url": "=https://api.frankfurter.app/{{ new Date(Date.now() - 33*86400000).toISOString().slice(0,10) }}..{{ new Date().toISOString().slice(0,10) }}?from=USD&to=JPY",
+        "options": {}
+      },
+      "id": "f8b74990-a6b4-4626-9098-95456afadeb0",
+      "name": "為替レート（日次）",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -1568,
+        96
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== Binance への署名付きリクエストをまとめて組み立てる =====\n// 1つのCodeノードで複数リクエストを作り、後段のCrypto/HTTPノードが1件ずつ処理する\nconst cfg = $('設定').first().json;\n\n// --- 認証情報の存在チェック（n8n 2.0 以降 $env は既定でブロックされる）\nlet apiKey = '';\nlet apiSecret = '';\ntry {\n  apiKey = ($env && $env.BINANCE_API_KEY) || '';\n  apiSecret = ($env && $env.BINANCE_API_SECRET) || '';\n} catch (e) {\n  apiKey = '';\n  apiSecret = '';\n}\nif (!apiKey || !apiSecret) {\n  throw new Error(\n    '環境変数 BINANCE_API_KEY / BINANCE_API_SECRET を参照できません。'\n    + 'n8n 2.0 以降は N8N_BLOCK_ENV_ACCESS_IN_NODE の既定が true（ブロック）です。'\n    + 'セルフホストなら N8N_BLOCK_ENV_ACCESS_IN_NODE=false を設定してください。',\n  );\n}\n\nconst now = Date.now();\nconst DAY = 86400000;\n// 日境界(UTC 00:00)に揃える。揃えないと「30日前の当日早朝」の入出金だけが\n// 取りこぼされ、シートに記録済みの値がリセットされて累計損益がずれる\nconst todayUtc0 = Math.floor(now / DAY) * DAY;\nconst FLOW_DAYS = 30;\nconst flowStart = todayUtc0 - FLOW_DAYS * DAY;\n\n// スナップショットの照会期間は「30日未満」という制約がある。\n// endTime を昨日の終わりに固定すると、実行時刻に関係なく常に 29日 − 1ms で安全\nconst snapStart = todayUtc0 - 29 * DAY;\nconst snapEnd = todayUtc0 - 1;\n\nconst q = (o) => Object.entries(o)\n  .filter(([, v]) => v !== undefined && v !== null && v !== '')\n  .map(([k, v]) => `${k}=${encodeURIComponent(v)}`)\n  .join('&');\n\n// recvWindow は最大 60000。15リクエストを逐次実行するため、\n// timestamp を組み立て時に1回だけ計算する構成では 5000 だと後半が -1021 で落ちる\nconst RECV = 60000;\n\nconst reqs = [];\n\n// --- 日次資産スナップショット（weight: IP 2400 / limit最大30 / 照会期間は30日未満・直近1ヶ月のみ）\nreqs.push({\n  kind: 'snapshot',\n  endpoint: '/sapi/v1/accountSnapshot',\n  query: q({ type: 'SPOT', startTime: snapStart, endTime: snapEnd, limit: 30, recvWindow: RECV, timestamp: now }),\n});\n\n// --- 暗号資産の入出金（weight: 入金 IP 1 / 出金 UID 18000・毎秒10回まで。どちらも照会期間は90日未満）\nreqs.push({\n  kind: 'deposit',\n  endpoint: '/sapi/v1/capital/deposit/hisrec',\n  query: q({ startTime: flowStart, endTime: now, limit: 1000, recvWindow: RECV, timestamp: now }),\n});\nreqs.push({\n  kind: 'withdraw',\n  endpoint: '/sapi/v1/capital/withdraw/history',\n  query: q({ startTime: flowStart, endTime: now, limit: 1000, recvWindow: RECV, timestamp: now }),\n});\n\n// --- 法定通貨(JPY)の入出金\n// /sapi/v1/fiat/orders は重い。現行のAPIリファレンスは UID 45000、\n// 変更履歴(2022-05-31)は UID 90000 と記載があり食い違っている。\n// UID制限はエンドポイントごとに独立して毎分180000なので、入金・出金の2回で90000〜180000を消費する。\n// 1日1回なら問題ないが、同じ1分内に手動で再実行すると 429 になりうる（後段で専用メッセージを出す）\nif (cfg.trackFiat) {\n  for (const t of ['0', '1']) {\n    reqs.push({\n      kind: t === '0' ? 'fiatDeposit' : 'fiatWithdraw',\n      endpoint: '/sapi/v1/fiat/orders',\n      query: q({ transactionType: t, beginTime: flowStart, endTime: now, rows: 500, recvWindow: RECV, timestamp: now }),\n    });\n  }\n  // 法定通貨で直接売買した分（weight: IP 1 と軽い。paymentMethod は transactionType=0 のときだけ返る）\n  for (const t of ['0', '1']) {\n    reqs.push({\n      kind: t === '0' ? 'fiatBuy' : 'fiatSell',\n      endpoint: '/sapi/v1/fiat/payments',\n      query: q({ transactionType: t, beginTime: flowStart, endTime: now, rows: 500, recvWindow: RECV, timestamp: now }),\n    });\n  }\n}\n\n// --- ウォレット間の振替（weight: IP 1 / size最大100 / 照会は直近6ヶ月まで）\nif (cfg.trackTransfers) {\n  const types = [\n    'MAIN_FUNDING', 'FUNDING_MAIN',\n    'MAIN_UMFUTURE', 'UMFUTURE_MAIN',\n    'MAIN_CMFUTURE', 'CMFUTURE_MAIN',\n    'MAIN_MARGIN', 'MARGIN_MAIN',\n  ];\n  for (const t of types) {\n    reqs.push({\n      kind: `transfer:${t}`,\n      endpoint: '/sapi/v1/asset/transfer',\n      query: q({ type: t, startTime: flowStart, endTime: now, size: 100, recvWindow: RECV, timestamp: now }),\n    });\n  }\n}\n\nreturn reqs.map((r) => ({ json: { baseUrl: 'https://api.binance.com', flowStart, ...r } }));\n"
+      },
+      "id": "abffa75e-3b3c-4606-b307-88f55c37d085",
+      "name": "リクエストを組み立て",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -1344,
+        96
+      ]
+    },
+    {
+      "parameters": {
+        "action": "hmac",
+        "type": "SHA256",
+        "value": "={{ $json.query }}",
+        "dataPropertyName": "signature",
+        "secret": "={{ $env.BINANCE_API_SECRET }}"
+      },
+      "id": "45a95869-e5b9-40bc-ae88-40ae0771aca6",
+      "name": "リクエストに署名",
+      "type": "n8n-nodes-base.crypto",
+      "typeVersion": 1,
+      "position": [
+        -1120,
+        96
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.baseUrl }}{{ $json.endpoint }}?{{ $json.query }}&signature={{ $json.signature }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-MBX-APIKEY",
+              "value": "={{ $env.BINANCE_API_KEY }}"
+            }
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "neverError": true
+            }
+          }
+        }
+      },
+      "id": "911f50f9-8666-4fa3-8274-de4c2768dfa1",
+      "name": "Binanceから取得",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -896,
+        96
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== 複数レスポンスを種類別に仕分けし、入出金を正規化する =====\nconst cfg = $('設定').first().json;\nconst reqs = $('リクエストを組み立て').all().map((i) => i.json);\nconst items = $input.all();\n\nconst idxOf = (it, i) => {\n  const p = it.pairedItem;\n  if (typeof p === 'number') return p;\n  if (p && typeof p.item === 'number') return p.item;\n  if (Array.isArray(p) && p.length && typeof p[0].item === 'number') return p[0].item;\n  return i;\n};\n\n// \"2019-10-12 11:12:02\" (UTC) / ミリ秒数値 のどちらにも対応\nconst toMs = (v) => {\n  if (v === undefined || v === null || v === '') return 0;\n  if (typeof v === 'number') return v;\n  if (/^\\d+$/.test(String(v))) return Number(v);\n  const t = Date.parse(String(v).replace(' ', 'T') + 'Z');\n  return Number.isFinite(t) ? t : 0;\n};\n\nlet snapshots = [];\nconst flows = [];          // { time, coin, amount(符号付き), label }\nconst errors = [];         // Slackに警告として出す取得エラー\nconst review = [];         // 判断が必要なもの\nconst skippedWallets = []; // 未開設のウォレット（毎日出るノイズなので警告にしない）\n\n// 認証・時刻ずれ・レート制限・Binance側の障害は種類を問わず必ず報告する\n// （-1000 不明なエラー / -1001 内部エラー / -1006 想定外の応答 / -1007 タイムアウト / -1008 サーバー過負荷）\nconst ALWAYS_REPORT = new Set([-1021, -1022, -1002, -1003, -2014, -2015, -1000, -1001, -1006, -1007, -1008]);\n\nitems.forEach((it, i) => {\n  const req = reqs[idxOf(it, i)] || reqs[i] || {};\n  const kind = req.kind || 'unknown';\n  const res = it.json || {};\n\n  // 通信そのものの失敗（タイムアウト・接続断・DNSなど）。neverError でも HTTP のステータスが無く、\n  // onError=continueRegularOutput により { error } だけが届く。\n  // 以前はこれを「成功・データ0件」と見なしていたため、入出金が0として記録されることがあった\n  if (res.statusCode === undefined && res.body === undefined && res.error !== undefined) {\n    const e = res.error;\n    const detail = typeof e === 'string'\n      ? e\n      : (e && (e.message || e.description || e.code)) || JSON.stringify(e).slice(0, 200);\n    errors.push({ kind, status: '通信エラー', msg: `通信エラー: ${detail}` });\n    return;\n  }\n\n  const body = res.body !== undefined ? res.body : res;\n  const status = res.statusCode;\n  const code = body && body.code !== undefined ? Number(body.code) : NaN;\n\n  const isError = (status && status >= 400)\n    || (body && body.code && body.code !== 200 && body.code !== '000000' && body.msg);\n\n  if (isError) {\n    // レート制限は原因が分かりにくいので専用メッセージにする\n    if (status === 429 || code === -1003) {\n      errors.push({\n        kind,\n        status: status || code,\n        msg: 'Binanceのレート制限に達しました（/sapi/v1/fiat/orders は1回あたりUID weight 45000〜90000、'\n          + 'このエンドポイント単独の上限は毎分180000です。同じ1分内に再実行しないでください）',\n      });\n      return;\n    }\n    // 未開設のマージン/先物ウォレットは毎回エラーになるため警告から除外する\n    // ただし 5xx は Binance 側の障害で、未開設とは限らない。除外すると振替0件として記録されるので報告する\n    if (kind.startsWith('transfer:') && !(status >= 500) && !ALWAYS_REPORT.has(code)) {\n      skippedWallets.push(kind.slice('transfer:'.length));\n      return;\n    }\n    errors.push({ kind, status: status || body.code, msg: (body && (body.msg || body.message)) || '' });\n    return;\n  }\n\n  // 応答の形が想定と違う（JSONでない・配列であるべきものが配列でない）場合も、0件扱いにせず取得失敗として報告する\n  const expectArray = kind === 'deposit' || kind === 'withdraw';\n  const shapeOk = body !== null && typeof body === 'object'\n    && (!expectArray || Array.isArray(body))\n    && (kind !== 'snapshot' || Array.isArray(body.snapshotVos));\n  if (!shapeOk) {\n    errors.push({ kind, status: status || '形式不正', msg: `想定外の応答形式です（${String(JSON.stringify(body)).slice(0, 100)}）` });\n    return;\n  }\n\n  if (kind === 'snapshot') {\n    snapshots = body.snapshotVos;\n    return;\n  }\n\n  if (kind === 'deposit') {\n    // status 0=処理中 1=成功 2=拒否 6=着金済(出金不可) 7=誤入金 8=ユーザー確認待ち\n    for (const r of (Array.isArray(body) ? body : [])) {\n      if (![1, 6].includes(Number(r.status))) continue;\n      // travelRuleStatus 1 = トラベルルールの情報提出待ち。残高に反映されていない可能性がある\n      if (Number(r.travelRuleStatus) === 1) {\n        review.push(\n          `${new Date(toMs(r.insertTime)).toISOString().slice(0, 10)} の ${r.coin} 入金 ${r.amount} は`\n          + 'トラベルルールの情報提出待ちです。残高に反映されていない場合は入出金から除外してください',\n        );\n      }\n      flows.push({ time: toMs(r.insertTime), coin: r.coin, amount: Number(r.amount), label: '入金' });\n    }\n    return;\n  }\n\n  if (kind === 'withdraw') {\n    for (const r of (Array.isArray(body) ? body : [])) {\n      // 0=メール送信 2=承認待ち 4=処理中 6=完了（いずれも残高は引かれている）\n      if (![0, 2, 4, 6].includes(Number(r.status))) continue;\n      flows.push({ time: toMs(r.applyTime || r.completeTime), coin: r.coin, amount: -Number(r.amount), label: '出金' });\n    }\n    return;\n  }\n\n  // 法定通貨の入出金。PayPayマネーからの入金はここに method=\"PayPay money\" で出る（実機確認済み）\n  //   例: indicatedAmount 15000 − totalFee 110 = amount 14890 がウォレットに入る\n  if (kind === 'fiatDeposit' || kind === 'fiatWithdraw') {\n    const isDeposit = kind === 'fiatDeposit';\n    for (const r of ((body && body.data) || [])) {\n      if (!['Successful', 'Finished'].includes(String(r.status))) continue;\n      const net = Number(r.amount);                 // 入金: 実際にウォレットへ入る額\n      const gross = Number(r.indicatedAmount);      // 出金: ウォレットから引かれる額（手数料込み）\n      let amt;\n      if (isDeposit) {\n        // 既定は net。手数料を損失として記録したい場合は 設定 で gross に切り替える\n        amt = (cfg.countDepositFeeAsLoss && Number.isFinite(gross)) ? gross : net;\n      } else {\n        amt = -(Number.isFinite(gross) ? gross : net);\n      }\n      flows.push({\n        time: toMs(r.createTime),\n        coin: r.fiatCurrency,\n        amount: amt,\n        label: `法定通貨${isDeposit ? '入金' : '出金'}${r.method ? `(${r.method})` : ''}`,\n      });\n    }\n    return;\n  }\n\n  // 法定通貨での購入。PayPay運用では「入金→残高で購入」の2段階になり全件 Cash Balance になる（実機確認済み）\n  // ＝ ここは通常すべて除外される。将来カード等の外部決済で直接買った場合の取りこぼし防止用に残してある\n  if (kind === 'fiatBuy') {\n    for (const r of ((body && body.data) || [])) {\n      if (!['Completed', 'Successful', 'Finished'].includes(String(r.status))) continue;\n      const method = String(r.paymentMethod || '');\n      // \"Cash Balance\" はウォレット内の残高で買っているので資金の出入りではない\n      if (/cash\\s*balance/i.test(method)) continue;\n      const jpy = Number(r.sourceAmount) - (Number(r.totalFee) || 0);\n      flows.push({\n        time: toMs(r.createTime),\n        coin: r.fiatCurrency,\n        amount: jpy,\n        label: `法定通貨購入${method ? `(${method})` : ''}`,\n      });\n    }\n    return;\n  }\n\n  if (kind === 'fiatSell') {\n    for (const r of ((body && body.data) || [])) {\n      if (!['Completed', 'Successful', 'Finished'].includes(String(r.status))) continue;\n      const jpy = Number(r.obtainAmount) || Number(r.sourceAmount) || 0;\n      review.push(`法定通貨売却 ${new Date(toMs(r.createTime)).toISOString().slice(0, 10)} ${jpy}${r.fiatCurrency || ''}`);\n      if (!cfg.countFiatSell) continue;\n      flows.push({\n        time: toMs(r.createTime),\n        coin: r.fiatCurrency,\n        amount: -jpy,\n        label: '法定通貨売却',\n      });\n    }\n    return;\n  }\n\n  if (kind.startsWith('transfer:')) {\n    const type = kind.slice('transfer:'.length);\n    const sign = type.startsWith('MAIN_') ? -1 : 1;   // MAIN=現物ウォレット\n    for (const r of ((body && body.rows) || [])) {\n      if (String(r.status) !== 'CONFIRMED') continue;\n      flows.push({\n        time: toMs(r.timestamp),\n        coin: r.asset,\n        amount: sign * Number(r.amount),\n        label: `ウォレット振替(${type})`,\n      });\n    }\n  }\n});\n\nconst clean = flows.filter((f) => f.time && f.coin && Number.isFinite(f.amount) && f.amount !== 0);\n\n// --- 二重計上の検出 -------------------------------------------------\n// 法定通貨がFundingに着金 → Spotへ振替、という経路だと\n// 「法定通貨入金」と「FUNDING_MAIN振替」の両方が流入として加算されてしまう。\n// 同じ日・同じ通貨・ほぼ同額の組み合わせが見つかったら要確認に出す。\nconst dayOf = (ms) => new Date(ms).toISOString().slice(0, 10);\nfor (const dep of clean) {\n  if (!/^法定通貨入金/.test(dep.label) || dep.amount <= 0) continue;\n  const hit = clean.find((t) => t.label === 'ウォレット振替(FUNDING_MAIN)'\n    && t.coin === dep.coin\n    && dayOf(t.time) === dayOf(dep.time)\n    && Math.abs(t.amount - dep.amount) / Math.max(Math.abs(dep.amount), 1) <= 0.05);\n  if (hit) {\n    review.push(\n      `${dayOf(dep.time)} の ${dep.coin} 入金が「法定通貨入金」と「FUNDING_MAIN振替」で二重計上されている可能性があります`\n      + `（各 ${Math.round(dep.amount).toLocaleString('ja-JP')}）。実際の着金先ウォレットを確認してください`,\n    );\n  }\n}\n\nreturn [{\n  json: {\n    snapshots,\n    flows: clean,\n    errors,\n    review,\n    skippedWallets: [...new Set(skippedWallets)],\n    flowStart: reqs.length ? reqs[0].flowStart : 0,\n  },\n}];\n"
+      },
+      "id": "36c20f5b-5950-4362-8186-b5af09bb24d4",
+      "name": "レスポンスを仕分け",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -672,
+        96
+      ]
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "1501944781",
+          "mode": "id"
+        },
+        "options": {}
+      },
+      "id": "c1ecd662-6284-42c9-8f75-5855d5ca908f",
+      "name": "履歴を読み込み",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        -448,
+        96
+      ],
+      "alwaysOutputData": true,
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "VUkktTxYrhhN1lGj",
+          "name": "Google Sheets account"
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== 履歴・スナップショット・入出金をマージして推移を再計算 =====\nconst cfg = $('設定').first().json;\nconst src = $('レスポンスを仕分け').first().json;\n\nconst DAY = 86400000;\nconst utcDate = (ms) => new Date(Number(ms)).toISOString().slice(0, 10);\nconst num = (v) => {\n  const n = Number(String(v ?? '').replace(/[,¥\\s]/g, ''));\n  return Number.isFinite(n) ? n : 0;\n};\nconst isBlank = (v) => v === undefined || v === null || String(v).trim() === '';\n\n// 処理を中止して理由をSlackに出すための共通の戻り値\nconst abort = (reason) => ([{\n  json: {\n    fatal: reason,\n    history: [], newRows: [], composition: [], compositionDate: null,\n    rateSource: '', btcJpy: 0, latestDate: null,\n    errors: src.errors || [], review: src.review || [],\n    skippedWallets: src.skippedWallets || [],\n    anomalies: [], incomplete: [], skippedDates: [], unconverted: [],\n  },\n}]);\n\n// ---------- 0. 取得に失敗したリクエスト ----------\n// 「レスポンスを仕分け」が errors に入れたもの（未開設ウォレットの振替エラーは含まれない）\nconst failedKinds = new Set((src.errors || []).map((e) => String(e.kind || 'unknown')));\n\n// スナップショットが取れないと、シートの古い日付をそのまま最新としてレポートしてしまうので中止する\nif (failedKinds.has('snapshot')) {\n  return abort(\n    'Binance の資産スナップショットを取得できませんでした。'\n    + '古い日付のデータをレポートしないよう、記録と集計を中止しました。',\n  );\n}\n\n// 入出金（暗号資産・法定通貨・ウォレット振替）のどれか1つでも取れなかったか\n// 取れなかった入出金は「0件」ではなく「不明」なので、直近30日の入出金を作り直してはいけない\nconst flowsComplete = [...failedKinds].every((k) => k === 'snapshot');\n\n// ---------- 1. 価格テーブル ----------\nconst px = {};\ntry {\n  const body = $('価格一覧を取得').first().json.body || [];\n  for (const p of body) px[p.symbol] = Number(p.price);\n} catch (e) { /* noop */ }\n\n// 為替レート（日次）: { \"2026-09-18\": { JPY: 152.34 }, ... } 営業日のみ\nlet fxByDate = {};\ntry {\n  const fx = $('為替レート（日次）').first().json;\n  fxByDate = (fx && fx.rates) || {};\n} catch (e) { fxByDate = {}; }\nconst fxDates = Object.keys(fxByDate).sort();\n\n// 為替APIが一時的に落ちてもレポートを止めないよう、最後に取れた値を保持しておく\nconst sd = (typeof $getWorkflowStaticData === 'function') ? $getWorkflowStaticData('global') : {};\nconst fxNotes = [];\nlet usdJpyFx = fxDates.length ? num(fxByDate[fxDates[fxDates.length - 1]].JPY) : 0;\nif (usdJpyFx > 0) {\n  sd.usdJpy = usdJpyFx;\n  sd.usdJpyDate = fxDates[fxDates.length - 1];\n} else if (num(sd.usdJpy) > 0) {\n  usdJpyFx = num(sd.usdJpy);\n  fxNotes.push(`為替レートを取得できなかったため前回値 ${usdJpyFx.toFixed(2)} (${sd.usdJpyDate || '日付不明'}) を使用しました`);\n}\n\n// 土日祝は前営業日のレートを使う\nconst usdJpyAt = (d) => {\n  let v = 0;\n  for (const k of fxDates) {\n    if (k <= d) v = num(fxByDate[k].JPY); else break;\n  }\n  return v || usdJpyFx;\n};\n\nconst usdtJpy = (px.BTCJPY && px.BTCUSDT) ? px.BTCJPY / px.BTCUSDT : (px.USDTJPY || usdJpyFx);\nconst btcJpyNow = px.BTCJPY || (px.BTCUSDT ? px.BTCUSDT * usdtJpy : 0);\n\n// 円換算レートが取れないまま書き込むと総資産0円・巨額の偽損失がシートに残るため中止する\nif (!(btcJpyNow > 0)) {\n  return abort(\n    'BTC/JPY の評価レートを取得できませんでした'\n    + `（Binance価格一覧: ${px.BTCUSDT ? 'OK' : '失敗'} / 為替: ${usdJpyFx ? 'OK' : '失敗'}）。`\n    + 'シートに誤った値を書き込まないよう、記録と集計を中止しました。',\n  );\n}\n\n// ---------- 1-b. 日ごとのBTC/JPYレート ----------\n// 初回のバックフィルで過去30日ぶんを「今日のレート」で評価すると、\n// その期間の損益が数量変化しか反映しなくなるため、日足終値から日別レートを作る\nconst dailyBtcJpy = {};\ntry {\n  const kl = $('日次BTC価格を取得').first().json.body || [];\n  for (const k of kl) {\n    if (!Array.isArray(k) || k.length < 5) continue;\n    const d = utcDate(k[0]);                 // 日足のopenTime = その日の00:00 UTC\n    const closeUsdt = Number(k[4]);          // 終値 = その日の23:59:59 UTC 時点\n    const fx = usdJpyAt(d);\n    if (closeUsdt > 0 && fx > 0) dailyBtcJpy[d] = closeUsdt * fx;\n  }\n} catch (e) { /* noop: btcJpyNow にフォールバック */ }\nconst rateAt = (d) => dailyBtcJpy[d] || btcJpyNow;\n\nconst rateSource = px.BTCJPY\n  ? 'BTCJPY'\n  : `BTCUSDT×USDJPY(${usdJpyFx.toFixed(2)})${Object.keys(dailyBtcJpy).length ? '・過去日は日足終値' : ''}`;\n\nconst STABLE = ['USDT', 'USDC', 'FDUSD', 'BUSD', 'DAI', 'TUSD'];\n// その日のBTC/JPYレートを基準に、現在のコイン/BTC比率で換算する\nconst toJpy = (coin, amt, btcRate) => {\n  const rate = btcRate || btcJpyNow;\n  if (!amt || !coin) return 0;\n  if (coin === 'JPY') return amt;\n  if (coin === 'BTC') return amt * rate;\n  if (px[`${coin}BTC`]) return amt * px[`${coin}BTC`] * rate;\n  if (px[`${coin}USDT`] && px.BTCUSDT) return amt * (px[`${coin}USDT`] / px.BTCUSDT) * rate;\n  if (STABLE.includes(coin) && px.BTCUSDT) return amt * (1 / px.BTCUSDT) * rate;\n  if (px[`${coin}JPY`]) return amt * px[`${coin}JPY`];\n  return NaN;   // 換算不能 → 後段で警告\n};\n\n// ---------- 2. 既存履歴（スプレッドシート） ----------\n// シートの見出し（1行目）。ここを書き換えれば列名を変更できる\nconst COL = {\n  date: '日付',\n  total_btc: '総資産(BTC)',\n  btc_price_jpy: 'BTC価格(円)',   // 書き込まない（旧シートに残っていれば読むだけ）\n  total_jpy: '総資産(円)',\n  net_flow_jpy: '入出金(円)',\n  flow_note: '入出金メモ',\n  daily_pnl_jpy: '日次損益(円)',\n  daily_pnl_pct: '日次損益率(%)',\n  cumulative_pnl_jpy: '累計損益(円)',\n  net_flow_override_jpy: '入出金の手動補正(円)',\n};\n// 日本語見出しを優先しつつ、旧・英語見出しのシートもそのまま読めるようにする\nconst col = (r, key) => (r[COL[key]] !== undefined ? r[COL[key]] : r[key]);\n\n// 日付セルがテキストでなく日付型になっていると \"2026/09/19\" 等で返り、\n// キーが一致せず行が増殖する。読み取り側で正規化して吸収する\nconst SHEET_EPOCH = Date.UTC(1899, 11, 30);\nconst dateWarn = new Set();\nconst normDate = (v) => {\n  if (v === undefined || v === null) return '';\n  if (v instanceof Date) return v.toISOString().slice(0, 10);\n  if (typeof v === 'number') {\n    if (v > 20000 && v < 80000) { dateWarn.add('シリアル値'); return new Date(SHEET_EPOCH + Math.round(v) * DAY).toISOString().slice(0, 10); }\n    if (v > 1e12) return new Date(v).toISOString().slice(0, 10);\n    return '';\n  }\n  const s = String(v).trim();\n  let m = s.match(/^(\\d{4})[-/.](\\d{1,2})[-/.](\\d{1,2})/);\n  if (m) { if (s[4] !== '-') dateWarn.add(s.slice(0, 10)); return `${m[1]}-${String(m[2]).padStart(2, '0')}-${String(m[3]).padStart(2, '0')}`; }\n  m = s.match(/^(\\d{1,2})[-/.](\\d{1,2})[-/.](\\d{4})/);\n  if (m) { dateWarn.add(s.slice(0, 10)); return `${m[3]}-${String(m[1]).padStart(2, '0')}-${String(m[2]).padStart(2, '0')}`; }\n  m = s.match(/^(\\d{4})年(\\d{1,2})月(\\d{1,2})日/);\n  if (m) { dateWarn.add(s.slice(0, 12)); return `${m[1]}-${String(m[2]).padStart(2, '0')}-${String(m[3]).padStart(2, '0')}`; }\n  const t = Date.parse(s);\n  if (Number.isFinite(t)) { dateWarn.add(s.slice(0, 12)); return new Date(t).toISOString().slice(0, 10); }\n  return '';\n};\n\nconst rawExisting = $('履歴を読み込み').all().map((i) => i.json);\n// 読み込みに失敗したまま進むと、履歴が直近30日だけで再構築され\n// 累計損益が0から振り直された値でシートを上書きしてしまう\nconst readErrRow = rawExisting.find((r) => r && r.error && isBlank(col(r, 'date')));\nif (readErrRow) {\n  const m = typeof readErrRow.error === 'string' ? readErrRow.error : (readErrRow.error.message || JSON.stringify(readErrRow.error));\n  return abort(`スプレッドシートの読み込みに失敗しました（${m}）。累計損益が壊れるため、記録と集計を中止しました。`);\n}\n\nconst existing = rawExisting.filter((r) => r && !isBlank(col(r, 'date')) && normDate(col(r, 'date')));\n\nconst map = new Map();\nfor (const r of existing) {\n  const d = normDate(col(r, 'date'));\n  const totalBtc = num(col(r, 'total_btc'));\n  const totalJpy = num(col(r, 'total_jpy'));\n  // BTC価格(円)はシートに書き込まないので 総資産(円) ÷ 総資産(BTC) で復元する\n  const storedPrice = col(r, 'btc_price_jpy');\n  map.set(d, {\n    date: d,\n    total_btc: totalBtc,\n    btc_price_jpy: isBlank(storedPrice) ? (totalBtc ? totalJpy / totalBtc : 0) : num(storedPrice),\n    total_jpy: totalJpy,\n    net_flow_jpy: num(col(r, 'net_flow_jpy')),\n    flow_note: col(r, 'flow_note') || '',\n    // 自動検出を上書きしたいときだけ手入力する列（通常は空のまま）\n    _override: isBlank(col(r, 'net_flow_override_jpy')) ? null : num(col(r, 'net_flow_override_jpy')),\n  });\n}\n\n// ---------- 3-0. 不完全なスナップショットを検出 ----------\n// Binanceが balances の一部を欠落させたまま totalAssetOfBtc を返すことがある。\n// 前日にあった資産が丸ごと消え、かつそれを戻すと前日の総額が再現できる日は\n// 「実際に減ったのではなく取得漏れ」と判断して集計から除外する。\nconst snapsSorted = (src.snapshots || [])\n  .filter((s) => s && s.updateTime && s.data)\n  .slice()\n  .sort((a, b) => Number(a.updateTime) - Number(b.updateTime));\n\nconst balOf = (s) => {\n  const m = new Map();\n  for (const b of (s.data.balances || [])) {\n    const amt = Number(b.free || 0) + Number(b.locked || 0);\n    if (amt > 0) m.set(b.asset, amt);\n  }\n  return m;\n};\n\n// コイン数量 → BTC建て評価\nconst toBtc = (coin, amt) => {\n  if (!amt || !coin) return NaN;\n  if (coin === 'BTC') return amt;\n  if (px[`${coin}BTC`]) return amt * px[`${coin}BTC`];\n  if (px[`${coin}USDT`] && px.BTCUSDT) return amt * (px[`${coin}USDT`] / px.BTCUSDT);\n  if (STABLE.includes(coin) && px.BTCUSDT) return amt / px.BTCUSDT;\n  if (coin === 'JPY') return btcJpyNow ? amt / btcJpyNow : NaN;\n  if (px[`${coin}JPY`] && btcJpyNow) return (amt * px[`${coin}JPY`]) / btcJpyNow;\n  return NaN;\n};\n\n// その日に出金・振替が検出されたコイン（正当な減少かどうかの判定に使う）\nconst outflowOf = new Map();\nfor (const f of (src.flows || [])) {\n  if (!(Number(f.amount) < 0)) continue;\n  const d = utcDate(f.time);\n  if (!outflowOf.has(d)) outflowOf.set(d, new Set());\n  outflowOf.get(d).add(f.coin);\n}\n\nconst badDates = new Map();   // date -> 欠損スナップショットが報告した totalAssetOfBtc\nconst incomplete = [];\nfor (let i = 1; i < snapsSorted.length; i++) {\n  const p = snapsSorted[i - 1];\n  const s = snapsSorted[i];\n  const d = utcDate(s.updateTime);\n  const pb = balOf(p);\n  const sb = balOf(s);\n  const missing = [...pb.keys()].filter((a) => !sb.has(a));\n  if (!missing.length) continue;\n  // 出金・振替が検出されていれば正当な減少\n  const out = outflowOf.get(d) || new Set();\n  if (missing.some((a) => out.has(a))) continue;\n\n  const pTot = Number(p.data.totalAssetOfBtc);\n  const sTot = Number(s.data.totalAssetOfBtc);\n  if (!(pTot > 0) || !Number.isFinite(sTot) || sTot >= pTot) continue;\n\n  let missBtc = 0;\n  let evaluable = true;\n  for (const a of missing) {\n    const v = toBtc(a, pb.get(a));\n    if (!Number.isFinite(v)) { evaluable = false; break; }\n    missBtc += v;\n  }\n  if (!evaluable) continue;\n\n  // 消えた資産を戻すと前日の総額とほぼ一致する = 資産は動いていない\n  // （売却・両替なら総額は保たれるのでここには該当しない）\n  if (Math.abs((sTot + missBtc) - pTot) / pTot <= 0.10) {\n    badDates.set(d, sTot);\n    incomplete.push(`${d} のスナップショットが不完全なため集計から除外しました（${missing.join(', ')} が欠落。Binance側の取得漏れ）`);\n  }\n}\n\n// 既にシートへ書き込まれた欠損値の行も集計から外す（値が一致する場合のみ）\nfor (const [d, badTot] of badDates) {\n  const row = map.get(d);\n  if (!row) continue;\n  const ref = Math.max(Math.abs(badTot), 1e-12);\n  if (Math.abs(row.total_btc - badTot) / ref <= 0.02) {\n    map.delete(d);\n    incomplete.push(`${d} の記録済みの行は欠損値のため無効化しました（シートの該当行は手動で削除してください）`);\n  }\n}\n\n// ---------- 3-1. 最新の資産構成（円グラフ用） ----------\nconst lastGood = [...snapsSorted].reverse().find((s) => !badDates.has(utcDate(s.updateTime)));\nconst composition = [];\nlet compositionDate = null;\nif (lastGood) {\n  compositionDate = utcDate(lastGood.updateTime);\n  for (const [coin, amt] of balOf(lastGood)) {\n    const b = toBtc(coin, amt);\n    const jpy = Number.isFinite(b) ? b * btcJpyNow : NaN;\n    if (Number.isFinite(jpy) && jpy > 0) composition.push({ coin, amount: amt, jpy: Math.round(jpy) });\n  }\n  composition.sort((a, b) => b.jpy - a.jpy);\n}\n\n// シートに記録済みの日付（入出金を取りこぼした実行では、この日付の入出金を書き換えない）\nconst sheetDates = new Set(map.keys());\n\n// ---------- 3. スナップショットを反映 ----------\nconst freshDates = [];\nfor (const s of (src.snapshots || [])) {\n  if (!s || !s.updateTime || !s.data) continue;\n  const d = utcDate(s.updateTime);\n  if (badDates.has(d)) continue;\n  const btc = num(s.data.totalAssetOfBtc);\n  const prev = map.get(d) || {};\n  // 一度記録した日の評価レートは維持する。未記録の日はその日の日足レートを使う\n  const price = prev.btc_price_jpy || rateAt(d);\n  map.set(d, {\n    ...prev,\n    date: d,\n    total_btc: btc,\n    btc_price_jpy: price,\n    total_jpy: btc * price,\n    net_flow_jpy: prev.net_flow_jpy || 0,\n    flow_note: prev.flow_note || '',\n    _override: prev._override ?? null,\n  });\n  freshDates.push(d);\n}\n\n// ---------- 4. 入出金を日別に集計（取得できた期間のみ再計算） ----------\n// 入出金の取得に1つでも失敗した場合は、シートに記録済みの日の入出金はシートの値のまま使い、\n// まだ記録していない日だけ取得できた分で計算する（レポート用。シートには書き込まない）\nconst flowFrom = src.flowStart ? utcDate(src.flowStart) : null;\nconst recalcFlow = (d) => flowsComplete || !sheetDates.has(d);\nconst unconverted = [];\nif (flowFrom) {\n  for (const [d, row] of map) {\n    if (d >= flowFrom && recalcFlow(d)) { row.net_flow_jpy = 0; row.flow_note = ''; }\n  }\n  const bucket = new Map();\n  for (const f of (src.flows || [])) {\n    const d = utcDate(f.time);\n    if (d < flowFrom) continue;\n    if (!recalcFlow(d)) continue;\n    if (!bucket.has(d)) bucket.set(d, { jpy: 0, notes: new Map() });\n    const b = bucket.get(d);\n    const row = map.get(d);\n    const jpy = toJpy(f.coin, f.amount, row ? row.btc_price_jpy : rateAt(d));\n    if (!Number.isFinite(jpy)) { unconverted.push(`${d} ${f.coin}`); continue; }\n    b.jpy += jpy;\n    const short = f.label.replace(/^ウォレット振替\\(.+\\)$/, 'ウォレット振替');\n    b.notes.set(short, (b.notes.get(short) || 0) + 1);\n  }\n  for (const [d, b] of bucket) {\n    const row = map.get(d);\n    if (!row) continue;\n    row.net_flow_jpy = Math.round(b.jpy);\n    row.flow_note = [...b.notes.entries()].map(([k, v]) => `${k}${v}件`).join(' / ');\n  }\n}\n\n// ---------- 5. 日次損益・累計を再計算 ----------\nconst history = [...map.values()].sort((a, b) => (a.date < b.date ? -1 : 1));\nlet cum = 0;\nfor (let i = 0; i < history.length; i++) {\n  const r = history[i];\n  const p = history[i - 1];\n  const flow = r._override !== null && r._override !== undefined ? r._override : r.net_flow_jpy;\n  // 収益 = 総資産の増減 − 入出金\n  const diff = p ? r.total_jpy - p.total_jpy - flow : 0;\n  const base = p ? p.total_jpy + flow : 0;\n  cum += diff;\n  r.effective_flow_jpy = Math.round(flow);\n  r.total_btc = Number(r.total_btc.toFixed(8));\n  r.btc_price_jpy = Math.round(r.btc_price_jpy);\n  r.total_jpy = Math.round(r.total_jpy);\n  r.net_flow_jpy = Math.round(r.net_flow_jpy);\n  r.daily_pnl_jpy = Math.round(diff);\n  r.daily_pnl_pct = base ? Number(((diff / base) * 100).toFixed(3)) : 0;\n  r.cumulative_pnl_jpy = Math.round(cum);\n}\n\n// ---------- 6. 書き込み対象（手入力列は書き戻さない） ----------\nconst from = freshDates.length ? freshDates.slice().sort()[0] : null;\nconst writable = (r) => ({\n  [COL.date]: r.date,\n  [COL.total_btc]: r.total_btc,\n  [COL.total_jpy]: r.total_jpy,\n  [COL.net_flow_jpy]: r.net_flow_jpy,\n  [COL.flow_note]: r.flow_note,\n  [COL.daily_pnl_jpy]: r.daily_pnl_jpy,\n  [COL.daily_pnl_pct]: r.daily_pnl_pct,\n  [COL.cumulative_pnl_jpy]: r.cumulative_pnl_jpy,\n});\n// 入出金を取りこぼした実行では書き込まない。\n// 毎回直近30日ぶんを作り直して書き込むので、次に正常に動いた実行でまとめて正しい値になる\nconst newRows = (from && flowsComplete) ? history.filter((r) => r.date >= from).map(writable) : [];\n\n// ---------- 7. 入出金の取りこぼし検知 ----------\n// 入出金が検出されていないのに総資産が大きく動いた日を洗い出す。\n// 暗号資産は15%程度なら普通に動くので、率と実額の両方をしきい値にする\nconst anomalyPct = Number(cfg.anomalyPct) || 20;\nconst anomalyMinJpy = Number(cfg.anomalyMinJpy) || 0;\nconst anomalies = [];\nfor (let i = 1; i < history.length; i++) {\n  const r = history[i];\n  const p = history[i - 1];\n  if (flowFrom && r.date < flowFrom) continue;\n  if (r.effective_flow_jpy) continue;\n  if (!p.total_jpy) continue;\n  if (Math.abs(r.daily_pnl_jpy) < anomalyMinJpy) continue;\n  if (Math.abs(r.daily_pnl_jpy / p.total_jpy) * 100 >= anomalyPct) {\n    anomalies.push(`${r.date} の変動 ${r.daily_pnl_jpy >= 0 ? '+' : ''}${r.daily_pnl_jpy.toLocaleString('ja-JP')}円 (${r.daily_pnl_pct}%) に対応する入出金が未検出`);\n  }\n}\n\nconst review = [...(src.review || []), ...fxNotes];\nif (!flowsComplete) {\n  // Slack では要確認の先頭5件までしか出さないので、先頭に入れる\n  review.unshift(\n    '入出金の一部を取得できなかったため、今回はシートに記録していません。'\n    + '今日の損益には入出金が正しく反映されていない可能性があります（次に正常に動いた実行でまとめて記録し直します）',\n  );\n}\nif (dateWarn.size) {\n  review.push(`シートの「${COL.date}」列が日付型として読まれています（例: ${[...dateWarn][0]}）。書式を「書式なしテキスト」にすると行の重複を防げます`);\n}\n\nreturn [{\n  json: {\n    fatal: null,\n    history,\n    newRows,\n    rateSource,\n    btcJpy: Math.round(btcJpyNow),\n    errors: src.errors || [],\n    review,\n    skippedWallets: src.skippedWallets || [],\n    anomalies,\n    incomplete,\n    skippedDates: [...badDates.keys()],\n    composition,\n    compositionDate,\n    unconverted: [...new Set(unconverted)],\n    latestDate: history.length ? history[history.length - 1].date : null,\n  },\n}];\n"
+      },
+      "id": "76f5994b-01c0-4569-b80e-b2533eca3ab2",
+      "name": "集計して推移を再計算",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -224,
+        96
+      ]
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "newRows",
+        "options": {}
+      },
+      "id": "f30ccb96-3937-471b-b719-80fb548600a3",
+      "name": "記録する行に分割",
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "appendOrUpdate",
+        "documentId": {
+          "__rl": true,
+          "value": "1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "1501944781",
+          "mode": "id"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [
+            "日付"
+          ],
+          "schema": [
+            {
+              "id": "日付",
+              "displayName": "日付",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "総資産(BTC)",
+              "displayName": "総資産(BTC)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "総資産(円)",
+              "displayName": "総資産(円)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "日次損益(円)",
+              "displayName": "日次損益(円)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "日次損益率(%)",
+              "displayName": "日次損益率(%)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "累計損益(円)",
+              "displayName": "累計損益(円)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "入出金(円)",
+              "displayName": "入出金(円)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "入出金メモ",
+              "displayName": "入出金メモ",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "入出金の手動補正(円)",
+              "displayName": "入出金の手動補正(円)",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "id": "ff039668-439f-4629-a7fc-8e81acfa98e4",
+      "name": "スプレッドシートに記録",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        224,
+        0
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "VUkktTxYrhhN1lGj",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== Slack Block Kit メッセージ生成（JPY建て） =====\nconst cfg = $('設定').first().json;\nconst src = $input.first().json;\n\n// 投稿先チャンネル（設定ノードで管理し、送信ノードには $json.channel として渡す）\nconst channel = String(cfg.slackChannel || '').trim();\nif (!channel) {\n  throw new Error('設定ノードの slackChannel が空です。投稿先チャンネルのID（C から始まる文字列）を指定してください。');\n}\nconst history = src.history || [];\n\n// data_visualization ブロックを使うか（false ならテキストのグラフにフォールバック）\nconst useChartBlocks = cfg.useChartBlocks !== false;\n// グラフに載せる日数（data_visualization の上限は 20 点）\nconst chartDays = Math.min(20, Math.max(2, Number(cfg.chartDays) || 14));\n\nconst yen = (n) => `${Math.round(Math.abs(n)).toLocaleString('ja-JP')} 円`;\nconst signedYen = (n) => `${n >= 0 ? '+' : '-'}${yen(n)}`;\nconst man = (n) => {\n  const v = Math.abs(n) / 10000;\n  return `${n >= 0 ? '+' : '-'}${v.toLocaleString('ja-JP', { minimumFractionDigits: 1, maximumFractionDigits: 1 })}万`;\n};\nconst pct = (n) => `${n >= 0 ? '+' : '-'}${Math.abs(n).toFixed(2)}%`;\nconst emo = (n) => (n > 0 ? '🟢' : n < 0 ? '🔴' : '⚪️');\n\nconst spark = (arr) => {\n  if (!arr.length) return '';\n  const chars = '▁▂▃▄▅▆▇█';\n  const mn = Math.min(...arr);\n  const mx = Math.max(...arr);\n  const rng = (mx - mn) || 1;\n  return arr.map((v) => chars[Math.min(7, Math.floor(((v - mn) / rng) * 7.999))]).join('');\n};\n\n// ---- 中止された場合（レート取得失敗・シート読み込み失敗など）\nif (src.fatal) {\n  const detail = (src.errors || []).map((e) => `${e.kind}: ${e.msg || e.status}`).slice(0, 5);\n  return [{\n    json: {\n      channel,\n      blocks: [\n        { type: 'section', text: { type: 'mrkdwn', text: `🛑 *Binance 収益レポートを中止しました*\\n${src.fatal}` } },\n        ...(detail.length ? [{ type: 'context', elements: [{ type: 'mrkdwn', text: detail.map((d) => `• ${d}`).join('\\n') }] }] : []),\n        { type: 'context', elements: [{ type: 'mrkdwn', text: 'シートへの書き込みは行っていません。次回の実行で自動的に復旧します。' }] },\n      ],\n      fallbackText: `Binance 収益レポート: 中止（${src.fatal}）`,\n    },\n  }];\n}\n\nconst latest = history[history.length - 1];\nif (!latest) {\n  const why = (src.errors || []).map((e) => `${e.kind}: ${e.msg || e.status}`).join(' / ') || 'レスポンスが空でした';\n  return [{\n    json: {\n      channel,\n      blocks: [{ type: 'section', text: { type: 'mrkdwn', text: `⚠️ Binance のスナップショットを取得できませんでした。\\n\\`${why}\\`` } }],\n      fallbackText: 'Binance 収益レポート: データ取得に失敗しました',\n    },\n  }];\n}\n\nconst sumLast = (n) => history.slice(-n).reduce((a, b) => a + b.daily_pnl_jpy, 0);\nconst n7 = Math.min(7, history.length);\nconst n30 = Math.min(30, history.length);\nconst day1 = latest.daily_pnl_jpy;\nconst day7 = sumLast(n7);\nconst day30 = sumLast(n30);\nconst cumTotal = latest.cumulative_pnl_jpy;\nconst firstDate = history[0].date;\n\nconst principal = history[0].total_jpy + history.slice(1).reduce((a, b) => a + (b.effective_flow_jpy || 0), 0);\nconst totalPct = principal ? (cumTotal / principal) * 100 : 0;\n\nconst peak = history.reduce((m, r) => (r.total_jpy > m.total_jpy ? r : m), history[0]);\nconst drawdown = peak.total_jpy ? ((latest.total_jpy - peak.total_jpy) / peak.total_jpy) * 100 : 0;\n\nconst nowRate = src.btcJpy || latest.btc_price_jpy;\nconst rateNote = nowRate === latest.btc_price_jpy\n  ? `評価レート 1BTC = ${yen(latest.btc_price_jpy)} (${src.rateSource})`\n  : `${latest.date}の評価レート 1BTC = ${yen(latest.btc_price_jpy)} ・ 現在 ${yen(nowRate)} (${src.rateSource})`;\n\nconst blocks = [\n  { type: 'header', text: { type: 'plain_text', text: '📊 Binance 現物 収益レポート', emoji: true } },\n  {\n    type: 'context',\n    elements: [{ type: 'mrkdwn', text: `対象日 *${latest.date}* (UTC基準) ・ 記録 ${history.length}日分 ・ ${firstDate} 〜` }],\n  },\n  {\n    type: 'section',\n    text: {\n      type: 'mrkdwn',\n      text: `*総資産*\\n*${yen(latest.total_jpy)}*  ( ${latest.total_btc.toFixed(8)} BTC )\\n`\n        + `前日比 ${emo(day1)} ${signedYen(day1)} ( ${pct(latest.daily_pnl_pct)} )`,\n    },\n  },\n  {\n    type: 'section',\n    fields: [\n      { type: 'mrkdwn', text: `*直近${n7}日*\\n${emo(day7)} ${signedYen(day7)}` },\n      { type: 'mrkdwn', text: `*直近${n30}日*\\n${emo(day30)} ${signedYen(day30)}` },\n      { type: 'mrkdwn', text: `*累計損益*\\n${emo(cumTotal)} ${signedYen(cumTotal)}` },\n      { type: 'mrkdwn', text: `*累計リターン*\\n${emo(totalPct)} ${pct(totalPct)}` },\n    ],\n  },\n];\n\n// 入出金が検出された日は明示する（収益から除外済み）\nconst flowDays = history.slice(-7).filter((r) => r.effective_flow_jpy);\nif (flowDays.length) {\n  blocks.push({\n    type: 'context',\n    elements: [{\n      type: 'mrkdwn',\n      text: `⇄ 直近7日の入出金（収益から除外済み）: `\n        + flowDays.map((r) => `${r.date.slice(5)} ${signedYen(r.effective_flow_jpy)}${r.flow_note ? `（${r.flow_note}）` : ''}`).join(' ・ '),\n    }],\n  });\n}\n\nblocks.push({\n  type: 'context',\n  elements: [{\n    type: 'mrkdwn',\n    text: `最高総資産 ${yen(peak.total_jpy)} (${peak.date}) ・ ピーク比 ${pct(drawdown)} ・ ${rateNote}`,\n  }],\n});\n\nblocks.push({ type: 'divider' });\n\nif (useChartBlocks) {\n  // グラフは data_visualization ブロックとしてスレッドに投稿する（後段の2ノードが担当）\n  blocks.push({\n    type: 'context',\n    elements: [{ type: 'mrkdwn', text: '📈 グラフはこのメッセージのスレッドに投稿します' }],\n  });\n} else {\n  // ---- フォールバック：テキストのグラフ ----\n  const win = history.slice(-chartDays);\n  const maxAbs = Math.max(1, ...win.map((r) => Math.abs(r.daily_pnl_jpy)));\n  const BAR = 16;\n  const chart = win.map((r) => {\n    const len = Math.max(1, Math.round((Math.abs(r.daily_pnl_jpy) / maxAbs) * BAR));\n    const bar = (r.daily_pnl_jpy >= 0 ? '█' : '░').repeat(len);\n    const flag = r.effective_flow_jpy ? ' ⇄' : '';\n    return `${r.date.slice(5)}  ${man(r.daily_pnl_jpy).padStart(10)}円  ${bar}${flag}`;\n  }).join('\\n');\n\n  blocks.push({ type: 'section', text: { type: 'mrkdwn', text: `*日次損益（直近${win.length}日）*\\n\\`\\`\\`\\n${chart}\\n\\`\\`\\`` } });\n  blocks.push({\n    type: 'section',\n    text: {\n      type: 'mrkdwn',\n      text: `*総資産の推移*  \\`${spark(history.slice(-30).map((r) => r.total_jpy))}\\`\\n`\n        + `*累計損益の推移*  \\`${spark(history.slice(-30).map((r) => r.cumulative_pnl_jpy))}\\`\\n_直近30日_`,\n    },\n  });\n}\n\n// 取得エラー・換算不能があれば警告（未開設ウォレットは毎日出るのでここには含めない）\nconst warns = [];\nfor (const e of (src.errors || [])) warns.push(`${e.kind} の取得に失敗 (${e.msg || e.status})`);\nfor (const w of (src.incomplete || [])) warns.push(w);\nif ((src.unconverted || []).length) warns.push(`円換算できない入出金: ${src.unconverted.join(', ')}`);\nfor (const a of (src.anomalies || [])) warns.push(a);\nfor (const r of (src.review || []).slice(0, 5)) warns.push(`要確認: ${r}`);\nif (warns.length) {\n  blocks.push({\n    type: 'section',\n    text: { type: 'mrkdwn', text: `⚠️ *要確認*\\n${warns.map((w) => `• ${w}`).join('\\n')}` },\n  });\n}\n\nreturn [{\n  json: {\n    channel,\n    blocks,\n    fallbackText: `Binance 現物レポート ${latest.date}: 前日比 ${signedYen(day1)} / 累計 ${signedYen(cumTotal)}`,\n    summary: { date: latest.date, total_jpy: latest.total_jpy, day1, day7, day30, cumTotal, totalPct },\n  },\n}];\n"
+      },
+      "id": "2a2b537a-4dab-4291-8b59-5e97f22a2502",
+      "name": "Slackメッセージを組み立て",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        0,
+        192
+      ]
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "value": "={{ $json.channel }}",
+          "mode": "id"
+        },
+        "messageType": "block",
+        "blocksUi": "={{ JSON.stringify({ blocks: $json.blocks }) }}",
+        "text": "={{ $json.fallbackText }}",
+        "otherOptions": {
+          "includeLinkToWorkflow": false
+        }
+      },
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        224,
+        192
+      ],
+      "id": "413e52fe-df09-4dc1-8c7f-b31607fbc5fb",
+      "name": "Slackに送信",
+      "webhookId": "d5a41d8b-7a5b-4ec0-b695-83f27f22d8fb",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "slackApi": {
+          "id": "hSJPwM9yFgoMqBNb",
+          "name": "Slack[Notifications]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// ===== グラフをスレッドに投稿するためのメッセージ生成 =====\n// data_visualization は 1メッセージにつき2ブロックまでなので、2個ずつに分割して複数itemを返す。\n// 後段のHTTPノードがitemごとに chat.postMessage を実行する。\nconst cfg = $('設定').first().json;\nconst src = $('集計して推移を再計算').first().json;\nconst sent = $input.first().json || {};\n// Slack ノードは、送ったメッセージの ts を message_timestamp という名前で出す\nconst parentTs = sent.message_timestamp;\n\nconst useChartBlocks = cfg.useChartBlocks !== false;\nconst history = src.history || [];\n// 親メッセージの ts が取れない / グラフ無効 / データ無しなら何も送らない\nif (!useChartBlocks || !parentTs || !sent.channel || !history.length) return [];\n\nconst chartDays = Math.min(20, Math.max(2, Number(cfg.chartDays) || 14));\nconst win = history.slice(-chartDays);\nconst categories = win.map((r) => r.date.slice(5));\n\n// 値が大きいときは万円単位に落として軸を読みやすくする\nconst unitFor = (values) => {\n  const max = Math.max(0, ...values.map((v) => Math.abs(v)));\n  return max >= 1000000\n    ? { div: 10000, label: '万円', digits: 1 }\n    : { div: 1, label: '円', digits: 0 };\n};\nconst scaled = (v, u) => Number((v / u.div).toFixed(u.digits));\nconst series = (name, key, u) => ([{\n  name,\n  data: win.map((r) => ({ label: r.date.slice(5), value: scaled(r[key], u) })),\n}]);\nconst axis = (yLabel) => ({ categories, x_label: '日付 (UTC)', y_label: yLabel });\n\nconst charts = [];\n\n// ① 総資産の推移\nconst uTotal = unitFor(win.map((r) => r.total_jpy));\ncharts.push({\n  type: 'data_visualization',\n  block_id: 'chart_total_assets',\n  title: `総資産の推移（直近${win.length}日）`,\n  chart: { type: 'line', series: series('総資産', 'total_jpy', uTotal), axis_config: axis(`総資産（${uTotal.label}）`) },\n});\n\n// ② 日次損益（入出金を除外した純損益）\nconst uPnl = unitFor(win.map((r) => r.daily_pnl_jpy));\ncharts.push({\n  type: 'data_visualization',\n  block_id: 'chart_daily_pnl',\n  title: `日次損益（直近${win.length}日）`,\n  chart: { type: 'bar', series: series('日次損益', 'daily_pnl_jpy', uPnl), axis_config: axis(`損益（${uPnl.label}）`) },\n});\n\n// ③ 累計損益の推移\nconst uCum = unitFor(win.map((r) => r.cumulative_pnl_jpy));\ncharts.push({\n  type: 'data_visualization',\n  block_id: 'chart_cumulative_pnl',\n  title: `累計損益の推移（直近${win.length}日）`,\n  chart: { type: 'area', series: series('累計損益', 'cumulative_pnl_jpy', uCum), axis_config: axis(`累計損益（${uCum.label}）`) },\n});\n\n// ④ 資産構成（最新スナップショットの現在評価額）\nconst comp = (src.composition || []).filter((c) => c && c.jpy > 0);\nif (comp.length) {\n  // 円グラフのセグメント上限は12。超える分は「その他」にまとめる\n  const MAX = 12;\n  let segments = comp.map((c) => ({ label: String(c.coin).slice(0, 20), value: c.jpy }));\n  if (segments.length > MAX) {\n    const head = segments.slice(0, MAX - 1);\n    const rest = segments.slice(MAX - 1).reduce((a, s) => a + s.value, 0);\n    segments = rest > 0 ? [...head, { label: 'その他', value: rest }] : head;\n  }\n  charts.push({\n    type: 'data_visualization',\n    block_id: 'chart_composition',\n    title: `資産構成（${src.compositionDate || ''}）`.slice(0, 50),\n    chart: { type: 'pie', segments },\n  });\n}\n\n// 2個ずつに分割して1メッセージ = 最大2ブロックにする\nconst messages = [];\nfor (let i = 0; i < charts.length; i += 2) messages.push(charts.slice(i, i + 2));\n\nreturn messages.map((blocks, i) => ({\n  json: {\n    channel: sent.channel,\n    thread_ts: parentTs,\n    blocks,\n    fallbackText: `グラフ (${i + 1}/${messages.length}): ${blocks.map((b) => b.title).join(' / ')}`,\n  },\n}));\n"
+      },
+      "id": "22b37cd2-0495-4104-9ba4-2a9da0ec8b32",
+      "name": "スレッド用グラフを組み立て",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        448,
+        192
+      ]
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "value": "={{ $json.channel }}",
+          "mode": "id"
+        },
+        "messageType": "block",
+        "blocksUi": "={{ JSON.stringify({ blocks: $json.blocks }) }}",
+        "text": "={{ $json.fallbackText }}",
+        "otherOptions": {
+          "includeLinkToWorkflow": false,
+          "thread_ts": {
+            "replyValues": {
+              "thread_ts": "={{ $json.thread_ts }}"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        672,
+        192
+      ],
+      "id": "3f399803-94e2-4d75-9aa6-89c932f900ca",
+      "name": "スレッドに送信",
+      "webhookId": "8f915858-befd-41ff-8074-404a3e4c0edc",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "slackApi": {
+          "id": "hSJPwM9yFgoMqBNb",
+          "name": "Slack[Notifications]"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "設定": {
+      "main": [
+        [
+          {
+            "node": "価格一覧を取得",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "価格一覧を取得": {
+      "main": [
+        [
+          {
+            "node": "日次BTC価格を取得",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "リクエストを組み立て": {
+      "main": [
+        [
+          {
+            "node": "リクエストに署名",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "リクエストに署名": {
+      "main": [
+        [
+          {
+            "node": "Binanceから取得",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Binanceから取得": {
+      "main": [
+        [
+          {
+            "node": "レスポンスを仕分け",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "レスポンスを仕分け": {
+      "main": [
+        [
+          {
+            "node": "履歴を読み込み",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "履歴を読み込み": {
+      "main": [
+        [
+          {
+            "node": "集計して推移を再計算",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "集計して推移を再計算": {
+      "main": [
+        [
+          {
+            "node": "記録する行に分割",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Slackメッセージを組み立て",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "記録する行に分割": {
+      "main": [
+        [
+          {
+            "node": "スプレッドシートに記録",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Slackメッセージを組み立て": {
+      "main": [
+        [
+          {
+            "node": "Slackに送信",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Slackに送信": {
+      "main": [
+        [
+          {
+            "node": "スレッド用グラフを組み立て",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "スレッド用グラフを組み立て": {
+      "main": [
+        [
+          {
+            "node": "スレッドに送信",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "毎日10時15分に実行": {
+      "main": [
+        [
+          {
+            "node": "設定",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "為替レート（日次）": {
+      "main": [
+        [
+          {
+            "node": "リクエストを組み立て",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "日次BTC価格を取得": {
+      "main": [
+        [
+          {
+            "node": "為替レート（日次）",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "nodeGroups": [],
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "errorWorkflow": "d88ctEMElygY3yRA"
+  },
+  "meta": null,
+  "tags": []
+}

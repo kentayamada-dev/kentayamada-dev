@@ -1,0 +1,11 @@
+tenancy_ocid = "ocid1.tenancy.oc1..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# 平文のパスワードではなく、openssl passwd -6 で作ったハッシュを書く
+console_password_hash = "$6$xxxxxxxxxxxxxxxx$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+cloudflare_account_id = "0123456789abcdef0123456789abcdef"
+cloudflare_zone_id    = "0123456789abcdef0123456789abcdef"
+
+n8n_hostname = "n8n.example.com"
+
+access_allowed_emails = ["you@example.com"]

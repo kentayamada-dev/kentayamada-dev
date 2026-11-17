@@ -1,0 +1,63 @@
+#cloud-config
+# cloud-init は初回起動のときにこの設定を使うため、書き換えても今のインスタンスには効かず、作り直したときに効く
+# https://docs.cloud-init.io/en/latest/explanation/first_boot.html
+
+# SSH を開けず、シリアル・コンソールでログインするため
+chpasswd:
+  expire: false
+  users:
+    - name: ubuntu
+      password: ${password_hash}
+      # type は小文字で書く。大文字の HASH はどの値とも一致せず、パスワードが設定されない
+      # https://github.com/canonical/cloud-init/blob/26.2/cloudinit/config/cc_set_passwords.py#L34-L45
+      type: hash
+
+ssh_pwauth: false
+
+# git は、runcmd でリポジトリを取得するのに使う
+package_update: true
+packages:
+  - git
+
+write_files:
+  # cloudflared（QUIC）の UDP のバッファが足りないという警告が出るため、上限を上げる。値は quic-go の推奨
+  # https://github.com/quic-go/quic-go/wiki/UDP-Buffer-Sizes/a3327deff89d2428d48596ce0e643531f9944f99
+  # 上限はカーネル全体で 1 つの値で、コンテナのなかでは読み取り専用のため、ホストで上げる。次の起動からは systemd-sysctl が読む
+  # https://github.com/torvalds/linux/blob/v7.0/net/core/sysctl_net_core.c#L709-L727
+  # パスと値を変えるときは、setup-instance.sh の sysctl_conf と min_buffer も合わせる
+  - path: /etc/sysctl.d/99-cloudflared-quic.conf
+    content: |
+      net.core.rmem_max=7500000
+      net.core.wmem_max=7500000
+
+  # 乗っ取られたワークフローに、メタデータ（user_data のパスワードのハッシュなど）を読ませないため、コンテナからメタデータの 80 番への接続を拒否する
+  # DOCKER-USER はコンテナの通信だけに効き、Docker は中身を変えないため、ホストの cloud-init や Oracle Cloud Agent は読める
+  # https://github.com/docker/docs/blob/670073947d7b7046bc419b40a27c5a448d9b6c9b/content/manuals/engine/network/firewall-iptables.md#L22-L54
+  # 同じアドレスの 53 番は VCN の DNS で、コンテナの名前解決に要るため止めない
+  # https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/dns.htm
+  # ルールは再起動で消えるため、コンテナが動き出す前に、起動のたびに入れる。ルールを変えるときは、setup-instance.sh の iptables -C も合わせる
+  - path: /etc/systemd/system/block-container-imds.service
+    content: |
+      [Unit]
+      Description=Block containers from the instance metadata service
+      Before=docker.service
+
+      [Service]
+      Type=oneshot
+      RemainAfterExit=yes
+      ExecStart=/bin/sh -c 'iptables -N DOCKER-USER 2>/dev/null || true; iptables -C DOCKER-USER -d 169.254.169.254/32 -p tcp --dport 80 -j REJECT --reject-with tcp-reset 2>/dev/null || iptables -I DOCKER-USER -d 169.254.169.254/32 -p tcp --dport 80 -j REJECT --reject-with tcp-reset'
+
+      [Install]
+      WantedBy=docker.service
+
+  # 初回起動の設定のスクリプト。CI の shellcheck と shfmt で検査できるよう、別のファイルに書き、compute.tf で base64 にして埋め込む
+  # https://github.com/canonical/cloud-init/blob/26.2/cloudinit/config/schemas/schema-cloud-config-v1.json
+  - path: &setup-instance /usr/local/sbin/setup-instance
+    permissions: "0755"
+    encoding: b64
+    content: ${setup_instance_script}
+
+# runcmd は packages を入れたあとに動く
+# https://github.com/canonical/cloud-init/blob/26.2/doc/module-docs/cc_runcmd/data.yaml#L7-L13
+runcmd:
+  - *setup-instance

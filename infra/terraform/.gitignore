@@ -1,0 +1,17 @@
+.terraform/
+# state と plan には、リソースの詳細やトンネルのトークンが平文で入るため
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+*.tfplan
+# 公開のリポジトリなので、テナンシやアカウントを特定できる値と、パスワードのハッシュを書くファイルはコミットしない
+*.tfvars
+*.tfvars.json
+*.tfbackend
+# 手元だけで使う上書きの設定のため
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log
+crash.*.log

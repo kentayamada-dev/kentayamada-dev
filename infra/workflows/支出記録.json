@@ -1,0 +1,474 @@
+{
+  "id": "YCzumzrQekMIT4dY",
+  "name": "支出記録",
+  "active": true,
+  "createdAt": "2026-09-08T12:59:18.976Z",
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "trigger": [
+          "message"
+        ],
+        "watchWorkspace": true,
+        "options": {
+          "userIds": "={{ [\"U0BV93A2PSS\"] }}"
+        }
+      },
+      "type": "n8n-nodes-base.slackTrigger",
+      "typeVersion": 1,
+      "position": [
+        -1120,
+        240
+      ],
+      "id": "55bec965-355f-46ac-8e33-3a754ec3a0be",
+      "name": "Slackメッセージを受け取る",
+      "webhookId": "a283f8b9-ae5a-48c8-93b3-1b30806e073a",
+      "credentials": {
+        "slackApi": {
+          "id": "KcbhgnRgVykTnJXT",
+          "name": "Slack[Kakeibo]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Slack Trigger は Events API の event オブジェクトをそのまま出力する\nconst ev = $input.first().json;\n\nconst channel = String(ev.channel ?? '');\nconst isDm = ev.channel_type === 'im' || channel.startsWith('D');\n// ボット自身の投稿(=このワークフローの返信)もイベントとして届くため必ず除外する(無限ループ防止)\nconst isBot = Boolean(ev.bot_id) || ev.subtype === 'bot_message';\nconst subtype = ev.subtype ?? null; // message_changed / message_deleted / file_share など\n\n// DM内に <@U0123ABC> 形式のメンション表記が含まれていた場合は除去してLLMに渡す\nconst text = String(ev.text ?? '').replace(/<@[A-Z0-9]+(\\|[^>]*)?>/g, '').trim();\n\n// kind: 'text' = LLMで回答 / 'unsupported' = 「対応していません」 / 'ignore' = 何もしない\n// ボットとのDMのみ対応する(チャンネルへの投稿はすべて無視)\nlet kind = 'ignore';\nif (!isBot && isDm) {\n  if (subtype === null) kind = text ? 'text' : 'unsupported';\n  else if (subtype === 'file_share') kind = 'unsupported';\n}\n\nreturn [{\n  json: {\n    kind,\n    text,\n    channel,\n    ts: ev.ts,\n    // 元の投稿がスレッド内ならそのスレッドへ、それ以外は元の投稿をスレッドの親にして返信\n    threadTs: ev.thread_ts ?? ev.ts,\n    user: ev.user ?? null,\n  },\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -896,
+        240
+      ],
+      "id": "caa84f76-ca10-492f-90bd-9a89efa33cf8",
+      "name": "イベントを整形"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "726111a3-cabe-4e1e-9d24-8fc139c63812",
+                    "leftValue": "={{ $json.kind }}",
+                    "rightValue": "text",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "テキスト"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "8aae0b91-6a4f-47e7-bf76-ce7c4f23e552",
+                    "leftValue": "={{ $json.kind }}",
+                    "rightValue": "unsupported",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "テキスト以外のメッセージ"
+            }
+          ]
+        },
+        "options": {
+          "fallbackOutput": "none"
+        }
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.4,
+      "position": [
+        -672,
+        240
+      ],
+      "id": "1af6418f-c244-4171-97a5-ac97c86c5718",
+      "name": "入力データによって条件分岐"
+    },
+    {
+      "parameters": {
+        "resource": "reaction",
+        "channelId": {
+          "__rl": true,
+          "value": "={{ $json.channel }}",
+          "mode": "id"
+        },
+        "timestamp": "={{ $json.ts }}",
+        "name": "eyes"
+      },
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        -448,
+        144
+      ],
+      "id": "d5319c61-aadb-449d-9fe4-20ada924acff",
+      "name": "受付リアクション",
+      "webhookId": "8b254614-5bcd-44b4-b1fa-9a7d1823fb5c",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "slackApi": {
+          "id": "KcbhgnRgVykTnJXT",
+          "name": "Slack[Kakeibo]"
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $('イベントを整形').item.json.text }}",
+        "options": {
+          "systemMessage": "=あなたは家計簿アシスタントです。今日の日付: {{ $now.setZone('Asia/Tokyo').toFormat('yyyy-MM-dd') }}\n\nユーザーの支出やサブスクに関する質問には、必ず read_expenses ツールで最新のデータを読み取ってから答えてください。推測で答えないこと。\n\n## 出力形式\n必ず次のJSONオブジェクトだけを出力する。前後の説明文やコードフェンス(```)は付けない。\n{\"text\": \"Slack向けMarkdownの回答本文\", \"chart\": null, \"table\": null}\n\n### chart(グラフ)\nグラフが有用な場合は次の形式にする。\n{\"type\": \"bar\", \"title\": \"月別支出\", \"y_label\": \"金額(円)\", \"labels\": [\"1月\", \"2月\"], \"values\": [12000, 15800]}\n複数系列(例: 年ごとの比較)は values の代わりに series を使う。\n{\"type\": \"line\", \"title\": \"月別支出の比較\", \"labels\": [\"1月\", \"2月\"], \"series\": [{\"name\": \"2025年\", \"values\": [1, 2]}, {\"name\": \"2026年\", \"values\": [3, 4]}]}\n- ユーザーが「グラフ」「可視化」「図」と言った場合、またはカテゴリ別・月別・サービス別など3件以上を比較する回答では chart を付ける。1〜2件の数値や単純な質問では null\n- type: 項目の比較 → \"bar\"、推移・時系列 → \"line\"、累積や複数系列の推移 → \"area\"、割合・構成比 → \"pie\"(値はすべて0より大きく、最大12件)\n- title は50文字以内、labels と series.name は20文字以内、labels は最大20件。多い場合は上位に絞り残りは「その他」にまとめる\n- values は数値のみ(通貨記号・カンマ・単位を付けない)。labels と values は同じ長さ\n\n### table(表)\n一覧(サブスク一覧、支出明細など)を返すときは Markdown の表ではなく table を使う。\n{\"caption\": \"サブスク一覧\", \"columns\": [\"サービス\", \"月額(円)\", \"更新日\"], \"rows\": [[\"Netflix\", 1490, \"毎月5日\"], [\"Spotify\", 980, \"毎月12日\"]]}\n- 数値のセルは数値型で書く(ソート可能になる)。行は最大200件、列は最大20件\n- 表にした内容を text で繰り返さない。text には合計や要点だけを書く\n\n### text の書き方\n回答は簡潔にし、Slackで読みやすいように Markdown で整形する。\n- 金額・合計・件数などの重要な数字は **太字** にする\n- 複数の項目を並べるときは箇条書き(- )か番号付きリスト(1. )を使う\n- 長い回答は ## の見出しで区切る。1〜2文で済む回答は装飾せずそのまま書く\n- Markdown の表(| 区切り)は使わない。表にしたい内容は table に入れる\n- chart や table を付けた場合も、text でその要点(合計・最大項目など)を1文で補足する\n- JSON文字列として正しくなるよう、改行は \\n、ダブルクォートは \\\" でエスケープする"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        -224,
+        144
+      ],
+      "id": "3b9634b5-153c-4465-aeb5-a1cce98a83f5",
+      "name": "質問",
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "jsCode": "// LLMの出力(JSON想定)を解析し、Slack Block Kit のブロックを組み立てる。\n//   text  → markdown ブロック\n//   chart → data_visualization ブロック(Slackネイティブのグラフ。1メッセージ最大2個)\n//   table → data_table ブロック(ページング・ソート可能な表)\n// 「質問」（AI Agent）の回答は output に入る\nconst raw = String($input.first().json.output ?? '');\n\n// 前後に説明文や ```json フェンスが付いていても、最初の { から最後の } までをJSONとして取り出す\nfunction extractJson(s) {\n  const fenced = s.match(/```(?:json)?\\s*([\\s\\S]*?)```/i);\n  const candidate = fenced ? fenced[1] : s;\n  const start = candidate.indexOf('{');\n  const end = candidate.lastIndexOf('}');\n  if (start === -1 || end <= start) return null;\n  try { return JSON.parse(candidate.slice(start, end + 1)); } catch (e) { return null; }\n}\n\nconst cut = (s, n) => String(s ?? '').trim().slice(0, n);\nconst toNum = (v) => typeof v === 'number' ? v : Number(String(v).replace(/[^\\d.\\-]/g, ''));\nconst fmtNum = (n) => Number.isInteger(n) ? n.toLocaleString('ja-JP') : n.toLocaleString('ja-JP', { maximumFractionDigits: 2 });\n\nconst parsed = extractJson(raw);\n// JSONとして解釈できなかった場合は出力全体を本文として扱う(従来どおりの動作)\nlet text = String((parsed && parsed.text) ?? raw).trim();\nif (!text) text = '回答を生成できませんでした。';\n\nconst blocks = [{ type: 'markdown', text: text.slice(0, 12000) }];\nconst notes = [];\n\n// ---------- data_visualization ----------\nfunction buildChart(chart) {\n  if (!chart || typeof chart !== 'object') return null;\n  const type = ['bar', 'line', 'area', 'pie'].includes(chart.type) ? chart.type : null;\n  if (!type) return null;\n  const title = cut(chart.title, 50) || 'グラフ';\n\n  // ラベルは20文字以内・最大20件。重複は末尾に番号を付けて一意にする(Slackはカテゴリ名の一致で紐付けるため)\n  let labels = Array.isArray(chart.labels) ? chart.labels.map(l => cut(l, 20)).slice(0, 20) : [];\n  const seen = new Map();\n  labels = labels.map(l => { const c = (seen.get(l) ?? 0) + 1; seen.set(l, c); return c === 1 ? l : cut(l, 17) + `(${c})`; });\n  if (labels.length === 0) return null;\n\n  // 単一系列(values)または複数系列(series)を受け付ける\n  let series = [];\n  if (Array.isArray(chart.series) && chart.series.length) {\n    series = chart.series.map((s, i) => ({ name: cut(s?.name, 20) || `系列${i + 1}`, values: Array.isArray(s?.values) ? s.values.map(toNum) : [] }));\n  } else if (Array.isArray(chart.values)) {\n    series = [{ name: cut(chart.series_name ?? chart.y_label ?? title, 20) || '金額', values: chart.values.map(toNum) }];\n  }\n  series = series.filter(s => s.values.length >= labels.length && s.values.slice(0, labels.length).every(Number.isFinite)).slice(0, 12);\n  if (series.length === 0) return null;\n  const names = new Set();\n  series.forEach((s, i) => { while (names.has(s.name)) s.name = cut(s.name, 17) + `(${i + 1})`; names.add(s.name); });\n\n  if (type === 'pie') {\n    // 円グラフは先頭の系列のみ。値が0以下の項目は描けないので除外、最大12件\n    const segments = labels.map((label, i) => ({ label, value: series[0].values[i] })).filter(s => s.value > 0).slice(0, 12);\n    if (segments.length === 0) return null;\n    return { type: 'data_visualization', title, chart: { type: 'pie', segments } };\n  }\n\n  const axis_config = { categories: labels };\n  if (chart.x_label) axis_config.x_label = cut(chart.x_label, 50);\n  if (chart.y_label) axis_config.y_label = cut(chart.y_label, 50);\n  return {\n    type: 'data_visualization',\n    title,\n    chart: {\n      type,\n      series: series.map(s => ({ name: s.name, data: labels.map((label, i) => ({ label, value: s.values[i] })) })),\n      axis_config,\n    },\n  };\n}\n\n// chart は1個または配列で受け付け、Slackの上限(2個)まで追加\nconst chartInputs = Array.isArray(parsed?.chart) ? parsed.chart : (parsed?.chart ? [parsed.chart] : []);\nlet chartCount = 0;\nfor (const c of chartInputs) {\n  if (chartCount >= 2) break;\n  const b = buildChart(c);\n  if (b) { blocks.push(b); chartCount++; }\n  else if (c) notes.push('_グラフのデータ形式が不正なため表示できませんでした。_');\n}\n\n// ---------- data_table ----------\nfunction buildTable(table) {\n  if (!table || typeof table !== 'object') return null;\n  const columns = Array.isArray(table.columns) ? table.columns.map(c => cut(c, 100) || '-').slice(0, 20) : [];\n  const rowsIn = Array.isArray(table.rows) ? table.rows.slice(0, 200) : [];\n  if (columns.length === 0 || rowsIn.length === 0) return null;\n\n  const header = columns.map(c => ({ type: 'raw_text', text: c }));\n  const rows = rowsIn.map(r => {\n    const cells = Array.isArray(r) ? r : Object.values(r ?? {});\n    return columns.map((_, i) => {\n      const v = cells[i];\n      if (typeof v === 'number' && Number.isFinite(v)) return { type: 'raw_number', value: v, text: fmtNum(v) };\n      const s = cut(v, 500);\n      return { type: 'raw_text', text: s || '-' };\n    });\n  });\n\n  // 1メッセージあたりのセル文字数上限(20,000)を超えないように行を減らす\n  let total = 0;\n  const limited = [];\n  for (const r of [header, ...rows]) {\n    const len = r.reduce((n, c) => n + String(c.text).length, 0);\n    if (total + len > 19000) break;\n    total += len;\n    limited.push(r);\n  }\n  if (limited.length < 2) return null;\n  if (limited.length < rows.length + 1) notes.push(`_表が長いため先頭 **${limited.length - 1}** 件のみ表示しています。_`);\n\n  return {\n    type: 'data_table',\n    caption: cut(table.caption, 100) || '一覧',\n    page_size: Math.min(10, limited.length - 1),\n    rows: limited,\n  };\n}\n\nconst tableBlock = buildTable(parsed?.table);\nif (tableBlock) blocks.push(tableBlock);\nelse if (parsed?.table) notes.push('_表のデータ形式が不正なため表示できませんでした。_');\n\nif (notes.length) blocks.push({ type: 'context', elements: [{ type: 'mrkdwn', text: notes.join('\\n') }] });\n\n// 通知欄などに表示されるフォールバック用テキスト(装飾を落とした先頭行)\nconst firstLine = text.replace(/[*_`#>]/g, '').split('\\n').map(s => s.trim()).filter(Boolean)[0] || '回答';\n\nreturn [{ json: { text, fallbackText: firstLine.slice(0, 200), blocks } }];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        128,
+        80
+      ],
+      "id": "7ede6695-1688-49c9-bb64-fe6d1c385d9c",
+      "name": "Block Kitを組み立てる",
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "descriptionType": "manual",
+        "toolDescription": "支出スプレッドシートのデータを読み取ります。支出やサブスクに関する質問に答える前に必ず使ってください。",
+        "documentId": {
+          "__rl": true,
+          "value": "1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "0",
+          "mode": "id"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheetsTool",
+      "typeVersion": 4.7,
+      "position": [
+        -88,
+        376
+      ],
+      "id": "8b943d28-079c-4506-98fa-94ddaf4026cc",
+      "name": "read_expenses",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "VUkktTxYrhhN1lGj",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "value": "={{ $('イベントを整形').item.json.channel }}",
+          "mode": "id"
+        },
+        "messageType": "block",
+        "blocksUi": "={{ JSON.stringify({ blocks: $json.blocks }) }}",
+        "text": "={{ $json.fallbackText }}",
+        "otherOptions": {
+          "includeLinkToWorkflow": false,
+          "thread_ts": {
+            "replyValues": {
+              "thread_ts": "={{ $('イベントを整形').item.json.threadTs || '' }}"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        352,
+        0
+      ],
+      "id": "65d4f958-e9ec-4c90-ae34-4b30b5398717",
+      "name": "回答メッセージ",
+      "webhookId": "3cb5519f-b640-4e42-b914-91a6f9f7c00b",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "slackApi": {
+          "id": "KcbhgnRgVykTnJXT",
+          "name": "Slack[Kakeibo]"
+        }
+      },
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "value": "={{ $json.channel }}",
+          "mode": "id"
+        },
+        "text": "対応していません。",
+        "otherOptions": {
+          "includeLinkToWorkflow": false,
+          "thread_ts": {
+            "replyValues": {
+              "thread_ts": "={{ $json.threadTs || '' }}"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        -448,
+        336
+      ],
+      "id": "4ab21124-4296-4c6c-9b84-8ee914b7ab9b",
+      "name": "未対応メッセージ",
+      "webhookId": "3019f918-de63-462b-a1c5-bde670f87786",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "slackApi": {
+          "id": "KcbhgnRgVykTnJXT",
+          "name": "Slack[Kakeibo]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "value": "={{ $('イベントを整形').first().json.channel }}",
+          "mode": "id"
+        },
+        "text": "=エラーが発生しました。{{ $json.error ? '\\n理由: ' + String($json.error.message ?? $json.error).slice(0, 500).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;') : 'しばらくしてからもう一度お試しください。' }}",
+        "otherOptions": {
+          "includeLinkToWorkflow": false,
+          "thread_ts": {
+            "replyValues": {
+              "thread_ts": "={{ $('イベントを整形').first().json.threadTs || '' }}"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        576,
+        144
+      ],
+      "id": "4c444b70-dc68-4962-90d9-68dfd94a0363",
+      "name": "エラーメッセージ",
+      "webhookId": "526f8acd-2d5f-4f6f-9169-a936688ccf05",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "credentials": {
+        "slackApi": {
+          "id": "KcbhgnRgVykTnJXT",
+          "name": "Slack[Kakeibo]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenRouter",
+      "typeVersion": 1,
+      "position": [
+        -216,
+        376
+      ],
+      "id": "c5b1d1c5-fd57-4286-8af9-e2f600a495bc",
+      "name": "OpenRouter",
+      "credentials": {
+        "openRouterApi": {
+          "id": "qpXHePpbCctaM5Eg",
+          "name": "OpenRouter account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Slackメッセージを受け取る": {
+      "main": [
+        [
+          {
+            "node": "イベントを整形",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "イベントを整形": {
+      "main": [
+        [
+          {
+            "node": "入力データによって条件分岐",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "入力データによって条件分岐": {
+      "main": [
+        [
+          {
+            "node": "受付リアクション",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "未対応メッセージ",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "受付リアクション": {
+      "main": [
+        [
+          {
+            "node": "質問",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "質問": {
+      "main": [
+        [
+          {
+            "node": "Block Kitを組み立てる",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "エラーメッセージ",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "read_expenses": {
+      "ai_tool": [
+        [
+          {
+            "node": "質問",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Block Kitを組み立てる": {
+      "main": [
+        [
+          {
+            "node": "回答メッセージ",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "エラーメッセージ",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "回答メッセージ": {
+      "main": [
+        [],
+        [
+          {
+            "node": "エラーメッセージ",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenRouter": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "質問",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "nodeGroups": [],
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "errorWorkflow": "d88ctEMElygY3yRA"
+  },
+  "meta": null,
+  "tags": []
+}
