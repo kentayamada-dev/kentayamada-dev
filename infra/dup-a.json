@@ -1,0 +1,96 @@
+{
+  "id": "d88ctEMElygY3yRA",
+  "name": "エラー通知",
+  "active": true,
+  "createdAt": "2026-09-06T12:56:58.572Z",
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "value": "C0BUVM19XM5",
+          "mode": "id"
+        },
+        "text": "={{ $json.text }}",
+        "otherOptions": {
+          "includeLinkToWorkflow": false
+        }
+      },
+      "id": "656abb1d-98f5-4d65-8001-3978191bb785",
+      "name": "Slackに通知",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.3,
+      "position": [
+        656,
+        864
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "webhookId": "71d93a48-de57-4b7e-b98a-4e0a7ae32e88",
+      "credentials": {
+        "slackApi": {
+          "id": "hSJPwM9yFgoMqBNb",
+          "name": "Slack[Notifications]"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// エラー実行とトリガー起動失敗の両方に対応してSlack向けメッセージを作る\nconst d = $input.first().json;\nconst wf = d.workflow ?? {};\nconst exec = d.execution ?? {};\nconst trg = d.trigger ?? {};\n\nconst isTriggerError = !exec.id && trg.error != null;\nconst err = (isTriggerError ? trg.error : exec.error) ?? {};\n\nconst now = new Intl.DateTimeFormat('ja-JP', {\n  timeZone: 'Asia/Tokyo',\n  year: 'numeric', month: '2-digit', day: '2-digit',\n  hour: '2-digit', minute: '2-digit', second: '2-digit',\n}).format(new Date());\n\nconst lines = [\n  '\\u{1F6A8} ワークフローがエラーで停止しました',\n  '',\n  `ワークフロー: ${wf.name ?? '(不明)'}`,\n  `発生時刻: ${now}`,\n];\n\nconst failedNode = exec.lastNodeExecuted ?? err.node?.name;\nif (failedNode) lines.push(`失敗ノード: ${failedNode}`);\n\nlines.push('', 'エラー内容:');\nlines.push(String(err.message ?? '(詳細不明)').slice(0, 500));\n\nif (exec.url) lines.push('', `実行ログ: ${exec.url}`);\nif (isTriggerError) {\n  lines.push('', '\\u26A0\\uFE0F トリガーの起動に失敗しています。ワークフローが動いていない可能性があります。');\n}\n\nreturn [{ json: { text: lines.join('\\n') } }];\n"
+      },
+      "id": "7f26d50f-d38b-4074-9161-a6f8a73a9503",
+      "name": "通知メッセージを整形",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        432,
+        864
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "c1bf960f-2e66-4e7e-ba10-42b2e47d5f70",
+      "name": "エラー発生時",
+      "type": "n8n-nodes-base.errorTrigger",
+      "typeVersion": 1,
+      "position": [
+        208,
+        864
+      ]
+    }
+  ],
+  "connections": {
+    "通知メッセージを整形": {
+      "main": [
+        [
+          {
+            "node": "Slackに通知",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "エラー発生時": {
+      "main": [
+        [
+          {
+            "node": "通知メッセージを整形",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "nodeGroups": [],
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "meta": null,
+  "tags": []
+}
