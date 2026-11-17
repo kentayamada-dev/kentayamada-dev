@@ -1,0 +1,33 @@
+{
+  "filters": {
+    "comments": true,
+    "allowlist": {
+      "allow": []
+    }
+  },
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "ja-space-between-half-and-full-width": {
+      "space": "always"
+    },
+    "ja-no-space-between-full-width": true,
+    "ja-no-space-around-parentheses": true,
+    "ja-no-space-around-slash": true,
+    "ja-space-around-code": {
+      "before": true,
+      "after": true
+    },
+    "ja-space-around-link": {
+      "before": true,
+      "after": true
+    },
+    "@textlint-ja/no-synonyms": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "prh": {
+      "rulePaths": ["./prh.yml"]
+    },
+    "ja-hiraku": true,
+    "ja-no-orthographic-variants": true,
+    "period-in-list-item": true
+  }
+}

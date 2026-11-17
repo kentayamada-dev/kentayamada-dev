@@ -1,0 +1,144 @@
+{
+  "name": "main",
+  "target": "branch",
+  "enforcement": "active",
+  "bypass_actors": [],
+  "conditions": {
+    "ref_name": {
+      "include": ["refs/heads/main"],
+      "exclude": []
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    },
+    {
+      "type": "non_fast_forward"
+    },
+    {
+      "type": "required_linear_history"
+    },
+    {
+      "type": "required_signatures"
+    },
+    {
+      "type": "pull_request",
+      "parameters": {
+        "required_approving_review_count": 0,
+        "dismiss_stale_reviews_on_push": false,
+        "required_reviewers": [],
+        "require_code_owner_review": false,
+        "require_last_push_approval": false,
+        "required_review_thread_resolution": true,
+        "require_extra_approval_for_unattributed_changes": true,
+        "allowed_merge_methods": ["squash"]
+      }
+    },
+    {
+      "type": "required_status_checks",
+      "parameters": {
+        "strict_required_status_checks_policy": true,
+        "do_not_enforce_on_create": false,
+        "required_status_checks": [
+          {
+            "context": "textlint",
+            "integration_id": 15368
+          },
+          {
+            "context": "test",
+            "integration_id": 15368
+          },
+          {
+            "context": "osv-scanner / osv-scan",
+            "integration_id": 15368
+          },
+          {
+            "context": "osv-scanner-licenses",
+            "integration_id": 15368
+          },
+          {
+            "context": "pr-title",
+            "integration_id": 15368
+          },
+          {
+            "context": "betterleaks",
+            "integration_id": 15368
+          },
+          {
+            "context": "editorconfig",
+            "integration_id": 15368
+          },
+          {
+            "context": "actionlint",
+            "integration_id": 15368
+          },
+          {
+            "context": "renovate-config-validator",
+            "integration_id": 15368
+          },
+          {
+            "context": "zizmor",
+            "integration_id": 15368
+          },
+          {
+            "context": "ghalint",
+            "integration_id": 15368
+          },
+          {
+            "context": "lychee",
+            "integration_id": 15368
+          },
+          {
+            "context": "typos",
+            "integration_id": 15368
+          },
+          {
+            "context": "markdownlint",
+            "integration_id": 15368
+          },
+          {
+            "context": "yamllint",
+            "integration_id": 15368
+          },
+          {
+            "context": "hadolint",
+            "integration_id": 15368
+          },
+          {
+            "context": "portfolio-check",
+            "integration_id": 15368
+          },
+          {
+            "context": "oxfmt",
+            "integration_id": 15368
+          },
+          {
+            "context": "signed-commits",
+            "integration_id": 15368
+          },
+          {
+            "context": "jscpd",
+            "integration_id": 15368
+          },
+          {
+            "context": "check-jsonschema",
+            "integration_id": 15368
+          }
+        ]
+      }
+    },
+    {
+      "type": "code_scanning",
+      "parameters": {
+        "code_scanning_tools": [
+          {
+            "tool": "CodeQL",
+            "alerts_threshold": "errors_and_warnings",
+            "security_alerts_threshold": "medium_or_higher"
+          }
+        ]
+      }
+    }
+  ]
+}

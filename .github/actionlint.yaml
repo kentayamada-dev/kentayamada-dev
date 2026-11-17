@@ -1,0 +1,12 @@
+self-hosted-runner:
+  # GitHub ホストの ubuntu-26.04-arm を actionlint v1.7.12 が知らず、未知のラベルとして報告するため、ここで認める
+  # https://github.com/rhysd/actionlint/blob/v1.7.12/rule_runner_label.go
+  labels:
+    - ubuntu-26.04-arm
+
+paths:
+  .github/workflows/**/*.{yml,yaml}:
+    ignore:
+      # 同じリポジトリのアクションを指す $/ を actionlint v1.7.12 が知らず、ref のない {owner}/{repo}@{ref} として報告するため、この報告だけを除く
+      # https://github.com/rhysd/actionlint/blob/v1.7.12/rule_action.go#L331-L351 https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax/
+      - 'specifying action "\$/[^"]+" in invalid format because ref is missing'

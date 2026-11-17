@@ -1,0 +1,25 @@
+[[PackageOverrides]]
+name = ".*"
+nameIsRegex = true
+vulnerability.ignore = true
+reason = "ライセンスだけを検査するため、脆弱性で失敗させない。脆弱性は、ディレクトリごとの osv-scanner.toml を使うほかの検査で見る"
+
+[[PackageOverrides]]
+name = "tiny-segmenter"
+version = "0.2.0"
+ecosystem = "npm"
+license.override = ["BSD-3-Clause"]
+reason = "package.json の license が LICENCE.txt の URL を指していて判定できない（non-standard）。本体のコードの冒頭に new BSD licence で配布するとある https://github.com/leungwensen/tiny-segmenter/blob/174c5e71578459cbac67deb7c25d8a53566c6120/lib/index.js#L1-L4"
+
+[[PackageOverrides]]
+name = "format"
+version = "0.2.2"
+ecosystem = "npm"
+license.override = ["MIT"]
+reason = "package.json が古い形式の licenses の欄で MIT としていて判定できない（UNKNOWN）"
+
+[[PackageOverrides]]
+name = "check-jsonschema"
+ecosystem = "PyPI"
+license.override = ["Apache-2.0"]
+reason = "pyproject.toml に license の欄がなく、classifiers の Apache Software License だけで判定できない（non-standard）。LICENSE も Apache License 2.0 の告知文。Renovate が版を上げるたびに止まらないよう、版は限らない https://github.com/python-jsonschema/check-jsonschema/blob/0.38.2/pyproject.toml https://github.com/python-jsonschema/check-jsonschema/blob/0.38.2/LICENSE"

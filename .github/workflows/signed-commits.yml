@@ -1,0 +1,33 @@
+name: コミットの署名
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: read # PR のコミットの一覧と、それぞれの署名の検証結果を API で読むため
+
+# 同じ PR に push し直したら古い実行を取り消す
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  # ルールセットの required_signatures は、API からの squash マージでは GitHub が署名した squash のコミットしか検査せず、
+  # head に署名のないコミットがある PR も通すため、PR のコミットの署名を必須チェックで検査する
+  signed-commits:
+    name: signed-commits
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+        with:
+          install_args: jq
+      - run: .github/scripts/check-signed-commits/check-signed-commits.sh "$PR_NUMBER"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}

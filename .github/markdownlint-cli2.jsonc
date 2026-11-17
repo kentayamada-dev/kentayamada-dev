@@ -1,0 +1,12 @@
+{
+  "config": {
+    // 日本語の文は途中で改行せずに書き、80 文字の上限を超えることが多いため
+    "line-length": false,
+    // CLAUDE.md・SKILL.md・PR テンプレートなどは、見出し 1 を置かずに書き始めるため
+    "first-line-heading": false,
+    // 表の列は oxfmt がそろえる。markdownlint は HTML コメントの中の文字を「.」に置き換えてから表の幅を測るため、
+    // コメントに全角文字があると、oxfmt がそろえた表を、そろっていないと指摘する
+    // https://github.com/DavidAnson/markdownlint/blob/v0.41.1/lib/markdownlint.mjs https://github.com/DavidAnson/markdownlint/blob/v0.41.1/lib/md060.mjs
+    "table-column-style": false
+  }
+}

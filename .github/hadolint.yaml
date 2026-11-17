@@ -1,0 +1,11 @@
+# デフォルトの failure-threshold は info で、style の指摘では失敗しないため
+# https://github.com/hadolint/hadolint/blob/v2.15.1/README.md#cli
+failure-threshold: style
+# 値を変数で渡すと型を text にするしかなく、url・spdx の形式を検査できないため、各 Dockerfile に値を直接書く
+# https://github.com/hadolint/hadolint/blob/v2.15.1/README.md#note-on-dealing-with-variables-in-labels
+label-schema:
+  org.opencontainers.image.title: text
+  org.opencontainers.image.description: text
+  org.opencontainers.image.source: url
+  org.opencontainers.image.licenses: spdx
+strict-labels: true

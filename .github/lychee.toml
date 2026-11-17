@@ -1,0 +1,16 @@
+include_fragments = "anchor-only"
+no_progress = true
+require_https = true
+
+# 渡したグロブの * と ** は、デフォルトでは . で始まるファイルとディレクトリに一致せず、.github などを見落とすため
+# https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee-lib/src/types/input/resolver.rs#L121-L123
+hidden = true
+
+exclude_path = [
+  # hidden を有効にすると、グロブが .git のなかにも一致するため
+  '^\.git/',
+  # mise.lock と uv.lock の URL は mise lock と uv lock が書くもので、手で直さないため
+  '^\.github/mise\.lock$',
+  '^\.github/yamllint/uv\.lock$',
+  '^\.github/check-jsonschema/uv\.lock$',
+]

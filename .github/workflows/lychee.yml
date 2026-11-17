@@ -1,0 +1,87 @@
+name: リンク切れ
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  # 外部のリンクは、こちらが何も変えなくても移動や削除で切れるため、定期的に検査する
+  schedule:
+    - cron: "37 0 * * 1"
+  workflow_dispatch:
+
+# 書き込み権限はジョブごとに与え、あとから足したジョブに引き継がせない https://docs.zizmor.sh/audits/#excessive-permissions
+permissions: {}
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+env:
+  config_file: .github/lychee.toml
+
+jobs:
+  # 外部のサイトの障害やレート制限で PR の検査が落ちないよう、ネットワークを使わずリポジトリ内のリンクだけを検査する
+  lychee:
+    name: lychee
+    if: github.event_name == 'pull_request' || github.event_name == 'push'
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+        with:
+          install_args: lychee
+      # ディレクトリを渡すと .md・.html などの拡張子のファイルしか読まず、ワークフローや設定のコメントにある URL を見落とすため、拡張子で絞らないグロブで渡す
+      # https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/README.md?plain=1#L456-L467
+      # https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee-lib/src/types/input/resolver.rs#L140-L144
+      - run: lychee --config "$config_file" --offline '**/*'
+  lychee-external:
+    name: lychee-external
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: write # report-scheduled-check.sh が、リンク切れを見つけたら issue を作るか書き換え、すべて通ったら閉じるため
+    env:
+      report_script: .github/scripts/report-scheduled-check/report-scheduled-check.sh
+      report_name: lychee.md
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+        with:
+          install_args: lychee
+      # 429 はレート制限でリンク切れとは限らず、リンクが 1 件だけの www.gnu.org も返したため、成功として扱う。
+      # 502〜504 は github.com がときどき返す一時的なエラーで、lychee 0.24.2 は --max-retries によらずリトライしないため、成功として扱う https://github.com/lycheeverse/lychee/issues/2319
+      # --output に書くと標準出力に何も出ずログで結果を追えないため、tee で issue の本文用にも残す
+      - id: lychee
+        run: >-
+          lychee --config "$config_file" --accept '100..=103,200..=299,429,502..=504' --format markdown '**/*'
+          | tee "$RUNNER_TEMP/$report_name"
+        # 未指定時の bash -e {0} は pipefail がなく、lychee が失敗しても tee の成功で素通りするため https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#defaultsrunshell
+        shell: bash
+        env:
+          # github.com のリンクでレート制限にかからないようにする https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/README.md?plain=1#L509-L512
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - if: failure() && steps.lychee.outcome == 'failure'
+        run: >-
+          "$report_script" broken-links "$RUNNER_TEMP/$report_name"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+      - run: >-
+          "$report_script" broken-links --resolved
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}

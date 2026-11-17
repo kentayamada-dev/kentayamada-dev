@@ -1,0 +1,24 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# 番号付きリストの続きは本文の開始位置（`1. ` なら 3 スペース）までインデントするため、幅を 2 の倍数にそろえられない
+# https://spec.commonmark.org/0.31.2/#list-items
+[*.md]
+indent_size = unset
+
+# shfmt に -s を渡すと EditorConfig の設定をすべて使わなくなり、インデントがタブに戻るため、ここで有効にする
+# https://github.com/mvdan/sh/blob/v3.14.1/cmd/shfmt/shfmt.1.scd?plain=1#L19-L21
+[*.{sh,bats}]
+simplify = true
+
+# make はレシピの行頭にタブを求め、macOS に入っている make 3.81 は .RECIPEPREFIX でほかの文字に変えられないため
+# https://www.gnu.org/software/make/manual/html_node/Recipe-Syntax.html
+[Makefile]
+indent_style = tab

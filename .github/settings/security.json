@@ -1,0 +1,12 @@
+{
+  "vulnerability_alerts": true,
+  "automated_security_fixes": false,
+  "private_vulnerability_reporting": true,
+  "immutable_releases": true,
+  "code_scanning_default_setup": {
+    "state": "configured",
+    "query_suite": "default",
+    "threat_model": "remote",
+    "runner_type": "standard"
+  }
+}

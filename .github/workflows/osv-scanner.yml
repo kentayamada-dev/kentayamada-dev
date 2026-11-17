@@ -1,0 +1,143 @@
+name: 依存関係の脆弱性とライセンス
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  # 依存関係を変えていなくても、使っているバージョンが後から脆弱性やマルウェアと判定されるため毎日検査する
+  schedule:
+    - cron: "41 21 * * *"
+  workflow_dispatch:
+
+# 書き込み権限はジョブごとに与え、あとから足したジョブに引き継がせない https://docs.zizmor.sh/audits/#excessive-permissions
+permissions: {}
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+# Code scanning は PR と main の結果を category で突き合わせ、category は「呼び出し元のワークフローのパス:再利用ワークフローのジョブ名」になる。
+# ワークフローを分けると突き合わせられず、PR の Code scanning の結果が neutral になる https://github.com/github/codeql-action/issues/1179
+jobs:
+  # 必須チェックの名前は「このジョブ名 / 再利用ワークフローのジョブ名」になるため、変えるときは rulesets/main.json も合わせる。
+  osv-scanner:
+    if: github.event_name == 'pull_request'
+    # with で runs-on を渡すと Renovate の github-actions マネージャーが検出せず、ランナーの版が古いまま残るため、両方のジョブで再利用ワークフローの既定の ubuntu-latest を使う
+    # https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/manager/github-actions/extract.ts#L311-L316
+    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@b1d267aea5211fa648d9d442fa64b90dbdcbdd36 # v2.7.0
+    # 再利用ワークフローのジョブが要求する権限。呼び出し側より広げられないため、ここで与えないと起動できない
+    # https://docs.github.com/en/actions/how-tos/reuse-automations/reuse-workflows
+    permissions:
+      actions: read # 再利用ワークフローが SARIF を code scanning に上げるのに要る https://github.com/github/codeql-action/issues/2117
+      contents: read
+      security-events: write # 再利用ワークフローが SARIF を code scanning に上げるため
+  osv-scanner-full:
+    if: github.event_name != 'pull_request'
+    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@b1d267aea5211fa648d9d442fa64b90dbdcbdd36 # v2.7.0
+    permissions:
+      actions: read # 再利用ワークフローが SARIF を code scanning に上げるのに要る https://github.com/github/codeql-action/issues/2117
+      contents: read
+      security-events: write # 再利用ワークフローが SARIF を code scanning に上げるため
+  # main に後から公開された脆弱性では PR の検査が落ちず、失敗の通知も起動した人（定期実行ならワークフローを作った人）にしか届かないため、issue で知らせる
+  # https://google.github.io/osv-scanner/github-action/#scan-on-pull-request https://docs.github.com/en/actions/concepts/workflows-and-actions/notifications-for-workflow-runs
+  osv-scanner-full-report:
+    name: osv-scanner-full-report
+    needs: osv-scanner-full
+    # main 以外で手動実行した結果で、main の issue を書き換えたり閉じたりしない。取り消されたときは結果がないため何もしない
+    if: >-
+      always() && github.ref == 'refs/heads/main'
+      && (needs.osv-scanner-full.result == 'success' || needs.osv-scanner-full.result == 'failure')
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    # 同時に動くと、どちらも開いている issue がないと判断して issue を 2 件作ることがあるため、実行を重ねない
+    concurrency:
+      group: ${{ github.workflow }}-report
+    permissions:
+      contents: read
+      issues: write # report-scheduled-check.sh が、検査が失敗したら issue を作るか書き換え、通ったら閉じるため
+      security-events: read # issue の本文に、Code scanning で開いているアラートを載せるため
+    env:
+      report_script: .github/scripts/report-scheduled-check/report-scheduled-check.sh
+      report_name: osv-scanner-alerts.json
+    steps:
+      # report ジョブは push の順ではなく検査が終わった順に動くため、古いコミットの結果で issue を書き換えないよう、ブランチの先頭のコミットの実行だけが報告する
+      - id: head
+        run: |
+          head_sha=$(gh api "repos/{owner}/{repo}/git/ref/${GITHUB_REF#refs/}" --jq .object.sha)
+          if [[ ${head_sha} == "${GITHUB_SHA}" ]]; then
+            echo latest=true >>"$GITHUB_OUTPUT"
+          else
+            echo "::notice::${GITHUB_REF_NAME} の先頭が ${head_sha} に進んでいるため、報告はそのコミットの実行に任せる"
+            echo latest=false >>"$GITHUB_OUTPUT"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # 検査をやり直すと、その間に OSV のデータが変わって Code scanning と食い違うことがあるため、osv-scanner-full が上げた結果を読む
+      - if: needs.osv-scanner-full.result == 'failure' && steps.head.outputs.latest == 'true'
+        run: |
+          gh api --paginate "repos/{owner}/{repo}/code-scanning/alerts?tool_name=osv-scanner&ref=${GITHUB_REF}&state=open&per_page=100" \
+            --jq '.[]' >"$RUNNER_TEMP/$report_name"
+          "$report_script" osv-scanner "$RUNNER_TEMP/$report_name"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+      - if: needs.osv-scanner-full.result == 'success' && steps.head.outputs.latest == 'true'
+        run: >-
+          "$report_script" osv-scanner --resolved
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+  # 再利用ワークフローの PR の検査は、ライセンスの違反では失敗しないため、ジョブを分けて PR の中身をそのまま検査する
+  # https://github.com/google/osv-scanner/blob/v2.7.0/cmd/osv-reporter/main.go
+  # 必須チェックの名前はこのジョブ名のため、変えるときは rulesets/main.json も合わせる
+  osv-scanner-licenses:
+    name: osv-scanner-licenses
+    if: github.event_name == 'pull_request' || github.event_name == 'push'
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    env:
+      # 今の依存関係にある種類のライセンスをすべて許可し、新しい種類のライセンスが入ったときだけ失敗させる。
+      # 許可する一覧は設定ファイルに書けず、--licenses の値もカンマで分けるだけで空白を除かないため、ここに 1 行に 1 つ並べ、渡すときにつなげる
+      # https://github.com/google/osv-scanner/blob/v2.7.0/cmd/osv-scanner/internal/helper/flags.go
+      allowed_licenses: |-
+        [
+          "0BSD",
+          "Apache-2.0",
+          "BlueOak-1.0.0",
+          "BSD-2-Clause",
+          "BSD-3-Clause",
+          "CC-BY-3.0",
+          "CC-BY-4.0",
+          "CC0-1.0",
+          "GPL-3.0-or-later",
+          "ISC",
+          "LGPL-3.0-or-later",
+          "MIT",
+          "MIT-0",
+          "MPL-2.0",
+          "Python-2.0",
+          "WTFPL"
+        ]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # --config で渡す設定は、ディレクトリごとの osv-scanner.toml の代わりに使われる https://google.github.io/osv-scanner/configuration/
+      - uses: google/osv-scanner-action/osv-scanner-action@b1d267aea5211fa648d9d442fa64b90dbdcbdd36 # v2.7.0
+        with:
+          scan-args: |-
+            --config=.github/osv-scanner-licenses.toml
+            --licenses=${{ join(fromJSON(env.allowed_licenses), ',') }}
+            --recursive
+            ./

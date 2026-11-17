@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "enabled": true,
+    "allowed_actions": "selected",
+    "sha_pinning_required": true
+  },
+  "selected_actions": {
+    "github_owned_allowed": true,
+    "verified_allowed": true,
+    "patterns_allowed": [
+      "pnpm/action-setup@*",
+      "amannn/action-semantic-pull-request@*",
+      "jdx/mise-action@*",
+      "DavidAnson/markdownlint-cli2-action@*",
+      "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@*",
+      "google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@*"
+    ]
+  },
+  "fork_pr_contributor_approval": {
+    "approval_policy": "all_external_contributors"
+  },
+  "workflow_permissions": {
+    "default_workflow_permissions": "read",
+    "can_approve_pull_request_reviews": false
+  }
+}

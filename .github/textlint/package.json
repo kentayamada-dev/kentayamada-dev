@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@textlint-ja/textlint-rule-no-synonyms": "1.3.0",
+    "sudachi-synonyms-dictionary": "20.0.0",
+    "textlint": "15.8.0",
+    "textlint-filter-rule-allowlist": "4.0.0",
+    "textlint-filter-rule-comments": "1.3.0",
+    "textlint-rule-ja-hiraku": "1.4.0",
+    "textlint-rule-ja-no-orthographic-variants": "2.0.0",
+    "textlint-rule-ja-no-space-around-parentheses": "3.0.4",
+    "textlint-rule-ja-no-space-around-slash": "3.0.4",
+    "textlint-rule-ja-no-space-between-full-width": "3.0.4",
+    "textlint-rule-ja-space-around-code": "3.0.4",
+    "textlint-rule-ja-space-around-link": "3.0.4",
+    "textlint-rule-ja-space-between-half-and-full-width": "3.0.4",
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "1.0.1",
+    "textlint-rule-period-in-list-item": "1.0.1",
+    "textlint-rule-preset-ja-technical-writing": "12.0.2",
+    "textlint-rule-prh": "6.1.1"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.15.0",
+      "onFail": "download"
+    }
+  }
+}

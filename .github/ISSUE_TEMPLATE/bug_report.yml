@@ -1,0 +1,63 @@
+name: バグ報告
+description: 期待どおりに動かない不具合を報告する
+title: "fix: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        脆弱性は issue にせず、[SECURITY.md](https://github.com/kentayamada-dev/kentayamada-dev/blob/main/SECURITY.md) の手順で報告してください。
+        タイトルの付け方などの規約は [CONTRIBUTING.md](https://github.com/kentayamada-dev/kentayamada-dev/blob/main/CONTRIBUTING.md) を参照してください。
+  - type: textarea
+    id: summary
+    attributes:
+      label: 概要
+      description: 何が起きているかを 1〜2 文で書いてください。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 再現手順
+      description: 実際に再現を確認した手順だけを書いてください。
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期待する動作
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 実際の動作
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: ログ・エラーメッセージ
+      description: 出力をそのまま貼り付けてください。自動でコードブロックになります。
+      render: shell
+  - type: textarea
+    id: environment
+    attributes:
+      label: 環境
+      description: OS・ブラウザ・バージョンなど、実際に確認した値だけを書いてください。
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: 推測
+      description: 原因の見当があれば書いてください。ログやエラーメッセージとは分けて書きます。
+  - type: textarea
+    id: done
+    attributes:
+      label: 完了条件
+      description: 何ができたらこの issue を閉じてよいかを書いてください。
+    validations:
+      required: true

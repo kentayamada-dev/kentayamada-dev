@@ -1,0 +1,104 @@
+{
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: [
+    "config:best-practices",
+    "security:openssf-scorecard",
+    "helpers:pinGitHubActionDigestsToSemver",
+    // portfolio の Dockerfile で入れる pnpm の版を、renovate: のコメントを付けた ARG から更新させる。dockerfile マネージャーは、RUN で入れるパッケージを apk と apt のものしか拾わないため
+    // https://docs.renovatebot.com/modules/manager/dockerfile/ https://docs.renovatebot.com/presets-customManagers/#custommanagersdockerfileversions
+    "customManagers:dockerfileVersions",
+  ],
+  timezone: "Asia/Tokyo",
+  // CONTRIBUTING.md でタイトルを Conventional Commits 形式と定めているため、履歴からの自動判定に任せない https://docs.renovatebot.com/configuration-options/#semanticcommits
+  semanticCommits: "enabled",
+  // ルールセットで許可するマージの方法を変えるときは、ここも合わせる
+  automergeStrategy: "squash",
+  // ロックファイル更新と Renovate 関連の PR は 0〜3 時に集中し、時間あたりの上限（デフォルト 2）だと並び順が最後のロックファイル更新が後回しになる。同時に開く数は prConcurrentLimit（デフォルト 10）で抑える
+  // https://docs.renovatebot.com/configuration-options/#prhourlylimit https://docs.renovatebot.com/configuration-options/#prconcurrentlimit
+  prHourlyLimit: 0,
+  // CONTRIBUTING.md の issue タイトルの規約に合わせる
+  dependencyDashboardTitle: "chore(deps): 依存関係の更新状況",
+  // labels はダッシュボードの issue には付かないため、PR と同じラベルを別に指定する https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/dependency-dashboard.ts#L686
+  dependencyDashboardLabels: ["dependencies"],
+  // デフォルトでは PR にラベルを付けないため、.github/settings/labels.json の dependencies を付ける https://docs.renovatebot.com/configuration-options/#labels
+  labels: ["dependencies"],
+  // GitHub の依存グラフに textlint の依存が出ず、Dependabot alerts からは脆弱性修正 PR が作られないため、OSV のデータベースでも照会させる
+  // https://docs.renovatebot.com/configuration-options/#osvvulnerabilityalerts
+  osvVulnerabilityAlerts: true,
+  packageRules: [
+    {
+      matchUpdateTypes: ["minor", "patch", "pin", "pinDigest", "digest"],
+      automerge: true,
+    },
+    // 悪意のあるバージョンがレジストリから取り下げられる時間を取ってから PR を作る。手でマージする major も、中身を見て見抜けるとは限らないため含める https://docs.renovatebot.com/upgrade-best-practices/#wait-two-weeks-before-automerging-third-party-dependencies
+    // pin は待ち日数に対応しておらず、付けると更新が出なくなるため外す https://github.com/renovatebot/renovate/issues/40288
+    {
+      matchUpdateTypes: ["major", "minor", "patch", "digest"],
+      minimumReleaseAge: "14 days",
+    },
+    // security:openssf-scorecard が PR 本文の列を置き換え、npm で Merge Confidence の Age と Confidence が消えるため、両方を並べる
+    // https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/presets/internal/security.preset.ts#L157-L176 https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/presets/internal/merge-confidence.preset.ts#L14-L24
+    {
+      matchDatasources: ["npm"],
+      matchUpdateTypes: ["patch", "minor", "major"],
+      matchSourceUrls: ["https://github.com/**"],
+      prBodyColumns: ["Package", "Change", "Age", "Confidence", "OpenSSF"],
+    },
+    // renovate-version には置き換えテンプレートがなく、ダイジェストを書き込めずに固定のグループごと失敗するため
+    // https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/manager/github-actions/known-actions/docker-dynamic.ts
+    {
+      matchDepTypes: ["uses-with"],
+      matchPackageNames: ["renovate/renovate"],
+      pinDigests: false,
+    },
+    // Renovate は 1 日に何度もリリースされ、実行のたびに PR とマージが走るため、PR を作る時間帯を絞る
+    {
+      matchPackageNames: ["renovate/renovate", "renovatebot/github-action"],
+      schedule: ["* 0-3 * * *"],
+    },
+    // タイトルを日本語にする。語順が「action topic extra」で固定なので、action を空にして動詞を extra に入れる https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/options/index.ts#L2502-L2506
+    // datasource（Docker など）のデフォルトのメッセージより後に適用させるため packageRules に置く https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/updates/flatten.ts#L143-L147
+    {
+      matchPackageNames: ["*"],
+      commitMessageAction: "",
+      // 同じブランチに複数バージョンが入ると extra が消されるので、動詞を補う https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/updates/generate.ts#L332-L348
+      commitMessageTopic: "{{{depName}}}{{#unless commitMessageExtra}} を更新{{/unless}}",
+      commitMessageExtra: "を {{#if isMajor}}{{{prettyNewMajor}}}{{else}}{{#if isSingleVersion}}{{{prettyNewVersion}}}{{else}}{{#if newValue}}{{{newValue}}}{{else}}{{{newDigestShort}}}{{/if}}{{/if}}{{/if}} に更新",
+    },
+    {
+      matchUpdateTypes: ["pin", "pinDigest"],
+      commitMessageExtra: "を {{#if isPinDigest}}{{{newDigestShort}}}{{else}}{{{newValue}}}{{/if}} に固定",
+    },
+    {
+      matchUpdateTypes: ["digest"],
+      commitMessageExtra: "のダイジェストを {{{newDigestShort}}} に更新",
+    },
+    {
+      matchUpdateTypes: ["replacement"],
+      // replacement では newVersion が空になるため newValue を使う https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/process/lookup/utils.ts#L24-L28
+      commitMessageExtra: "を {{{newName}}} {{{newValue}}} に置き換え",
+    },
+    {
+      matchUpdateTypes: ["rollback"],
+      commitMessageExtra: "を {{{newValue}}} にロールバック",
+    },
+  ],
+  // グループの topic はブランチ生成時に packageRules より後で上書きされるため、別途日本語にする https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/updates/generate.ts#L316-L318
+  group: {
+    commitMessageTopic: "{{{groupName}}}{{#unless commitMessageExtra}} を更新{{/unless}}",
+  },
+  pin: {
+    group: {
+      commitMessageTopic: "依存関係を固定",
+    },
+  },
+  pinDigest: {
+    group: {
+      commitMessageTopic: "依存関係を固定",
+    },
+  },
+  lockFileMaintenance: {
+    commitMessageAction: "ロックファイルを更新",
+    automerge: true,
+  },
+}

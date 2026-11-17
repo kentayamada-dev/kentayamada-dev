@@ -1,0 +1,9 @@
+[[IgnoredVulns]]
+id = "GHSA-3g3m-2fjr-6pw4"
+ignoreUntil = 2027-02-01
+reason = "glob の修正版 14.0.2 は、textlint 15.8.0（最新）の依存の範囲 ^13.0.6 から外れる。AbortSignal で中断した走査が裏で続く問題で、textlint は glob に signal を渡さない https://github.com/textlint/textlint/blob/v15.8.0/packages/textlint/src/util/find-util.ts#L79-L100"
+
+[[IgnoredVulns]]
+id = "GHSA-g3hv-75wg-m249"
+ignoreUntil = 2027-02-01
+reason = "minimatch の修正版 11.0.1 は、glob 13.0.6 の依存の範囲 ^10.2.2 から外れる。細工したパターンで CPU とメモリを使い果たす問題で、textlint が glob に渡すパターンは textlint.yml の引数と .textlintignore だけで、リポジトリの外から入らない"

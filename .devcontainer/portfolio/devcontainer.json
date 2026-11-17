@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "dockerComposeFile": ["../../compose.yaml"],
+  "service": "portfolio",
+  "initializeCommand": "bash \"${localWorkspaceFolder}/.devcontainer/scripts/check-host-os/check-host-os.sh\"",
+  "shutdownAction": "none",
+  "workspaceFolder": "/workspace/portfolio",
+  // postCreateCommand と違い、既定の waitFor では VS Code が終わるまで接続を待つため、拡張機能が開いた時点から node_modules を読める
+  // https://containers.dev/implementors/json_reference/
+  "updateContentCommand": "pnpm install",
+  "remoteUser": "dev",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "remote.restoreForwardedPorts": false,
+        "js/ts.experimental.useTsgo": true,
+        "js/ts.tsdk.path": "./node_modules/typescript",
+        "editor.defaultFormatter": "oxc.oxc-vscode",
+        "editor.codeActionsOnSave": {
+          "source.format.oxc": "always"
+        }
+      },
+      "extensions": ["TypeScriptTeam.native-preview", "EditorConfig.EditorConfig", "oxc.oxc-vscode"]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "devDependencies": {
+    "oxfmt": "0.75.0"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.15.0",
+      "onFail": "download"
+    }
+  }
+}

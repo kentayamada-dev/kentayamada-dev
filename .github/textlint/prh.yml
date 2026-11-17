@@ -1,0 +1,74 @@
+version: 1
+rules:
+  # 文字列のパターンは大文字・小文字を区別するため、正規表現で両方に一致させ、GitHub の権限名「Pull requests」は除く
+  # https://github.com/prh/prh/blob/v5.4.4/lib/rule.ts#L80-L88 https://github.com/prh/prh/blob/v5.4.4/lib/utils/regexp.ts#L113-L122
+  - expected: PR
+    pattern: /[Pp]ull [Rr]equest(?!s)/
+    specs:
+      - from: Pull Request を作る
+        to: PR を作る
+      - from: Pull requests
+        to: Pull requests
+
+  - expected: 自動マージ
+    pattern: /\b[Aa]uto-?merge\b/
+    specs:
+      - from: auto-merge の有効化
+        to: 自動マージ の有効化
+
+  - expected: デフォルト
+    pattern: 既定
+    specs:
+      - from: 既定の値
+        to: デフォルトの値
+
+  # 「確かめる」は活用によって「確認」の後ろが変わるため、活用形ごとに分ける
+  - expected: 確認でき
+    pattern: 確かめられ
+    specs:
+      - from: 確かめられない
+        to: 確認できない
+  - expected: 確認す
+    pattern: /確かめ(?=る|れ)/
+    specs:
+      - from: 確かめる
+        to: 確認する
+      - from: 確かめれば
+        to: 確認すれば
+  - expected: 確認し
+    pattern: /確かめ(?!られ|る|れ)/
+    specs:
+      - from: 確かめ、
+        to: 確認し、
+      - from: 確かめて
+        to: 確認して
+
+  # ja-hiraku は「無い」しか検出しないため、活用形を補う。「無効」などの複合語は除く https://github.com/akiomik/textlint-rule-ja-hiraku/blob/v1.4.0/src/dictionaries/other-keiyoushi.ts#L38-L49
+  - expected: な
+    pattern: /無(?=けれ|かっ|く)/
+    specs:
+      - from: 無ければ
+        to: なければ
+      - from: 無く終わる
+        to: なく終わる
+      - from: 無効
+        to: 無効
+
+  # 「他人」「他社」などの複合語は除く
+  - expected: ほか
+    pattern: /他(?=[のにはを])/
+    specs:
+      - from: 他のコマンド
+        to: ほかのコマンド
+      - from: 他人
+        to: 他人
+
+  # インラインコードの間の「/」は、それだけで 1 つの Str ノードになる。半角スペースはリンクや強調との間でも同じになり誤検出するため対象にしない
+  # https://github.com/textlint/textlint/blob/v15.8.0/packages/@textlint/markdown-to-ast/src/mapping/markdown-syntax-map.ts#L17-L24
+  - expected: ・
+    pattern: /^\/$/
+    specs:
+      - from: /
+        to: ・
+      - from: バグ報告/機能要望
+        to: バグ報告/機能要望

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "bug",
+    "color": "cf222e",
+    "description": "期待どおりに動かない不具合"
+  },
+  {
+    "name": "configuration",
+    "color": "bf8700",
+    "description": "リポジトリやツールの設定"
+  },
+  {
+    "name": "dependencies",
+    "color": "0969da",
+    "description": "依存関係の更新"
+  },
+  {
+    "name": "documentation",
+    "color": "1a7f37",
+    "description": "ドキュメントの追加や修正"
+  },
+  {
+    "name": "security",
+    "color": "8250df",
+    "description": "脆弱性などのセキュリティの問題"
+  }
+]

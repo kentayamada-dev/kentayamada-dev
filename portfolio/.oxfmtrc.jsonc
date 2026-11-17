@@ -1,0 +1,25 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  // CSS は import した順に並び、同じ詳細度なら後のものが勝つため、グローバルな CSS を読み込む値を受け取らない import を最後に置き、ほかの import の CSS より優先させる
+  // sortSideEffects を有効にしないと、値を受け取らない import は書いた位置から動かない https://nextjs.org/docs/app/getting-started/css#ordering-and-merging
+  "sortImports": {
+    "sortSideEffects": true,
+    "groups": [
+      "builtin",
+      "external",
+      ["internal", "subpath"],
+      ["parent", "sibling", "index"],
+      "style",
+      "unknown",
+      "side_effect_style"
+    ]
+  },
+  // trailingComma の既定の all は JSONC にも末尾カンマを付け、VS Code がそれを警告するため、付けさせない。変えるときはルートの .oxfmtrc.jsonc も合わせる
+  // https://code.visualstudio.com/docs/languages/json#_json-with-comments
+  "overrides": [
+    {
+      "files": ["**/*.jsonc"],
+      "options": { "trailingComma": "none" }
+    }
+  ]
+}

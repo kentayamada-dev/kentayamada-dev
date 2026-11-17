@@ -1,0 +1,20 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "jsPlugins": ["eslint-plugin-better-tailwindcss"],
+  "rules": {
+    // enforce-consistent-line-wrapping は、直したクラスを oxfmt が整形し直して指摘が戻るため、有効にしない
+    "better-tailwindcss/enforce-consistent-class-order": "error",
+    "better-tailwindcss/enforce-consistent-important-position": "error",
+    "better-tailwindcss/enforce-consistent-variant-order": "error",
+    "better-tailwindcss/enforce-consistent-variable-syntax": "error",
+    "better-tailwindcss/enforce-logical-properties": "error",
+    "better-tailwindcss/enforce-shorthand-classes": "error",
+    "better-tailwindcss/no-concatenated-classes": "error",
+    "better-tailwindcss/no-conflicting-classes": "error",
+    "better-tailwindcss/no-deprecated-classes": "error",
+    "better-tailwindcss/no-duplicate-classes": "error",
+    "better-tailwindcss/no-unnecessary-whitespace": "error",
+    "better-tailwindcss/no-unknown-classes": "error",
+    "better-tailwindcss/enforce-canonical-classes": "error"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "kentayamada-renovate",
+  "url": "https://github.com/kentayamada-dev",
+  "redirect_url": "https://github.com/kentayamada-dev",
+  "public": false,
+  "default_permissions": {
+    "contents": "write",
+    "issues": "write",
+    "metadata": "read",
+    "pull_requests": "write",
+    "statuses": "write",
+    "vulnerability_alerts": "read",
+    "workflows": "write"
+  },
+  "default_events": []
+}

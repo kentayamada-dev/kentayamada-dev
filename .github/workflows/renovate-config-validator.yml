@@ -1,0 +1,36 @@
+name: Renovate の設定
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  renovate-config-validator:
+    name: renovate-config-validator
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    # renovate.yml で動かす Renovate と同じイメージで検査し、設定の解釈を本番の実行とそろえる。
+    # docker:// のアクションは Actions の許可設定で起動できないため、ジョブのコンテナで動かす。
+    container:
+      image: renovate/renovate:44.181.6@sha256:aa5593807ecc64295edba8085d75f36f27c82b47e3baf77061108ff6e2f2024b
+      # イメージの既定のユーザー（12021）は、ランナーの作業ディレクトリに書き込めず actions/checkout が失敗するため。
+      options: --user root
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # ファイルを渡すとセルフホストの全体設定として検査されるため、--no-global でリポジトリの設定として検査する
+      # https://github.com/renovatebot/renovate/blob/44.151.1/lib/config-validator.ts#L142
+      - run: renovate-config-validator --strict --no-global .github/renovate.json5

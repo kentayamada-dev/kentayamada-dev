@@ -1,0 +1,16 @@
+# storeDir のほかは .github/textlint/pnpm-workspace.yaml と同じ設定にする。それぞれの理由は、そちらのコメントにある
+engineStrict: true
+saveExact: true
+minimumReleaseAge: 1440
+minimumReleaseAgeIgnoreMissingTime: false
+trustPolicy: no-downgrade
+registries:
+  https://npm.flatt.tech/:
+    scopes: ["@", "@jsr"]
+  https://npmjs.invalid/:
+    prefix: npmjs
+  https://gh.invalid/:
+    prefix: gh
+# コンテナでは node_modules と同じボリュームに置き、ハードリンクできるようにする。指定しないと、/workspace のバインドマウントの直下（リポジトリのルート）に作るため
+# https://pnpm.io/settings/store
+storeDir: node_modules/.pnpm-store

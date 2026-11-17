@@ -1,0 +1,49 @@
+name: Dockerfile の書き方
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  hadolint:
+    name: hadolint
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    env:
+      config_file: .github/hadolint.yaml
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+        with:
+          install_args: hadolint
+      # 設定ファイルを読めないと、hadolint はエラーを出すだけで既定の info のまま検査を続け、style の指摘で失敗しなくなるため、先に確かめる
+      # https://github.com/hadolint/hadolint/blob/v2.15.1/app/Main.hs#L89-L93
+      # ラベルの指摘（DL3049・DL3050）は info で、failure-threshold が効いていなくても失敗するため、外して style の DL3048 だけで確かめる
+      # https://github.com/hadolint/hadolint/blob/v2.15.1/src/Hadolint/Rule/DL3049.hs#L32-L33 https://github.com/hadolint/hadolint/blob/v2.15.1/src/Hadolint/Rule/DL3050.hs#L11-L13
+      - run: |
+          if printf 'FROM debian:13\nLABEL Foo=bar\n' | hadolint --config "$config_file" --ignore DL3049 --ignore DL3050 -; then
+            echo "エラー: style の指摘（DL3048）で失敗しなかった。$config_file の failure-threshold が効いていない" >&2
+            exit 1
+          fi
+      # hadolint はファイルを渡さないと「Please provide a Dockerfile」で失敗するが、-exec の + の形は一致するファイルがなければ実行しない
+      # https://github.com/hadolint/hadolint/blob/v2.15.1/app/Main.hs#L58-L59
+      # hadolint の失敗が find の終了コードに伝わるのは + の形だけのため、; の形にしない https://man7.org/linux/man-pages/man1/find.1.html
+      - run: >-
+          find . -path ./.git -prune -o -type f
+          \( -name Dockerfile -o -name 'Dockerfile.*' -o -name '*.Dockerfile'
+          -o -name Containerfile -o -name 'Containerfile.*' -o -name '*.Containerfile' \)
+          -exec hadolint --config "$config_file" {} +

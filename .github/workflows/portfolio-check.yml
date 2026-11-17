@@ -1,0 +1,40 @@
+name: portfolio の型・静的解析・ビルド
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  portfolio-check:
+    name: portfolio-check
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # Node.js と pnpm の版を portfolio の Dockerfile だけで管理するため、Dev Container と同じイメージのなかで検査する。
+      # Dockerfile の ARG の値は compose.yaml から渡すため、docker build ではなく Compose でビルドする
+      - run: docker compose build portfolio
+      - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
+      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .next などを作れるようにする
+      - run: chmod a+w portfolio
+      - run: docker compose run --rm portfolio pnpm fmt:check
+      - run: docker compose run --rm portfolio pnpm lint
+      - run: docker compose run --rm portfolio pnpm knip
+      # next build は tsconfig.json が選ぶプロジェクト全体の型を tsc で検査し、型の誤りで失敗するため、型の検査を別のステップで重ねない。
+      # 整形・lint が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
+      # https://nextjs.org/docs/app/api-reference/config/typescript https://nextjs.org/docs/app/glossary#build-time
+      - run: docker compose run --rm portfolio pnpm build

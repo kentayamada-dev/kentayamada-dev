@@ -1,0 +1,23 @@
+# 書き換えたら、このディレクトリで mise lock を実行して mise.lock も更新する。mise-action は mise.lock があると --locked で入れ、mise.lock にない版やプラットフォームは入らないため
+# https://github.com/jdx/mise-action/blob/v5.1.2/src/index.ts#L1243-L1256
+[tools]
+actionlint = "1.7.12"
+bats = "1.14.0"
+betterleaks = "1.9.0"
+# mise のレジストリで github バックエンドが指定されているため、github: を付けずに書く
+editorconfig-checker = "4.0.2"
+# mise のレジストリでは aqua バックエンドだが、aqua レジストリの定義に検証の設定がないため、github バックエンドで入れる
+# https://github.com/aquaproj/aqua-registry/blob/2db5a70b0c3e770bc9f61515cbefca7b13c405a8/pkgs/crate-ci/typos/registry.yaml
+"github:crate-ci/typos" = "1.51.1"
+# mise のレジストリでは aqua バックエンドだが、aqua レジストリの定義に検証の設定がないため、github バックエンドで入れる
+# https://github.com/aquaproj/aqua-registry/blob/2db5a70b0c3e770bc9f61515cbefca7b13c405a8/pkgs/mvdan/sh/registry.yaml
+"github:mvdan/sh" = "3.14.1"
+# mise のレジストリでは aqua バックエンドだが、aqua レジストリの定義の cosign と SLSA provenance にはキー・バンドル・署名者の指定がなく、mise が検証に使えないため、github バックエンドで入れる
+# https://github.com/aquaproj/aqua-registry/blob/2db5a70b0c3e770bc9f61515cbefca7b13c405a8/pkgs/suzuki-shunsuke/ghalint/registry.yaml https://github.com/jdx/mise/blob/v2026.10.8/src/backend/aqua.rs#L1495-L1531
+"github:suzuki-shunsuke/ghalint" = "v1.6.0"
+hadolint = "2.15.1"
+jq = "1.8.2"
+lychee = "0.24.2"
+shellcheck = "0.11.0"
+uv = "0.13.6"
+zizmor = "1.31.1"

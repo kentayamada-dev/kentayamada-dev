@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "docker",
+      "runtimeArgs": [
+        "compose",
+        "run",
+        "--rm",
+        "--publish",
+        "3000:3000",
+        "--name",
+        "portfolio-preview",
+        "portfolio",
+        "pnpm",
+        "dev"
+      ],
+      "port": 3000,
+      "autoPort": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[project]
+name = "yamllint-ci"
+version = "0.0.0"
+requires-python = ">=3.10"
+# 書き換えたら、このディレクトリで uv lock を実行して uv.lock も更新する。CI は uv sync --locked で入れ、uv.lock が古いと失敗するため
+# https://docs.astral.sh/uv/reference/cli/#uv-sync
+dependencies = ["yamllint==1.38.0"]

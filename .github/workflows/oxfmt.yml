@@ -1,0 +1,50 @@
+name: フォーマット
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  oxfmt:
+    name: oxfmt
+    runs-on: ubuntu-26.04-arm
+    # npm.flatt.tech に接続できないと pnpm install が止まり続け、デフォルトの 360 分までジョブが続くため。
+    timeout-minutes: 5
+    env:
+      oxfmt_dir: .github/oxfmt
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+        # action は pnpm 本体を ~/setup-pnpm での npm ci と pnpm self-update で取得し pnpm-workspace.yaml を読まないため、取得元を環境変数で渡す（pnpm は v11 から npm_config_* を読まない）
+        # https://github.com/pnpm/action-setup/blob/ea17c68df8912ef543352723c149a84f56e3d413/src/install-pnpm/run.ts https://pnpm.io/blog/releases/11.0
+        env:
+          npm_config_registry: https://npm.flatt.tech/
+          pnpm_config_registry: https://npm.flatt.tech/
+        with:
+          # pnpm のバージョンは package.json の devEngines.packageManager だけで管理する。Renovate もロックファイルの更新にこのバージョンを使う
+          # https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/manager/npm/post-update/pnpm.ts#L55-L65 https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/manager/npm/post-update/utils.ts#L18-L30
+          package_json_file: ${{ env.oxfmt_dir }}/package.json
+          cache: true
+          cache_dependency_path: ${{ env.oxfmt_dir }}/pnpm-lock.yaml
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 26
+      - run: pnpm install --frozen-lockfile
+        working-directory: ${{ env.oxfmt_dir }}
+      # -c で設定を渡し、ネストした設定の探索を止める。
+      # https://oxc.rs/docs/guide/usage/formatter/config.html https://oxc.rs/docs/guide/usage/formatter/ignore-files.html
+      - run: '"$oxfmt_dir/node_modules/.bin/oxfmt" --check -c .oxfmtrc.jsonc'

@@ -1,0 +1,38 @@
+name: PR タイトルの形式
+
+on:
+  pull_request:
+    # edited はタイトルを直したときに検査し直すため。types を書くと既定の opened・synchronize・reopened で起動しなくなるので、それらも並べる
+    # https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#pull_request
+    types:
+      - opened
+      # 本文の編集でも起動するが、if で飛ばさない。スキップしたジョブは Success と報告され、不正なタイトルのまま必須チェックを通ってしまう
+      # https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-jobs-with-conditions
+      - edited
+      - synchronize
+      - reopened
+
+# タイトルを続けて直したときに、同じ PR の古い実行を取り消して無駄な実行を減らす
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+permissions:
+  pull-requests: read # アクションは最新のタイトルを読むため、PR を API で取得し直す https://github.com/amannn/action-semantic-pull-request/blob/48f256284bd46cdaab1048c3721360e808335d50/src/index.js#L38-L46
+
+jobs:
+  pr-title:
+    name: pr-title
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    steps:
+      - uses: amannn/action-semantic-pull-request@48f256284bd46cdaab1048c3721360e808335d50 # v6.1.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # types は渡さず、アクションの既定（依存する conventional-commit-types の type）を使う。アクションを更新すると、許可する type が変わることがある
+        # https://github.com/amannn/action-semantic-pull-request/blob/48f256284bd46cdaab1048c3721360e808335d50/src/validatePrTitle.js#L9-L24
+        with:
+          # 既定の headerPattern は「: 」の後の余分な空白も説明に含めるため、先頭の空白はここで弾く https://github.com/conventional-changelog/conventional-changelog/blob/conventional-changelog-conventionalcommits-v9.1.0/packages/conventional-changelog-conventionalcommits/src/parser.js#L3
+          # u フラグなしで RegExp にされ \p{...} を使えないため、ひらがな・カタカナ・漢字はブロックの範囲で書く https://github.com/amannn/action-semantic-pull-request/blob/48f256284bd46cdaab1048c3721360e808335d50/src/validatePrTitle.js#L129
+          subjectPattern: '^(?!\s)(?!(?:修正|改善)\s*$)(?=.*[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]).+$'
+          subjectPatternError: "タイトル「{title}」の説明「{subject}」が `CONTRIBUTING.md` の規約に合いません。説明は「: 」の直後から日本語で書き、「修正」「改善」のような中身のわからない言葉だけにしないでください"

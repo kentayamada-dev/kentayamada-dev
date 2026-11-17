@@ -1,0 +1,40 @@
+name: シークレットの混入
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  betterleaks:
+    name: betterleaks
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 履歴全体を走査するため
+          fetch-depth: 0
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # 公式のアクションがなく、イメージは GHCR にしかなく公開時刻が取れないため、Renovate の minimumReleaseAge の待ちが明けない。
+      # mise で入れ、mise.toml の版と mise.lock のハッシュは Renovate の mise マネージャーが更新する https://docs.renovatebot.com/key-concepts/minimum-release-age/
+      - uses: $/.github/actions/setup-mise
+        with:
+          install_args: betterleaks
+      # 既定の git log は --all でほかのブランチも読み、別の PR の検出でこの PR まで落ちるため、HEAD からたどれる履歴に絞る（--all 以外は既定と同じ）
+      # https://github.com/betterleaks/betterleaks/blob/v1.9.0/sources/git.go#L121-L122
+      # 公開リポジトリの実行ログは GitHub にログインすれば誰でも読めるため、--redact で値を伏せる https://docs.github.com/en/actions/how-tos/monitor-workflows/use-workflow-run-logs
+      - run: >-
+          betterleaks git --no-banner --redact --verbose
+          --log-opts="--full-history --diff-filter=tuxdb HEAD" .

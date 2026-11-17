@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "devDependencies": {
+    "jscpd": "5.4.2"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.15.0",
+      "onFail": "download"
+    }
+  }
+}

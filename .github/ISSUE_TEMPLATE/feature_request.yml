@@ -1,0 +1,31 @@
+name: 機能要望・タスク
+description: 新しい機能の要望や、保守作業などのタスクを登録する
+body:
+  - type: markdown
+    attributes:
+      value: |
+        タイトルの付け方や 1 issue = 1 トピックなどの規約は [CONTRIBUTING.md](https://github.com/kentayamada-dev/kentayamada-dev/blob/main/CONTRIBUTING.md) を参照してください。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 課題
+      description: 何に困っているか、なぜ必要かを書いてください。解決策より先に課題を書きます。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 解決策の案
+      description: 実装方針や解決策の案があれば書いてください。
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 検討した代替案
+      description: ほかに検討した方法と、採らなかった理由があれば書いてください。
+  - type: textarea
+    id: done
+    attributes:
+      label: 完了条件
+      description: 何ができたらこの issue を閉じてよいかを書いてください。
+    validations:
+      required: true

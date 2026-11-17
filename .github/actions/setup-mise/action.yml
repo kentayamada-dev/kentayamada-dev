@@ -1,0 +1,16 @@
+name: setup-mise
+description: CI のツールを、.github の mise.toml と mise.lock で固定した版で入れる
+inputs:
+  install_args:
+    description: 入れるツール。mise.toml の [tools] のキーを空白で区切って並べる
+    required: true
+runs:
+  using: composite
+  steps:
+    - uses: jdx/mise-action@6be3c7ed4c21d4f76b208d351d95aac273ebb76d # v5.2.4
+      with:
+        # sha256 を渡すと、署名付きの SHASUMS256.txt での mise 本体の照合を飛ばすため、version だけを渡す
+        # https://github.com/jdx/mise-action/blob/v5.1.2/src/index.ts#L882-L903
+        version: 2026.10.23
+        working_directory: .github
+        install_args: ${{ inputs.install_args }}

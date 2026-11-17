@@ -1,0 +1,39 @@
+# USER_NAME を変えるときは、すべての devcontainer.json の remoteUser も合わせる
+x-build-args: &build-args
+  USER_NAME: dev
+  HISTORY_DIR: &history-dir /commandhistory
+
+services:
+  portfolio:
+    build:
+      context: .devcontainer/portfolio
+      args:
+        <<: *build-args
+        NODE_MODULES_DIR: &node-modules-dir /workspace/portfolio/node_modules
+    # 既定のホスト名はコンテナ ID で、端末のプロンプトからどちらのコンテナかわからないため
+    hostname: portfolio
+    # docker compose run を、--workdir を付けなくてもプロジェクトのディレクトリで動かすため
+    working_dir: /workspace/portfolio
+    volumes:
+      # コンテナのなかでも git を使えるよう、.git のあるリポジトリのルートをマウントする
+      # https://code.visualstudio.com/remote/advancedcontainers/connect-multiple-containers
+      - .:/workspace
+      # macOS のバインドマウントは、インストールのように書き込みの多い処理が遅いため
+      # https://code.visualstudio.com/remote/advancedcontainers/improve-performance
+      - type: volume
+        source: portfolio-node-modules
+        target: *node-modules-dir
+      # コンテナを作り直しても bash の履歴を残すため
+      # https://code.visualstudio.com/remote/advancedcontainers/persist-bash-history
+      - type: volume
+        source: portfolio-history
+        target: *history-dir
+    # Compose では overrideCommand が既定で false で、イメージの CMD は端末がないとすぐ終了するため
+    # https://containers.dev/implementors/json_reference/
+    command: sleep infinity
+    environment:
+      NEXT_TELEMETRY_DISABLED: 1
+
+volumes:
+  portfolio-node-modules:
+  portfolio-history:

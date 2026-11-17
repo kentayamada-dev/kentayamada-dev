@@ -1,0 +1,51 @@
+name: 依存関係の更新
+
+on:
+  schedule:
+    # main の必須チェックは最新への追従を求め、同じ実行で作った PR の 2 件目以降は次の実行まで自動マージされないため、1 日に何度も動かす。
+    # 定期実行は予定時刻の多くで起動されず、間隔を広げても起動回数が増えなかったため、予定時刻の多い毎時にし、混雑で遅れやすい毎時 0 分は避ける
+    # https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+# Renovate は GitHub App のトークンで操作し、GITHUB_TOKEN は使わない
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  renovate:
+    name: renovate
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 30
+    steps:
+      # Renovate のコミットに署名させるため、PAT ではなく GitHub App のトークンを使う。App のトークンなら Renovate は API でコミットし、GitHub が署名する
+      # https://github.com/renovatebot/renovate/blob/44.167.1/lib/modules/platform/github/scm.ts#L11-L14 https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#signature-verification-for-bots
+      - id: app-token
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          # 変数とシークレットの名前を変えるときは、create-renovate-app.sh も合わせる
+          client-id: ${{ vars.RENOVATE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.RENOVATE_APP_PRIVATE_KEY }}
+          # App にない権限を求めるとトークンを作れないため、権限を足すときは renovate-app.json の default_permissions にも足す
+          # https://github.com/actions/create-github-app-token/blob/v3.3.0/README.md
+          permission-contents: write
+          permission-issues: write
+          permission-metadata: read
+          permission-pull-requests: write
+          permission-statuses: write
+          permission-vulnerability-alerts: read
+          permission-workflows: write
+      - uses: renovatebot/github-action@2804199d260ad00c1fae0e9e842888369391c776 # v46.3.10
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          # デフォルトの GHCR からは公開時刻が取れず、renovate.json5 の minimumReleaseAge が効かないため、Docker Hub の公式イメージを使う
+          # https://docs.renovatebot.com/key-concepts/minimum-release-age/#which-registries-support-release-timestamps
+          renovate-image: renovate/renovate
+          renovate-version: 44.181.6
+        env:
+          RENOVATE_REPOSITORIES: ${{ github.repository }}
+          # Docker Hub は未ログインだと 1000 件目より先を返さない。超えて失敗すると公開時刻のないタグ一覧に切り替わり、minimumReleaseAge の待ちが明けなくなる
+          # https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/datasource/docker/index.ts#L1157-L1175
+          RENOVATE_DOCKER_MAX_PAGES: 10

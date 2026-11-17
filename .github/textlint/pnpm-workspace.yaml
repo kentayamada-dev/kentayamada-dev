@@ -1,0 +1,21 @@
+engineStrict: true
+saveExact: true
+# デフォルト値と同じだが、明示したときだけ minimumReleaseAgeStrict がデフォルトで true になり、待機期間に満たないバージョンへフォールバックして minimumReleaseAgeExclude に自動で追記することがなくなる
+# https://pnpm.io/settings/dependency-resolution#minimumreleaseagestrict
+minimumReleaseAge: 1440
+# デフォルトの true だと、レジストリが公開日時を返さないときに待機期間と trustPolicy の確認を飛ばしてインストールする
+# https://pnpm.io/settings/dependency-resolution#minimumreleaseageignoremissingtime
+minimumReleaseAgeIgnoreMissingTime: false
+trustPolicy: no-downgrade
+# 組み込みの npmjs:・gh: と @jsr スコープは別のレジストリへ直接向かい、依存先の package.json に書かれると Takumi Guard を通らないため上書きする
+# https://pnpm.io/registries
+registries:
+  https://npm.flatt.tech/:
+    scopes: ["@", "@jsr"]
+  # npm.flatt.tech に prefix を宣言すると、pnpm v12.16.0 以降はすべてのパッケージを npmjs: 付きの版でロックファイルに記録し、osv-scanner がライセンスと脆弱性を照会できなくなるため、npmjs: は .invalid に向けて失敗させる
+  # https://pnpm.io/settings/dependency-resolution#named-registries-in-the-lockfile https://github.com/google/osv-scalibr/blob/06c2fa5686cd43020855d81b68ec6ceca6a5a5fc/extractor/filesystem/language/javascript/pnpmlock/pnpmlock.go#L109-L121
+  https://npmjs.invalid/:
+    prefix: npmjs
+  # GitHub Packages は使わないため、名前解決されない .invalid に向けて gh: を失敗させる https://www.rfc-editor.org/rfc/rfc6761#section-6.4
+  https://gh.invalid/:
+    prefix: gh

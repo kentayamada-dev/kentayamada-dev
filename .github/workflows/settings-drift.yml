@@ -1,0 +1,54 @@
+name: GitHub の設定と定義のずれ
+
+on:
+  # GitHub の画面で変えた設定や、定義を変えたあとに反映し忘れた設定は、PR の検査では見つからないため、定期的に検査する
+  schedule:
+    - cron: "23 22 * * *"
+  workflow_dispatch:
+
+# 書き込み権限はジョブごとに与え、あとから足したジョブに引き継がせない https://docs.zizmor.sh/audits/#excessive-permissions
+permissions: {}
+
+# 同時に動くと、どちらも開いている issue がないと判断して issue を 2 件作ることがあるため、実行を重ねない
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  settings-drift:
+    name: settings-drift
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write # report-scheduled-check.sh が、ずれを見つけたら issue を作るか書き換え、なくなったら閉じるため
+    env:
+      report_script: .github/scripts/report-scheduled-check/report-scheduled-check.sh
+      report_name: settings-drift.txt
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+        with:
+          install_args: jq
+      # gh のエラーは標準エラー出力に出るため、issue の本文にも残す
+      - id: check
+        run: .github/scripts/sync-github-settings/sync-github-settings.sh --check 2>&1 | tee "$RUNNER_TEMP/$report_name"
+        # 未指定時の bash -e {0} は pipefail がなく、tee の前の失敗を見逃す https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#defaultsrunshell
+        shell: bash
+        env:
+          # GitHub の設定を読むには GITHUB_TOKEN に与えられない Administration の権限が要るため、PAT を使う。PAT の権限は docs/github-setup.md にある
+          # https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#permissions
+          GH_TOKEN: ${{ secrets.SETTINGS_READ_TOKEN }}
+      - if: failure() && steps.check.outcome == 'failure'
+        run: >-
+          "$report_script" settings-drift "$RUNNER_TEMP/$report_name"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+      - run: >-
+          "$report_script" settings-drift --resolved
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}

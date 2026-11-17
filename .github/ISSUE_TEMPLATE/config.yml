@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 脆弱性の報告
+    url: https://github.com/kentayamada-dev/kentayamada-dev/security
+    about: 脆弱性は公開の issue にせず、「Report a vulnerability」から非公開に報告してください。
