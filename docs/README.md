@@ -3,9 +3,10 @@
 ## 概要
 
 このリポジトリでは、[`portfolio/`](../portfolio/) にある Next.js のアプリを開発している。
+インフラは、[`infra/`](../infra/) で Terraform を使って管理する。
 開発は Dev Container のなかで進める。
-Node.js と pnpm はコンテナで使うため、ホストには要らない。
-pnpm の版は [portfolio の Dockerfile](../.devcontainer/portfolio/Dockerfile) だけで管理し、Renovate が更新する。
+Node.js・pnpm・Terraform はコンテナで使うため、ホストには要らない。
+pnpm と Terraform の版は、それぞれ [portfolio の Dockerfile](../.devcontainer/portfolio/Dockerfile) と [infra の Dockerfile](../.devcontainer/infra/Dockerfile) だけで管理し、Renovate が更新する。
 
 ## 開発環境の始め方
 

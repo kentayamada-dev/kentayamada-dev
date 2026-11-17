@@ -1,0 +1,27 @@
+{
+  "name": "infra",
+  "dockerComposeFile": ["../../compose.yaml"],
+  "service": "infra",
+  // 既定では Compose の全サービスを起動し、ほかの Dev Container のコンテナまでこの設定で作るため、このサービスだけを起動する
+  // https://containers.dev/implementors/json_reference/
+  "runServices": ["infra"],
+  "initializeCommand": "bash \"${localWorkspaceFolder}/.devcontainer/scripts/check-host-os/check-host-os.sh\"",
+  "shutdownAction": "none",
+  "workspaceFolder": "/workspace/infra",
+  "remoteUser": "dev",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "[terraform]": {
+          "editor.defaultFormatter": "hashicorp.terraform",
+          "editor.formatOnSave": true
+        },
+        "[terraform-vars]": {
+          "editor.defaultFormatter": "hashicorp.terraform",
+          "editor.formatOnSave": true
+        }
+      },
+      "extensions": ["hashicorp.terraform", "EditorConfig.EditorConfig"]
+    }
+  }
+}

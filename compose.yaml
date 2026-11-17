@@ -3,8 +3,19 @@ x-build-args: &build-args
   USER_NAME: dev
   HISTORY_DIR: &history-dir /commandhistory
 
+# Dev Container のサービスは、これを <<: で取り込む
+x-devcontainer: &devcontainer
+  # Compose では overrideCommand が既定で false で、イメージの CMD は端末がないとすぐ終了するため
+  # https://containers.dev/implementors/json_reference/
+  command: sleep infinity
+
+# コンテナのなかでも git を使えるよう、.git のあるリポジトリのルートをマウントする
+# https://code.visualstudio.com/remote/advancedcontainers/connect-multiple-containers
+x-workspace-volume: &workspace-volume .:/workspace
+
 services:
   portfolio:
+    <<: *devcontainer
     build:
       context: .devcontainer/portfolio
       args:
@@ -15,9 +26,7 @@ services:
     # docker compose run を、--workdir を付けなくてもプロジェクトのディレクトリで動かすため
     working_dir: /workspace/portfolio
     volumes:
-      # コンテナのなかでも git を使えるよう、.git のあるリポジトリのルートをマウントする
-      # https://code.visualstudio.com/remote/advancedcontainers/connect-multiple-containers
-      - .:/workspace
+      - *workspace-volume
       # macOS のバインドマウントは、インストールのように書き込みの多い処理が遅いため
       # https://code.visualstudio.com/remote/advancedcontainers/improve-performance
       - type: volume
@@ -28,12 +37,27 @@ services:
       - type: volume
         source: portfolio-history
         target: *history-dir
-    # Compose では overrideCommand が既定で false で、イメージの CMD は端末がないとすぐ終了するため
-    # https://containers.dev/implementors/json_reference/
-    command: sleep infinity
     environment:
       NEXT_TELEMETRY_DISABLED: 1
+
+  infra:
+    <<: *devcontainer
+    build:
+      context: .devcontainer/infra
+      args: *build-args
+    hostname: infra
+    working_dir: /workspace/infra
+    volumes:
+      - *workspace-volume
+      - type: volume
+        source: infra-history
+        target: *history-dir
+    environment:
+      # 版は Renovate で上げるため、新しい版の確認で HashiCorp の Checkpoint に問い合わせさせない
+      # https://developer.hashicorp.com/terraform/cli/commands#upgrade-and-security-bulletin-checks
+      CHECKPOINT_DISABLE: 1
 
 volumes:
   portfolio-node-modules:
   portfolio-history:
+  infra-history:

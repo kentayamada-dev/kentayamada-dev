@@ -1,0 +1,19 @@
+# GitHub の Terraform のひな形にならう
+# https://github.com/github/gitignore/blob/7e4de539dc2c2960fbcb59ecbb370a3fec9f21df/Terraform.gitignore
+.terraform/
+crash.log
+crash.*.log
+# state と変数の値のファイルは、パスワードなどの機密を平文で含むことがあるため
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+*.tfvars
+*.tfvars.json
+# 手元だけで設定を上書きするためのファイル
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+# CLI の設定ファイルは、HCP Terraform などのトークンを含むことがあるため
+.terraformrc
+terraform.rc
