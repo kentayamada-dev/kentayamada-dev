@@ -1,7 +1,7 @@
 locals {
   # リソースはすべて、テナンシそのものであるルートコンパートメントに置く
   # https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/settinguptenancy.htm
-  compartment_id = var.tenancy_ocid
+  compartment_id = var.undefined_tenancy_ocid
 
   vcn_cidr    = "10.0.0.0/16"
   subnet_cidr = "10.0.0.0/24"
