@@ -1,6 +1,3 @@
-# OCI は defined_tags の Oracle-Tags に、作成した principal の名前と作成日時を自動で付ける。公開のリポジトリに名前を書かないよう、どのリソースもコードに書かずに差分を無視する
-# https://docs.oracle.com/en-us/iaas/Content/Tagging/Concepts/understandingautomaticdefaulttags.htm
-
 resource "oci_core_vcn" "main" {
   compartment_id = local.compartment_id
   # cidr_block は非推奨で、両方書くとエラーになるため、cidr_blocks だけを書く
@@ -11,10 +8,6 @@ resource "oci_core_vcn" "main" {
   ipv6private_cidr_blocks = []
   is_ipv6enabled          = false
   security_attributes     = {}
-
-  lifecycle {
-    ignore_changes = [defined_tags]
-  }
 }
 
 resource "oci_core_internet_gateway" "main" {
@@ -22,10 +15,6 @@ resource "oci_core_internet_gateway" "main" {
   vcn_id         = oci_core_vcn.main.id
   enabled        = true
   freeform_tags  = local.tags
-
-  lifecycle {
-    ignore_changes = [defined_tags]
-  }
 }
 
 # VCN のデフォルトのルート表とセキュリティ・リストは単独では削除できないため、oci_core_default_* で中身だけを管理する
@@ -39,10 +28,6 @@ resource "oci_core_default_route_table" "default" {
     destination_type  = "CIDR_BLOCK"
     network_entity_id = oci_core_internet_gateway.main.id
     route_type        = "STATIC"
-  }
-
-  lifecycle {
-    ignore_changes = [defined_tags]
   }
 }
 
@@ -86,10 +71,6 @@ resource "oci_core_default_security_list" "default" {
   }
 
   # 受信のポートは開けない。n8n は Cloudflare Tunnel の外向きの接続で公開し、インスタンスにはシリアル・コンソールで接続するため
-
-  lifecycle {
-    ignore_changes = [defined_tags]
-  }
 }
 
 resource "oci_core_subnet" "public" {
@@ -105,8 +86,4 @@ resource "oci_core_subnet" "public" {
   route_table_id             = oci_core_default_route_table.default.id
   security_list_ids          = [oci_core_default_security_list.default.id]
   prohibit_public_ip_on_vnic = false # パブリック・サブネット（インスタンスに Public IP を付けて外へ出る）
-
-  lifecycle {
-    ignore_changes = [defined_tags]
-  }
 }

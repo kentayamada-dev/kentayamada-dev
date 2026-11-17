@@ -29,6 +29,10 @@ terraform {
 provider "oci" {
   config_file_profile = "DEFAULT"
   region              = "ca-toronto-1"
+  # OCI は defined_tags の Oracle-Tags に、作成した principal の名前と作成日時を自動で付ける。名前は公開のリポジトリに書けないため、コードには書かず、どのリソースでも差分を無視する
+  # https://docs.oracle.com/en-us/iaas/Content/Tagging/Concepts/understandingautomaticdefaulttags.htm
+  # https://docs.oracle.com/en-us/iaas/Content/dev/terraform/troubleshooting.htm#default-tags-deleted
+  ignore_defined_tags = ["Oracle-Tags.CreatedBy", "Oracle-Tags.CreatedOn"]
 }
 
 # API トークンは秘密の値のため、コードや tfvars に書かず、環境変数 CLOUDFLARE_API_TOKEN で渡す
