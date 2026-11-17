@@ -14,3 +14,9 @@ exclude_path = [
   '^\.github/yamllint/uv\.lock$',
   '^\.github/check-jsonschema/uv\.lock$',
 ]
+
+exclude = [
+  # osv.dev の URL は ID を埋めて作るもので、リポジトリには ID を埋める前の jq の式とテストの架空の ID の URL しかなく、開けないため。
+  # linkify は \ を URL の文字として扱い、jq の \( も URL に含めて切り出す https://github.com/robinst/linkify/blob/0.11.0/src/url.rs#L219-L225
+  '^https://osv\.dev/',
+]
