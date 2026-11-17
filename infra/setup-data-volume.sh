@@ -4,9 +4,10 @@ set -euo pipefail
 # シリアル・コンソールは出力のバイトを取りこぼすことがあり、UTF-8 の日本語は化けやすいため、画面に出す文字は ASCII にする
 
 script_dir=$(dirname "${BASH_SOURCE[0]}")
+compose_file="${script_dir}/compose.yml"
 # デバイス名（/dev/sdb など）は付ける順番で変わることがあるため、ファイルシステムのラベルで見分ける
 label=n8n-data
-# mount_point を変えるときは、docker-compose.yml の n8n の volumes の source も合わせる
+# mount_point を変えるときは、compose.yml の n8n の volumes の source も合わせる
 mount_point=/srv/n8n
 data_dir="${mount_point}/data"
 n8n_repository=n8nio/n8n
@@ -16,11 +17,11 @@ if [[ ${EUID} -ne 0 ]]; then
   exit 1
 fi
 
-# n8n のイメージは USER node で動き、UID と GID はベースのイメージで決まるため、docker-compose.yml の版のイメージから読む
+# n8n のイメージは USER node で動き、UID と GID はベースのイメージで決まるため、compose.yml の版のイメージから読む
 # https://github.com/n8n-io/n8n/blob/n8n@2.47.3/docker/images/n8n/Dockerfile#L93-L97
-n8n_image=$(sed -n "s|^[[:space:]]*image:[[:space:]]*\(${n8n_repository}[^[:space:]]*\).*|\1|p" "${script_dir}/docker-compose.yml")
+n8n_image=$(sed -n "s|^[[:space:]]*image:[[:space:]]*\(${n8n_repository}[^[:space:]]*\).*|\1|p" "${compose_file}")
 if [[ -z ${n8n_image} ]]; then
-  echo "No ${n8n_repository} image found in ${script_dir}/docker-compose.yml" >&2
+  echo "No ${n8n_repository} image found in ${compose_file}" >&2
   exit 1
 fi
 n8n_owner=$(docker run --rm --entrypoint node "${n8n_image}" -e 'console.log(process.getuid() + ":" + process.getgid())')

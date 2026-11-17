@@ -18,7 +18,7 @@ output "cloudflare_tunnel_token" {
 }
 
 # ホストにポートを開けていないため、同じ Docker のネットワークにいる cf のコンテナから、コンテナの名前で n8n に届ける
-# docker-compose.yml の n8n の container_name を変えるときは、service のホスト名も合わせる
+# compose.yml の n8n の container_name を変えるときは、service のホスト名も合わせる
 resource "cloudflare_zero_trust_tunnel_cloudflared_config" "n8n" {
   account_id = var.cloudflare_account_id
   tunnel_id  = cloudflare_zero_trust_tunnel_cloudflared.n8n.id

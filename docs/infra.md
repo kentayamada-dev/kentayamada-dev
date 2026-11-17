@@ -5,7 +5,7 @@
 [`infra/`](../infra/) では、n8n を Oracle Cloud Infrastructure（OCI）の Ampere A1 のインスタンスで動かすためのインフラを管理する。
 
 - [`infra/terraform/`](../infra/terraform/): OCI のネットワーク・インスタンス・ブロックボリュームと、Cloudflare Tunnel・Access を Terraform で管理する
-- [`infra/docker-compose.yml`](../infra/docker-compose.yml): サーバーで n8n と cloudflared を動かす
+- [`infra/compose.yml`](../infra/compose.yml): サーバーで n8n と cloudflared を動かす
 - [`infra/setup-data-volume.sh`](../infra/setup-data-volume.sh)・[`infra/create-env.sh`](../infra/create-env.sh)・[`infra/import-workflows.sh`](../infra/import-workflows.sh): サーバーの準備に使う
 - [`infra/workflows/`](../infra/workflows/): n8n のワークフローのバックアップ
 
@@ -74,7 +74,7 @@ OS のイメージを変えるときなど、インスタンスを作り直す�
 
 ## n8n と cloudflared を更新する
 
-n8n の版は [`infra/docker-compose.yml`](../infra/docker-compose.yml) で固定し、ほかの依存と同じく Renovate が更新する。
+n8n の版は [`infra/compose.yml`](../infra/compose.yml) で固定し、ほかの依存と同じく Renovate が更新する。
 サーバーには自動では反映しないため、main に入ったら次の手順で反映する。
 
 1. サーバーの `~/kentayamada-dev` で `git pull` する
