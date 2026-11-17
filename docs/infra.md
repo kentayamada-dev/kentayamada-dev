@@ -49,7 +49,7 @@ Dev Container で初めて実行して差分が出たら、コミットする。
 `terraform apply` でインスタンスを作ったら、次の手順で n8n を起動する。
 
 1. OCI コンソールのシリアル・コンソールで、`ubuntu` ユーザーでログインする
-2. `cloud-init status --wait` で、初回起動の設定が終わるのを待つ。Docker を入れ、このリポジトリを `~/kentayamada-dev` に取得する
+2. `cloud-init status --wait` で、初回起動の設定（[`setup-instance.sh`](../infra/terraform/setup-instance.sh)）が終わるのを待つ。Docker を入れ、このリポジトリを `~/kentayamada-dev` に取得する
 3. `cd ~/kentayamada-dev/infra` で、[`infra/`](../infra/) に移る
 4. `sudo ./setup-data-volume.sh` で、ブロックボリュームを `/srv/n8n` にマウントする
 5. `./create-env.sh` で `.env` を作る。`CF_TUNNEL_TOKEN` の値は、Dev Container で `terraform output -raw cloudflare_tunnel_token` を実行して取り出す
