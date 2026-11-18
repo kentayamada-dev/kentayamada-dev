@@ -5,7 +5,9 @@ set -euo pipefail
 # 秘密の値は、コンソールの履歴に残らないよう、入力を表示せずに読む
 
 script_dir=$(dirname "${BASH_SOURCE[0]}")
-env_file="${script_dir}/.env"
+# docker compose は compose.yml の隣の .env を読むため、1 つ上の infra/ に作る
+# https://github.com/docker/docs/blob/670073947d7b7046bc419b40a27c5a448d9b6c9b/content/manuals/compose/how-tos/environment-variables/variable-interpolation.md#L80
+env_file="${script_dir}/../.env"
 
 if [[ -e ${env_file} ]]; then
   read -rp '.env already exists. Overwrite? [y/N] ' answer

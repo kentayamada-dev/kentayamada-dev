@@ -5,7 +5,8 @@ set -euo pipefail
 # n8n が出すメッセージにはワークフロー名が入るため、そこは化けることがある
 
 script_dir=$(dirname "${BASH_SOURCE[0]}")
-cd "${script_dir}"
+# compose.yml と workflows/ は、1 つ上の infra/ にある
+cd "${script_dir}/.."
 
 # ubuntu ユーザーは docker グループに入っていないため、docker を直接使えなければ sudo を付ける
 docker=(sudo docker)
@@ -71,5 +72,5 @@ compose exec -T -u node n8n n8n import:workflow --separate --input="${tmp}"
 
 echo 'Done. All imported workflows are inactive.'
 echo 'Next: open n8n, check each credential is linked, then activate the workflows.'
-echo 'If you overwrote workflows that were active, restart n8n so old schedules stop:'
+echo 'If you overwrote workflows that were active, restart n8n in infra/ so old schedules stop:'
 echo '  sudo docker compose restart n8n'
