@@ -33,7 +33,7 @@ Claude Code が Bash で実行するコマンドは、サンドボックスの�
 - Claude に読ませないファイルは、`permissions.deny` の `Read(...)` と `sandbox.credentials.files` の両方に書く
   - `Read(...)` は、Read などのツールと、サンドボックスのなかのコマンドの両方を止める
   - `sandbox.credentials.files` は、管理者の設定で `permissions.deny` が無視されたときも、サンドボックスのなかのコマンドを止める
-  - パスの書き方は 2 つで違う。[権限のルール](https://code.claude.com/docs/en/permissions#read-and-edit)と[サンドボックスのパス](https://code.claude.com/docs/en/settings-reference#sandbox-path-prefixes)の書き方に従う
+  - パスの書き方は 2 つで違う。[権限のルール](https://code.claude.com/docs/en/permissions#read-and-edit) と [サンドボックスのパス](https://code.claude.com/docs/en/settings-reference#sandbox-path-prefixes) の書き方に従う
 
 ## デスクトップアプリのプレビュー
 
