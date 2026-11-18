@@ -52,23 +52,16 @@ App の名前は GitHub 全体で一意である必要がある。
 
 ワークフローが毎日、GitHub の設定と定義を比べる。
 違う箇所があれば、issue を作って知らせる。
-検査では GitHub の設定を PAT で読む。
-fine-grained PAT は、このリポジトリだけを対象にし、次の権限で作る。
-
-| 権限           | アクセス       | 読むもの                                               |
-| -------------- | -------------- | ------------------------------------------------------ |
-| Administration | Read           | 脆弱性アラートなどのセキュリティの機能・Actions の権限 |
-| Contents       | Read and write | マージの設定                                           |
-| Metadata       | Read           | ルールセット・リポジトリの設定・非公開の脆弱性報告     |
-| Issues         | Read           | ラベル                                                 |
-
-マージの設定を読むには、Contents の read と write が要る。
-根拠は [GitHub のドキュメント](https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28) にある。
-
-作った PAT を、次のコマンドでシークレット `SETTINGS_READ_TOKEN` に登録する。
+検査では、このリポジトリだけを対象にした fine-grained PAT で、GitHub の設定を読む。
+次の [スクリプト](../.github/scripts/create-settings-read-token/create-settings-read-token.sh) を実行し、表示に従って操作する。
 
 ```bash
-gh secret set SETTINGS_READ_TOKEN
+.github/scripts/create-settings-read-token/create-settings-read-token.sh
 ```
 
-値は、実行後のプロンプトに貼り付ける。
+1. ブラウザで PAT の作成画面が、名前・期限・権限を入れた状態で開く
+2. 「Repository access」の「Only select repositories」でこのリポジトリを選び、「Generate token」を押す
+3. 表示されたトークンをコピーし、ターミナルに貼り付ける。スクリプトが、このリポジトリの設定を読めることを確認してから、シークレット `SETTINGS_READ_TOKEN` に登録する
+
+PAT は無期限で作る。
+要る権限と、その理由は、スクリプトのコメントにある。

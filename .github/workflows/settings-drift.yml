@@ -38,7 +38,7 @@ jobs:
         # 未指定時の bash -e {0} は pipefail がなく、tee の前の失敗を見逃す https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#defaultsrunshell
         shell: bash
         env:
-          # GitHub の設定を読むには GITHUB_TOKEN に与えられない Administration の権限が要るため、PAT を使う。PAT の権限は docs/github-setup.md にある
+          # GitHub の設定を読むには GITHUB_TOKEN に与えられない Administration の権限が要るため、PAT を使う。PAT の権限は create-settings-read-token.sh にある
           # https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#permissions
           GH_TOKEN: ${{ secrets.SETTINGS_READ_TOKEN }}
       - if: failure() && steps.check.outcome == 'failure'
