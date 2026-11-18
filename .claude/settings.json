@@ -34,8 +34,10 @@
     "deny": [
       "Bash(dangerouslyDisableSandbox:true)",
       "Read(**/.env)",
+      "Read(**/*.tfvars)",
       "Read(~/.ssh/**)",
-      "Read(~/.aws/**)"
+      "Read(~/.aws/**)",
+      "Read(~/.oci/**)"
     ],
     "disableBypassPermissionsMode": "disable"
   },
