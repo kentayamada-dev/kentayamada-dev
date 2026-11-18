@@ -50,11 +50,19 @@
     "credentials": {
       "files": [
         {
-          "path": "~/.aws",
+          "path": "**/.env",
+          "mode": "deny"
+        },
+        {
+          "path": "**/*.tfvars",
           "mode": "deny"
         },
         {
           "path": "~/.ssh",
+          "mode": "deny"
+        },
+        {
+          "path": "~/.aws",
           "mode": "deny"
         },
         {
