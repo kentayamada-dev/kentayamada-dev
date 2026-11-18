@@ -9,6 +9,7 @@ setup() {
   repo="${BATS_TEST_TMPDIR}/repo"
   mkdir -p "${repo}/.github/scripts/create-settings-read-token"
   repo=$(cd "${repo}" && pwd -P)
+  export REPO_DIR="${repo}"
   script="${repo}/.github/scripts/create-settings-read-token/create-settings-read-token.sh"
   # shellcheck disable=SC2154 # BATS_TEST_DIRNAME は bats が設定する。ShellCheck の check-unassigned-uppercase は未代入と判定する
   cp "${BATS_TEST_DIRNAME}/create-settings-read-token.sh" "${script}"
@@ -20,11 +21,14 @@ setup() {
   cat >"${STUB_DIR}/bin/gh" <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
-pwd -P >> "$STUB_DIR/gh.pwd"
-github="$STUB_DIR"
-# gh と同じく、GH_REPO があればカレントディレクトリのリポジトリではなく、そのリポジトリを操作する
+# gh と同じく、GH_REPO があればそのリポジトリを操作し、なければカレントディレクトリがなかにあるリポジトリを操作する
 if [ -n "${GH_REPO-}" ]; then
   github="$STUB_DIR/other-repo"
+elif [[ "$(pwd -P)/" == "$REPO_DIR/"* ]]; then
+  github="$STUB_DIR"
+else
+  echo "gh スタブ: リポジトリの外で実行されたため、操作するリポジトリを決められない" >&2
+  exit 1
 fi
 
 # STUB_FAIL は gh に渡した引数全体に一致させるパターン
@@ -168,19 +172,12 @@ EOF
   [[ ! -e "${STUB_DIR}/other-repo/secrets" ]]
 }
 
-@test "リポジトリの外のディレクトリから実行しても、リポジトリのなかで gh を実行する" {
+@test "リポジトリの外のディレクトリから実行しても、このリポジトリに登録する" {
   cd "${BATS_TEST_TMPDIR}" || return 1
 
   run -0 "${script}" <<<"github_pat_valid"
 
-  [[ -s "${STUB_DIR}/gh.pwd" ]]
-  local dir
-  while IFS= read -r dir; do
-    if [[ ${dir} != "${repo}" && ${dir} != "${repo}/"* ]]; then
-      echo "リポジトリの外で gh を実行した: ${dir}"
-      return 1
-    fi
-  done <"${STUB_DIR}/gh.pwd"
+  printf 'github_pat_valid' | cmp - "${STUB_DIR}/secrets/SETTINGS_READ_TOKEN"
 }
 
 @test "open がなければ、作成画面の URL を示し、貼り付けたトークンを登録する" {
