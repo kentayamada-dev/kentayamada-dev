@@ -9,7 +9,7 @@ variable "tenancy_ocid" {
 }
 
 variable "console_password_hash" {
-  description = "シリアル・コンソールでログインする ubuntu ユーザーのパスワードのハッシュ。openssl passwd -6 で作る"
+  description = "シリアル・コンソールでログインする ubuntu ユーザーのパスワードのハッシュ。infra のコンテナで openssl passwd -6 を実行して作る"
   type        = string
   sensitive   = true
 

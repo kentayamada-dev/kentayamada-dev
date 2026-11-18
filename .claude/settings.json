@@ -34,8 +34,10 @@
     "deny": [
       "Bash(dangerouslyDisableSandbox:true)",
       "Read(**/.env)",
+      "Read(**/*.tfvars)",
       "Read(~/.ssh/**)",
-      "Read(~/.aws/**)"
+      "Read(~/.aws/**)",
+      "Read(~/.oci/**)"
     ],
     "disableBypassPermissionsMode": "disable"
   },
@@ -48,11 +50,19 @@
     "credentials": {
       "files": [
         {
-          "path": "~/.aws",
+          "path": "**/.env",
+          "mode": "deny"
+        },
+        {
+          "path": "**/*.tfvars",
           "mode": "deny"
         },
         {
           "path": "~/.ssh",
+          "mode": "deny"
+        },
+        {
+          "path": "~/.aws",
           "mode": "deny"
         },
         {
