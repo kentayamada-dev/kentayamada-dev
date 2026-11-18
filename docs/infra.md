@@ -41,6 +41,14 @@ backend の namespace と変数の値は、テナンシやアカウントを特�
 2. [`terraform.tfvars.example`](../infra/terraform/terraform.tfvars.example) を `terraform.tfvars` にコピーし、値を書き換える。値の意味は [`variables.tf`](../infra/terraform/variables.tf) にある
 3. `terraform init -backend-config=backend.tfbackend` で初期化する
 
+シリアル・コンソールのパスワードのハッシュ（`console_password_hash`）は、infra のコンテナで作る。
+macOS に入っている `openssl` は LibreSSL で、SHA-512 のハッシュを作る `-6` に対応していないため。
+パスワードを入れると表示される、`$6$` で始まる文字列を書く。
+
+```bash
+docker compose run --rm infra openssl passwd -6
+```
+
 `terraform init` は、[`.terraform.lock.hcl`](../infra/terraform/.terraform.lock.hcl) にないプラットフォームのハッシュを足す。
 Dev Container で初めて実行して差分が出たら、コミットする。
 
