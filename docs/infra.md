@@ -28,7 +28,14 @@ OCI の provider と backend は、`~/.oci/config` の API キーで認証する
 Cloudflare の provider は、環境変数 `CLOUDFLARE_API_TOKEN` のトークンを使う。
 
 - ホストの `CLOUDFLARE_API_TOKEN` が、Dev Container に渡る。Dev Container に渡っていなければ、コンテナの端末で `export` する
-- トークンには、アカウントの「Cloudflare Tunnel 編集」と「Access: アプリとポリシー 編集」、n8n のゾーンの「DNS 編集」の権限が要る
+
+トークンには、次の権限が要る。
+
+| 範囲         | 権限                                    | アクセス |
+| ------------ | --------------------------------------- | -------- |
+| アカウント   | `Cloudflare One Connector: cloudflared` | `Write`  |
+| アカウント   | `Access: Apps and Policies`             | `Write`  |
+| n8n のゾーン | `DNS`                                   | `Write`  |
 
 ### backend と変数
 
