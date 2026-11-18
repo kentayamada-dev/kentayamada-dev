@@ -291,7 +291,7 @@ Iv23liAbc
 ${key}
 EOF
 
-  [[ -e "${key}" ]]
+  [[ -e ${key} ]]
   [[ ${output} == *"${key} は削除してください"* ]]
   [[ ${output} == *"インストール先に kentayamada-dev が含まれていなければ"* ]]
 }
