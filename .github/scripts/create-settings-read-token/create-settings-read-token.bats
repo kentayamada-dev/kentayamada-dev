@@ -82,7 +82,7 @@ opened_params() {
 
   url=$(cat "${STUB_DIR}/opened")
   [[ ${url} == "https://github.com/settings/personal-access-tokens/new?"* ]]
-  # 空白や日本語をそのまま入れた URL は開けないため、エンコードされていることも確認する
+  # デコードした値を比べるだけでは、エンコードし忘れても通るため、% エンコードしていることも確認する
   unencoded='[^A-Za-z0-9%&=?:/._~-]'
   [[ ! ${url} =~ ${unencoded} ]]
   run -0 opened_params

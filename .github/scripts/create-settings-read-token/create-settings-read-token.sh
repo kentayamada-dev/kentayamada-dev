@@ -19,7 +19,7 @@ tokens_url=https://github.com/settings/personal-access-tokens
 repository=$(gh api 'repos/{owner}/{repo}')
 repository_name=$(jq -r .full_name <<<"${repository}")
 
-# 作成画面に事前入力する値。対象のリポジトリを選ぶパラメーターはないため、リポジトリは画面で選ばせる
+# 作成画面に事前入力する値。対象のリポジトリを選ぶパラメーターはドキュメントにないため、リポジトリは画面で選ばせる
 # https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#pre-filling-fine-grained-personal-access-token-details-using-url-parameters
 # sync-github-settings.sh が読む設定を増やすときは、要る権限もここに足す
 params=(
