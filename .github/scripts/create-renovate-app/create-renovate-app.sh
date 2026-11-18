@@ -5,8 +5,13 @@ set -euo pipefail
 client_id_variable=RENOVATE_APP_CLIENT_ID
 private_key_secret=RENOVATE_APP_PRIVATE_KEY
 
-if [[ $# -ne 0 ]]; then
-  echo "使い方: $0" >&2
+if [[ $# -eq 0 ]]; then
+  use_existing_app=false
+elif [[ $# -eq 1 && $1 == --existing ]]; then
+  use_existing_app=true
+else
+  echo "使い方: $0 [--existing]" >&2
+  echo "  --existing: App を作らず、作成済みの App の秘密鍵と Client ID を登録する" >&2
   exit 1
 fi
 
@@ -20,10 +25,61 @@ done
 # gh は GH_REPO があればそれを対象にするため外し、このリポジトリのルートで remote から決めさせる
 # https://github.com/cli/cli/blob/v2.102.0/pkg/cmdutil/repo_override.go
 unset GH_REPO
+# 入力された秘密鍵の相対パスは、移ったあとのリポジトリのルートではなく、実行したディレクトリから読む
+invoked_dir=${PWD}
 cd "$(dirname "$0")/../../.."
 
 manifest_file=.github/settings/renovate-app.json
 settings_url=https://github.com/settings
+
+if [[ ${use_existing_app} == true ]]; then
+  repository=$(gh api 'repos/{owner}/{repo}')
+  repository_name=$(jq -r .full_name <<<"${repository}")
+
+  open "${settings_url}/apps"
+  echo "ブラウザで GitHub App の一覧を開きました。使う App の「Edit」を押し、次の 2 つをしてください"
+  echo "- 「Credentials」の「Key pairs」で「New key」を押し、秘密鍵をダウンロードする"
+  echo "- Client ID をコピーする"
+  echo "Client ID を貼り付けてください:"
+  IFS= read -r client_id || true
+  # Client ID の文字の種類は未確認のため、英数字と . _ - を広く許し、空白や URL を貼り付けた誤りだけを弾く
+  client_id_pattern='^[0-9A-Za-z._-]+$'
+  if [[ ! ${client_id} =~ ${client_id_pattern} ]]; then
+    echo "エラー: Client ID の形式ではありません。App の設定画面にある Client ID を貼り付けてください" >&2
+    exit 1
+  fi
+
+  echo "ダウンロードした秘密鍵のファイルのパスを入力してください:"
+  IFS= read -r key_path || true
+  if [[ ${key_path} == \~/* ]]; then
+    key_path=${HOME}/${key_path#\~/}
+  fi
+  if [[ ${key_path} != /* ]]; then
+    key_path=${invoked_dir}/${key_path}
+  fi
+  if [[ ! -f ${key_path} || ! -r ${key_path} ]]; then
+    echo "エラー: 秘密鍵のファイル ${key_path} を読めませんでした" >&2
+    exit 1
+  fi
+  # PEM の秘密鍵の開始行。BEGIN と PRIVATE KEY のあいだには RSA などの鍵の種類が入りうる
+  if ! grep -q -e '-----BEGIN [A-Z ]*PRIVATE KEY-----' "${key_path}"; then
+    echo "エラー: ${key_path} は秘密鍵のファイルではありません" >&2
+    exit 1
+  fi
+
+  if ! gh secret set "${private_key_secret}" <"${key_path}"; then
+    echo "エラー: シークレット ${private_key_secret} を登録できませんでした。もう一度実行してください" >&2
+    exit 1
+  fi
+  if ! gh variable set "${client_id_variable}" --body "${client_id}"; then
+    echo "エラー: 変数 ${client_id_variable} を登録できませんでした。gh variable set ${client_id_variable} --body ${client_id} で登録してください" >&2
+    exit 1
+  fi
+  echo "シークレット ${private_key_secret} と変数 ${client_id_variable} を登録しました"
+  echo "秘密鍵はシークレットに登録したので、${key_path} は削除してください"
+  echo "App のインストール先に ${repository_name} が含まれていなければ、App の設定画面から追加してください"
+  exit 0
+fi
 
 if ! manifest_html=$(jq -r 'tojson | @html' "${manifest_file}"); then
   echo "エラー: ${manifest_file} を読めませんでした" >&2

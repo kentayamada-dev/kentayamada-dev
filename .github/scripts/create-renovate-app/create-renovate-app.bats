@@ -98,6 +98,12 @@ path_without() {
   echo "${dir}"
 }
 
+# 作成済みの App からダウンロードした秘密鍵の代わりに、PEM の形のファイルを置く
+given_private_key() {
+  mkdir -p "$(dirname "$1")"
+  printf '%s\n' '-----BEGIN RSA PRIVATE KEY-----' 'abc' '-----END RSA PRIVATE KEY-----' >"$1"
+}
+
 @test "貼り付けた URL の code から App を作り、秘密鍵をシークレットに、Client ID を変数にそのまま登録する" {
   run -0 "${script}" <<<"https://github.com/kentayamada-dev?code=abc123"
 
@@ -221,7 +227,7 @@ EOF
   [[ ${output} == "${repo}" ]]
 }
 
-@test "引数を渡すと、使い方を示し、ブラウザを開かずに失敗する" {
+@test "--existing 以外の引数を渡すと、使い方を示し、ブラウザを開かずに失敗する" {
   run -1 "${script}" --force
 
   [[ ${output} == *"使い方: "* ]]
@@ -248,4 +254,156 @@ EOF
   run -1 env PATH="${path}" "${script}" <<<"https://github.com/kentayamada-dev?code=abc123"
 
   [[ ${output} == *"gh が見つかりません"* ]]
+}
+
+@test "--existing なら、貼り付けた Client ID と、パスを入力した秘密鍵のファイルの中身をそのまま登録する" {
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -0 "${script}" --existing <<EOF
+Iv23liAbc
+${key}
+EOF
+
+  cmp "${key}" "${STUB_DIR}/secrets/RENOVATE_APP_PRIVATE_KEY"
+  printf 'Iv23liAbc' | cmp - "${STUB_DIR}/variables/RENOVATE_APP_CLIENT_ID"
+}
+
+@test "--existing なら、App の作成画面ではなく、App の一覧を開く" {
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -0 "${script}" --existing <<EOF
+Iv23liAbc
+${key}
+EOF
+
+  grep -qx 'https://github.com/settings/apps' "${STUB_DIR}/opened"
+  [[ ! -e "${STUB_DIR}/form.html" ]]
+}
+
+@test "--existing で登録したあと、秘密鍵のファイルは消さずに削除するよう示し、インストール先の確認を促す" {
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -0 "${script}" --existing <<EOF
+Iv23liAbc
+${key}
+EOF
+
+  [[ -e "${key}" ]]
+  [[ ${output} == *"${key} は削除してください"* ]]
+  [[ ${output} == *"インストール先に kentayamada-dev が含まれていなければ"* ]]
+}
+
+@test "--existing で、~/ で始まるパスは、ホームディレクトリからのパスとして読む" {
+  export HOME="${BATS_TEST_TMPDIR}/home"
+  given_private_key "${HOME}/Downloads/key.pem"
+
+  run -0 "${script}" --existing <<'EOF'
+Iv23liAbc
+~/Downloads/key.pem
+EOF
+
+  cmp "${HOME}/Downloads/key.pem" "${STUB_DIR}/secrets/RENOVATE_APP_PRIVATE_KEY"
+}
+
+@test "--existing で、相対パスは、リポジトリのルートではなく実行したディレクトリからのパスとして読む" {
+  given_private_key "${BATS_TEST_TMPDIR}/work/key.pem"
+  cd "${BATS_TEST_TMPDIR}/work" || return 1
+
+  run -0 "${script}" --existing <<'EOF'
+Iv23liAbc
+key.pem
+EOF
+
+  cmp "${BATS_TEST_TMPDIR}/work/key.pem" "${STUB_DIR}/secrets/RENOVATE_APP_PRIVATE_KEY"
+}
+
+@test "--existing で、Client ID が空なら、何も登録せずに失敗する" {
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -1 "${script}" --existing <<EOF
+
+${key}
+EOF
+
+  [[ ${output} == *"エラー: Client ID の形式ではありません"* ]]
+  [[ ! -e "${STUB_DIR}/secrets" ]]
+  [[ ! -e "${STUB_DIR}/variables" ]]
+}
+
+@test "--existing で、Client ID の代わりに URL を貼り付けると、何も登録せずに失敗する" {
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -1 "${script}" --existing <<EOF
+https://github.com/settings/apps/kentayamada-dev-renovate
+${key}
+EOF
+
+  [[ ${output} == *"エラー: Client ID の形式ではありません"* ]]
+  [[ ! -e "${STUB_DIR}/secrets" ]]
+  [[ ! -e "${STUB_DIR}/variables" ]]
+}
+
+@test "--existing で、秘密鍵のパスが空なら、何も登録せずに失敗する" {
+  run -1 "${script}" --existing <<<"Iv23liAbc"
+
+  [[ ${output} == *"を読めませんでした"* ]]
+  [[ ! -e "${STUB_DIR}/secrets" ]]
+  [[ ! -e "${STUB_DIR}/variables" ]]
+}
+
+@test "--existing で、秘密鍵のファイルがなければ、何も登録せずに失敗する" {
+  run -1 "${script}" --existing <<EOF
+Iv23liAbc
+${BATS_TEST_TMPDIR}/missing.pem
+EOF
+
+  [[ ${output} == *"エラー: 秘密鍵のファイル ${BATS_TEST_TMPDIR}/missing.pem を読めませんでした"* ]]
+  [[ ! -e "${STUB_DIR}/secrets" ]]
+  [[ ! -e "${STUB_DIR}/variables" ]]
+}
+
+@test "--existing で、ファイルが秘密鍵でなければ、何も登録せずに失敗する" {
+  certificate="${BATS_TEST_TMPDIR}/certificate.pem"
+  printf '%s\n' '-----BEGIN CERTIFICATE-----' 'abc' '-----END CERTIFICATE-----' >"${certificate}"
+
+  run -1 "${script}" --existing <<EOF
+Iv23liAbc
+${certificate}
+EOF
+
+  [[ ${output} == *"エラー: ${certificate} は秘密鍵のファイルではありません"* ]]
+  [[ ! -e "${STUB_DIR}/secrets" ]]
+  [[ ! -e "${STUB_DIR}/variables" ]]
+}
+
+@test "--existing で、シークレットを登録できなければ、変数を登録せずに失敗する" {
+  export STUB_FAIL='secret set *'
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -1 "${script}" --existing <<EOF
+Iv23liAbc
+${key}
+EOF
+
+  [[ ${output} == *"エラー: シークレット RENOVATE_APP_PRIVATE_KEY を登録できませんでした"* ]]
+  [[ ! -e "${STUB_DIR}/variables" ]]
+}
+
+@test "--existing で、変数を登録できなければ、登録するコマンドを示して失敗する" {
+  export STUB_FAIL='variable set *'
+  key="${BATS_TEST_TMPDIR}/key.pem"
+  given_private_key "${key}"
+
+  run -1 "${script}" --existing <<EOF
+Iv23liAbc
+${key}
+EOF
+
+  [[ ${output} == *"gh variable set RENOVATE_APP_CLIENT_ID --body Iv23liAbc で登録して"* ]]
 }

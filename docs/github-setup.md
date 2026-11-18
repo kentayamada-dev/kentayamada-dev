@@ -48,6 +48,25 @@ Renovate は、このリポジトリ用に作った GitHub App のトークン�
 App の名前は GitHub 全体で一意である必要がある。
 ほかのアカウントで作るときは、[`.github/settings/renovate-app.json`](../.github/settings/renovate-app.json) の `name` を変えてから実行する。
 
+### 作成済みの App を使うとき
+
+App がすでにあるときは、[スクリプト](../.github/scripts/create-renovate-app/create-renovate-app.sh) に `--existing` を付けて実行する。
+App を作らずに、作成済みの App の秘密鍵とクライアント ID をリポジトリに登録する。
+
+```bash
+.github/scripts/create-renovate-app/create-renovate-app.sh --existing
+```
+
+1. ブラウザで GitHub App の一覧が開くので、使う App の「Edit」を押す
+2. 「Credentials」の「Key pairs」で「New key」を押し、秘密鍵をダウンロードする
+3. クライアント ID をコピーし、ターミナルに貼り付ける
+4. ダウンロードした秘密鍵のファイルのパスを、ターミナルに入力する。スクリプトが、秘密鍵とクライアント ID をリポジトリに登録する
+5. 登録が済んだら、ダウンロードした秘密鍵のファイルを削除する
+6. App のインストール先にこのリポジトリが含まれていなければ、追加する
+
+[秘密鍵](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/managing-private-keys-for-github-apps) は 1 つの App に複数作れ、削除するまで使える。
+ほかのリポジトリで使っている秘密鍵は、App の設定画面で削除しない。
+
 ## 定期検査に使うトークンを登録する
 
 ワークフローが毎日、GitHub の設定と定義を比べる。
