@@ -4,7 +4,7 @@ services:
     # 作り直しやイメージの取り直しで確認していない版が入らないよう、版を固定する。n8n は版が上がると動かなくなる変更がある
     # https://docs.n8n.io/release-notes/v20-breaking-changes
     # イメージのリポジトリを変えるときは、setup-data-volume.sh の n8n_repository も合わせる
-    image: n8nio/n8n:2.47.3
+    image: n8nio/n8n:2.47.3@sha256:6723b440354bb8e1395a1ecee12685fe03923f897bf6e4d5bb2c6c2bd2051697
     # container_name を変えるときは、cloudflare.tf のトンネルの転送先のホスト名も合わせる
     container_name: n8n
     restart: unless-stopped
@@ -38,7 +38,7 @@ services:
   cf:
     # 最新版から 1 年より古い版はサポートされないため、latest を使い続ける
     # https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/downloads/#deprecated-releases
-    image: cloudflare/cloudflared:latest
+    image: cloudflare/cloudflared:latest@sha256:e613aadbc2d9511785d2e67a86b0c8ac18dd63a3f9af0d06faf04cbfdcb35f2d
     container_name: cf
     restart: unless-stopped
     command: tunnel --no-autoupdate run
