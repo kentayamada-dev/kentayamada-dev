@@ -31,11 +31,11 @@ Cloudflare の provider は、環境変数 `CLOUDFLARE_API_TOKEN` のトーク�
 
 トークンには、次の権限が要る。
 
-| 範囲 | 権限 | アクセス |
-| --- | --- | --- |
-| アカウント | `Cloudflare One Connector: cloudflared` | `Write` |
-| アカウント | `Access: Apps and Policies` | `Write` |
-| n8n のゾーン | `DNS` | `Write` |
+| 範囲         | 権限                                    | アクセス |
+| ------------ | --------------------------------------- | -------- |
+| アカウント   | `Cloudflare One Connector: cloudflared` | `Write`  |
+| アカウント   | `Access: Apps and Policies`             | `Write`  |
+| n8n のゾーン | `DNS`                                   | `Write`  |
 
 ### backend と変数
 
