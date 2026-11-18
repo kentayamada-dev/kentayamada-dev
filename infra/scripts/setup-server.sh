@@ -4,13 +4,15 @@ set -euo pipefail
 # シリアル・コンソールは出力のバイトを取りこぼすことがあり、UTF-8 の日本語は化けやすいため、画面に出す文字は ASCII にする
 
 script_dir=$(dirname "${BASH_SOURCE[0]}")
-cd "${script_dir}"
+script_dir=$(cd "${script_dir}" && pwd)
+# compose.yml と .env は、1 つ上の infra/ にある
+cd "${script_dir}/.."
 
 # root で動かすと、create-env.sh が作る .env の持ち主が root になり、ubuntu ユーザーで作り直せなくなるため
 # テストで root を装えるよう、EUID ではなく id -u で調べる
 uid=$(id -u)
 if [[ ${uid} -eq 0 ]]; then
-  echo 'Run as the ubuntu user without sudo: ./setup-server.sh' >&2
+  echo "Run as the ubuntu user without sudo: ${0}" >&2
   exit 1
 fi
 
@@ -36,18 +38,18 @@ case ${cloud_init_status} in
 esac
 
 echo '== Mounting the data volume'
-sudo ./setup-data-volume.sh
+sudo "${script_dir}/setup-data-volume.sh"
 
 echo '== Creating .env'
 # 途中で失敗してやり直すときに、秘密の値を入力し直さずに済むよう、すでにあればそのまま使う
 if [[ -e .env ]]; then
-  echo '.env already exists. Keeping it. To recreate it, run ./create-env.sh'
+  echo ".env already exists. Keeping it. To recreate it, run ${script_dir}/create-env.sh"
 else
-  ./create-env.sh
+  "${script_dir}/create-env.sh"
 fi
 
 echo '== Starting n8n and cloudflared'
 sudo docker compose up -d
 
 echo 'Done.'
-echo 'Next: open n8n, create the owner and credentials, then run ./import-workflows.sh'
+echo "Next: open n8n, create the owner and credentials, then run ${script_dir}/import-workflows.sh"

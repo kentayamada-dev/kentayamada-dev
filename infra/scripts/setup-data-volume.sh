@@ -4,7 +4,7 @@ set -euo pipefail
 # シリアル・コンソールは出力のバイトを取りこぼすことがあり、UTF-8 の日本語は化けやすいため、画面に出す文字は ASCII にする
 
 script_dir=$(dirname "${BASH_SOURCE[0]}")
-compose_file="${script_dir}/compose.yml"
+compose_file="${script_dir}/../compose.yml"
 # デバイス名（/dev/sdb など）は付ける順番で変わることがあるため、ファイルシステムのラベルで見分ける
 label=n8n-data
 # mount_point を変えるときは、compose.yml の n8n の volumes の source も合わせる
@@ -13,7 +13,7 @@ data_dir="${mount_point}/data"
 n8n_repository=n8nio/n8n
 
 if [[ ${EUID} -ne 0 ]]; then
-  echo 'Run as root: sudo ./setup-data-volume.sh' >&2
+  echo "Run as root: sudo ${0}" >&2
   exit 1
 fi
 
@@ -118,4 +118,4 @@ chmod 700 "${data_dir}"
 
 echo 'Done. Disk usage:'
 df -h "${mount_point}"
-echo 'Next: ./create-env.sh (if .env is missing), then sudo docker compose up -d'
+echo "Next: ${script_dir}/create-env.sh (if .env is missing), then sudo docker compose up -d in infra/"

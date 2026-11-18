@@ -6,8 +6,7 @@
 
 - [`infra/terraform/`](../infra/terraform/): OCI のネットワーク・インスタンス・ブロックボリュームと、Cloudflare Tunnel・Access を Terraform で管理する
 - [`infra/compose.yml`](../infra/compose.yml): サーバーで n8n と cloudflared を動かす
-- [`infra/setup-server.sh`](../infra/setup-server.sh): サーバーを準備して、n8n を起動する
-- [`infra/setup-data-volume.sh`](../infra/setup-data-volume.sh)・[`infra/create-env.sh`](../infra/create-env.sh)・[`infra/import-workflows.sh`](../infra/import-workflows.sh): サーバーの準備に使う
+- [`infra/scripts/`](../infra/scripts/): サーバーを準備するスクリプト
 - [`infra/workflows/`](../infra/workflows/): n8n のワークフローのバックアップ
 
 n8n は Cloudflare Tunnel で公開し、Cloudflare Access で許可したメールアドレスの人だけを通す。
@@ -65,18 +64,18 @@ Dev Container で初めて実行して差分が出たら、コミットする。
 `terraform apply` でインスタンスを作ったら、次の手順で n8n を起動する。
 
 1. OCI コンソールのシリアル・コンソールで、`ubuntu` ユーザーでログインする
-2. `~/kentayamada-dev/infra/setup-server.sh` を、`sudo` を付けずに実行する
+2. `~/kentayamada-dev/infra/scripts/setup-server.sh` を、`sudo` を付けずに実行する
 3. n8n の画面で、オーナーと認証情報を作る。認証情報は、前と同じ名前と種類にする
-4. `~/kentayamada-dev/infra/import-workflows.sh` でワークフローを取り込み、画面で認証情報のつながりを確認してから有効にする
+4. `~/kentayamada-dev/infra/scripts/import-workflows.sh` でワークフローを取り込み、画面で認証情報のつながりを確認してから有効にする
 
-[`setup-server.sh`](../infra/setup-server.sh) は、次の順に進める。途中で止まったら、原因を直してもう一度実行する。
+[`setup-server.sh`](../infra/scripts/setup-server.sh) は、次の順に進める。途中で止まったら、原因を直してもう一度実行する。
 
 1. 初回起動の設定（[`setup-instance.sh`](../infra/terraform/setup-instance.sh)）が終わるのを待つ。この設定は、Docker を入れ、このリポジトリを `~/kentayamada-dev` に取得する。最後まで進んだが問題があったときは、続けるかを聞く
 2. ブロックボリュームを `/srv/n8n` にマウントする。ボリュームが空のときだけフォーマットし、データがあればそのまま使う
 3. `.env` がなければ、値を聞いて作る。`CF_TUNNEL_TOKEN` の値は、Dev Container で `terraform output -raw cloudflare_tunnel_token` を実行して取り出す
 4. n8n と cloudflared を起動する
 
-`.env` を作り直すときは、`infra/` で `./create-env.sh` を実行する。
+`.env` を作り直すときは、`~/kentayamada-dev/infra/scripts/create-env.sh` を実行する。
 `import-workflows.sh` は、同じ ID のワークフローを上書きし、取り込んだワークフローをすべて無効にする。
 
 ## インスタンスを作り直す
