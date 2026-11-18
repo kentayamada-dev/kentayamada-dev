@@ -81,7 +81,7 @@ opened_params() {
   done
 }
 
-@test "PAT の作成画面を、名前・説明・所有者・無期限・検査に要る権限を入れた URL で開く" {
+@test "PAT の作成画面を、名前・所有者・無期限・検査に要る権限を入れた URL で開く" {
   run -0 "${script}" <<<"github_pat_valid"
 
   url=$(cat "${STUB_DIR}/opened")
@@ -92,8 +92,7 @@ opened_params() {
   run -0 opened_params
   sort <<<"${output}" >"${BATS_TEST_TMPDIR}/actual"
   sort >"${BATS_TEST_TMPDIR}/expected" <<'EOF'
-name=settings-drift kentayamada-dev
-description=kentayamada-dev/kentayamada-dev の settings-drift.yml が GitHub の設定を読む。シークレット SETTINGS_READ_TOKEN に登録する
+name=SETTINGS_READ_TOKEN(kentayamada-dev)
 target_name=kentayamada-dev
 expires_in=none
 administration=read
@@ -102,15 +101,6 @@ issues=read
 metadata=read
 EOF
   diff "${BATS_TEST_TMPDIR}/expected" "${BATS_TEST_TMPDIR}/actual"
-}
-
-@test "名前が 40 文字を超えるリポジトリでは、PAT の名前を 40 文字に切り詰める" {
-  echo '{"name": "a-repository-name-longer-than-the-limit", "full_name": "kentayamada-dev/a-repository-name-longer-than-the-limit", "owner": {"login": "kentayamada-dev"}}' >"${STUB_DIR}/repository.json"
-
-  run -0 "${script}" <<<"github_pat_valid"
-
-  run -0 opened_params
-  grep -qx 'name=settings-drift a-repository-name-longer-' <<<"${output}"
 }
 
 @test "貼り付けたトークンを、シークレット SETTINGS_READ_TOKEN にそのまま登録し、トークンを表示しない" {

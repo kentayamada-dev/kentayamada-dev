@@ -34,11 +34,9 @@ params=(
   # ルールセット・リポジトリの設定・非公開の脆弱性報告を読む
   metadata=read
 )
-# 名前は 40 文字までのため、長いリポジトリ名は切り詰める
 url=$(jq -r --arg secret "${secret}" --arg tokens_url "${tokens_url}" '
   {
-    name: ("settings-drift " + .name)[0:40],
-    description: "\(.full_name) の settings-drift.yml が GitHub の設定を読む。シークレット \($secret) に登録する",
+    name: "\($secret)(\(.name))",
     target_name: .owner.login
   }
   | [to_entries[] | "\(.key)=\(.value | @uri)"] + $ARGS.positional
