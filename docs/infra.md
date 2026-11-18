@@ -6,6 +6,7 @@
 
 - [`infra/terraform/`](../infra/terraform/): OCI のネットワーク・インスタンス・ブロックボリュームと、Cloudflare Tunnel・Access を Terraform で管理する
 - [`infra/compose.yml`](../infra/compose.yml): サーバーで n8n と cloudflared を動かす
+- [`infra/setup-server.sh`](../infra/setup-server.sh): サーバーを準備して、n8n を起動する
 - [`infra/setup-data-volume.sh`](../infra/setup-data-volume.sh)・[`infra/create-env.sh`](../infra/create-env.sh)・[`infra/import-workflows.sh`](../infra/import-workflows.sh): サーバーの準備に使う
 - [`infra/workflows/`](../infra/workflows/): n8n のワークフローのバックアップ
 
@@ -64,15 +65,18 @@ Dev Container で初めて実行して差分が出たら、コミットする。
 `terraform apply` でインスタンスを作ったら、次の手順で n8n を起動する。
 
 1. OCI コンソールのシリアル・コンソールで、`ubuntu` ユーザーでログインする
-2. `cloud-init status --wait` で、初回起動の設定（[`setup-instance.sh`](../infra/terraform/setup-instance.sh)）が終わるのを待つ。Docker を入れ、このリポジトリを `~/kentayamada-dev` に取得する
-3. `cd ~/kentayamada-dev/infra` で、[`infra/`](../infra/) に移る
-4. `sudo ./setup-data-volume.sh` で、ブロックボリュームを `/srv/n8n` にマウントする
-5. `./create-env.sh` で `.env` を作る。`CF_TUNNEL_TOKEN` の値は、Dev Container で `terraform output -raw cloudflare_tunnel_token` を実行して取り出す
-6. `sudo docker compose up -d` で、n8n と cloudflared を起動する
-7. n8n の画面で、オーナーと認証情報を作る。認証情報は、前と同じ名前と種類にする
-8. `./import-workflows.sh` でワークフローを取り込み、画面で認証情報のつながりを確認してから有効にする
+2. `~/kentayamada-dev/infra/setup-server.sh` を、`sudo` を付けずに実行する
+3. n8n の画面で、オーナーと認証情報を作る。認証情報は、前と同じ名前と種類にする
+4. `~/kentayamada-dev/infra/import-workflows.sh` でワークフローを取り込み、画面で認証情報のつながりを確認してから有効にする
 
-`setup-data-volume.sh` は、ボリュームが空のときだけフォーマットし、データがあればそのまま使う。
+[`setup-server.sh`](../infra/setup-server.sh) は、次の順に進める。途中で止まったら、原因を直してもう一度実行する。
+
+1. 初回起動の設定（[`setup-instance.sh`](../infra/terraform/setup-instance.sh)）が終わるのを待つ。この設定は、Docker を入れ、このリポジトリを `~/kentayamada-dev` に取得する。最後まで進んだが問題があったときは、続けるかを聞く
+2. ブロックボリュームを `/srv/n8n` にマウントする。ボリュームが空のときだけフォーマットし、データがあればそのまま使う
+3. `.env` がなければ、値を聞いて作る。`CF_TUNNEL_TOKEN` の値は、Dev Container で `terraform output -raw cloudflare_tunnel_token` を実行して取り出す
+4. n8n と cloudflared を起動する
+
+`.env` を作り直すときは、`infra/` で `./create-env.sh` を実行する。
 `import-workflows.sh` は、同じ ID のワークフローを上書きし、取り込んだワークフローをすべて無効にする。
 
 ## インスタンスを作り直す
