@@ -24,14 +24,14 @@ url = "https://github.com/bats-core/bats-core/archive/refs/tags/v1.14.0.tar.gz"
 url_api = "https://api.github.com/repos/bats-core/bats-core/tarball/v1.14.0"
 
 [[tools.betterleaks]]
-version = "1.9.0"
+version = "v1.10.0"
 backend = "aqua:betterleaks/betterleaks"
-specifiers = ["1.9.0"]
+specifiers = ["v1.10.0"]
 
 [tools.betterleaks."platforms.linux-arm64"]
-checksum = "sha256:1d39116e0a58dc94574715e2aa12a2dbd5062f193eee3fec011fef6ba06bd13b"
-url = "https://github.com/betterleaks/betterleaks/releases/download/v1.9.0/betterleaks_1.9.0_linux_arm64.tar.gz"
-url_api = "https://api.github.com/repos/betterleaks/betterleaks/releases/assets/599108932"
+checksum = "sha256:3d7585cbe4f947aef6e31662f65beb5b43b104381a691b6b81b157ebfbb0c02d"
+url = "https://github.com/betterleaks/betterleaks/releases/download/v1.10.0/betterleaks_1.10.0_linux_arm64.tar.gz"
+url_api = "https://api.github.com/repos/betterleaks/betterleaks/releases/assets/710841284"
 provenance = "cosign"
 
 [[tools.editorconfig-checker]]
