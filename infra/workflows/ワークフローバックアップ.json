@@ -22,7 +22,7 @@
         2288,
         704
       ],
-      "id": "0a4d63a5-c312-4145-a102-3879aba116db",
+      "id": "f7f7c97e-f813-41ca-876d-5e69b095a411",
       "name": "毎日1時31分に実行"
     },
     {
@@ -57,7 +57,7 @@
         2512,
         704
       ],
-      "id": "49ddf2b1-baa2-48c0-a237-13ea3d510e39",
+      "id": "51d9454a-7c48-4b31-96a3-67785658db02",
       "name": "設定"
     },
     {
@@ -77,7 +77,7 @@
         2736,
         704
       ],
-      "id": "db6c0de9-f8fb-4c19-991a-3d0195419894",
+      "id": "fffb9bce-85f1-49a3-a3c0-e73e464b6eb9",
       "name": "ブランチの先頭を取得",
       "retryOnFail": true,
       "maxTries": 3,
@@ -118,7 +118,7 @@
         2960,
         704
       ],
-      "id": "b7f147cc-ec97-4fc7-8b92-593a0870f8ab",
+      "id": "15e8d920-c5a2-45da-a1c9-122b35ae9673",
       "name": "開いているPRを取得",
       "webhookId": "cacf300a-c3ed-445c-8e94-d5a6e927fd0d",
       "alwaysOutputData": true,
@@ -142,7 +142,7 @@
         3184,
         704
       ],
-      "id": "ce866557-c9e0-4b04-bbe7-2c0128720896",
+      "id": "246ec0ee-3e9c-4fe9-b934-f5b27d66897b",
       "name": "比べる先を決める"
     },
     {
@@ -175,7 +175,7 @@
         3408,
         704
       ],
-      "id": "6d1fcaf3-69da-47a3-a592-fdc2d4126dc1",
+      "id": "3becbc76-c135-4063-9184-79473620b762",
       "name": "GitHubにあるワークフローを取得",
       "webhookId": "8fb2bc61-20e4-4f65-b613-c2fdac591291",
       "retryOnFail": true,
@@ -218,7 +218,7 @@
         3632,
         704
       ],
-      "id": "7c0360aa-db4e-405c-b980-3dbb0ae4dbcd",
+      "id": "4dd28f9e-e1f1-48e5-8fa8-63101a5cc868",
       "name": "GitHubのファイルを取得",
       "webhookId": "a7d8cded-d2d4-4af6-a8c4-627d8a97aa45",
       "retryOnFail": true,
@@ -242,7 +242,7 @@
         3856,
         704
       ],
-      "id": "5bc4778c-7916-489d-ad57-33fa24d73cc1",
+      "id": "699f5b67-f289-4e16-9d2f-1b248fd60763",
       "name": "N8Nにあるワークフローを取得",
       "executeOnce": true,
       "retryOnFail": true,
@@ -257,7 +257,7 @@
     },
     {
       "parameters": {
-        "jsCode": "// n8n のワークフローを GitHub のファイルと比べて、GitHub に反映する操作（ブランチの用意とコミット）を 1 回の GraphQL の mutation にまとめる\n// 変更が無ければ何も返さずに止める（ブランチも PR も触らない）\nconst { branch: branchName, dir } = $('設定').first().json;\nconst target = $('比べる先を決める').first().json;\n\n// 比べる相手のファイル（ファイル名 → 中身）\n// 「GitHubのファイルを取得」が、比べる先のコミットにある dir のファイルを 1 件ずつ返す\nconst githubFiles = new Map();\nfor (const { json: file } of $('GitHubのファイルを取得').all()) {\n  // dir の直下にある .json だけを比べる\n  if (file.type !== 'file' || file.path !== `${dir}/${file.name}` || !file.name.endsWith('.json')) continue;\n  // 1 MB を超えるファイルは中身が返ってこない（encoding が none になる）。そのまま比べると毎回「変更あり」になるので、エラーにして知らせる\n  if (file.encoding !== 'base64') {\n    throw new Error(`${file.path} が大きく、GitHub から中身を取得できませんでした`);\n  }\n  // content は base64（途中に改行が入っているが、Buffer は読み飛ばす）\n  githubFiles.set(file.name, Buffer.from(file.content, 'base64').toString('utf8'));\n}\n\nconst n8nWorkflows = $input.all().map((i) => i.json);\n\n// 安全装置: n8nから取れた一覧に、このワークフロー自身が入っていなければ何も削除せずに止める。\n// 一覧が空、またはAPIキーの持ち主・プロジェクトが違って一部しか見えていないと、GitHubのファイルを全部消してしまうため。\n// 正しく動いていればこの状態にはならないので、黙って飛ばさずにエラーにして「エラー通知」でSlackに知らせる\n// （ここで止まるので、その日のバックアップも行われない）\nif (!n8nWorkflows.some((w) => w.id === $workflow.id)) {\n  throw new Error(\n    `n8nから取得したワークフロー一覧（${n8nWorkflows.length}件）に、このワークフロー自身が含まれていません。`\n    + \"認証情報「n8n account」のAPIキーの持ち主とプロジェクトを確認してください。GitHubのファイルは削除していません。\",\n  );\n}\n\nconst changes = []; // コミットメッセージに並べる変更（action は add / update / delete）\nconst additions = [];\nconst deletions = [];\nconst n8nFiles = new Set();\n\nfor (const wf of n8nWorkflows) {\n  // 公開リポジトリにコミットするので、ワークフローの中身ではない項目を外してから比べる\n  // - staticData: 実行のたびに変わる状態（前回の実行日・取得したレートなど）。入れたままだと毎日「変更あり」になる\n  // - pinData: 画面でテスト用に固定した実行データ。Binance の残高や支出などの実データがそのまま入る\n  // - activeVersion / shared: 公開中の版の写しと、前の n8n のプロジェクト情報。取り込むときにも消している（import-workflows.sh）\n  // - versionId / activeVersionId / updatedAt / triggerCount: 保存・公開・有効化のたびに n8n が書き換える管理用の値。\n  //   入れたままだと、中身が同じでも「公開しただけ」「変えずに保存しただけ」でコミットされる。\n  //   取り込むとき n8n は versionId を作り直し activeVersionId を空にするので、無くても復元に困らない\n  // active（有効/無効）は残す。切り替えは意味のある変化で、取り込み時に --activeState=fromJson で使える\n  const { staticData, pinData, activeVersion, shared, versionId, activeVersionId, updatedAt, triggerCount, ...workflow } = wf;\n  const file = `${workflow.name}.json`;\n  n8nFiles.add(file);\n\n  // ファイルの形（2 文字下げ・最後に改行なし）は変えない。変えると全部のファイルが「変更あり」になる\n  const text = JSON.stringify(workflow, null, 2);\n  if (githubFiles.get(file) === text) continue;\n\n  changes.push({ action: githubFiles.has(file) ? 'update' : 'add', name: workflow.name });\n  // createCommitOnBranch は中身を base64 で受け取る\n  additions.push({ path: `${dir}/${file}`, contents: Buffer.from(text).toString('base64') });\n}\n\n// GitHub にあって、n8n に無くなったワークフローのファイルを消す\nfor (const file of githubFiles.keys()) {\n  if (n8nFiles.has(file)) continue;\n  changes.push({ action: 'delete', name: file.replace(/\\.json$/, '') });\n  deletions.push({ path: `${dir}/${file}` });\n}\n\nif (changes.length === 0) {\n  return [];\n}\n\n// リポジトリの規約（Conventional Commits・日本語）に合わせる\n// 1 件なら「chore(infra): n8n のワークフロー「支出記録」を更新」。複数なら見出しを「…「支出記録」ほか 2 件を更新」にして、本文に 1 件ずつ並べる\nconst verbs = { add: '追加', update: '更新', delete: '削除' };\nconst verb = new Set(changes.map((c) => c.action)).size === 1 ? verbs[changes[0].action] : '変更';\nconst subject = changes.length === 1 ? `「${changes[0].name}」` : `「${changes[0].name}」ほか ${changes.length - 1} 件`;\nconst headline = `chore(infra): n8n のワークフロー${subject}を${verb}`;\nconst message = changes.length === 1\n  ? { headline }\n  : { headline, body: changes.map((c) => `${verbs[c.action]}: ${c.name}`).join('\\n') };\n\n// GitHub に反映する操作。1 回の mutation の中で上から順に動き、前の操作の結果は次の操作に反映される\n// 途中が失敗しても後ろは動くので、「コミットできたか確認」で errors を見て止める\n// ブランチを戻すのは PR が無いときだけなので、どこで失敗しても、次の実行で戻すところからやり直せる\n// PR は、コミットできてから「PRを作成」（GitHub ノード）で作る\nconst steps = [];\nif (!target.hasPR && !target.branchRefId) {\n  steps.push({\n    op: 'createRef',\n    input: { repositoryId: target.repositoryId, name: `refs/heads/${branchName}`, oid: target.oid },\n    returns: 'ref { name }',\n  });\n} else if (!target.hasPR && target.branchOid !== target.oid) {\n  // PR を閉じたときなどに残っているコミットは捨てる\n  steps.push({\n    op: 'updateRef',\n    input: { refId: target.branchRefId, oid: target.oid, force: true },\n    returns: 'ref { name }',\n  });\n}\nsteps.push({\n  op: 'createCommitOnBranch',\n  input: {\n    branch: { repositoryNameWithOwner: target.repositoryNameWithOwner, branchName },\n    // 比べたときの先頭。それまでにブランチが進んでいたら、GitHub がコミットを拒否する\n    expectedHeadOid: target.oid,\n    message,\n    fileChanges: { additions, deletions },\n  },\n  returns: 'commit { url }',\n});\n\n// 例: mutation ($createCommitOnBranch: CreateCommitOnBranchInput!) {\n//       createCommitOnBranch(input: $createCommitOnBranch) { commit { url } }\n//     }\nconst query = [\n  `mutation (${steps.map(({ op }) => `$${op}: ${op[0].toUpperCase()}${op.slice(1)}Input!`).join(', ')}) {`,\n  ...steps.map(({ op, returns }) => `  ${op}(input: $${op}) { ${returns} }`),\n  '}',\n].join('\\n');\nconst variables = Object.fromEntries(steps.map(({ op, input }) => [op, input]));\n\nreturn [{ json: { query, variables } }];\n"
+        "jsCode": "// n8n のワークフローを GitHub のファイルと比べて、GitHub に反映する操作（ブランチの用意とコミット）を 1 回の GraphQL の mutation にまとめる\n// 変更が無ければ何も返さずに止める（ブランチも PR も触らない）\nconst { branch: branchName, dir } = $('設定').first().json;\nconst target = $('比べる先を決める').first().json;\n\n// 比べる相手のファイル（ファイル名 → 中身）\n// 「GitHubのファイルを取得」が、比べる先のコミットにある dir のファイルを 1 件ずつ返す\nconst githubFiles = new Map();\nfor (const { json: file } of $('GitHubのファイルを取得').all()) {\n  // dir の直下にある .json だけを比べる\n  if (file.type !== 'file' || file.path !== `${dir}/${file.name}` || !file.name.endsWith('.json')) continue;\n  // 1 MB を超えるファイルは中身が返ってこない（encoding が none になる）。そのまま比べると毎回「変更あり」になるので、エラーにして知らせる\n  if (file.encoding !== 'base64') {\n    throw new Error(`${file.path} が大きく、GitHub から中身を取得できませんでした`);\n  }\n  // content は base64（途中に改行が入っているが、Buffer は読み飛ばす）\n  githubFiles.set(file.name, Buffer.from(file.content, 'base64').toString('utf8'));\n}\n\nconst n8nWorkflows = $input.all().map((i) => i.json);\n\n// 安全装置: n8nから取れた一覧に、このワークフロー自身が入っていなければ何も削除せずに止める。\n// 一覧が空、またはAPIキーの持ち主・プロジェクトが違って一部しか見えていないと、GitHubのファイルを全部消してしまうため。\n// 正しく動いていればこの状態にはならないので、黙って飛ばさずにエラーにして「エラー通知」でSlackに知らせる\n// （ここで止まるので、その日のバックアップも行われない）\nif (!n8nWorkflows.some((w) => w.id === $workflow.id)) {\n  throw new Error(\n    `n8nから取得したワークフロー一覧（${n8nWorkflows.length}件）に、このワークフロー自身が含まれていません。`\n    + \"認証情報「n8n account」のAPIキーの持ち主とプロジェクトを確認してください。GitHubのファイルは削除していません。\",\n  );\n}\n\nconst changes = []; // コミットメッセージに並べる変更（action は add / update / delete）\nconst additions = [];\nconst deletions = [];\nconst n8nFiles = new Set();\n\nfor (const wf of n8nWorkflows) {\n  // 公開リポジトリにコミットするので、ワークフローの中身ではない項目を外してから比べる\n  // - staticData: 実行のたびに変わる状態（前回の実行日・取得したレートなど）。入れたままだと毎日「変更あり」になる\n  // - pinData: 画面でテスト用に固定した実行データ。Binance の残高や支出などの実データがそのまま入る\n  // - activeVersion / shared: 公開中の版の写しと、前の n8n のプロジェクト情報。取り込むときにも消している（import-workflows.sh）\n  // - versionId / activeVersionId / updatedAt / triggerCount: 保存・公開・有効化のたびに n8n が書き換える管理用の値。\n  //   入れたままだと、中身が同じでも「公開しただけ」「変えずに保存しただけ」でコミットされる。\n  //   取り込むとき n8n は versionId を作り直し activeVersionId を空にするので、無くても復元に困らない\n  // - meta: エディターの画面が使う値（テンプレートの ID など）。ノードを貼り付けて認証情報を選び直しただけで\n  //   templateCredsSetupCompleted が付き、動きが同じでも「変更あり」になる\n  //   https://github.com/n8n-io/n8n/blob/n8n@2.47.3/packages/frontend/editor-ui/src/features/workflows/templates/components/SetupWorkflowCredentialsButton.vue#L92-L100\n  // active（有効/無効）は残す。切り替えは意味のある変化で、取り込み時に --activeState=fromJson で使える\n  const { staticData, pinData, activeVersion, shared, versionId, activeVersionId, updatedAt, triggerCount, meta, ...workflow } = wf;\n  const file = `${workflow.name}.json`;\n  n8nFiles.add(file);\n\n  // ファイルの形（2 文字下げ・最後に改行なし）は変えない。変えると全部のファイルが「変更あり」になる\n  const text = JSON.stringify(workflow, null, 2);\n  if (githubFiles.get(file) === text) continue;\n\n  changes.push({ action: githubFiles.has(file) ? 'update' : 'add', name: workflow.name });\n  // createCommitOnBranch は中身を base64 で受け取る\n  additions.push({ path: `${dir}/${file}`, contents: Buffer.from(text).toString('base64') });\n}\n\n// GitHub にあって、n8n に無くなったワークフローのファイルを消す\nfor (const file of githubFiles.keys()) {\n  if (n8nFiles.has(file)) continue;\n  changes.push({ action: 'delete', name: file.replace(/\\.json$/, '') });\n  deletions.push({ path: `${dir}/${file}` });\n}\n\nif (changes.length === 0) {\n  return [];\n}\n\n// リポジトリの規約（Conventional Commits・日本語）に合わせる\n// 1 件なら「chore(infra): n8n のワークフロー「支出記録」を更新」。複数なら見出しを「…「支出記録」ほか 2 件を更新」にして、本文に 1 件ずつ並べる\nconst verbs = { add: '追加', update: '更新', delete: '削除' };\nconst verb = new Set(changes.map((c) => c.action)).size === 1 ? verbs[changes[0].action] : '変更';\nconst subject = changes.length === 1 ? `「${changes[0].name}」` : `「${changes[0].name}」ほか ${changes.length - 1} 件`;\nconst headline = `chore(infra): n8n のワークフロー${subject}を${verb}`;\nconst message = changes.length === 1\n  ? { headline }\n  : { headline, body: changes.map((c) => `${verbs[c.action]}: ${c.name}`).join('\\n') };\n\n// GitHub に反映する操作。1 回の mutation の中で上から順に動き、前の操作の結果は次の操作に反映される\n// 途中が失敗しても後ろは動くので、「コミットできたか確認」で errors を見て止める\n// ブランチを戻すのは PR が無いときだけなので、どこで失敗しても、次の実行で戻すところからやり直せる\n// PR は、コミットできてから「PRを作成」（GitHub ノード）で作る\nconst steps = [];\nif (!target.hasPR && !target.branchRefId) {\n  steps.push({\n    op: 'createRef',\n    input: { repositoryId: target.repositoryId, name: `refs/heads/${branchName}`, oid: target.oid },\n    returns: 'ref { name }',\n  });\n} else if (!target.hasPR && target.branchOid !== target.oid) {\n  // PR を閉じたときなどに残っているコミットは捨てる\n  steps.push({\n    op: 'updateRef',\n    input: { refId: target.branchRefId, oid: target.oid, force: true },\n    returns: 'ref { name }',\n  });\n}\nsteps.push({\n  op: 'createCommitOnBranch',\n  input: {\n    branch: { repositoryNameWithOwner: target.repositoryNameWithOwner, branchName },\n    // 比べたときの先頭。それまでにブランチが進んでいたら、GitHub がコミットを拒否する\n    expectedHeadOid: target.oid,\n    message,\n    fileChanges: { additions, deletions },\n  },\n  returns: 'commit { url }',\n});\n\n// 例: mutation ($createCommitOnBranch: CreateCommitOnBranchInput!) {\n//       createCommitOnBranch(input: $createCommitOnBranch) { commit { url } }\n//     }\nconst query = [\n  `mutation (${steps.map(({ op }) => `$${op}: ${op[0].toUpperCase()}${op.slice(1)}Input!`).join(', ')}) {`,\n  ...steps.map(({ op, returns }) => `  ${op}(input: $${op}) { ${returns} }`),\n  '}',\n].join('\\n');\nconst variables = Object.fromEntries(steps.map(({ op, input }) => [op, input]));\n\nreturn [{ json: { query, variables } }];\n"
       },
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
@@ -265,7 +265,7 @@
         4080,
         704
       ],
-      "id": "3013f977-9a73-4c7a-a22d-27098ef12f65",
+      "id": "547a6dde-b9e4-48fe-9d1d-b9d49e24dc0b",
       "name": "変更をまとめる"
     },
     {
@@ -285,7 +285,7 @@
         4304,
         704
       ],
-      "id": "16c18521-176b-4716-a8b2-806f775a0a2e",
+      "id": "a6d383ac-02a8-4312-aeb1-b3142c581103",
       "name": "ブランチにコミット",
       "retryOnFail": true,
       "maxTries": 3,
@@ -307,7 +307,7 @@
         4528,
         704
       ],
-      "id": "8c624ed0-81f1-4897-a5eb-b26f2d132779",
+      "id": "859ae6c7-14f4-4218-8086-91fb35fee0d3",
       "name": "コミットできたか確認"
     },
     {
@@ -341,7 +341,7 @@
         4752,
         704
       ],
-      "id": "cda52ecf-e415-4a48-9bea-626a2dc3af0b",
+      "id": "260d1afb-91fc-4d1f-b1d9-8d3d4f17fcdb",
       "name": "PRがない"
     },
     {
@@ -372,7 +372,7 @@
         4976,
         704
       ],
-      "id": "dbeb3569-37e6-463e-a3f4-c5b34fefdbce",
+      "id": "f40b1c06-4744-4289-9755-e210b7dfdb18",
       "name": "PRを作成",
       "webhookId": "cec0f883-f207-48cc-8e0b-1305d86a5238",
       "retryOnFail": true,
@@ -417,7 +417,7 @@
         5200,
         704
       ],
-      "id": "107c15b3-5aa2-46d8-bc46-fe2265303819",
+      "id": "fed5ff19-0b46-4d9c-ae06-1e97c3ea880d",
       "name": "PR にラベルを付ける",
       "retryOnFail": true,
       "maxTries": 3,
@@ -585,6 +585,5 @@
     "callerPolicy": "workflowsFromSameOwner",
     "availableInMCP": false
   },
-  "meta": null,
   "tags": []
 }

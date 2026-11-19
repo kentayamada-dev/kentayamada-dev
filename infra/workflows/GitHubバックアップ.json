@@ -450,8 +450,5 @@
     "callerPolicy": "workflowsFromSameOwner",
     "availableInMCP": false
   },
-  "meta": {
-    "templateCredsSetupCompleted": true
-  },
   "tags": []
 }
