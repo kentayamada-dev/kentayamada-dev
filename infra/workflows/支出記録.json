@@ -26,7 +26,7 @@
       "webhookId": "a283f8b9-ae5a-48c8-93b3-1b30806e073a",
       "credentials": {
         "slackApi": {
-          "id": "KcbhgnRgVykTnJXT",
+          "id": "1QIAKu5rLlbRJFjs",
           "name": "Slack[Kakeibo]"
         }
       }
@@ -136,7 +136,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "KcbhgnRgVykTnJXT",
+          "id": "1QIAKu5rLlbRJFjs",
           "name": "Slack[Kakeibo]"
         }
       },
@@ -181,12 +181,16 @@
         "documentId": {
           "__rl": true,
           "value": "1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI",
-          "mode": "id"
+          "mode": "list",
+          "cachedResultName": "金",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
-          "value": "0",
-          "mode": "id"
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "サブスク",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI/edit#gid=0"
         },
         "options": {}
       },
@@ -200,7 +204,7 @@
       "name": "read_expenses",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       }
@@ -239,7 +243,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "KcbhgnRgVykTnJXT",
+          "id": "1QIAKu5rLlbRJFjs",
           "name": "Slack[Kakeibo]"
         }
       },
@@ -277,7 +281,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "KcbhgnRgVykTnJXT",
+          "id": "1QIAKu5rLlbRJFjs",
           "name": "Slack[Kakeibo]"
         }
       }
@@ -314,7 +318,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "KcbhgnRgVykTnJXT",
+          "id": "1QIAKu5rLlbRJFjs",
           "name": "Slack[Kakeibo]"
         }
       }
@@ -334,7 +338,7 @@
       "name": "OpenRouter",
       "credentials": {
         "openRouterApi": {
-          "id": "qpXHePpbCctaM5Eg",
+          "id": "MV8nhZlRjTIlwqAV",
           "name": "OpenRouter account"
         }
       }
@@ -469,6 +473,5 @@
     "binaryMode": "separate",
     "errorWorkflow": "d88ctEMElygY3yRA"
   },
-  "meta": null,
   "tags": []
 }

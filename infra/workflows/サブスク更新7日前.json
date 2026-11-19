@@ -16,13 +16,13 @@
           ]
         }
       },
-      "id": "08e2203e-23eb-4d46-9767-ac227a94f7c9",
+      "id": "61efa24a-344c-4c38-87a6-9044638ed714",
       "name": "毎日9時に実行",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.3,
       "position": [
-        -112,
-        0
+        672,
+        208
       ]
     },
     {
@@ -30,22 +30,26 @@
         "documentId": {
           "__rl": true,
           "value": "1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI",
-          "mode": "id"
+          "mode": "list",
+          "cachedResultName": "金",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
-          "value": "0",
-          "mode": "id"
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "サブスク",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI/edit#gid=0"
         },
         "options": {}
       },
-      "id": "a29a9c00-b147-4eb5-a093-2fb8a6225a35",
+      "id": "09ccd903-5694-48f8-ab64-e6feae865b93",
       "name": "支出シートを読む",
       "type": "n8n-nodes-base.googleSheets",
       "typeVersion": 4.5,
       "position": [
-        112,
-        0
+        896,
+        208
       ],
       "alwaysOutputData": true,
       "retryOnFail": true,
@@ -53,23 +57,56 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       }
     },
     {
       "parameters": {
-        "jsCode": "// ===== 設定 =====\nconst TZ = 'Asia/Tokyo';\nconst DAYS_BEFORE = 7;          // 何日前に通知するか\nconst HEARTBEAT_DOW = 1;        // 死活通知の曜日 0=日 1=月 ... 6=土 / null で無効\n\n// シートの1行目と完全に一致させること\nconst COL = {\n  date:    '登録日',\n  service: 'サービス名',\n  price:   '金額',\n  card:    'カード',\n  cycle:   '周期',\n  status:  '状態',\n};\n// 上記6列のうち1つでも見つからなければアラートを送る\nconst ACTIVE = '利用中';               // これ以外の状態は通知対象外\n// ================\n\nconst pad  = (n) => String(n).padStart(2, '0');\nconst yen  = (n) => '\\u00A5' + n.toLocaleString('ja-JP');\nconst fmt  = (d) => `${d.getUTCFullYear()}/${pad(d.getUTCMonth() + 1)}/${pad(d.getUTCDate())}`;\nconst norm = (s) => String(s).replace(/[\\s\\u3000]/g, '');  // ヘッダーの余分な空白のみ吸収\n\n// 異常時はエラーを投げずに「アラート」を返す（無言で止まらないため）\nconst alert = (body, extra = {}) => [{\n  json: { kind: 'alert', text: `\\u26A0\\uFE0F サブスク通知が正しく動いていません\\n\\n${body}`, ...extra }\n}];\n\n// ---------- JSTの今日 ----------\nconst todayStr = new Intl.DateTimeFormat('en-CA', {\n  timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit'\n}).format(new Date());\nconst [ty, tm, td] = todayStr.split('-').map(Number);\nconst today = new Date(Date.UTC(ty, tm - 1, td));\n\n// ---------- 前回実行日（取りこぼし補完用） ----------\n// 本番のスケジュール実行でのみ保存される。手動実行では持ち越されない。\nconst sd = $getWorkflowStaticData('global');\nlet gap = 1;  // 前回の正常実行から何日経ったか（通常は1）\nif (sd.lastRunDate) {\n  const [ly, lm, ld] = String(sd.lastRunDate).split('-').map(Number);\n  const last = new Date(Date.UTC(ly, lm - 1, ld));\n  if (!isNaN(last)) gap = Math.round((today - last) / 86400000);\n}\nif (!(gap >= 1)) gap = 1;              // 同日再実行・時計異常は通常判定\ngap = Math.min(gap, DAYS_BEFORE + 1);  // 長期停止後は「本日〜7日後」の範囲のみ（過ぎた更新はさかのぼらない）\n\n// ---------- 入力チェック ----------\nconst rows = $input.all().filter(i => i.json && Object.keys(i.json).length > 0);\nif (rows.length === 0) {\n  return alert('スプレッドシートから1行もデータを取得できませんでした。\\n共有設定・シート名・読み取り範囲を確認してください。');\n}\n\n// ---------- ヘッダー確認 ----------\n// 1行目だけでなく全行のキーの和集合で判定する\n// （Sheets APIは行末の空セルを省略するため、先頭行のitemに列が欠けることがある）\nconst headerKeys = [...new Set(rows.flatMap(i => Object.keys(i.json)))]\n  .filter(k => k !== 'row_number');\nconst normMap = new Map(headerKeys.map(k => [norm(k), k]));\n\nconst KEY = {};\nfor (const [field, name] of Object.entries(COL)) {\n  if (normMap.has(norm(name))) KEY[field] = normMap.get(norm(name));\n}\n\nconst missing = Object.keys(COL).filter(f => !KEY[f]);\nif (missing.length > 0) {\n  const want = missing.map(f => `\\u300C${COL[f]}\\u300D`).join('、');\n  const unknown = headerKeys.filter(k => !Object.values(KEY).includes(k));\n  return alert(\n    `列名が一致しません。\\n\\n` +\n    `見つからない列（${missing.length}件）:\\n${want}\\n\\n` +\n    `シートで検出したヘッダー:\\n${headerKeys.join(' / ') || '(なし)'}` +\n    (unknown.length ? `\\n\\n該当なしのヘッダー:\\n${unknown.join(' / ')}` : '') +\n    `\\n\\n1行目の列名が変更・削除されていないか確認してください。`\n  );\n}\n\nconst get = (row, field) => (KEY[field] ? row[KEY[field]] : undefined);\n\n// ---------- 次回更新日を求める ----------\nfunction nextRenewal(signup, isYearly, from) {\n  const day = signup.getUTCDate();\n  if (isYearly) {\n    for (let y = from.getUTCFullYear(); y <= from.getUTCFullYear() + 1; y++) {\n      const mo   = signup.getUTCMonth();\n      const last = new Date(Date.UTC(y, mo + 1, 0)).getUTCDate();\n      const cand = new Date(Date.UTC(y, mo, Math.min(day, last)));\n      if (cand >= from && cand > signup) return cand;\n    }\n    return null;\n  }\n  for (let i = 0; i < 14; i++) {\n    const y    = from.getUTCFullYear();\n    const mo   = from.getUTCMonth() + i;\n    const last = new Date(Date.UTC(y, mo + 1, 0)).getUTCDate();\n    const cand = new Date(Date.UTC(y, mo, Math.min(day, last)));\n    if (cand >= from && cand > signup) return cand;\n  }\n  return null;\n}\n\n// ---------- 集計 ----------\nconst hits = [];        // 今日通知すべきもの（未実行日の取りこぼし分を含む）\nconst upcoming = [];    // 死活通知用の直近予定\nconst badDate = [];     // 登録日が読めない行\nconst noStatus = [];    // 状態が空欄の行\nlet activeCount = 0;\n\nfor (const item of rows) {\n  const row = item.json;\n\n  const raw  = get(row, 'date');\n  const name = get(row, 'service') || '(名称未設定)';\n\n  // 完全な空行はスキップ\n  const hasAnyValue = [raw, get(row, 'service'), get(row, 'price')]\n    .some(v => String(v ?? '').trim() !== '');\n  if (!hasAnyValue) continue;\n\n  const status = String(get(row, 'status') ?? '').trim();\n  if (status !== ACTIVE) {\n    if (status === '') noStatus.push(name);\n    continue;\n  }\n\n  const m = String(raw ?? '').match(/(\\d{4})[\\/\\-.](\\d{1,2})[\\/\\-.](\\d{1,2})/);\n  if (!m) { badDate.push(name); continue; }\n  const signup = new Date(Date.UTC(Number(m[1]), Number(m[2]) - 1, Number(m[3])));\n  if (isNaN(signup)) { badDate.push(name); continue; }\n\n  activeCount++;\n\n  const isYearly = String(get(row, 'cycle') ?? '月').includes('年');\n  const renewal  = nextRenewal(signup, isYearly, today);\n  if (!renewal) continue;\n\n  const entry = {\n    service: name,\n    price: Number(String(get(row, 'price') ?? '').replace(/[^0-9.\\-]/g, '')) || 0,\n    card: String(get(row, 'card') ?? '').trim(),\n    cycle: isYearly ? '年' : '月',\n    renewal,\n    daysLeft: Math.round((renewal - today) / 86400000),\n  };\n\n  upcoming.push(entry);\n  // 通常（gap=1）は daysLeft === DAYS_BEFORE と同じ。\n  // 未実行日があった場合は、その日に通知するはずだった分まで窓を広げて拾う。\n  if (entry.daysLeft <= DAYS_BEFORE && entry.daysLeft > DAYS_BEFORE - gap) hits.push(entry);\n}\n\n// ここまで到達した＝判定が完了した実行のみ「実行済み」として記録する\n// （途中のalertで返った日は記録されず、翌日以降の窓に取りこぼしとして含まれる）\n// Slackに送るものがある日は、ここでは記録せず runDate を付けて渡し、送信に成功してから\n// 後ろの「実行日を記録」ノードで記録する。送る前に記録すると、送信に失敗した日の通知が\n// 翌日以降の窓に入らず、そのまま漏れる（n8n は実行が失敗しても staticData を保存するため）\nconst runDate = { runDate: todayStr };\n\n// 登録日が壊れている行は、通常はハートビート/更新通知の脚注で知らせる。\n// ハートビートを無効にしている場合のみ、従来どおり毎日アラートを送る。\nif (HEARTBEAT_DOW === null && badDate.length > 0 && hits.length === 0) {\n  return alert(\n    `登録日を日付として読み取れない行があります:\\n` +\n    `${badDate.slice(0, 5).join('、')}${badDate.length > 5 ? ` 他${badDate.length - 5}件` : ''}\\n\\n` +\n    `\\u300C2026/07/29\\u300D の形式で入力してください。`,\n    runDate,\n  );\n}\n\nconst footnote = () => {\n  const notes = [];\n  if (noStatus.length > 0) {\n    notes.push(`状態が未入力: ${noStatus.slice(0, 3).join('、')}${noStatus.length > 3 ? ` 他${noStatus.length - 3}件` : ''}`);\n  }\n  if (badDate.length > 0) {\n    notes.push(`登録日が不正（\\u300C2026/07/29\\u300D の形式で入力）: ${badDate.slice(0, 3).join('、')}${badDate.length > 3 ? ` 他${badDate.length - 3}件` : ''}`);\n  }\n  return notes.length ? `\\n\\n\\u26A0\\uFE0F ${notes.join('\\n\\u26A0\\uFE0F ')}` : '';\n};\n\n// ---------- 更新予定あり ----------\nif (hits.length > 0) {\n  hits.sort((a, b) =>\n    a.renewal - b.renewal ||\n    (a.cycle === b.cycle ? b.price - a.price : a.cycle === '年' ? -1 : 1)\n  );\n\n  const single = new Set(hits.map(h => +h.renewal)).size === 1;\n  const when = (h) => (h.daysLeft === 0 ? '本日' : `${h.daysLeft}日後`);\n\n  const lines = hits.map(h => {\n    const meta = [h.cycle === '年' ? '年払い' : '月払い', h.card].filter(Boolean).join(' / ');\n    const date = single ? '' : `${fmt(h.renewal)}・${when(h)} / `;\n    return `\\u30FB${h.service}  ${yen(h.price)}\\n\\u3000\\uFF08${date}${meta}\\uFF09`;\n  });\n  const total = hits.reduce((s, h) => s + h.price, 0);\n\n  const headline = single\n    ? `${fmt(hits[0].renewal)}\\uFF08${when(hits[0])}\\uFF09に以下が更新されます。`\n    : `未通知だった分を含め、以下の更新が近づいています。`;\n\n  const text =\n    `\\uD83D\\uDD14 サブスク更新のお知らせ\\n` +\n    `${headline}\\n\\n` +\n    `${lines.join('\\n')}\\n\\n` +\n    `${single ? 'この日の請求合計' : '請求合計'}: ${yen(total)}` +\n    footnote();\n\n  return [{ json: { kind: 'renewal', text, count: hits.length, total, ...runDate } }];\n}\n\n// ---------- 死活通知（週1回）----------\nif (HEARTBEAT_DOW !== null && today.getUTCDay() === HEARTBEAT_DOW) {\n  upcoming.sort((a, b) => a.renewal - b.renewal);\n  const next = upcoming.slice(0, 3)\n    .map(u => `\\u30FB${fmt(u.renewal)}  ${u.service}  ${yen(u.price)}`)\n    .join('\\n');\n\n  const text =\n    `\\u2705 サブスク監視は動作中です\\n` +\n    `${todayStr.replace(/-/g, '/')} 時点 / 利用中 ${activeCount}件\\n\\n` +\n    `直近の更新予定:\\n${next || '(予定なし)'}` +\n    footnote();\n\n  return [{ json: { kind: 'heartbeat', text, count: activeCount, ...runDate } }];\n}\n\n// 通常の「何もない日」は送信しない。送るものが無いので、ここで「実行済み」として記録する\nsd.lastRunDate = todayStr;\nreturn [];"
+        "jsCode": "// ===== 設定 =====\nconst TZ = 'Asia/Tokyo';\nconst DAYS_BEFORE = 7;          // 何日前に通知するか\nconst HEARTBEAT_DOW = 1;        // 死活通知の曜日 0=日 1=月 ... 6=土 / null で無効\n\n// シートの1行目と完全に一致させること\nconst COL = {\n  date:    '登録日',\n  service: 'サービス名',\n  price:   '金額',\n  card:    'カード',\n  cycle:   '周期',\n  status:  '状態',\n};\n// 上記6列のうち1つでも見つからなければアラートを送る\nconst ACTIVE = '利用中';               // これ以外の状態は通知対象外\n// ================\n\nconst pad  = (n) => String(n).padStart(2, '0');\nconst yen  = (n) => '\\u00A5' + n.toLocaleString('ja-JP');\nconst fmt  = (d) => `${d.getUTCFullYear()}/${pad(d.getUTCMonth() + 1)}/${pad(d.getUTCDate())}`;\nconst norm = (s) => String(s).replace(/[\\s\\u3000]/g, '');  // ヘッダーの余分な空白のみ吸収\n\n// 異常時はエラーを投げずに「アラート」を返す（無言で止まらないため）\nconst alert = (body, extra = {}) => [{\n  json: { kind: 'alert', text: `\\u26A0\\uFE0F サブスク通知が正しく動いていません\\n\\n${body}`, ...extra }\n}];\n\n// ---------- JSTの今日 ----------\nconst todayStr = new Intl.DateTimeFormat('en-CA', {\n  timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit'\n}).format(new Date());\nconst [ty, tm, td] = todayStr.split('-').map(Number);\nconst today = new Date(Date.UTC(ty, tm - 1, td));\n\n// ---------- 前回実行日（取りこぼし補完用） ----------\n// 本番のスケジュール実行でのみ保存される。手動実行では持ち越されない。\nconst sd = $getWorkflowStaticData('global');\nlet gap = 1;  // 前回の正常実行から何日経ったか（通常は1）\nif (sd.lastRunDate) {\n  const [ly, lm, ld] = String(sd.lastRunDate).split('-').map(Number);\n  const last = new Date(Date.UTC(ly, lm - 1, ld));\n  if (!isNaN(last)) gap = Math.round((today - last) / 86400000);\n}\nif (!(gap >= 1)) gap = 1;              // 同日再実行・時計異常は通常判定\ngap = Math.min(gap, DAYS_BEFORE + 1);  // 長期停止後は「本日〜7日後」の範囲のみ（過ぎた更新はさかのぼらない）\n\n// ---------- 入力チェック ----------\nconst rows = $input.all().filter(i => i.json && Object.keys(i.json).length > 0);\nif (rows.length === 0) {\n  return alert('スプレッドシートから1行もデータを取得できませんでした。\\n共有設定・シート名・読み取り範囲を確認してください。');\n}\n\n// ---------- ヘッダー確認 ----------\n// 1行目だけでなく全行のキーの和集合で判定する\n// （Sheets APIは行末の空セルを省略するため、先頭行のitemに列が欠けることがある）\nconst headerKeys = [...new Set(rows.flatMap(i => Object.keys(i.json)))]\n  .filter(k => k !== 'row_number');\nconst normMap = new Map(headerKeys.map(k => [norm(k), k]));\n\nconst KEY = {};\nfor (const [field, name] of Object.entries(COL)) {\n  if (normMap.has(norm(name))) KEY[field] = normMap.get(norm(name));\n}\n\nconst missing = Object.keys(COL).filter(f => !KEY[f]);\nif (missing.length > 0) {\n  const want = missing.map(f => `\\u300C${COL[f]}\\u300D`).join('、');\n  const unknown = headerKeys.filter(k => !Object.values(KEY).includes(k));\n  return alert(\n    `列名が一致しません。\\n\\n` +\n    `見つからない列（${missing.length}件）:\\n${want}\\n\\n` +\n    `シートで検出したヘッダー:\\n${headerKeys.join(' / ') || '(なし)'}` +\n    (unknown.length ? `\\n\\n該当なしのヘッダー:\\n${unknown.join(' / ')}` : '') +\n    `\\n\\n1行目の列名が変更・削除されていないか確認してください。`\n  );\n}\n\nconst get = (row, field) => (KEY[field] ? row[KEY[field]] : undefined);\n\n// ---------- 次回更新日を求める ----------\nfunction nextRenewal(signup, isYearly, from) {\n  const day = signup.getUTCDate();\n  if (isYearly) {\n    for (let y = from.getUTCFullYear(); y <= from.getUTCFullYear() + 1; y++) {\n      const mo   = signup.getUTCMonth();\n      const last = new Date(Date.UTC(y, mo + 1, 0)).getUTCDate();\n      const cand = new Date(Date.UTC(y, mo, Math.min(day, last)));\n      if (cand >= from && cand > signup) return cand;\n    }\n    return null;\n  }\n  for (let i = 0; i < 14; i++) {\n    const y    = from.getUTCFullYear();\n    const mo   = from.getUTCMonth() + i;\n    const last = new Date(Date.UTC(y, mo + 1, 0)).getUTCDate();\n    const cand = new Date(Date.UTC(y, mo, Math.min(day, last)));\n    if (cand >= from && cand > signup) return cand;\n  }\n  return null;\n}\n\n// ---------- 集計 ----------\nconst hits = [];        // 今日通知すべきもの（未実行日の取りこぼし分を含む）\nconst upcoming = [];    // 死活通知用の直近予定\nconst badDate = [];     // 登録日が読めない行\nconst noStatus = [];    // 状態が空欄の行\nlet activeCount = 0;\n\nfor (const item of rows) {\n  const row = item.json;\n\n  const raw  = get(row, 'date');\n  const name = get(row, 'service') || '(名称未設定)';\n\n  // 完全な空行はスキップ\n  const hasAnyValue = [raw, get(row, 'service'), get(row, 'price')]\n    .some(v => String(v ?? '').trim() !== '');\n  if (!hasAnyValue) continue;\n\n  const status = String(get(row, 'status') ?? '').trim();\n  if (status !== ACTIVE) {\n    if (status === '') noStatus.push(name);\n    continue;\n  }\n\n  const m = String(raw ?? '').match(/(\\d{4})[\\/\\-.](\\d{1,2})[\\/\\-.](\\d{1,2})/);\n  if (!m) { badDate.push(name); continue; }\n  const signup = new Date(Date.UTC(Number(m[1]), Number(m[2]) - 1, Number(m[3])));\n  if (isNaN(signup)) { badDate.push(name); continue; }\n\n  activeCount++;\n\n  const isYearly = String(get(row, 'cycle') ?? '月').includes('年');\n  const renewal  = nextRenewal(signup, isYearly, today);\n  if (!renewal) continue;\n\n  const entry = {\n    service: name,\n    price: Number(String(get(row, 'price') ?? '').replace(/[^0-9.\\-]/g, '')) || 0,\n    card: String(get(row, 'card') ?? '').trim(),\n    cycle: isYearly ? '年' : '月',\n    renewal,\n    daysLeft: Math.round((renewal - today) / 86400000),\n  };\n\n  upcoming.push(entry);\n  // 通常（gap=1）は daysLeft === DAYS_BEFORE と同じ。\n  // 未実行日があった場合は、その日に通知するはずだった分まで窓を広げて拾う。\n  if (entry.daysLeft <= DAYS_BEFORE && entry.daysLeft > DAYS_BEFORE - gap) hits.push(entry);\n}\n\n// ここまで到達した＝判定が完了した実行のみ「実行済み」として記録する\n// （途中のalertで返った日は記録されず、翌日以降の窓に取りこぼしとして含まれる）\n// 記録はここではせず、runDate を付けて渡し、後ろの「実行日を記録」ノードでする。\n// Slackに送る日は送信に成功してから記録する。送る前に記録すると、送信に失敗した日の通知が\n// 翌日以降の窓に入らず、そのまま漏れる（n8n は実行が失敗しても staticData を保存するため）\nconst runDate = { runDate: todayStr };\n\n// 登録日が壊れている行は、通常はハートビート/更新通知の脚注で知らせる。\n// ハートビートを無効にしている場合のみ、従来どおり毎日アラートを送る。\nif (HEARTBEAT_DOW === null && badDate.length > 0 && hits.length === 0) {\n  return alert(\n    `登録日を日付として読み取れない行があります:\\n` +\n    `${badDate.slice(0, 5).join('、')}${badDate.length > 5 ? ` 他${badDate.length - 5}件` : ''}\\n\\n` +\n    `\\u300C2026/07/29\\u300D の形式で入力してください。`,\n    runDate,\n  );\n}\n\nconst footnote = () => {\n  const notes = [];\n  if (noStatus.length > 0) {\n    notes.push(`状態が未入力: ${noStatus.slice(0, 3).join('、')}${noStatus.length > 3 ? ` 他${noStatus.length - 3}件` : ''}`);\n  }\n  if (badDate.length > 0) {\n    notes.push(`登録日が不正（\\u300C2026/07/29\\u300D の形式で入力）: ${badDate.slice(0, 3).join('、')}${badDate.length > 3 ? ` 他${badDate.length - 3}件` : ''}`);\n  }\n  return notes.length ? `\\n\\n\\u26A0\\uFE0F ${notes.join('\\n\\u26A0\\uFE0F ')}` : '';\n};\n\n// ---------- 更新予定あり ----------\nif (hits.length > 0) {\n  hits.sort((a, b) =>\n    a.renewal - b.renewal ||\n    (a.cycle === b.cycle ? b.price - a.price : a.cycle === '年' ? -1 : 1)\n  );\n\n  const single = new Set(hits.map(h => +h.renewal)).size === 1;\n  const when = (h) => (h.daysLeft === 0 ? '本日' : `${h.daysLeft}日後`);\n\n  const lines = hits.map(h => {\n    const meta = [h.cycle === '年' ? '年払い' : '月払い', h.card].filter(Boolean).join(' / ');\n    const date = single ? '' : `${fmt(h.renewal)}・${when(h)} / `;\n    return `\\u30FB${h.service}  ${yen(h.price)}\\n\\u3000\\uFF08${date}${meta}\\uFF09`;\n  });\n  const total = hits.reduce((s, h) => s + h.price, 0);\n\n  const headline = single\n    ? `${fmt(hits[0].renewal)}\\uFF08${when(hits[0])}\\uFF09に以下が更新されます。`\n    : `未通知だった分を含め、以下の更新が近づいています。`;\n\n  const text =\n    `\\uD83D\\uDD14 サブスク更新のお知らせ\\n` +\n    `${headline}\\n\\n` +\n    `${lines.join('\\n')}\\n\\n` +\n    `${single ? 'この日の請求合計' : '請求合計'}: ${yen(total)}` +\n    footnote();\n\n  return [{ json: { kind: 'renewal', text, count: hits.length, total, ...runDate } }];\n}\n\n// ---------- 死活通知（週1回）----------\nif (HEARTBEAT_DOW !== null && today.getUTCDay() === HEARTBEAT_DOW) {\n  upcoming.sort((a, b) => a.renewal - b.renewal);\n  const next = upcoming.slice(0, 3)\n    .map(u => `\\u30FB${fmt(u.renewal)}  ${u.service}  ${yen(u.price)}`)\n    .join('\\n');\n\n  const text =\n    `\\u2705 サブスク監視は動作中です\\n` +\n    `${todayStr.replace(/-/g, '/')} 時点 / 利用中 ${activeCount}件\\n\\n` +\n    `直近の更新予定:\\n${next || '(予定なし)'}` +\n    footnote();\n\n  return [{ json: { kind: 'heartbeat', text, count: activeCount, ...runDate } }];\n}\n\n// 通常の「何もない日」は送信しない。kind: 'none' で「送る内容がある」の false に流し、「実行日を記録」で記録する\nreturn [{ json: { kind: 'none', ...runDate } }];"
       },
-      "id": "eac012e4-9820-4629-8579-3fd96c3c7044",
+      "id": "25b57b4c-1b6b-4979-b3f7-3fe4ad1a57de",
       "name": "7日後が更新日の行を抽出",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        336,
-        0
+        1120,
+        208
       ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "26eddf62-5ed0-4c27-9e59-dec48378ad8d",
+              "leftValue": "={{ $json.kind }}",
+              "rightValue": "none",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        1344,
+        208
+      ],
+      "id": "24d57732-8e90-40e1-8fbf-2b1e07cfeb7e",
+      "name": "送る内容がある"
     },
     {
       "parameters": {
@@ -77,20 +114,21 @@
         "channelId": {
           "__rl": true,
           "value": "C0BUVM19XM5",
-          "mode": "id"
+          "mode": "list",
+          "cachedResultName": "misc-notifications"
         },
         "text": "={{ $json.text }}",
         "otherOptions": {
           "includeLinkToWorkflow": false
         }
       },
-      "id": "5aaf9d4c-de62-4b93-b308-83cb65f3a01f",
+      "id": "b5c90045-53d3-4c42-b4bb-3cb4e432ca47",
       "name": "Slackに通知",
       "type": "n8n-nodes-base.slack",
       "typeVersion": 2.3,
       "position": [
-        560,
-        0
+        1568,
+        128
       ],
       "retryOnFail": true,
       "maxTries": 3,
@@ -98,22 +136,22 @@
       "webhookId": "9d7daba7-597e-407e-a229-d90fad169610",
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }
     },
     {
       "parameters": {
-        "jsCode": "// Slackへの送信が成功したときだけ、その日を「実行済み」として記録する\n// 送信に失敗するとワークフローはエラーで止まり、ここまで来ない。記録されないので、\n// 翌日の「7日後が更新日の行を抽出」がその日の分まで窓を広げて拾い直す\n// （runDate が無いもの＝途中で止まったアラートは、これまでどおり記録しない）\nconst runDate = $('7日後が更新日の行を抽出').first().json.runDate;\nif (runDate) {\n  $getWorkflowStaticData('global').lastRunDate = runDate;\n}\nreturn [];"
+        "jsCode": "// 送るものがない日（「送る内容がある」の false）と、Slackへの送信が成功した日に、その日を「実行済み」として記録する\n// 送信に失敗するとワークフローはエラーで止まり、ここまで来ない。記録されないので、\n// 翌日の「7日後が更新日の行を抽出」がその日の分まで窓を広げて拾い直す\n// （runDate が無いもの＝途中で止まったアラートは、これまでどおり記録しない）\nconst runDate = $('7日後が更新日の行を抽出').first().json.runDate;\nif (runDate) {\n  $getWorkflowStaticData('global').lastRunDate = runDate;\n}\nreturn [];"
       },
-      "id": "bb0f560a-e26e-440a-848d-5a2ab88a1f4e",
+      "id": "32548caf-da04-4734-96d0-2bf3faefd0e3",
       "name": "実行日を記録",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        784,
-        0
+        1792,
+        208
       ]
     }
   ],
@@ -144,7 +182,7 @@
       "main": [
         [
           {
-            "node": "Slackに通知",
+            "node": "送る内容がある",
             "type": "main",
             "index": 0
           }
@@ -161,6 +199,24 @@
           }
         ]
       ]
+    },
+    "送る内容がある": {
+      "main": [
+        [
+          {
+            "node": "Slackに通知",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "実行日を記録",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "nodeGroups": [],
@@ -169,6 +225,5 @@
     "binaryMode": "separate",
     "errorWorkflow": "d88ctEMElygY3yRA"
   },
-  "meta": null,
   "tags": []
 }
