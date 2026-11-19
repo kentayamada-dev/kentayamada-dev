@@ -17,6 +17,7 @@ workflows:
     '.github/workflows/editorconfig.yml':
         - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+    '.github/workflows/events-probe.yml': []
     '.github/workflows/ghalint.yml':
         - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'

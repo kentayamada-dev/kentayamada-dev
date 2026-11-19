@@ -1,0 +1,19 @@
+name: 許していないイベントの検証
+
+on:
+  pull_request_review:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  probe:
+    name: events-probe
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    steps:
+      - run: echo probe
