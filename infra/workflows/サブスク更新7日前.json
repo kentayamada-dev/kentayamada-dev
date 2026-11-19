@@ -30,12 +30,16 @@
         "documentId": {
           "__rl": true,
           "value": "1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI",
-          "mode": "id"
+          "mode": "list",
+          "cachedResultName": "金",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI/edit?usp=drivesdk"
         },
         "sheetName": {
           "__rl": true,
-          "value": "0",
-          "mode": "id"
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "サブスク",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1oILnfBi8w3naRIraLd9ee1FDS-LYRyjqI_IaNi0cifI/edit#gid=0"
         },
         "options": {}
       },
@@ -53,7 +57,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       }
@@ -98,7 +102,7 @@
       "webhookId": "9d7daba7-597e-407e-a229-d90fad169610",
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }

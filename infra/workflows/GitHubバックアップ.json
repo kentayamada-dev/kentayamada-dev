@@ -1,8 +1,8 @@
 {
-  "id": "mihBGGvM5ero2WtP",
+  "id": "LU6dEhSUFRbkBfg0",
   "name": "GitHubバックアップ",
   "active": true,
-  "createdAt": "2026-08-28T08:11:06.191Z",
+  "createdAt": "2026-11-19T01:38:52.455Z",
   "isArchived": false,
   "nodes": [
     {
@@ -19,10 +19,10 @@
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.3,
       "position": [
-        -160,
-        96
+        -528,
+        -48
       ],
-      "id": "f154a4a6-9acc-419c-bec2-6b0a0e43c12a",
+      "id": "0d47f59d-02c3-4869-80c3-3429934c2ce2",
       "name": "毎日23時14分に実行"
     },
     {
@@ -50,17 +50,17 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        64,
-        96
+        -304,
+        -48
       ],
-      "id": "4f799152-7d3b-4ece-ba85-3bdcd2a76b78",
+      "id": "9f5d6332-038a-4b3b-93ee-06f242ca28fd",
       "name": "全てのレポジトリ取得",
       "retryOnFail": true,
       "maxTries": 3,
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
@@ -84,10 +84,10 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        288,
-        96
+        -80,
+        -48
       ],
-      "id": "f40d82b1-1c28-4fba-82e5-fadd93142776",
+      "id": "aec92d5a-d251-4eb7-9bc3-341c2a6c275d",
       "name": "全てのバックアップファイル取得",
       "executeOnce": true,
       "alwaysOutputData": true,
@@ -96,7 +96,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "zPDLGiZIzw3NRgu3",
+          "id": "Cy6szCS7bgXH3qr8",
           "name": "Google Drive account"
         }
       }
@@ -108,10 +108,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        512,
-        0
+        144,
+        -144
       ],
-      "id": "af4347fe-1366-4dd6-b32d-0f81ad84e6ab",
+      "id": "3a48ebcf-6af6-4f60-9beb-2ecd2fa1c78a",
       "name": "削除するファイル"
     },
     {
@@ -127,17 +127,17 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        736,
-        0
+        368,
+        -144
       ],
-      "id": "1950f313-ede3-462a-8623-4e79879dd58f",
+      "id": "ee775119-5001-432f-ab07-ca89a58c2704",
       "name": "ファイル削除",
       "retryOnFail": true,
       "maxTries": 3,
       "waitBetweenTries": 5000,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "zPDLGiZIzw3NRgu3",
+          "id": "Cy6szCS7bgXH3qr8",
           "name": "Google Drive account"
         }
       }
@@ -149,10 +149,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        512,
-        192
+        144,
+        48
       ],
-      "id": "783540f9-95dc-421a-80f4-90a304f5bb2f",
+      "id": "69e7c302-b823-4fab-b209-f223b6ef21d7",
       "name": "バックアップ対象リスト"
     },
     {
@@ -165,17 +165,17 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        736,
-        192
+        368,
+        48
       ],
-      "id": "07c1c5f9-8044-4797-b718-5dd184edabfa",
+      "id": "9db96edc-54a1-4eb1-8c50-b3f60500acce",
       "name": "レポジトリダウンロード",
       "retryOnFail": true,
       "maxTries": 3,
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       },
@@ -210,10 +210,10 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.3,
       "position": [
-        960,
-        96
+        592,
+        -48
       ],
-      "id": "ce95e50c-61ae-4add-a0ca-2f2ada89177d",
+      "id": "ba5a7f38-9288-432c-ae4d-c069dc40e389",
       "name": "レポジトリが存在している"
     },
     {
@@ -230,17 +230,17 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        1184,
-        0
+        816,
+        -144
       ],
-      "id": "bfc6f833-67df-4d1c-b80a-38c01831851d",
+      "id": "bc83d995-06c4-4766-ae78-e5d4ac3be27d",
       "name": "レポジトリアップデート",
       "retryOnFail": true,
       "maxTries": 3,
       "waitBetweenTries": 5000,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "zPDLGiZIzw3NRgu3",
+          "id": "Cy6szCS7bgXH3qr8",
           "name": "Google Drive account"
         }
       }
@@ -257,27 +257,27 @@
         },
         "folderId": {
           "__rl": true,
-          "value": "1i38Cz2iTC5BANaNG6KL5yZM9C8U7hdge",
+          "value": "1kCJWPU_PTz9Mg7Q4XeoGO9x9jD7uPOvn",
           "mode": "list",
           "cachedResultName": "GitHub Backup",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/1i38Cz2iTC5BANaNG6KL5yZM9C8U7hdge"
+          "cachedResultUrl": "https://drive.google.com/drive/folders/1kCJWPU_PTz9Mg7Q4XeoGO9x9jD7uPOvn"
         },
         "options": {}
       },
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        1184,
-        192
+        816,
+        48
       ],
-      "id": "b46a9dea-f45f-4eef-ae02-81bd1c4704b2",
+      "id": "bf175b14-afe8-49b3-be02-ddeca3cb50e0",
       "name": "レポジトリアップロード",
       "retryOnFail": true,
       "maxTries": 3,
       "waitBetweenTries": 5000,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "zPDLGiZIzw3NRgu3",
+          "id": "Cy6szCS7bgXH3qr8",
           "name": "Google Drive account"
         }
       }
@@ -289,10 +289,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        960,
-        288
+        592,
+        144
       ],
-      "id": "8dee0492-dab2-45c6-a699-0b161d6c029e",
+      "id": "6095008e-2671-4c5f-9cbf-1f9811d7d75e",
       "name": "ダウンロード失敗を通知"
     }
   ],
@@ -397,9 +397,10 @@
   "nodeGroups": [],
   "settings": {
     "executionOrder": "v1",
-    "binaryMode": "separate",
-    "errorWorkflow": "d88ctEMElygY3yRA"
+    "binaryMode": "separate"
   },
-  "meta": null,
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
   "tags": []
 }

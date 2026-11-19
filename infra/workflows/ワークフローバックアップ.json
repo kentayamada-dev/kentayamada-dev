@@ -1,7 +1,7 @@
 {
   "id": "gzCmFPA4JUmcr5Xd",
   "name": "ワークフローバックアップ",
-  "active": true,
+  "active": false,
   "createdAt": "2026-08-29T03:16:41.188Z",
   "isArchived": false,
   "nodes": [
@@ -84,7 +84,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
@@ -127,7 +127,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
@@ -183,7 +183,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
@@ -226,7 +226,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
@@ -250,7 +250,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "n8nApi": {
-          "id": "Sxo1xsqEBOP7vLc4",
+          "id": "SBaVIIy2gQNzFOB1",
           "name": "n8n account"
         }
       }
@@ -292,7 +292,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
@@ -380,7 +380,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "githubApi": {
-          "id": "Z9dTIH8OijsBIZfO",
+          "id": "VfSJTTkiSU9HgDcX",
           "name": "GitHub account"
         }
       }
