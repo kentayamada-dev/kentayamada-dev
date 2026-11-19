@@ -30,6 +30,9 @@ Claude Code が Bash で実行するコマンドは、サンドボックスの�
 - 外で動くのは、コマンドの書き方が決まりに合うときだけ。決まりは [`CLAUDE.md`](../CLAUDE.md) にあり、スキルの手順に書く `gh` のコマンドにも当てはまる
 - サンドボックスのなかで失敗したコマンドは、サンドボックスの外で実行し直さない
 - コミット・push・PR のマージ・`rm` などは、実行の前に Claude Code が確認を求める。対象は `settings.json` の `permissions.ask` にある
+- `gh` のうち、状態を読むだけのコマンドは確認なしで実行する。対象は `settings.json` の `permissions.allow` にある
+  - サンドボックスの外で動くコマンドは、`autoAllowBashIfSandboxed` では許可されないため、`allow` に書く
+  - `gh api` は書き込みもできるので、`allow` に足さない
 - Claude に読ませないファイルは、`permissions.deny` の `Read(...)` と `sandbox.credentials.files` の両方に書く
   - `Read(...)` は、Read などのツールと、サンドボックスのなかのコマンドの両方を止める
   - `sandbox.credentials.files` は、管理者の設定で `permissions.deny` が無視されたときも、サンドボックスのなかのコマンドを止める
