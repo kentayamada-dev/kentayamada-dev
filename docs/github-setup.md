@@ -81,7 +81,7 @@ App を作らずに、作成済みの App の秘密鍵とクライアント ID �
 ```
 
 1. ブラウザで PAT の作成画面が、名前・期限・権限を入れた状態で開く
-2. 「Repository access」の「Only select repositories」でこのリポジトリだけを選び、「Generate token」を押す。初めは「All repositories」が選ばれていることがあり、そのまま作ると、すべてのリポジトリの設定を変えられるトークンになる
+2. 「Repository access」の「Only select repositories」でこのリポジトリだけを選び、「Generate token」を押す。はじめは「All repositories」が選ばれていることがあり、そのまま作ると、すべてのリポジトリの設定を変えられるトークンになる
 3. 表示されたトークンをコピーし、ターミナルに貼り付ける。スクリプトが、このリポジトリの設定を読めることを確認してから、シークレット `SETTINGS_READ_TOKEN` に登録する
 
 PAT は無期限で作る。
