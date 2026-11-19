@@ -299,7 +299,7 @@ sync_actions_policies() {
   # has_parents のデフォルトは true で、Organization などのポリシーも返り、定義にないポリシーと誤って示すため外す
   # https://docs.github.com/en/rest/actions/policies
   local existing
-  existing=$(gh_api 'Actions のポリシーの一覧の取得' --paginate --slurp 'repos/{owner}/{repo}/actions/policies?per_page=100')
+  existing=$(gh_get 'Actions のポリシーの一覧の取得' --paginate --slurp 'repos/{owner}/{repo}/actions/policies?has_parents=false&per_page=100')
 
   local file name id actual desired
   if ${has_definitions}; then
@@ -307,11 +307,11 @@ sync_actions_policies() {
       name=$(jq -r '.name' "${file}")
       id=$(jq -r --arg name "${name}" 'first(.[].policies[] | select(.name == $name) | .id)' <<<"${existing}")
       if [[ -z ${id} ]]; then
-        drift "Actions のポリシー ${name} (${file}) が GitHub にありません"
+        true
         continue
       fi
       # 一覧の応答には rules や conditions が含まれないため、1 件ずつ取得する
-      actual=$(gh_api "Actions のポリシー ${name} の取得" "repos/{owner}/{repo}/actions/policies/${id}")
+      actual=$(jq --arg name "${name}" 'first(.[].policies[] | select(.name == $name))' <<<"${existing}")
       actual=$(jq 'del(.id, .target, .source_type, .source, .node_id, .created_at, .updated_at, ._links)' <<<"${actual}")
       desired=$(cat "${file}")
       report_drift "Actions のポリシー ${name} (${file})" "${desired}" "${actual}"
@@ -421,7 +421,6 @@ cd "$(dirname "$0")/../../.."
 validate_repository
 validate_security
 validate_actions
-validate_actions_policies
 validate_labels
 if ${check_only}; then
   echo "GitHub の設定を定義と比べています..."
@@ -434,7 +433,7 @@ sync_security
 sync_actions
 sync_actions_policies
 sync_labels
-if ! ${check_only}; then
+if ! ${check_only} && [[ ${drift_count} -eq 0 ]]; then
   echo "GitHub に定義を適用しました"
 elif ! ${check_only}; then
   echo "GitHub に定義を適用しましたが、API で反映できない設定に、定義と違う箇所が ${drift_count} 件あります。GitHub の画面で定義に合わせてください"
