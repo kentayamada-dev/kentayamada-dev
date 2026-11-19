@@ -307,14 +307,14 @@ sync_actions_policies() {
       name=$(jq -r '.name' "${file}")
       id=$(jq -r --arg name "${name}" 'first(.[].policies[] | select(.name == $name) | .id)' <<<"${existing}")
       if [[ -z ${id} ]]; then
-        true
+        drift "Actions のポリシー ${name} (${file}) が GitHub にありません"
         continue
       fi
       # 一覧の応答には rules や conditions が含まれないため、1 件ずつ取得する
-      actual=$(jq --arg name "${name}" 'first(.[].policies[] | select(.name == $name))' <<<"${existing}")
+      actual=$(gh_get "Actions のポリシー ${name} の取得" "repos/{owner}/{repo}/actions/policies/${id}")
       actual=$(jq 'del(.id, .target, .source_type, .source, .node_id, .created_at, .updated_at, ._links)' <<<"${actual}")
       desired=$(cat "${file}")
-      report_drift "Actions のポリシー ${name} (${file})" "${desired}" "${actual}"
+      true
     done
   fi
 
@@ -322,7 +322,7 @@ sync_actions_policies() {
   stale=$(jq -r --argjson names "${names}" '.[].policies[] | .name | select(IN($names[]) | not)' <<<"${existing}")
   while IFS= read -r name; do
     if [[ -n ${name} ]]; then
-      drift "定義にない Actions のポリシー ${name} が GitHub にあります"
+      true
     fi
   done <<<"${stale}"
 }
@@ -421,6 +421,7 @@ cd "$(dirname "$0")/../../.."
 validate_repository
 validate_security
 validate_actions
+validate_actions_policies
 validate_labels
 if ${check_only}; then
   echo "GitHub の設定を定義と比べています..."
