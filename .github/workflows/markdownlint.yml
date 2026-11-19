@@ -25,7 +25,7 @@ jobs:
         with:
           # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
           persist-credentials: false
-      - uses: DavidAnson/markdownlint-cli2-action@21c1be1b93ad9ed58fa840aacc3f279cde2a72ff # v24.2.0
+      - uses: DavidAnson/markdownlint-cli2-action@696eb3f2509270d7b882d2aa68347bc676e7af34 # v25.0.0
         with:
           config: .github/markdownlint-cli2.jsonc
           # 未指定時の *.{md,markdown} はリポジトリ直下しか検査しないため https://github.com/DavidAnson/markdownlint-cli2-action/blob/v24.2.0/action.yml
