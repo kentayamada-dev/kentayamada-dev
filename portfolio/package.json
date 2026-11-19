@@ -26,7 +26,7 @@
     "eslint-plugin-security": "4.2.1",
     "knip": "6.44.1",
     "oxfmt": "0.76.0",
-    "oxlint": "1.90.0",
+    "oxlint": "1.91.0",
     "oxlint-tsgolint": "7.0.2005",
     "tailwindcss": "4.3.4",
     "typescript": "7.0.2"
