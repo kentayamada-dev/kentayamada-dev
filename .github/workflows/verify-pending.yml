@@ -1,0 +1,28 @@
+# PR #35 の検証用。順番待ち（PENDING）の実行の startedAt を観察したら、PR ごと閉じて消す
+name: PENDING の検証
+
+on:
+  pull_request:
+
+permissions: {}
+
+# 取り消さないので、同じ PR に次の push をすると、新しい実行はこの実行が終わるまで順番待ちになる
+concurrency:
+  group: verify-pending-run
+
+jobs:
+  # 2 つのジョブが同じグループを取り合い、あとのジョブは先のジョブが終わるまで順番待ちになる
+  first:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: verify-pending-job
+    steps:
+      - run: sleep 300
+  second:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: verify-pending-job
+    steps:
+      - run: sleep 300
