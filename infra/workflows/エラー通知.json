@@ -11,7 +11,8 @@
         "channelId": {
           "__rl": true,
           "value": "C0BUVM19XM5",
-          "mode": "id"
+          "mode": "list",
+          "cachedResultName": "misc-notifications"
         },
         "text": "={{ $json.text }}",
         "otherOptions": {
@@ -32,7 +33,7 @@
       "webhookId": "71d93a48-de57-4b7e-b98a-4e0a7ae32e88",
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }
@@ -91,6 +92,5 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "meta": null,
   "tags": []
 }
