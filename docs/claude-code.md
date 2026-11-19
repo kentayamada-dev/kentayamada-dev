@@ -12,7 +12,7 @@ Claude への指示は、[`CLAUDE.md`](../CLAUDE.md) と [`.claude/rules/`](../.
 | --- | --- | --- |
 | [`/merge-dependency-pr`](../.claude/skills/merge-dependency-pr/SKILL.md) | 自動マージしない Renovate の PR をマージする | PR へのコメントの投稿と書き換え |
 | [`/catchup-dependency-prs`](../.claude/skills/catchup-dependency-prs/SKILL.md) | 自動マージを予約した PR が main に遅れて止まっている | PR のブランチの更新・Renovate のワークフローの実行 |
-| [`/prune-leftovers`](../.claude/skills/prune-leftovers/SKILL.md) | PR のないリモートのブランチと、デフォルトブランチにないワークフローの実行を片付ける | リモートのブランチと実行の削除 |
+| [`/prune-leftovers`](../.claude/skills/prune-leftovers/SKILL.md) | PR のないリモートのブランチと、マージしなかったブランチなどの実行を片付ける | リモートのブランチと実行の削除 |
 | [`/review-comments`](../.claude/skills/review-comments/SKILL.md) | 古くなったコメントを探す | なし |
 
 どのスキルも、マージ・push・PR のクローズ・ファイルの修正は、選択肢を示して選ばれたものだけをする。
