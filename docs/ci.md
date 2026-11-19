@@ -136,7 +136,7 @@ Renovate の PR に自分でコミットすると、Renovate はそのブラン�
 - 使えるのは、GitHub 製のもの・Marketplace の検証済みの作者のもの・[`.github/settings/actions.json`](../.github/settings/actions.json) に足したものだけ
 - アクションは、コミットの SHA かロックファイルで固定しないと使えない
 - ワークフローのアクションは、`v1.2.3` のような完全な版のタグで指定し、ロックファイルで固定する。版とロックファイルは Renovate が更新する
-- [composite アクションの定義](../.github/actions/)と再利用ワークフローの呼び出し（ジョブの `uses:`）は、ロックファイルで固定できないため、コミットの SHA で指定する。SHA に続けて、その版をコメントで書く。SHA と版は Renovate が更新する
+- [composite アクションの定義](../.github/actions/) と再利用ワークフローの呼び出し（ジョブの `uses:`）は、ロックファイルで固定できないため、コミットの SHA で指定する。SHA に続けて、その版をコメントで書く。SHA と版は Renovate が更新する
 
 ほかのアクションを使うときは、`actions.json` の `patterns_allowed` に足す。
 
