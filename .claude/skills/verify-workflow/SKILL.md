@@ -57,15 +57,9 @@ CI の成否だけで結論を出さない。検証項目ごとに、次のど�
 
 ## 5. 後片付けをする
 
-- 検証用の PR は `gh pr close <番号> --delete-branch` で閉じ、ブランチを削除する
-- 検証用ブランチでの実行を、すべて削除する。PR を閉じたことで始まる実行も消すため、PR を閉じてから削除する
-  - 実行の一覧は `gh run list --branch test/<内容> --limit 100 --json databaseId,status` で取る。ブランチを削除したあとでも取れる
-  - run_id ごとに `gh api -X DELETE "repos/{owner}/{repo}/actions/runs/<run_id>"` で削除する。実行中のものは削除できないので、終わるのを待つ
-  - 検証用ブランチにだけ置いたワークフロー（作業ブランチにないファイル）は、実行がすべてなくなると、Actions のワークフローの一覧から消える
 - 一時的なルールセットは `gh api -X DELETE "repos/{owner}/{repo}/rulesets/<id>"` で削除する
 - `gh api "repos/{owner}/{repo}/rulesets"` で、一時的なルールセットが残っていないことを確認する
 - `git ls-remote --heads origin 'test/*'` で、検証用ブランチが残っていないことを確認する
-- 検証用ブランチごとに `gh run list --branch test/<内容> --json databaseId` が `[]` を返し、実行が残っていないことを確認する
 - 作業ブランチに戻り、`git status -sb` で未コミットの変更がないことを確認する
 
 ## 6. 結果を PR 本文に書く

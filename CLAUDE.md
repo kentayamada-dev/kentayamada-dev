@@ -6,8 +6,10 @@
   ファイルの編集は指示の範囲で進めてよいが、ステージング・コミット・push を自分の判断で始めない
 - ワークフローの変更の検証に限らず、調べものや検証のためにマージしない一時的なブランチを push したら、終わったときに後片付けまで済ませる
   - PR を閉じてブランチを削除し、そのブランチでの実行もすべて削除する。実行が残ると、デフォルトブランチにないワークフローが Actions の一覧に残り続ける
-  - 実行の一覧は `gh run list --branch <ブランチ> --limit 100 --json databaseId` で取る。
-    削除は run_id ごとに `gh api -X DELETE "repos/{owner}/{repo}/actions/runs/<run_id>"` で行う
+  - 実行は、PR を閉じてから削除する。PR を閉じたことで始まる実行も消すため
+  - 実行の一覧は `gh run list --branch <ブランチ> --limit 100 --json databaseId,status` で取る。ブランチを削除したあとでも取れる
+  - 削除は run_id ごとに `gh api -X DELETE "repos/{owner}/{repo}/actions/runs/<run_id>"` で行う。
+    実行中のものは削除できないので、終わるのを待つ
   - 最後に、`gh run list --branch <ブランチ> --json databaseId` が `[]` を返すことを確認する
 - ユーザーの意思決定が必要な場面では、その場ですぐ `AskUserQuestion` で選択肢を提示してユーザーに選ばせる。推測で決めて進めない
   - 対応方針が複数ある場合だけでなく、確認・承認・優先順位・スコープの判断など、ユーザーに決めてもらうべきことはすべて対象
