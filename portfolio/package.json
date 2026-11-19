@@ -18,7 +18,7 @@
     "react-dom": "19.3.1"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "4.3.3",
+    "@tailwindcss/turbopack": "4.3.4",
     "@types/node": "26.6.6",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
@@ -28,7 +28,7 @@
     "oxfmt": "0.76.0",
     "oxlint": "1.90.0",
     "oxlint-tsgolint": "7.0.2005",
-    "tailwindcss": "4.3.3",
+    "tailwindcss": "4.3.4",
     "typescript": "7.0.2"
   },
   "devEngines": {
