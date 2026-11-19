@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-26.04-arm
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/checkout@v7.0.1
         with:
           # 履歴全体を走査するため
           fetch-depth: 0
