@@ -20,6 +20,11 @@
     "description": "ドキュメントの追加や修正"
   },
   {
+    "name": "n8n",
+    "color": "bf3989",
+    "description": "n8n のワークフローの変更"
+  },
+  {
     "name": "security",
     "color": "8250df",
     "description": "脆弱性などのセキュリティの問題"
