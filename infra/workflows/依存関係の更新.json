@@ -89,7 +89,11 @@
   "nodeGroups": [],
   "settings": {
     "executionOrder": "v1",
-    "binaryMode": "separate"
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "errorWorkflow": "d88ctEMElygY3yRA",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false
   },
   "tags": []
 }
