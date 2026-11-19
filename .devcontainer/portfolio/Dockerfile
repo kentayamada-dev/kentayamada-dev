@@ -8,7 +8,7 @@ LABEL org.opencontainers.image.title="portfolio" \
 # pnpm の版はここだけで管理する
 # Renovate の customManagers:dockerfileVersions は、renovate: のコメントのすぐ次の行の ARG しか読まないため、間に行を入れない
 # renovate: datasource=npm depName=pnpm
-ARG PNPM_VERSION=12.15.0
+ARG PNPM_VERSION=12.18.0
 # Takumi Guard のレジストリから取得する
 RUN npm install --global --registry=https://npm.flatt.tech/ "pnpm@${PNPM_VERSION}"
 
