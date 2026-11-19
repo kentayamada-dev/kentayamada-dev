@@ -7,7 +7,7 @@ inputs:
 runs:
   using: composite
   steps:
-    - uses: jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c # v5.2.6
+    - uses: jdx/mise-action@v5.2.6
       with:
         # sha256 を渡すと、署名付きの SHASUMS256.txt での mise 本体の照合を飛ばすため、version だけを渡す
         # https://github.com/jdx/mise-action/blob/v5.1.2/src/index.ts#L882-L903
