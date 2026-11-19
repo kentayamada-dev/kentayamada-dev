@@ -24,6 +24,7 @@ CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係�
 | [ワークフローの構文](../.github/workflows/actionlint.yml) | actionlint | ✓ | - |
 | [ワークフローの規約](../.github/workflows/ghalint.yml) | ghalint | ✓ | - |
 | [ワークフローのセキュリティ](../.github/workflows/zizmor.yml) | zizmor | ✓ | - |
+| [ワークフローの依存の固定](../.github/workflows/actions-lock.yml) | gh-actions-lock | ✓ | - |
 | [Renovate の設定](../.github/workflows/renovate-config-validator.yml) | renovate-config-validator | ✓ | - |
 | [シークレットの混入](../.github/workflows/betterleaks.yml) | betterleaks | ✓ | - |
 | [依存関係の脆弱性](../.github/workflows/osv-scanner.yml) | OSV-Scanner | ✓ | 毎日 |
@@ -136,6 +137,21 @@ Renovate の PR に自分でコミットすると、Renovate はそのブラン�
 - アクションは、コミットの SHA で指定しないと使えない。SHA に続けて、その版をコメントで書く。SHA と版は Renovate が更新する
 
 ほかのアクションを使うときは、`actions.json` の `patterns_allowed` に足す。
+
+### ワークフローのロックファイル
+
+アクションは、間接の依存まで含めて [`.github/workflows/actions.lock`](../.github/workflows/actions.lock) でも固定している。
+ロックファイルにないワークフローは、GitHub の設定（Require lockfile のポリシー）で実行が止まる。
+`uses:` を足したり変えたりしたら、次のコマンドでロックファイルを更新し、ワークフローと一緒にコミットする。
+
+```bash
+gh actions-lock --no-narrow
+```
+
+- コマンドは GitHub CLI の拡張の [gh-actions-lock](https://github.com/github/gh-actions-lock) で、入れ方はリンク先にある
+- `--no-narrow` を付けないと、`uses:` の SHA が版のタグに書き換わる
+- ロックファイルが古いと、PR の検査（ワークフローの依存の固定）が失敗する
+- 再利用ワークフローの呼び出し（ジョブの `uses:`）は、ロックファイルでは固定されない。SHA での指定がそのまま要る
 
 ### 必須チェック
 

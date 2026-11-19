@@ -1,0 +1,15 @@
+{
+  "name": "require-lockfile",
+  "enforcement": "disabled",
+  "conditions": {
+    "workflow_path": {
+      "include": [],
+      "exclude": [".github/workflows/osv-scanner.yml"]
+    }
+  },
+  "rules": [
+    {
+      "type": "require_lockfile"
+    }
+  ]
+}

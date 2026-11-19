@@ -267,6 +267,66 @@ sync_actions() {
   sync_actions_setting 'GITHUB_TOKEN の既定の権限' workflow_permissions 'repos/{owner}/{repo}/actions/permissions/workflow'
 }
 
+actions_policies_dir="${settings_dir}/actions-policies"
+
+validate_actions_policies() {
+  local files=("${actions_policies_dir}"/*.json) file duplicates
+  if [[ ! -e ${files[0]} ]]; then
+    return 0
+  fi
+  for file in "${files[@]}"; do
+    if ! jq -e '.name | type == "string" and length > 0' "${file}" >/dev/null; then
+      echo "エラー: ${file} は name（空でない文字列）を持つ JSON オブジェクトではありません" >&2
+      return 1
+    fi
+  done
+  duplicates=$(jq -rs 'map(.name) | group_by(.) | map(select(length > 1) | .[0]) | .[]' "${files[@]}")
+  if [[ -n ${duplicates} ]]; then
+    echo "エラー: 同じ name の Actions のポリシーが複数のファイルにあります: ${duplicates}" >&2
+    return 1
+  fi
+}
+
+# Require lockfile のルール（require_lockfile）は、GET では返るが、POST・PUT では 422 で拒否され、REST API のドキュメントにもない。そのため反映はせず、--check でなくても比べるだけにする
+# https://docs.github.com/en/rest/actions/policies
+sync_actions_policies() {
+  local files=("${actions_policies_dir}"/*.json) has_definitions=false names='[]'
+  if [[ -e ${files[0]} ]]; then
+    has_definitions=true
+    names=$(jq -cs 'map(.name)' "${files[@]}")
+  fi
+
+  # has_parents のデフォルトは true で、Organization などのポリシーも返り、定義にないポリシーと誤って示すため外す
+  # https://docs.github.com/en/rest/actions/policies
+  local existing
+  existing=$(gh_get 'Actions のポリシーの一覧の取得' --paginate --slurp 'repos/{owner}/{repo}/actions/policies?has_parents=false&per_page=100')
+
+  local file name id actual desired
+  if ${has_definitions}; then
+    for file in "${files[@]}"; do
+      name=$(jq -r '.name' "${file}")
+      id=$(jq -r --arg name "${name}" 'first(.[].policies[] | select(.name == $name) | .id)' <<<"${existing}")
+      if [[ -z ${id} ]]; then
+        drift "Actions のポリシー ${name} (${file}) が GitHub にありません"
+        continue
+      fi
+      # 一覧の応答には rules や conditions が含まれないため、1 件ずつ取得する
+      actual=$(gh_get "Actions のポリシー ${name} の取得" "repos/{owner}/{repo}/actions/policies/${id}")
+      actual=$(jq 'del(.id, .target, .source_type, .source, .node_id, .created_at, .updated_at, ._links)' <<<"${actual}")
+      desired=$(cat "${file}")
+      report_drift "Actions のポリシー ${name} (${file})" "${desired}" "${actual}"
+    done
+  fi
+
+  local stale
+  stale=$(jq -r --argjson names "${names}" '.[].policies[] | .name | select(IN($names[]) | not)' <<<"${existing}")
+  while IFS= read -r name; do
+    if [[ -n ${name} ]]; then
+      drift "定義にない Actions のポリシー ${name} が GitHub にあります"
+    fi
+  done <<<"${stale}"
+}
+
 labels_definition="${settings_dir}/labels.json"
 
 validate_labels() {
@@ -361,6 +421,7 @@ cd "$(dirname "$0")/../../.."
 validate_repository
 validate_security
 validate_actions
+validate_actions_policies
 validate_labels
 if ${check_only}; then
   echo "GitHub の設定を定義と比べています..."
@@ -371,9 +432,13 @@ sync_rulesets
 sync_repository
 sync_security
 sync_actions
+sync_actions_policies
 sync_labels
-if ! ${check_only}; then
+if ! ${check_only} && [[ ${drift_count} -eq 0 ]]; then
   echo "GitHub に定義を適用しました"
+elif ! ${check_only}; then
+  echo "GitHub に定義を適用しましたが、API で反映できない設定に、定義と違う箇所が ${drift_count} 件あります。GitHub の画面で定義に合わせてください"
+  exit 1
 elif [[ ${drift_count} -eq 0 ]]; then
   echo "GitHub の設定は定義と一致しています"
 else
