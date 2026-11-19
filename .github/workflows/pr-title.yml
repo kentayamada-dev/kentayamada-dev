@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-26.04-arm
     timeout-minutes: 5
     steps:
-      - uses: amannn/action-semantic-pull-request@v6.1.1
+      - uses: amannn/action-semantic-pull-request@v6.1.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # types は渡さず、アクションの既定（依存する conventional-commit-types の type）を使う。アクションを更新すると、許可する type が変わることがある
