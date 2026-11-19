@@ -21,10 +21,13 @@ main のルールセットは、PR のブランチが main の最新を含むこ
 自動マージを予約済みで、ブランチ名が `renovate/` で始まる PR を、作成の古い順に取得する。
 
 ```bash
-gh pr list --state open --limit 100 --json number,title,headRefName,createdAt,autoMergeRequest,mergeStateStatus,statusCheckRollup --jq 'map(select(.autoMergeRequest != null and (.headRefName | startswith("renovate/")))) | sort_by(.createdAt) | .[] | {number, title, mergeStateStatus, checks: (.statusCheckRollup | length), pending: ([.statusCheckRollup[] | select(.status != null and .status != "COMPLETED" or .state == "PENDING")] | length), failed: ([.statusCheckRollup[] | select((.conclusion // .state) | IN("FAILURE", "ERROR", "CANCELLED", "TIMED_OUT", "ACTION_REQUIRED", "STARTUP_FAILURE"))] | length)}'
+gh pr list --state open --limit 100 --json number,title,headRefName,createdAt,autoMergeRequest,mergeStateStatus,statusCheckRollup --jq 'map(select(.autoMergeRequest != null and (.headRefName | startswith("renovate/")))) | sort_by(.createdAt) | .[] | (.statusCheckRollup | group_by(.context // [.workflowName, .name]) | map(max_by(.startedAt))) as $checks | {number, title, mergeStateStatus, checks: ($checks | length), pending: ([$checks[] | select(.status != null and .status != "COMPLETED" or .state == "PENDING")] | length), failed: ([$checks[] | select((.conclusion // .state) | IN("FAILURE", "ERROR", "CANCELLED", "TIMED_OUT", "ACTION_REQUIRED", "STARTUP_FAILURE"))] | length)}'
 ```
 
 `checks` はチェックの数、`pending` は終わっていないチェックの数、`failed` は失敗したチェックの数。
+同じチェックが何度も実行されたときは、`startedAt` がいちばん新しい実行だけを数える。
+新しい実行に置き換えられて取り消された古い実行も `statusCheckRollup` に残り、失敗と数えてしまうため。
+`gh pr checks` も、同じように古い実行を除いている（[gh v2.103.3 の aggregate.go](https://github.com/cli/cli/blob/v2.103.3/pkg/cmd/pr/checks/aggregate.go#L95-L120)）。
 
 一覧が空なら、手順 5 で報告して終える。
 
