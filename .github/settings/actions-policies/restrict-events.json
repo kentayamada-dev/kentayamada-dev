@@ -1,0 +1,18 @@
+{
+  "name": "restrict-events",
+  "enforcement": "active",
+  "conditions": {
+    "workflow_path": {
+      "include": ["~ALL"],
+      "exclude": []
+    }
+  },
+  "rules": [
+    {
+      "type": "restrict_action_events",
+      "parameters": {
+        "allowed_events": ["pull_request", "push", "schedule", "workflow_dispatch"]
+      }
+    }
+  ]
+}

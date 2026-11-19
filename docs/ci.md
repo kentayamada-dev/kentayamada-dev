@@ -153,6 +153,12 @@ gh actions-lock --no-narrow
 - ロックファイルが古いと、PR の検査（ワークフローの依存の固定）が失敗する
 - 再利用ワークフローの呼び出し（ジョブの `uses:`）は、ロックファイルでは固定されない。SHA での指定がそのまま要る
 
+### 使えるイベント
+
+ワークフローを動かせるイベントは、GitHub の設定（Restrict events のポリシー）で絞っている。
+使えるのは、[`.github/settings/actions-policies/restrict-events.json`](../.github/settings/actions-policies/restrict-events.json) の `allowed_events` にあるイベントだけ。
+ほかのイベントを使うときは、GitHub の画面でポリシーに足し、定義も合わせる。
+
 ### 必須チェック
 
 PR で動く検査を足すときは、ほかの検査と同じく必須チェックにも足す。

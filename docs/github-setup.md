@@ -19,7 +19,7 @@
 
 - 反映するのは、ルールセット・リポジトリの設定・セキュリティの機能・Actions の権限・ラベル
 - 定義にないルールセットとラベルは、GitHub から削除する
-- Actions のポリシーは、API で反映できないため、定義と比べるだけにする。違う箇所があると失敗するので、GitHub の画面で定義に合わせる
+- Actions のポリシーは、API で反映できないものがあるため、どれも定義と比べるだけにする。違う箇所があると失敗するので、GitHub の画面で定義に合わせる
 - `--check` を付けると、GitHub を変えずに、定義と違う箇所だけを表示する
 - 定義を変えたら、もう一度実行して反映する
 
@@ -33,6 +33,7 @@
 - `can_approve_pull_request_reviews`: ワークフローのトークンに、PR の作成と承認を許可しない。人が見ないままマージできる経路を作らないため。Renovate は App のトークンで PR を作るので、許可しなくても困らない
 - `immutable_releases`: 公開したリリースのタグとアセットを、あとから変えられないようにする。有効にする前のリリースには効かないため、リリースを作る前から有効にしておく
 - `require-lockfile` の `exclude`: OSV-Scanner のワークフローを、ロックファイルを求める対象から外す。呼び出している再利用ワークフローの側にロックファイルがなく、対象にすると実行が止まるため。根拠は [GitHub のドキュメント](https://docs.github.com/en/actions/how-tos/administer/enforce-workflow-lockfiles) にある
+- `restrict-events` の `allowed_events`: ワークフローを動かせるイベントを、使っているものだけに絞る。ベースブランチの権限やシークレットで動く `pull_request_target` などが、誤って足されても動かないようにするため
 
 ## Renovate の GitHub App を作る
 

@@ -287,7 +287,8 @@ validate_actions_policies() {
   fi
 }
 
-# Require lockfile のルール（require_lockfile）は、GET では返るが、POST・PUT では 422 で拒否され、REST API のドキュメントにもない。そのため反映はせず、--check でなくても比べるだけにする
+# Require lockfile のルール（require_lockfile）は、GET では返るが、POST・PUT では 422 で拒否され、REST API のドキュメントにもない。
+# 反映できるルールとできないルールで扱いを分けず、どのポリシーも反映はせず、--check でなくても比べるだけにする
 # https://docs.github.com/en/rest/actions/policies
 sync_actions_policies() {
   local files=("${actions_policies_dir}"/*.json) has_definitions=false names='[]'
