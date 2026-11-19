@@ -88,7 +88,8 @@ GitHub の設定と定義のずれの検査は、管理者が登録したトー�
 ## 依存関係の更新
 
 依存関係は、Renovate が PR を作って更新する。
-Renovate は GitHub Actions で 1 日に何度も動き、専用の GitHub App のトークンで操作する。
+Renovate は、n8n が 1 日に何度も起動する GitHub Actions のワークフローで動き、専用の GitHub App のトークンで操作する。
+起動のしかたは [インフラ](infra.md) にある。
 App の作り方は [GitHub のリポジトリの準備](github-setup.md) にある。
 App のトークンで作ったコミットには GitHub が署名するため、Renovate の PR も署名の検査を通る。
 

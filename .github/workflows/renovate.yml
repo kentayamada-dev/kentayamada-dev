@@ -1,11 +1,8 @@
 name: 依存関係の更新
 
 on:
-  schedule:
-    # main の必須チェックは最新への追従を求め、同じ実行で作った PR の 2 件目以降は次の実行まで自動マージされないため、1 日に何度も動かす。
-    # 定期実行は予定時刻の多くで起動されず、間隔を広げても起動回数が増えなかったため、予定時刻の多い毎時にし、混雑で遅れやすい毎時 0 分は避ける
-    # https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
-    - cron: "23 * * * *"
+  # 定期実行は予定時刻の多くで起動されず、Renovate の設定で PR を作る時間帯に一度も動かない日があったため、使わずに n8n から起動する
+  # https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
 # Renovate は GitHub App のトークンで操作し、GITHUB_TOKEN は使わない
