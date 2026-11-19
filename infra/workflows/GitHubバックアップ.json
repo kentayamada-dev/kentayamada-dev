@@ -19,10 +19,10 @@
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.3,
       "position": [
-        -528,
-        -48
+        -160,
+        0
       ],
-      "id": "0d47f59d-02c3-4869-80c3-3429934c2ce2",
+      "id": "0472f2bb-ddd7-4d30-ac32-e1292dccf603",
       "name": "毎日23時14分に実行"
     },
     {
@@ -50,10 +50,10 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        -304,
-        -48
+        64,
+        0
       ],
-      "id": "9f5d6332-038a-4b3b-93ee-06f242ca28fd",
+      "id": "ec71c216-288b-4f5f-ae69-bfa8fd5c1ffc",
       "name": "全てのレポジトリ取得",
       "retryOnFail": true,
       "maxTries": 3,
@@ -84,10 +84,10 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        -80,
-        -48
+        288,
+        0
       ],
-      "id": "aec92d5a-d251-4eb7-9bc3-341c2a6c275d",
+      "id": "928720f3-114f-4510-bb06-1cf5300324be",
       "name": "全てのバックアップファイル取得",
       "executeOnce": true,
       "alwaysOutputData": true,
@@ -108,11 +108,47 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        144,
-        -144
+        512,
+        -192
       ],
-      "id": "3a48ebcf-6af6-4f60-9beb-2ecd2fa1c78a",
-      "name": "削除するファイル"
+      "id": "eba5b09c-b5f5-4551-b754-8cc0f95375e8",
+      "name": "削除するファイル",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "loose",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "7ec7f655-1481-4c87-894a-4ddb3860ff73",
+              "leftValue": "={{ $json.id }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "looseTypeValidation": true,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        736,
+        -192
+      ],
+      "id": "0b935fb2-b0e9-47cf-a72d-33744744be9b",
+      "name": "削除するファイルがある"
     },
     {
       "parameters": {
@@ -127,10 +163,10 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        368,
-        -144
+        960,
+        -192
       ],
-      "id": "ee775119-5001-432f-ab07-ca89a58c2704",
+      "id": "a29f2e82-0fc3-4bd9-9834-8728194f5080",
       "name": "ファイル削除",
       "retryOnFail": true,
       "maxTries": 3,
@@ -149,10 +185,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        144,
-        48
+        512,
+        96
       ],
-      "id": "69e7c302-b823-4fab-b209-f223b6ef21d7",
+      "id": "d1342389-c4d5-4104-9666-3b27b39f8996",
       "name": "バックアップ対象リスト"
     },
     {
@@ -165,10 +201,10 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        368,
-        48
+        736,
+        96
       ],
-      "id": "9db96edc-54a1-4eb1-8c50-b3f60500acce",
+      "id": "734c30a6-6b87-4eed-9cc4-7fb5f76f0126",
       "name": "レポジトリダウンロード",
       "retryOnFail": true,
       "maxTries": 3,
@@ -210,10 +246,10 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.3,
       "position": [
-        592,
-        -48
+        960,
+        0
       ],
-      "id": "ba5a7f38-9288-432c-ae4d-c069dc40e389",
+      "id": "9c71af05-97db-49ee-bd88-1bc7e0430c86",
       "name": "レポジトリが存在している"
     },
     {
@@ -230,10 +266,10 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        816,
-        -144
+        1184,
+        -96
       ],
-      "id": "bc83d995-06c4-4766-ae78-e5d4ac3be27d",
+      "id": "61cb3320-e8f7-477e-8633-c6cad7698a0e",
       "name": "レポジトリアップデート",
       "retryOnFail": true,
       "maxTries": 3,
@@ -267,10 +303,10 @@
       "type": "n8n-nodes-base.googleDrive",
       "typeVersion": 3,
       "position": [
-        816,
-        48
+        1184,
+        96
       ],
-      "id": "bf175b14-afe8-49b3-be02-ddeca3cb50e0",
+      "id": "4f7f5bcc-638a-41d7-8e22-64c2c8261f0e",
       "name": "レポジトリアップロード",
       "retryOnFail": true,
       "maxTries": 3,
@@ -289,10 +325,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        592,
-        144
+        960,
+        192
       ],
-      "id": "6095008e-2671-4c5f-9cbf-1f9811d7d75e",
+      "id": "704ecfa9-6127-45e2-b718-a68d0237e090",
       "name": "ダウンロード失敗を通知"
     }
   ],
@@ -339,7 +375,7 @@
       "main": [
         [
           {
-            "node": "ファイル削除",
+            "node": "削除するファイルがある",
             "type": "main",
             "index": 0
           }
@@ -392,12 +428,27 @@
           }
         ]
       ]
+    },
+    "削除するファイルがある": {
+      "main": [
+        [
+          {
+            "node": "ファイル削除",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "nodeGroups": [],
   "settings": {
     "executionOrder": "v1",
-    "binaryMode": "separate"
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "errorWorkflow": "d88ctEMElygY3yRA",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false
   },
   "meta": {
     "templateCredsSetupCompleted": true

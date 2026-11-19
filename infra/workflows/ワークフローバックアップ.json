@@ -580,7 +580,10 @@
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate",
-    "errorWorkflow": "d88ctEMElygY3yRA"
+    "errorWorkflow": "d88ctEMElygY3yRA",
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false
   },
   "meta": null,
   "tags": []
