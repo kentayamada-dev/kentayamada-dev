@@ -27,7 +27,7 @@ jobs:
     if: github.event_name == 'pull_request'
     # with で runs-on を渡すと Renovate の github-actions マネージャーが検出せず、ランナーの版が古いまま残るため、両方のジョブで再利用ワークフローの既定の ubuntu-latest を使う
     # https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/manager/github-actions/extract.ts#L311-L316
-    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@b1d267aea5211fa648d9d442fa64b90dbdcbdd36 # v2.7.0
+    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@32d3cd482bdadfb38b186c0ad1b031902d55d932 # v2.7.1
     # 再利用ワークフローのジョブが要求する権限。呼び出し側より広げられないため、ここで与えないと起動できない
     # https://docs.github.com/en/actions/how-tos/reuse-automations/reuse-workflows
     permissions:
@@ -36,7 +36,7 @@ jobs:
       security-events: write # 再利用ワークフローが SARIF を code scanning に上げるため
   osv-scanner-full:
     if: github.event_name != 'pull_request'
-    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@b1d267aea5211fa648d9d442fa64b90dbdcbdd36 # v2.7.0
+    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@32d3cd482bdadfb38b186c0ad1b031902d55d932 # v2.7.1
     permissions:
       actions: read # 再利用ワークフローが SARIF を code scanning に上げるのに要る https://github.com/github/codeql-action/issues/2117
       contents: read
@@ -134,7 +134,7 @@ jobs:
           # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
           persist-credentials: false
       # --config で渡す設定は、ディレクトリごとの osv-scanner.toml の代わりに使われる https://google.github.io/osv-scanner/configuration/
-      - uses: google/osv-scanner-action/osv-scanner-action@v2.7.0
+      - uses: google/osv-scanner-action/osv-scanner-action@v2.7.1
         with:
           scan-args: |-
             --config=.github/osv-scanner-licenses.toml

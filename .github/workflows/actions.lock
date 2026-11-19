@@ -37,7 +37,7 @@ workflows:
         - 'davidanson/markdownlint-cli2-action@v25.0.0'
     '.github/workflows/osv-scanner.yml':
         - 'actions/checkout@v7.0.1'
-        - 'google/osv-scanner-action@v2.7.0'
+        - 'google/osv-scanner-action@v2.7.1'
     '.github/workflows/oxfmt.yml':
         - 'actions/checkout@v7.0.1'
         - 'actions/setup-node@v7.1.0'
@@ -99,9 +99,9 @@ dependencies:
         commit: 'sha1-696eb3f2509270d7b882d2aa68347bc676e7af34'
         owner_id: 1828270
         repo_id: 329203602
-    'google/osv-scanner-action@v2.7.0':
-        ref: 'v2.7.0'
-        commit: 'sha1-b1d267aea5211fa648d9d442fa64b90dbdcbdd36'
+    'google/osv-scanner-action@v2.7.1':
+        ref: 'v2.7.1'
+        commit: 'sha1-32d3cd482bdadfb38b186c0ad1b031902d55d932'
         owner_id: 1342004
         repo_id: 736073144
     'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c':
