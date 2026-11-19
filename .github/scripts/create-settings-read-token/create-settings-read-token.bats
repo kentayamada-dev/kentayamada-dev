@@ -37,9 +37,9 @@ if [ -n "${STUB_FAIL-}" ] && [[ "$*" == $STUB_FAIL ]]; then
   exit 1
 fi
 
-# GH_TOKEN があれば、貼り付けた PAT で呼んだものとして扱う。このリポジトリを対象にした PAT は Actions の権限だけを読め、ほかの PAT は何も読めない
+# GH_TOKEN があれば、貼り付けた PAT で呼んだものとして扱う。このリポジトリを対象にした PAT は Actions のポリシーだけを読め、ほかの PAT は何も読めない
 if [ -n "${GH_TOKEN-}" ]; then
-  if [ "$*" = "api repos/{owner}/{repo}/actions/permissions --silent" ] && [ "$GH_TOKEN" = "$(cat "$github/valid-token")" ]; then
+  if [ "$*" = "api repos/{owner}/{repo}/actions/policies --silent" ] && [ "$GH_TOKEN" = "$(cat "$github/valid-token")" ]; then
     exit 0
   fi
   echo "gh: Not Found (HTTP 404)" >&2
@@ -95,7 +95,7 @@ opened_params() {
 name=SETTINGS_READ_TOKEN(kentayamada-dev)
 target_name=kentayamada-dev
 expires_in=none
-administration=read
+administration=write
 contents=write
 issues=read
 metadata=read
@@ -114,7 +114,7 @@ EOF
 @test "このリポジトリの設定を読めないトークンは、登録せずに、削除して作り直すよう示して失敗する" {
   run -1 "${script}" <<<"github_pat_other_repository"
 
-  [[ ${output} == *"エラー: 貼り付けたトークンで kentayamada-dev/kentayamada-dev の Actions の権限を読めませんでした"* ]]
+  [[ ${output} == *"エラー: 貼り付けたトークンで kentayamada-dev/kentayamada-dev の Actions のポリシーを読めませんでした"* ]]
   [[ ${output} == *"https://github.com/settings/personal-access-tokens でそのトークンを削除し"* ]]
   [[ ! -e "${STUB_DIR}/secrets" ]]
 }

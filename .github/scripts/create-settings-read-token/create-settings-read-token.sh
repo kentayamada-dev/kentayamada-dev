@@ -25,8 +25,9 @@ repository_name=$(jq -r .full_name <<<"${repository}")
 params=(
   # 期限が切れると毎日の検査が失敗するため、無期限にする
   expires_in=none
-  # セキュリティの機能と Actions の権限を読む
-  administration=read
+  # セキュリティの機能・Actions の権限・Actions のポリシーを読む。Actions のポリシーは、読むだけでも write が要る
+  # https://docs.github.com/en/rest/authentication/permissions-required-for-fine-grained-personal-access-tokens#repository-permissions-for-administration
+  administration=write
   # マージの設定は、読むだけでも write が要る https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28
   contents=write
   # ラベルを読む
@@ -49,7 +50,8 @@ echo "${url}"
 if command -v open >/dev/null; then
   open "${url}"
 fi
-echo "Repository access で Only select repositories を選び、${repository_name} を選んでから「Generate token」を押してください"
+echo "Repository access は、All repositories が選ばれていることがあります。そのまま作ると、すべてのリポジトリの設定を変えられるトークンになります"
+echo "Only select repositories を選び、${repository_name} だけを選んでから「Generate token」を押してください"
 printf '表示されたトークンをコピーして貼り付けてください（入力は表示されません）: '
 IFS= read -rs token || true
 echo
@@ -59,10 +61,10 @@ if [[ -z ${token} ]]; then
   exit 1
 fi
 
-# 対象のリポジトリは作成画面で選ぶため、選び忘れたトークンを登録すると、次の検査まで気づけない。Administration の read が要る Actions の権限を読めるかで確認する
+# 対象のリポジトリは作成画面で選ぶため、選び忘れたトークンを登録すると、次の検査まで気づけない。Administration の write が要る Actions のポリシーを読めるかで確認する
 # https://docs.github.com/en/rest/authentication/permissions-required-for-fine-grained-personal-access-tokens#repository-permissions-for-administration
-if ! GH_TOKEN=${token} gh api 'repos/{owner}/{repo}/actions/permissions' --silent; then
-  echo "エラー: 貼り付けたトークンで ${repository_name} の Actions の権限を読めませんでした" >&2
+if ! GH_TOKEN=${token} gh api 'repos/{owner}/{repo}/actions/policies' --silent; then
+  echo "エラー: 貼り付けたトークンで ${repository_name} の Actions のポリシーを読めませんでした" >&2
   echo "${tokens_url} でそのトークンを削除し、もう一度実行してください" >&2
   exit 1
 fi

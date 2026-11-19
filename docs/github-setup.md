@@ -19,6 +19,7 @@
 
 - 反映するのは、ルールセット・リポジトリの設定・セキュリティの機能・Actions の権限・ラベル
 - 定義にないルールセットとラベルは、GitHub から削除する
+- Actions のポリシーは、API で反映できないものがあるため、どれも定義と比べるだけにする。違う箇所があると失敗するので、GitHub の画面で定義に合わせる
 - `--check` を付けると、GitHub を変えずに、定義と違う箇所だけを表示する
 - 定義を変えたら、もう一度実行して反映する
 
@@ -31,6 +32,8 @@
 - `required_review_thread_resolution`: レビューのスレッドをすべて解決するまで、マージさせない。承認は求めていないので、レビューの指摘への対応漏れをこの条件で防ぐ
 - `can_approve_pull_request_reviews`: ワークフローのトークンに、PR の作成と承認を許可しない。人が見ないままマージできる経路を作らないため。Renovate は App のトークンで PR を作るので、許可しなくても困らない
 - `immutable_releases`: 公開したリリースのタグとアセットを、あとから変えられないようにする。有効にする前のリリースには効かないため、リリースを作る前から有効にしておく
+- `require-lockfile` の `exclude`: OSV-Scanner のワークフローを、ロックファイルを求める対象から外す。呼び出している再利用ワークフローの側にロックファイルがなく、対象にすると実行が止まるため。根拠は [GitHub のドキュメント](https://docs.github.com/en/actions/how-tos/administer/enforce-workflow-lockfiles) にある
+- `restrict-events` の `allowed_events`: ワークフローを動かせるイベントを、使っているものだけに絞る。ベースブランチの権限やシークレットで動く `pull_request_target` などが、誤って足されても動かないようにするため
 
 ## Renovate の GitHub App を作る
 
@@ -79,7 +82,7 @@ App を作らずに、作成済みの App の秘密鍵とクライアント ID �
 ```
 
 1. ブラウザで PAT の作成画面が、名前・期限・権限を入れた状態で開く
-2. 「Repository access」の「Only select repositories」でこのリポジトリを選び、「Generate token」を押す
+2. 「Repository access」の「Only select repositories」でこのリポジトリだけを選び、「Generate token」を押す。はじめは「All repositories」が選ばれていることがあり、そのまま作ると、すべてのリポジトリの設定を変えられるトークンになる
 3. 表示されたトークンをコピーし、ターミナルに貼り付ける。スクリプトが、このリポジトリの設定を読めることを確認してから、シークレット `SETTINGS_READ_TOKEN` に登録する
 
 PAT は無期限で作る。

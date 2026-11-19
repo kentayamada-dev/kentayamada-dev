@@ -1,0 +1,38 @@
+name: ワークフローの依存の固定
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+# 同じ PR に push し直したら古い実行を取り消す。PR 以外は実行ごとにグループを分け、待っている実行も後から来た実行に取り消されないようにする
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  actions-lock:
+    name: actions-lock
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 5
+    env:
+      # renovate: datasource=github-releases depName=github/gh-actions-lock
+      GH_ACTIONS_LOCK_VERSION: v0.4.0
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      - run: gh extension install github/gh-actions-lock --pin "$GH_ACTIONS_LOCK_VERSION"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Require lockfile のポリシーは、ロックファイルにないワークフローを実行のときに止めるだけのため、PR の時点でロックファイルの古さを知らせる
+      # https://docs.github.com/en/actions/how-tos/administer/enforce-workflow-lockfiles
+      - run: gh actions-lock --verify
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

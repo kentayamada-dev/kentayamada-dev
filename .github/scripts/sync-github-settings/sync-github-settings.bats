@@ -42,6 +42,7 @@ selected_actions="${github}selected-actions.json"
 labels="${github}labels.json"
 fork_pr_approval="${github}fork-pr-approval.json"
 workflow_permissions="${github}workflow-permissions.json"
+actions_policies="${github}actions-policies.json"
 
 [ "$1" = api ] && shift
 method=GET endpoint='' input='' slurp=false headers=''
@@ -120,6 +121,24 @@ case "$method $endpoint" in
     ;;
   "GET repos/{owner}/{repo}/actions/permissions/workflow")
     jq -c . "$workflow_permissions"
+    ;;
+  "GET repos/{owner}/{repo}/actions/policies?"*)
+    filter='.'
+    if [[ $endpoint == *has_parents=false* ]]; then
+      filter='map(select(.source_type == "Repository"))'
+    fi
+    # GitHub と同じく、一覧には rules と conditions を含めない
+    filter="$filter | map(del(.rules, .conditions)) | {total_count: length, policies: .}"
+    if $slurp; then filter="[$filter]"; fi
+    jq -c "$filter" "$(fresh_or_stale "$actions_policies")"
+    ;;
+  "GET repos/{owner}/{repo}/actions/policies/"*)
+    id=${endpoint##*/}
+    if ! jq -e --argjson id "$id" 'any(.id == $id and .source_type == "Repository")' "$actions_policies" >/dev/null; then
+      echo "gh: Not Found (HTTP 404)" >&2
+      exit 1
+    fi
+    jq -c --argjson id "$id" '.[] | select(.id == $id)' "$(fresh_or_stale "$actions_policies")"
     ;;
   "POST repos/{owner}/{repo}/rulesets")
     # 作成と削除の順序で ID が変わらないよう、削除した ID を使い回さず連番で振る
@@ -227,6 +246,7 @@ EOF
   echo '[]' >"${STUB_DIR}/labels.json"
   echo '{"approval_policy": "first_time_contributors"}' >"${STUB_DIR}/fork-pr-approval.json"
   echo '{"default_workflow_permissions": "write", "can_approve_pull_request_reviews": true}' >"${STUB_DIR}/workflow-permissions.json"
+  echo '[]' >"${STUB_DIR}/actions-policies.json"
   echo 100 >"${STUB_DIR}/next_id"
 }
 
@@ -331,6 +351,15 @@ assert_github_code_scanning() {
 
 define_ruleset() {
   echo "$2" >"${settings}/rulesets/$1"
+}
+
+given_github_actions_policies() {
+  echo "$1" >"${STUB_DIR}/actions-policies.json"
+}
+
+define_actions_policy() {
+  mkdir -p "${settings}/actions-policies"
+  echo "$2" >"${settings}/actions-policies/$1"
 }
 
 assert_github_rulesets() {
@@ -782,6 +811,41 @@ path_without() {
   [[ ${output} == *"maintenance"* ]]
 }
 
+@test "Actions のポリシーが定義と違えば、ポリシーは書き込まずにほかの設定を反映し、画面で直すよう示して失敗する" {
+  given_github_actions_policies '[{"id": 1, "source_type": "Repository", "name": "require-lockfile", "enforcement": "disabled", "rules": [{"type": "require_lockfile"}]}]'
+  define_actions_policy require-lockfile.json '{"name": "require-lockfile", "enforcement": "active", "rules": [{"type": "require_lockfile"}]}'
+  define_labels '[{"name": "bug", "color": "d73a4a"}]'
+
+  run -1 "${script}"
+
+  writes=$(grep -v '^GET ' "${STUB_DIR}/gh.stdout")
+  [[ ${writes} != *actions/policies* ]]
+  assert_github_labels '[{"name": "bug", "color": "d73a4a"}]'
+  [[ ${output} == *"ずれ: Actions のポリシー require-lockfile (.github/settings/actions-policies/require-lockfile.json)"* ]]
+  [[ ${output} == *"定義と違う箇所が 1 件あります。GitHub の画面で定義に合わせてください"* ]]
+}
+
+@test "Actions のポリシーの定義に name がなければ、ルールセットも含めて何も変更せずに失敗する" {
+  define_ruleset main.json '{"name": "main", "enforcement": "active"}'
+  define_actions_policy require-lockfile.json '{"enforcement": "active", "rules": [{"type": "require_lockfile"}]}'
+
+  run -1 "${script}"
+
+  assert_github_rulesets '[]'
+  [[ ${output} == *"エラー: .github/settings/actions-policies/require-lockfile.json は name（空でない文字列）を持つ JSON オブジェクトではありません"* ]]
+}
+
+@test "同じ name の Actions のポリシーが複数定義されていれば、ルールセットも含めて何も変更せずに失敗する" {
+  define_ruleset main.json '{"name": "main", "enforcement": "active"}'
+  define_actions_policy a.json '{"name": "require-lockfile", "enforcement": "active"}'
+  define_actions_policy b.json '{"name": "require-lockfile", "enforcement": "disabled"}'
+
+  run -1 "${script}"
+
+  assert_github_rulesets '[]'
+  [[ ${output} == *"エラー: 同じ name の Actions のポリシーが複数のファイルにあります: require-lockfile"* ]]
+}
+
 @test "ルールセットの一覧のキャッシュが古くても、今の一覧をもとに更新し、重複して作成しない" {
   given_github_rulesets '[{"id": 1, "source_type": "Repository", "name": "main", "enforcement": "disabled"}]'
   echo '[]' >"${STUB_DIR}/rulesets.stale.json"
@@ -1039,6 +1103,11 @@ GitHub に定義を適用しました' ]]
 @test "--check は、リポジトリにある定義を同期した直後なら、ずれとせず何も変えずに成功する" {
   cp "${real_settings}"/rulesets/*.json "${settings}/rulesets/"
   cp "${real_settings}"/{repository,security,actions,labels}.json "${settings}/"
+  mkdir -p "${settings}/actions-policies"
+  cp "${real_settings}"/actions-policies/*.json "${settings}/actions-policies/"
+  # Actions のポリシーは反映できないため、定義と同じものが GitHub にある状態にしておく
+  policies=$(jq -cs 'to_entries | map(.value + {id: (.key + 1), source_type: "Repository"})' "${settings}"/actions-policies/*.json)
+  given_github_actions_policies "${policies}"
   run -0 "${script}"
   cat "${STUB_DIR}"/*.json >"${BATS_TEST_TMPDIR}/github-before"
 
@@ -1166,6 +1235,47 @@ GitHub の設定は定義と一致しています' ]]
   [[ ${output} != *"ずれ: GITHUB_TOKEN の既定の権限"* ]]
 }
 
+@test "--check は、Actions のポリシーが定義と違えば、差分を示して失敗する" {
+  given_github_actions_policies '[{"id": 1, "source_type": "Repository", "name": "require-lockfile", "enforcement": "disabled", "conditions": {"workflow_path": {"include": [], "exclude": [".github/workflows/osv-scanner.yml"]}}, "rules": [{"type": "require_lockfile"}]}]'
+  define_actions_policy require-lockfile.json '{"name": "require-lockfile", "enforcement": "active", "conditions": {"workflow_path": {"include": [], "exclude": [".github/workflows/osv-scanner.yml"]}}, "rules": [{"type": "require_lockfile"}]}'
+
+  run -1 "${script}" --check
+
+  [[ ${output} == *"ずれ: Actions のポリシー require-lockfile (.github/settings/actions-policies/require-lockfile.json)"* ]]
+  [[ ${output} == *'-  "enforcement": "active",'* ]]
+  [[ ${output} == *'+  "enforcement": "disabled",'* ]]
+  [[ ${output} == *"GitHub の設定に、定義と違う箇所が 1 件あります"* ]]
+}
+
+@test "--check は、GitHub が付ける ID や日時などの項目を、Actions のポリシーのずれとしない" {
+  given_github_actions_policies '[{"id": 16182, "name": "require-lockfile", "target": "actions", "source_type": "Repository", "source": "owner/repo", "enforcement": "active", "conditions": {"workflow_path": {"exclude": [".github/workflows/osv-scanner.yml"], "include": []}}, "rules": [{"type": "require_lockfile"}], "node_id": "MDE0OkFjdGlvbnNSdWxlc2V0MTYxODI=", "created_at": "2026-11-19T15:55:57.236+09:00", "updated_at": "2026-11-19T15:55:57.409+09:00", "_links": {"self": {"href": "https://example.com/policies/16182"}, "html": {"href": "https://example.com/settings/actions/rules/16182"}}}]'
+  define_actions_policy require-lockfile.json '{"name": "require-lockfile", "enforcement": "active", "conditions": {"workflow_path": {"include": [], "exclude": [".github/workflows/osv-scanner.yml"]}}, "rules": [{"type": "require_lockfile"}]}'
+
+  run -0 "${script}" --check
+}
+
+@test "--check は、定義にある Actions のポリシーが GitHub になければ失敗する" {
+  define_actions_policy require-lockfile.json '{"name": "require-lockfile", "enforcement": "active"}'
+
+  run -1 "${script}" --check
+
+  [[ ${output} == *"ずれ: Actions のポリシー require-lockfile (.github/settings/actions-policies/require-lockfile.json) が GitHub にありません"* ]]
+}
+
+@test "--check は、定義にない Actions のポリシーが GitHub にあれば失敗する" {
+  given_github_actions_policies '[{"id": 1, "source_type": "Repository", "name": "legacy", "enforcement": "active"}]'
+
+  run -1 "${script}" --check
+
+  [[ ${output} == *"ずれ: 定義にない Actions のポリシー legacy が GitHub にあります"* ]]
+}
+
+@test "--check は、Organization の Actions のポリシーを、定義になくてもずれとしない" {
+  given_github_actions_policies '[{"id": 1, "source_type": "Organization", "name": "org-policy", "enforcement": "active"}]'
+
+  run -0 "${script}" --check
+}
+
 @test "--check は、色が違うラベル・GitHub にないラベル・定義にないラベルをずれとし、何も変えずに失敗する" {
   given_github_labels '[{"name": "bug", "color": "ffffff", "description": "不具合", "default": true}, {"name": "wontfix", "color": "ffffff", "description": "Will not be worked on"}]'
   define_labels '[{"name": "bug", "color": "d73a4a", "description": "不具合"}, {"name": "good first issue", "color": "7057ff"}]'
@@ -1198,9 +1308,12 @@ GitHub の設定は定義と一致しています' ]]
   echo '{"has_wiki": true}' >"${STUB_DIR}/repository.stale.json"
   given_github_code_scanning '{"state": "configured", "query_suite": "default", "languages": ["actions"]}'
   echo '{"state": "not-configured", "query_suite": "default", "languages": ["actions"]}' >"${STUB_DIR}/code-scanning.stale.json"
+  given_github_actions_policies '[{"id": 1, "source_type": "Repository", "name": "require-lockfile", "enforcement": "active"}]'
+  echo '[{"id": 1, "source_type": "Repository", "name": "require-lockfile", "enforcement": "disabled"}, {"id": 2, "source_type": "Repository", "name": "legacy", "enforcement": "active"}]' >"${STUB_DIR}/actions-policies.stale.json"
   define_ruleset main.json '{"name": "main", "enforcement": "active"}'
   define_repository '{"has_wiki": false}'
   define_security '{"code_scanning_default_setup": {"state": "configured"}}'
+  define_actions_policy require-lockfile.json '{"name": "require-lockfile", "enforcement": "active"}'
 
   run -0 "${script}" --check
 }
