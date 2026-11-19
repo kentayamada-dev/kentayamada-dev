@@ -1,6 +1,6 @@
 {
   "name": "require-lockfile",
-  "enforcement": "disabled",
+  "enforcement": "active",
   "conditions": {
     "workflow_path": {
       "include": [],
