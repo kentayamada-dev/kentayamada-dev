@@ -267,7 +267,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       },
@@ -429,7 +429,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       }
@@ -476,7 +476,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }
@@ -528,7 +528,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }
@@ -712,6 +712,5 @@
     "binaryMode": "separate",
     "errorWorkflow": "d88ctEMElygY3yRA"
   },
-  "meta": null,
   "tags": []
 }
