@@ -19,10 +19,10 @@
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.3,
       "position": [
-        496,
-        656
+        2288,
+        704
       ],
-      "id": "2d934ea5-d859-43a7-93e2-c164962dbd5e",
+      "id": "b4b9ccbf-75ad-4c4c-b5e8-238c8cb579ae",
       "name": "毎日1時31分に実行"
     },
     {
@@ -54,10 +54,10 @@
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
       "position": [
-        720,
-        656
+        2512,
+        704
       ],
-      "id": "4a607a24-10e8-4c79-a7ef-2f05e2e81494",
+      "id": "8c5a28af-17cd-4f3f-ad4b-d44444988f89",
       "name": "設定"
     },
     {
@@ -74,10 +74,10 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        944,
-        656
+        2736,
+        704
       ],
-      "id": "840506d6-1cf4-4f8f-8d05-6f80802aad94",
+      "id": "4593ba8c-691f-40e6-9227-61c6dc762b75",
       "name": "ブランチの先頭を取得",
       "retryOnFail": true,
       "maxTries": 3,
@@ -115,10 +115,10 @@
       "type": "n8n-nodes-base.github",
       "typeVersion": 1.1,
       "position": [
-        1168,
-        656
+        2960,
+        704
       ],
-      "id": "de6b8367-3f12-4cd8-b2e8-04feddb2a5fb",
+      "id": "cae558ae-eaac-457a-aba4-69e0f6bd8490",
       "name": "開いているPRを取得",
       "webhookId": "cacf300a-c3ed-445c-8e94-d5a6e927fd0d",
       "alwaysOutputData": true,
@@ -139,10 +139,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        1392,
-        656
+        3184,
+        704
       ],
-      "id": "8cea77a9-cf9e-4dfb-a389-114a2c34b28f",
+      "id": "b970a21d-0447-4f67-8e90-bc526cef0818",
       "name": "比べる先を決める"
     },
     {
@@ -172,10 +172,10 @@
       "type": "n8n-nodes-base.github",
       "typeVersion": 1.1,
       "position": [
-        1616,
-        656
+        3408,
+        704
       ],
-      "id": "69c60636-d171-4053-a53f-ca6acd16dd90",
+      "id": "712ebebd-95d7-4606-a7d8-ae9500e9f3bf",
       "name": "GitHubにあるワークフローを取得",
       "webhookId": "8fb2bc61-20e4-4f65-b613-c2fdac591291",
       "retryOnFail": true,
@@ -215,10 +215,10 @@
       "type": "n8n-nodes-base.github",
       "typeVersion": 1.1,
       "position": [
-        1840,
-        656
+        3632,
+        704
       ],
-      "id": "f082e596-efff-471f-8bc5-971d1fd8ee87",
+      "id": "11c91c68-feb0-4fe6-b04d-d9045ccb39d0",
       "name": "GitHubのファイルを取得",
       "webhookId": "a7d8cded-d2d4-4af6-a8c4-627d8a97aa45",
       "retryOnFail": true,
@@ -239,10 +239,10 @@
       "type": "n8n-nodes-base.n8n",
       "typeVersion": 1,
       "position": [
-        2064,
-        656
+        3856,
+        704
       ],
-      "id": "084ed079-9e46-4e42-ab9f-8f979c3b2995",
+      "id": "6827d1a6-95ea-410b-bb38-1d24ee5ca7c7",
       "name": "N8Nにあるワークフローを取得",
       "executeOnce": true,
       "retryOnFail": true,
@@ -262,10 +262,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        2288,
-        656
+        4080,
+        704
       ],
-      "id": "e30d662b-cb8d-443a-b725-5ef2989a04a3",
+      "id": "a9aba257-2d7e-426f-b1a6-66339069a858",
       "name": "変更をまとめる"
     },
     {
@@ -282,10 +282,10 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.4,
       "position": [
-        2512,
-        656
+        4304,
+        704
       ],
-      "id": "e4b63b5a-997a-47f9-8d34-2de62c91587a",
+      "id": "b913e92b-f3eb-4455-a29a-6fc7fb494149",
       "name": "ブランチにコミット",
       "retryOnFail": true,
       "maxTries": 3,
@@ -304,10 +304,10 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        2736,
-        656
+        4528,
+        704
       ],
-      "id": "185370e0-c7f8-40c6-80ab-b9c701041910",
+      "id": "aaa569c5-f356-4a7b-a80e-45c16367ab1c",
       "name": "コミットできたか確認"
     },
     {
@@ -335,13 +335,13 @@
         },
         "options": {}
       },
-      "type": "n8n-nodes-base.if",
+      "type": "n8n-nodes-base.filter",
       "typeVersion": 2.3,
       "position": [
-        2960,
-        656
+        4752,
+        704
       ],
-      "id": "c951a69e-d5e4-40ad-a859-e616bf8e8d3d",
+      "id": "1133f6fc-0768-4037-b488-8125c828dba1",
       "name": "PRがない"
     },
     {
@@ -369,15 +369,60 @@
       "type": "n8n-nodes-base.github",
       "typeVersion": 1.1,
       "position": [
-        3184,
-        656
+        4976,
+        704
       ],
-      "id": "b2dae4fb-5b8b-4688-9472-e19d27877df8",
+      "id": "83310ddf-0a13-4148-a5f9-18e29f315517",
       "name": "PRを作成",
       "webhookId": "cec0f883-f207-48cc-8e0b-1305d86a5238",
       "retryOnFail": true,
       "maxTries": 3,
       "waitBetweenTries": 5000,
+      "credentials": {
+        "githubApi": {
+          "id": "VfSJTTkiSU9HgDcX",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "edit",
+        "owner": {
+          "__rl": true,
+          "value": "kentayamada-dev",
+          "mode": "list",
+          "cachedResultName": "kentayamada-dev",
+          "cachedResultUrl": "https://github.com/kentayamada-dev"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "kentayamada-dev",
+          "mode": "list",
+          "cachedResultName": "kentayamada-dev",
+          "cachedResultUrl": "https://github.com/kentayamada-dev/kentayamada-dev"
+        },
+        "issueNumber": "={{ $json.number }}",
+        "editFields": {
+          "labels": [
+            {
+              "label": "n8n"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        5200,
+        704
+      ],
+      "id": "6bf7519a-c7ea-4ce9-b270-0042deab0c9c",
+      "name": "PR にラベルを付ける",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "webhookId": "c09506fa-b34e-4e04-86c9-0ff4064fd89e",
       "credentials": {
         "githubApi": {
           "id": "VfSJTTkiSU9HgDcX",
@@ -513,6 +558,17 @@
         [
           {
             "node": "PRを作成",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "PRを作成": {
+      "main": [
+        [
+          {
+            "node": "PR にラベルを付ける",
             "type": "main",
             "index": 0
           }
