@@ -1,0 +1,57 @@
+# PR #35 の検証用。後から作られるジョブの状態と startedAt を記録したら、PR ごと閉じて消す
+name: REQUESTED の検証
+
+on:
+  pull_request:
+
+permissions: {}
+
+jobs:
+  first:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - run: sleep 45
+  # first が終わってから作られる
+  second:
+    needs: first
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - run: "true"
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: read
+      checks: read
+      contents: read
+      pull-requests: read
+      statuses: read
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      RUN_ID: ${{ github.run_id }}
+      PR_NUMBER: ${{ github.event.pull_request.number }}
+    steps:
+      - run: |
+          end=$(($(date +%s) + 150))
+          # 値が変わったときだけ、ミリ秒つきの時刻と一緒に出す。second が終わったら止める
+          poll() {
+            local label=$1 prev='' cur
+            shift
+            while (($(date +%s) < end)); do
+              cur=$("$@" 2>&1) || true
+              if [[ ${cur} != "${prev}" ]]; then
+                printf '%s %s %s\n' "$(date -u +%H:%M:%S.%3N)" "${label}" "${cur:-(none)}"
+                prev=${cur}
+              fi
+              if [[ ${cur} == completed* || ${cur} == COMPLETED* ]]; then
+                break
+              fi
+              sleep 0.2
+            done
+          }
+          poll rest gh api "repos/${GH_REPO}/actions/runs/${RUN_ID}/jobs" --jq '.jobs[] | select(.name == "second") | "\(.status) created=\(.created_at) started=\(.started_at)"' &
+          poll gh gh pr view "${PR_NUMBER}" --json statusCheckRollup --jq '.statusCheckRollup[] | select(.__typename == "CheckRun" and .name == "second") | "\(.status) startedAt=\(.startedAt)"' &
+          wait
