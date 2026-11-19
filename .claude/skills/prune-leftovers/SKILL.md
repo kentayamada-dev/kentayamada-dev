@@ -1,5 +1,5 @@
 ---
-name: prune-branches
+name: prune-leftovers
 description: 開いている PR のないリモートのブランチと、デフォルトブランチにないワークフローの実行を削除する。マージせずに閉じた PR のブランチや、PR を作らなかったブランチ、検証のために一時的に動かしたワークフローを片付けたいときに使う
 disable-model-invocation: true
 ---
