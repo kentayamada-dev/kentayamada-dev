@@ -134,13 +134,15 @@ Renovate の PR に自分でコミットすると、Renovate はそのブラン�
 リポジトリの設定で、使えるアクションを絞っている。
 
 - 使えるのは、GitHub 製のもの・Marketplace の検証済みの作者のもの・[`.github/settings/actions.json`](../.github/settings/actions.json) に足したものだけ
-- アクションは、コミットの SHA で指定しないと使えない。SHA に続けて、その版をコメントで書く。SHA と版は Renovate が更新する
+- アクションは、コミットの SHA かロックファイルで固定しないと使えない
+- ワークフローのアクションは、`v1.2.3` のような完全な版のタグで指定し、ロックファイルで固定する。版とロックファイルは Renovate が更新する
+- [composite アクションの定義](../.github/actions/)と再利用ワークフローの呼び出し（ジョブの `uses:`）は、ロックファイルで固定できないため、コミットの SHA で指定する。SHA に続けて、その版をコメントで書く。SHA と版は Renovate が更新する
 
 ほかのアクションを使うときは、`actions.json` の `patterns_allowed` に足す。
 
 ### ワークフローのロックファイル
 
-アクションは、間接の依存まで含めて [`.github/workflows/actions.lock`](../.github/workflows/actions.lock) でも固定している。
+ワークフローのアクションは、間接の依存まで含めて [`.github/workflows/actions.lock`](../.github/workflows/actions.lock) で固定している。
 ロックファイルにないワークフローは、GitHub の設定（Require lockfile のポリシー）で実行が止まる。
 `uses:` を足したり変えたりしたら、次のコマンドでロックファイルを更新し、ワークフローと一緒にコミットする。
 
@@ -149,9 +151,8 @@ gh actions-lock --no-narrow
 ```
 
 - コマンドは GitHub CLI の拡張の [gh-actions-lock](https://github.com/github/gh-actions-lock) で、入れ方はリンク先にある
-- `--no-narrow` を付けないと、`uses:` の SHA が版のタグに書き換わる
+- `--no-narrow` を付けないと、SHA で指定している composite アクションの定義まで、版のタグに書き換わる
 - ロックファイルが古いと、PR の検査（ワークフローの依存の固定）が失敗する
-- 再利用ワークフローの呼び出し（ジョブの `uses:`）は、ロックファイルでは固定されない。SHA での指定がそのまま要る
 
 ### 使えるイベント
 

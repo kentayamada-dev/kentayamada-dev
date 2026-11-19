@@ -25,7 +25,7 @@ jobs:
       report_script: .github/scripts/report-scheduled-check/report-scheduled-check.sh
       report_name: settings-drift.txt
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/checkout@v7.0.1
         with:
           # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
           persist-credentials: false

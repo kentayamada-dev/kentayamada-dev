@@ -54,6 +54,15 @@
       matchPackageNames: ["renovate/renovate"],
       pinDigests: false,
     },
+    // ワークフローのアクションはロックファイルで固定するため、config:best-practices の helpers:pinGitHubActionDigests で SHA に固定し直させず、タグのまま更新させる。
+    // ロックファイルで固定できない composite アクションの定義と再利用ワークフローの呼び出し（depType が workflow）は、SHA のまま更新させる
+    // https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/presets/internal/helpers.preset.ts https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles
+    {
+      matchManagers: ["github-actions"],
+      matchDepTypes: ["action"],
+      matchFileNames: [".github/workflows/**"],
+      pinDigests: false,
+    },
     // Renovate は 1 日に何度もリリースされ、実行のたびに PR とマージが走るため、PR を作る時間帯を絞る
     {
       matchPackageNames: ["renovate/renovate", "renovatebot/github-action"],

@@ -4,102 +4,102 @@
 version: 'v0.0.3'
 workflows:
     '.github/workflows/actionlint.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/actions-lock.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
     '.github/workflows/betterleaks.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/check-jsonschema.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/editorconfig.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/ghalint.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/hadolint.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/infra-check.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
     '.github/workflows/jscpd.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
-        - 'actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1'
-        - 'pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115'
+        - 'actions/checkout@v7.0.1'
+        - 'actions/setup-node@v7.1.0'
+        - 'pnpm/action-setup@v6.1.1'
     '.github/workflows/lychee.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/markdownlint.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
-        - 'davidanson/markdownlint-cli2-action@696eb3f2509270d7b882d2aa68347bc676e7af34'
+        - 'actions/checkout@v7.0.1'
+        - 'davidanson/markdownlint-cli2-action@v25.0.0'
     '.github/workflows/osv-scanner.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
-        - 'google/osv-scanner-action@b1d267aea5211fa648d9d442fa64b90dbdcbdd36'
+        - 'actions/checkout@v7.0.1'
+        - 'google/osv-scanner-action@v2.7.0'
     '.github/workflows/oxfmt.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
-        - 'actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1'
-        - 'pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115'
+        - 'actions/checkout@v7.0.1'
+        - 'actions/setup-node@v7.1.0'
+        - 'pnpm/action-setup@v6.1.1'
     '.github/workflows/portfolio-check.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
     '.github/workflows/pr-title.yml':
-        - 'amannn/action-semantic-pull-request@48f256284bd46cdaab1048c3721360e808335d50'
+        - 'amannn/action-semantic-pull-request@v6.1.1'
     '.github/workflows/renovate-config-validator.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
     '.github/workflows/renovate.yml':
-        - 'actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510'
-        - 'renovatebot/github-action@2804199d260ad00c1fae0e9e842888369391c776'
+        - 'actions/create-github-app-token@v3.3.0'
+        - 'renovatebot/github-action@v46.3.10'
     '.github/workflows/settings-drift.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/signed-commits.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/test.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/textlint.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
-        - 'actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1'
-        - 'pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115'
+        - 'actions/checkout@v7.0.1'
+        - 'actions/setup-node@v7.1.0'
+        - 'pnpm/action-setup@v6.1.1'
     '.github/workflows/typos.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/yamllint.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
     '.github/workflows/zizmor.yml':
-        - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
+        - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
 dependencies:
-    'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1':
+    'actions/checkout@v7.0.1':
         ref: 'v7.0.1'
         commit: 'sha1-3d3c42e5aac5ba805825da76410c181273ba90b1'
         owner_id: 44036562
         repo_id: 197814629
-    'actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510':
+    'actions/create-github-app-token@v3.3.0':
         ref: 'v3.3.0'
         commit: 'sha1-64ab729a6294000f5aa4a4bc0b73d1f32bc45510'
         owner_id: 44036562
         repo_id: 642580244
-    'actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1':
+    'actions/setup-node@v7.1.0':
         ref: 'v7.1.0'
         commit: 'sha1-949feb2413d6458794dcd2491c4babbbce0c15c1'
         owner_id: 44036562
         repo_id: 189476904
-    'amannn/action-semantic-pull-request@48f256284bd46cdaab1048c3721360e808335d50':
+    'amannn/action-semantic-pull-request@v6.1.1':
         ref: 'v6.1.1'
         commit: 'sha1-48f256284bd46cdaab1048c3721360e808335d50'
         owner_id: 4038316
         repo_id: 220418983
-    'davidanson/markdownlint-cli2-action@696eb3f2509270d7b882d2aa68347bc676e7af34':
+    'davidanson/markdownlint-cli2-action@v25.0.0':
         ref: 'v25.0.0'
         commit: 'sha1-696eb3f2509270d7b882d2aa68347bc676e7af34'
         owner_id: 1828270
         repo_id: 329203602
-    'google/osv-scanner-action@b1d267aea5211fa648d9d442fa64b90dbdcbdd36':
+    'google/osv-scanner-action@v2.7.0':
         ref: 'v2.7.0'
         commit: 'sha1-b1d267aea5211fa648d9d442fa64b90dbdcbdd36'
         owner_id: 1342004
@@ -109,12 +109,12 @@ dependencies:
         commit: 'sha1-f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
         owner_id: 216188
         repo_id: 738284564
-    'pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115':
+    'pnpm/action-setup@v6.1.1':
         ref: 'v6.1.1'
         commit: 'sha1-73e46992e05b19abd31f2f3c20e0e7370d762115'
         owner_id: 21320719
         repo_id: 262289747
-    'renovatebot/github-action@2804199d260ad00c1fae0e9e842888369391c776':
+    'renovatebot/github-action@v46.3.10':
         ref: 'v46.3.10'
         commit: 'sha1-2804199d260ad00c1fae0e9e842888369391c776'
         owner_id: 38656520
