@@ -5,24 +5,24 @@ version: 'v0.0.3'
 workflows:
     '.github/workflows/actionlint.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/actions-lock.yml':
         - 'actions/checkout@v7.0.1'
     '.github/workflows/betterleaks.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/check-jsonschema.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/editorconfig.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/ghalint.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/hadolint.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/infra-check.yml':
         - 'actions/checkout@v7.0.1'
     '.github/workflows/jscpd.yml':
@@ -31,7 +31,7 @@ workflows:
         - 'pnpm/action-setup@v6.1.1'
     '.github/workflows/lychee.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/markdownlint.yml':
         - 'actions/checkout@v7.0.1'
         - 'davidanson/markdownlint-cli2-action@v25.0.0'
@@ -53,26 +53,26 @@ workflows:
         - 'renovatebot/github-action@v46.3.10'
     '.github/workflows/settings-drift.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/signed-commits.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/test.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/textlint.yml':
         - 'actions/checkout@v7.0.1'
         - 'actions/setup-node@v7.1.0'
         - 'pnpm/action-setup@v6.1.1'
     '.github/workflows/typos.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/yamllint.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/zizmor.yml':
         - 'actions/checkout@v7.0.1'
-        - 'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
 dependencies:
     'actions/checkout@v7.0.1':
         ref: 'v7.0.1'
@@ -104,9 +104,9 @@ dependencies:
         commit: 'sha1-b1d267aea5211fa648d9d442fa64b90dbdcbdd36'
         owner_id: 1342004
         repo_id: 736073144
-    'jdx/mise-action@f5be966e4a917d54244728e6a5fdcd1d93a35e6c':
-        ref: 'v5.2.6'
-        commit: 'sha1-f5be966e4a917d54244728e6a5fdcd1d93a35e6c'
+    'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a':
+        ref: 'v5.2.10'
+        commit: 'sha1-90f833d396d0cc3674b631d2d225e306476c303a'
         owner_id: 216188
         repo_id: 738284564
     'pnpm/action-setup@v6.1.1':
