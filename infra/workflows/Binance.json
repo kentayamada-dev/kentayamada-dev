@@ -1,7 +1,7 @@
 {
   "id": "bqe9sH9ofWw2jxo5",
   "name": "Binance",
-  "active": false,
+  "active": true,
   "createdAt": "2026-09-19T03:31:52.934Z",
   "isArchived": false,
   "nodes": [
@@ -267,7 +267,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       },
@@ -429,7 +429,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "VUkktTxYrhhN1lGj",
+          "id": "oFHPieuCVolXUNLx",
           "name": "Google Sheets account"
         }
       }
@@ -476,7 +476,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }
@@ -528,7 +528,7 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "slackApi": {
-          "id": "hSJPwM9yFgoMqBNb",
+          "id": "2LP2wKhVh2KZSjas",
           "name": "Slack[Notifications]"
         }
       }

@@ -81,7 +81,8 @@
         "channelId": {
           "__rl": true,
           "value": "C0BUVM19XM5",
-          "mode": "id"
+          "mode": "list",
+          "cachedResultName": "misc-notifications"
         },
         "text": "={{ $json.text }}",
         "otherOptions": {
