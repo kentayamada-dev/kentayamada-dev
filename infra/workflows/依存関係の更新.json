@@ -1,0 +1,99 @@
+{
+  "id": "qaxZGCL2v3NInkHD",
+  "name": "依存関係の更新",
+  "active": true,
+  "createdAt": "2026-11-19T15:25:13.186Z",
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 * * * *"
+            }
+          ]
+        }
+      },
+      "id": "9882edb7-775e-4b2e-9422-fa18b34caabb",
+      "name": "毎時0分に実行",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -112,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "owner": {
+          "__rl": true,
+          "value": "kentayamada-dev",
+          "mode": "list",
+          "cachedResultName": "kentayamada-dev",
+          "cachedResultUrl": "https://github.com/kentayamada-dev"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "kentayamada-dev",
+          "mode": "list",
+          "cachedResultName": "kentayamada-dev",
+          "cachedResultUrl": "https://github.com/kentayamada-dev/kentayamada-dev"
+        },
+        "workflowId": {
+          "__rl": true,
+          "value": "renovate.yml",
+          "mode": "filename"
+        },
+        "ref": {
+          "__rl": true,
+          "value": "main",
+          "mode": "name"
+        }
+      },
+      "id": "63c2ee0c-9d36-485b-8d00-897a8751adec",
+      "name": "Renovateを起動",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        112,
+        0
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "webhookId": "80ce340e-b3d6-4ab6-b325-5a0fc946fa96",
+      "credentials": {
+        "githubApi": {
+          "id": "VfSJTTkiSU9HgDcX",
+          "name": "GitHub account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "毎時0分に実行": {
+      "main": [
+        [
+          {
+            "node": "Renovateを起動",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "nodeGroups": [],
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "timeSavedMode": "fixed",
+    "errorWorkflow": "d88ctEMElygY3yRA",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false
+  },
+  "tags": []
+}
