@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "oxfmt": "0.76.0"
+    "oxfmt": "0.77.0"
   },
   "devEngines": {
     "packageManager": {
