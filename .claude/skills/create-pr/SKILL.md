@@ -40,11 +40,20 @@ git status -sb
 
 ## 手順
 
-1. `git fetch origin main` のあと、`git log origin/main..HEAD --oneline` と `git diff origin/main...HEAD` を通しで読む
+1. PR に入るコミットと差分を、GitHub の main と push 済みのブランチで比べて通しで読む。
+   `<ブランチ>` には、`git status -sb` の先頭行にある upstream のブランチ名（`origin/` の後ろ）を入れる
+
+   ```bash
+   gh api "repos/{owner}/{repo}/compare/main...<ブランチ>" --jq '.commits[] | [.sha[0:7], (.commit.message | split("\n")[0])] | @tsv'
+   gh api -H 'Accept: application/vnd.github.diff' "repos/{owner}/{repo}/compare/main...<ブランチ>"
+   ```
+
+   - サンドボックスのなかの `git fetch` は GitHub への接続を拒否されるので、ローカルの `origin/main` とは比べない
    - デバッグ用のログ、コメントアウトした不要コード、意図しないファイルの混入を確認する
    - 追加・変更したコメントが [`CONTRIBUTING.md`](../../../CONTRIBUTING.md) の「コメント」の規約に合うか確認する
    - 差分の外にある、変更した処理を説明するコメント（対象の列挙など）が古くなっていないか、変更したファイルを読んで確認する
    - 問題があれば、PR を作成せずに箇所と理由をユーザーへ伝えて終了する
+
 2. [`.github/pull_request_template.md`](../../../.github/pull_request_template.md) の各セクションを、HTML コメント（書き方のガイド）に従って埋めて本文を作る
    - HTML コメントは削除せずそのまま残す
    - 「レビューで見てほしい点」に書こうとしている事実は、先にドキュメント・ソース・コマンドの実行・CI の結果・GitHub の状態で確認する
