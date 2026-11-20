@@ -23,7 +23,7 @@ jobs:
     # renovate.yml で動かす Renovate と同じイメージで検査し、設定の解釈を本番の実行とそろえる。
     # docker:// のアクションは Actions の許可設定で起動できないため、ジョブのコンテナで動かす。
     container:
-      image: renovate/renovate:44.220.0@sha256:71599a2007228ada2cc6acb5ed836cf2c088537ffe76dafee1ee6a1c5c45d5e5
+      image: renovate/renovate:44.221.6@sha256:52454eae0bdcb51ddfecc39035e0fc2d97172751124049144e89d44343f6ae81
       # イメージの既定のユーザー（12021）は、ランナーの作業ディレクトリに書き込めず actions/checkout が失敗するため。
       options: --user root
     steps:
