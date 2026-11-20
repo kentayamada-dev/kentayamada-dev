@@ -1,11 +1,8 @@
 name: 依存関係の更新
 
 on:
-  schedule:
-    # main の必須チェックは最新への追従を求め、同じ実行で作った PR の 2 件目以降は次の実行まで自動マージされないため、1 日に何度も動かす。
-    # 定期実行は予定時刻の多くで起動されず、間隔を広げても起動回数が増えなかったため、予定時刻の多い毎時にし、混雑で遅れやすい毎時 0 分は避ける
-    # https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
-    - cron: "23 * * * *"
+  # 定期実行は予定時刻の多くで起動されず、Renovate の設定で PR を作る時間帯に一度も動かない日があったため、使わずに n8n から起動する
+  # https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
 # Renovate は GitHub App のトークンで操作し、GITHUB_TOKEN は使わない
@@ -37,13 +34,13 @@ jobs:
           permission-statuses: write
           permission-vulnerability-alerts: read
           permission-workflows: write
-      - uses: renovatebot/github-action@v46.3.10
+      - uses: renovatebot/github-action@v46.3.12
         with:
           token: ${{ steps.app-token.outputs.token }}
           # デフォルトの GHCR からは公開時刻が取れず、renovate.json5 の minimumReleaseAge が効かないため、Docker Hub の公式イメージを使う
           # https://docs.renovatebot.com/key-concepts/minimum-release-age/#which-registries-support-release-timestamps
           renovate-image: renovate/renovate
-          renovate-version: 44.181.6
+          renovate-version: 44.220.0
         env:
           RENOVATE_REPOSITORIES: ${{ github.repository }}
           # Docker Hub は未ログインだと 1000 件目より先を返さない。超えて失敗すると公開時刻のないタグ一覧に切り替わり、minimumReleaseAge の待ちが明けなくなる

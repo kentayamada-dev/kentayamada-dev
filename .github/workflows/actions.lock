@@ -50,7 +50,7 @@ workflows:
         - 'actions/checkout@v7.0.1'
     '.github/workflows/renovate.yml':
         - 'actions/create-github-app-token@v3.3.0'
-        - 'renovatebot/github-action@v46.3.10'
+        - 'renovatebot/github-action@v46.3.12'
     '.github/workflows/settings-drift.yml':
         - 'actions/checkout@v7.0.1'
         - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
@@ -114,8 +114,8 @@ dependencies:
         commit: 'sha1-73e46992e05b19abd31f2f3c20e0e7370d762115'
         owner_id: 21320719
         repo_id: 262289747
-    'renovatebot/github-action@v46.3.10':
-        ref: 'v46.3.10'
-        commit: 'sha1-2804199d260ad00c1fae0e9e842888369391c776'
+    'renovatebot/github-action@v46.3.12':
+        ref: 'v46.3.12'
+        commit: 'sha1-1c0cf989c02653fba0efe7ca5772338860ca71dc'
         owner_id: 38656520
         repo_id: 252754603

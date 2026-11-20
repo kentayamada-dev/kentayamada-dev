@@ -64,6 +64,7 @@
       pinDigests: false,
     },
     // Renovate は 1 日に何度もリリースされ、実行のたびに PR とマージが走るため、PR を作る時間帯を絞る
+    // Renovate は n8n からしか起動しないため、時間帯を変えるときは、n8n から起動する時刻もこの時間帯に当たるように合わせる
     {
       matchPackageNames: ["renovate/renovate", "renovatebot/github-action"],
       schedule: ["* 0-3 * * *"],
@@ -109,6 +110,8 @@
       commitMessageTopic: "依存関係を固定",
     },
   },
+  // 時間帯は config:best-practices の毎週月曜 0〜3 時のまま使う。Renovate は n8n からしか起動しないため、時間帯を変えるときは、n8n から起動する時刻もこの時間帯に当たるように合わせる
+  // https://github.com/renovatebot/renovate/blob/44.181.6/lib/config/presets/internal/default.preset.ts#L359-L365 https://github.com/renovatebot/renovate/blob/44.181.6/lib/config/presets/internal/schedule.preset.ts#L4
   lockFileMaintenance: {
     commitMessageAction: "ロックファイルを更新",
     automerge: true,
