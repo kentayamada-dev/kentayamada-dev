@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "jscpd": "5.4.2"
+    "jscpd": "5.4.3"
   },
   "devEngines": {
     "packageManager": {
