@@ -22,9 +22,9 @@ clean-docker:
 	docker compose down --rmi local --volumes --remove-orphans
 # まだ取得していないイメージで No such image のエラーを出さないよう、あるものだけを消す
 	for image in $(base_images); do \
-	  if docker image inspect "$$image" >/dev/null 2>&1; then docker image rm "$$image" || exit; fi; \
+		if docker image inspect "$$image" >/dev/null 2>&1; then docker image rm "$$image" || exit; fi; \
 	done
 # 1 回の問い合わせで 50 件までしか返さないため、それより多いと 1 回では消しきれない
 # https://github.com/docker/buildx/blob/v0.37.2/commands/history/utils.go#L26
 	refs=$$(docker buildx history ls --local --format '{{.Ref}}') && \
-	  if [ -n "$$refs" ]; then docker buildx history rm $$refs; fi
+		if [ -n "$$refs" ]; then docker buildx history rm $$refs; fi

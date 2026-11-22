@@ -17,3 +17,8 @@ extend-ignore-re = [
   # --check の打ち間違いを拒むかを試すテストの入力のため
   "--chek\\b",
 ]
+
+[default.extend-identifiers]
+# oxlint の eslint/max-lines-per-function のオプション名で、IIF の誤綴りと判定されるため
+# https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/rules/eslint/max_lines_per_function.rs#L41-L45
+IIFEs = "IIFEs"
