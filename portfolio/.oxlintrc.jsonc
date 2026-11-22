@@ -2,12 +2,12 @@
   "$schema": "./node_modules/oxlint/configuration_schema.json",
   // JS プラグインの規則は categories では有効にならず、使う規則を 1 つずつ並べることになるため、プラグインごとのファイルに分ける
   // https://oxc.rs/docs/guide/usage/linter/js-plugins.html#using-js-plugins
-  "extends": ["./oxlint/tailwind.jsonc", "./oxlint/security.jsonc"],
+  "extends": ["./oxlint/security.jsonc", "./oxlint/compat.jsonc"],
   // plugins を書くと既定のプラグインが外れるため、既定の eslint・typescript・unicorn・oxc も並べる
   // https://oxc.rs/docs/guide/usage/linter/plugins.html
-  "plugins": ["eslint", "typescript", "unicorn", "oxc", "react", "nextjs", "jsx-a11y", "import"],
-  // nursery は開発中の規則のため、有効にしない
+  "plugins": ["eslint", "typescript", "unicorn", "oxc", "import", "promise", "node"],
   "categories": {
+    "nursery": "error",
     "correctness": "error",
     "suspicious": "error",
     "pedantic": "error",
@@ -15,69 +15,210 @@
     "style": "error",
     "restriction": "error"
   },
+  // package.json の browserslist（対応ブラウザ）を変えるときは、対応ブラウザを理由に無効にした規則やオプションも見直す
   "rules": {
-    // Next.js は、page・layout・next.config に default export を、metadata やルートハンドラーに名前付きの export を求めるため
-    // https://nextjs.org/docs/app/api-reference/file-conventions/page https://nextjs.org/docs/app/api-reference/file-conventions/route
-    "import/no-default-export": "off",
+    // import/no-default-export と合わせて有効にすると、default でも名前付きでも export できなくなるため
     "import/no-named-export": "off",
     "import/prefer-default-export": "off",
-    // Next.js の page・layout は、コンポーネントと同じファイルから metadata などを export するため
-    // https://nextjs.org/docs/app/api-reference/functions/generate-metadata
-    "react/only-export-components": "off",
-    // tsconfig.json の jsx: react-jsx の変換では、JSX を書くために React を import しなくてよいため
-    // https://oxc.rs/docs/guide/usage/linter/rules/react/react-in-jsx-scope.html
-    "react/react-in-jsx-scope": "off",
-    // 既定では JSX を .jsx にしか書けないため、.tsx を指定する。JS を許すときは、tsconfig.json の allowJs も合わせる
-    // https://oxc.rs/docs/guide/usage/linter/rules/react/jsx-filename-extension.html
-    "react/jsx-filename-extension": ["error", { "extensions": [".tsx"] }],
-    // Next.js のグローバルな CSS は、値を受け取らない import で読み込むため
-    // https://nextjs.org/docs/app/getting-started/css#global-css
-    "import/no-unassigned-import": ["error", { "allow": ["**/*.css"] }],
     // import 文の順は oxfmt の sortImports が並べるため、名前付き import のメンバーの順だけを検査させる
     "eslint/sort-imports": ["error", { "ignoreDeclarationSort": true }],
-    // 既定では未使用の import の修正が提案にとどまり、--fix で消えないため
+    // fix は、既定では未使用の import の修正が提案にとどまり、--fix で消えないため
     // https://oxc.rs/docs/guide/usage/linter/rules/eslint/no-unused-vars.html
-    "eslint/no-unused-vars": ["error", { "fix": { "imports": "safe-fix" } }],
-    // next/font の Geist などは、大文字で始まるが new を付けずに呼ぶ関数のため
-    // https://nextjs.org/docs/app/api-reference/components/font
-    "eslint/new-cap": ["error", { "capIsNew": false }],
-    // next/font の変換は const の最初の変数しか変換しないため、既定の always と逆に、1 つの const に 1 つの変数を書かせる
-    // https://github.com/vercel/next.js/blob/v16.4.2/crates/next-custom-transforms/src/transforms/fonts/font_imports_generator.rs#L89-L90
-    "eslint/one-var": ["error", "never"],
-    // 既定では名前付きのコンポーネントに function 宣言を、名前のないコンポーネントに function 式を求め、
-    // 関数を式で書かせる func-style と、コールバックにアロー関数を求める prefer-arrow-callback と逆になるため
-    // https://github.com/oxc-project/oxc/blob/oxlint_v1.90.0/crates/oxc_linter/src/rules/react/function_component_definition.rs#L40-L64
-    "react/function-component-definition": [
+    "eslint/no-unused-vars": [
       "error",
-      { "namedComponents": "arrow-function", "unnamedComponents": "arrow-function" }
+      { "args": "all", "reportVarsOnlyUsedAsTypes": true, "fix": { "imports": "safe-fix" } }
     ],
-    // Tailwind CSS のクラスは、next/image などのコンポーネントにも className で渡すため
-    "react/forbid-component-props": ["error", { "forbid": ["style"] }],
-    // Next.js が生成する LayoutProps は、Readonly で包んでも readonly の型と判定されないため
-    // https://typescript-eslint.io/rules/prefer-readonly-parameter-types/
-    "typescript/prefer-readonly-parameter-types": [
-      "error",
-      { "allow": [{ "from": "file", "name": "LayoutProps" }] }
-    ],
-    // Promise を返す関数に async を求める typescript/promise-function-async と逆を求め、Next.js も page の params を await で読ませるため
-    // https://nextjs.org/docs/app/api-reference/file-conventions/page
+    // Promise を返す関数に async を求める typescript/promise-function-async と逆を求めるため
     "oxc/no-async-await": "off",
-    // コメントは、小文字で始まる識別子から書き出すことがあるため
-    "eslint/capitalized-comments": "off",
     // oxfmt が 16 進数の数字を小文字に整形し、大文字を求めるこの規則と食い違うため
     // https://github.com/prettier/eslint-config-prettier/blob/v10.1.8/index.js#L254
-    "unicorn/number-literal-case": "off"
+    "unicorn/number-literal-case": "off",
+    // 求める Array#toReversed() は Firefox 115 からで、対応ブラウザに入らないため
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
+    "unicorn/no-array-reverse": "off",
+    // 求める Response.json() は Firefox 115・Safari 17 からで、対応ブラウザに入らないため
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/api/Response.json
+    "unicorn/prefer-response-static-json": "off",
+    // 求める top-level await は、Safari 26 までは複数のモジュールが同時に import すると動かない一部の対応のため
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/operators/await.json https://webkit.org/b/242740
+    "unicorn/prefer-top-level-await": "off",
+    "eslint/accessor-pairs": ["error", { "getWithoutSet": true, "enforceForTSTypes": true }],
+    "eslint/array-callback-return": ["error", { "checkForEach": true }],
+    "eslint/grouped-accessor-pairs": ["error", "getBeforeSet", { "enforceForTSTypes": true }],
+    "eslint/logical-assignment-operators": ["error", "always", { "enforceForIfStatements": true }],
+    "eslint/max-lines-per-function": ["error", { "IIFEs": true }],
+    "eslint/max-params": ["error", { "countThis": "always" }],
+    "eslint/no-cond-assign": ["error", "always"],
+    "eslint/no-constant-condition": ["error", { "checkLoops": "all" }],
+    "eslint/no-duplicate-imports": ["error", { "includeExports": true }],
+    "eslint/no-else-return": ["error", { "allowElseIf": false }],
+    "eslint/no-extra-boolean-cast": ["error", { "enforceForInnerExpressions": true }],
+    "eslint/no-fallthrough": ["error", { "reportUnusedFallthroughComment": true }],
+    "eslint/no-implicit-coercion": ["error", { "disallowTemplateShorthand": true }],
+    "eslint/no-inner-declarations": ["error", "both", { "blockScopedFunctions": "disallow" }],
+    "eslint/no-irregular-whitespace": [
+      "error",
+      { "skipStrings": false, "skipRegExps": false, "skipTemplates": false, "skipJSXText": false }
+    ],
+    "eslint/no-magic-numbers": ["error", { "enforceConst": true, "detectObjects": true }],
+    "eslint/no-param-reassign": ["error", { "props": true }],
+    "eslint/no-redeclare": ["error", { "ignoreDeclarationMerge": false }],
+    "eslint/no-return-assign": ["error", "always"],
+    "eslint/no-sequences": ["error", { "allowInParentheses": false }],
+    "eslint/no-shadow": [
+      "error",
+      {
+        "hoist": "all",
+        "builtinGlobals": true,
+        "ignoreTypeValueShadow": false,
+        "ignoreFunctionTypeParameterNameValueShadow": false
+      }
+    ],
+    "eslint/no-undef": ["error", { "typeof": true }],
+    "eslint/no-underscore-dangle": [
+      "error",
+      {
+        "allowInArrayDestructuring": false,
+        "allowInObjectDestructuring": false,
+        "allowFunctionParams": false,
+        "enforceInClassFields": true,
+        "enforceInMethodNames": true
+      }
+    ],
+    "eslint/no-unmodified-loop-condition": ["error", { "checkConditionalExpressions": true }],
+    "eslint/no-unneeded-ternary": ["error", { "defaultAssignment": false }],
+    "eslint/no-unsafe-negation": ["error", { "enforceForOrderingRelations": true }],
+    "eslint/no-unsafe-optional-chaining": ["error", { "disallowArithmeticOperators": true }],
+    "eslint/no-use-before-define": ["error", { "ignoreTypeReferences": false }],
+    "eslint/no-warning-comments": ["error", { "location": "anywhere" }],
+    "eslint/object-shorthand": ["error", "always", { "avoidExplicitReturnArrows": true }],
+    "eslint/prefer-arrow-callback": ["error", { "allowUnboundThis": false }],
+    "eslint/prefer-destructuring": [
+      "error",
+      { "array": true, "object": true },
+      { "enforceForRenamedProperties": true, "enforceForDeclarationWithTypeAnnotation": true }
+    ],
+    "eslint/prefer-regex-literals": ["error", { "disallowRedundantWrapping": true }],
+    "eslint/preserve-caught-error": ["error", { "requireCatchParameter": true }],
+    // 正規表現の v フラグは Firefox 116・Safari 17 からで、対応ブラウザに入らないため、u フラグを求めて v フラグを使わせない
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/RegExp.json
+    "eslint/require-unicode-regexp": ["error", { "requireFlag": "u" }],
+    "eslint/use-isnan": ["error", { "enforceForIndexOf": true }],
+    "eslint/valid-typeof": ["error", { "requireStringLiterals": true }],
+    "typescript/ban-ts-comment": ["error", { "ts-expect-error": true }],
+    "typescript/consistent-type-assertions": ["error", { "assertionStyle": "never" }],
+    "typescript/explicit-function-return-type": [
+      "error",
+      {
+        "allowTypedFunctionExpressions": false,
+        "allowDirectConstAssertionInArrowFunctions": false,
+        "allowHigherOrderFunctions": false
+      }
+    ],
+    "typescript/explicit-module-boundary-types": [
+      "error",
+      {
+        "allowTypedFunctionExpressions": false,
+        "allowDirectConstAssertionInArrowFunctions": false,
+        "allowHigherOrderFunctions": false
+      }
+    ],
+    "typescript/no-base-to-string": ["error", { "checkUnknown": true, "ignoredTypeNames": [] }],
+    "typescript/no-floating-promises": ["error", { "ignoreVoid": false, "checkThenables": true }],
+    // explicit-function-return-type が async 関数にも戻り値の型を求め、Promise<void> と書くことになるため、型引数の void は Promise にだけ許す
+    "typescript/no-invalid-void-type": ["error", { "allowInGenericTypeArguments": ["Promise"] }],
+    "typescript/no-meaningless-void-operator": ["error", { "checkNever": true }],
+    "typescript/no-namespace": ["error", { "allowDefinitionFiles": false }],
+    "typescript/no-this-alias": ["error", { "allowDestructuring": false }],
+    "typescript/no-unnecessary-boolean-literal-compare": [
+      "error",
+      {
+        "allowComparingNullableBooleansToTrue": false,
+        "allowComparingNullableBooleansToFalse": false
+      }
+    ],
+    "typescript/no-unnecessary-condition": ["error", { "checkTypePredicates": true }],
+    "typescript/no-unnecessary-type-assertion": ["error", { "checkLiteralConstAssertions": true }],
+    "typescript/only-throw-error": [
+      "error",
+      { "allowRethrowing": false, "allowThrowingAny": false, "allowThrowingUnknown": false }
+    ],
+    "typescript/prefer-nullish-coalescing": ["error", { "ignoreConditionalTests": false }],
+    "typescript/promise-function-async": ["error", { "allowAny": false }],
+    "typescript/require-array-sort-compare": ["error", { "ignoreStringArrays": false }],
+    "typescript/restrict-plus-operands": [
+      "error",
+      {
+        "allowAny": false,
+        "allowBoolean": false,
+        "allowNullish": false,
+        "allowNumberAndString": false,
+        "allowRegExp": false
+      }
+    ],
+    "typescript/restrict-template-expressions": [
+      "error",
+      {
+        "allow": [],
+        "allowAny": false,
+        "allowBoolean": false,
+        "allowNullish": false,
+        "allowNumber": false,
+        "allowRegExp": false
+      }
+    ],
+    "typescript/strict-boolean-expressions": [
+      "error",
+      { "allowNullableObject": false, "allowString": false, "allowNumber": false }
+    ],
+    "typescript/triple-slash-reference": ["error", { "lib": "never", "types": "never" }],
+    "unicorn/import-style": ["error", { "checkExportFrom": true }],
+    "unicorn/no-array-reduce": ["error", { "allowSimpleOperations": false }],
+    "unicorn/no-array-reverse": ["error", { "allowExpressionStatement": false }],
+    // 求める Array#toSorted() は Firefox 115 からで、対応ブラウザに入らないため、スプレッドでコピーしてからの sort() を許す
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
+    "unicorn/no-array-sort": [
+      "error",
+      { "allowExpressionStatement": false, "allowAfterSpread": true }
+    ],
+    "unicorn/no-null": ["error", { "checkStrictEquality": true }],
+    "unicorn/no-typeof-undefined": ["error", { "checkGlobalVariables": true }],
+    "unicorn/prefer-at": ["error", { "checkAllIndexAccess": true }],
+    "unicorn/prefer-number-properties": ["error", { "checkInfinity": true }],
+    "oxc/no-map-spread": ["error", { "ignoreRereads": false, "ignoreArgs": false }],
+    "import/first": ["error", "absolute-first"],
+    // exactCount だけでは間のコメント行も空行の数に入り、import・空行・コメント・文の並びが報告されるため、コメントを次の文として数えさせる
+    // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/rules/import/newline_after_import.rs#L457-L475
+    "import/newline-after-import": ["error", { "exactCount": true, "considerComments": true }],
+    "import/no-anonymous-default-export": ["error", { "allowCallExpression": false }],
+    "import/no-cycle": ["error", { "ignoreTypes": false }],
+    "import/no-dynamic-require": ["error", { "esmodule": true }],
+    "promise/always-return": ["error", { "ignoreAssignmentVariable": [] }],
+    "promise/no-callback-in-promise": ["error", { "timeoutsErr": true }],
+    "promise/param-names": [
+      "error",
+      { "resolvePattern": "^resolve$", "rejectPattern": "^reject$" }
+    ],
+    "promise/prefer-await-to-then": ["error", { "strict": true }]
   },
-  // extends 先のファイルに書いた settings は読み込まれないため、ここに書く
-  // https://github.com/oxc-project/oxc/blob/oxlint_v1.90.0/crates/oxc_linter/src/config/oxlintrc.rs#L442
-  "settings": {
-    "better-tailwindcss": {
-      "entryPoint": "app/globals.css",
-      // 指定しないと、h-[14px] を h-3.5 のように px から目盛りの値へ置き換えないため、ブラウザの既定の 16px を指定する
-      // https://github.com/schoero/eslint-plugin-better-tailwindcss/blob/v4.10.0/docs/rules/enforce-canonical-classes.md#rootfontsize
-      "rootFontSize": 16
+  "overrides": [
+    {
+      // frontmatter で使う Astro グローバルを、nursery の eslint/no-undef に未定義と判定させないため
+      // https://docs.astro.build/en/reference/api-reference/ https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/apps/oxlint/src-js/generated/envs.ts#L43-L46
+      "files": ["**/*.astro"],
+      "env": { "astro": true },
+      // oxlint は frontmatter を切り出して単独で検査し、import のない frontmatter をスクリプトと見分けられないと報告する。
+      // .astro は Astro がコンパイルするファイルで、単独のスクリプトとして読まれることはない
+      // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/loader/partial_loader/astro.rs#L34-L60
+      "rules": { "import/unambiguous": "off" }
+    },
+    {
+      // Astro の設定ファイルは、設定を default export で渡す形のため
+      // https://docs.astro.build/en/guides/configuring-astro/#the-astro-config-file
+      "files": ["astro.config.mjs"],
+      "rules": { "import/no-default-export": "off" }
     }
-  },
+  ],
   "options": {
     "typeAware": true,
     "denyWarnings": true,

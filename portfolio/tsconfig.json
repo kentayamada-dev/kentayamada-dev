@@ -1,52 +1,5 @@
 {
-  "compilerOptions": {
-    "target": "ES2017",
-    "lib": ["dom", "dom.iterable", "esnext"],
-    // 書かないと Next.js が allowJs: true を足すため、false を明示する。JS を許すときは next.config.ts の pageExtensions と、.oxlintrc.jsonc の react/jsx-filename-extension も合わせる
-    // https://github.com/vercel/next.js/blob/v16.4.2/packages/next/src/lib/typescript/writeConfigurationDefaults.ts
-    "allowJs": false,
-    // Next.js が生成する .next/types/link.d.ts が、グローバルの JSX を参照して型が見つからずに失敗するため、.d.ts を検査しない
-    // https://github.com/vercel/next.js/blob/v16.4.2/packages/next/src/server/lib/router-utils/typegen.ts
-    "skipLibCheck": true,
-    "strict": true,
-    "allowUnreachableCode": false,
-    "allowUnusedLabels": false,
-    "exactOptionalPropertyTypes": true,
-    "noFallthroughCasesInSwitch": true,
-    "noImplicitOverride": true,
-    "noImplicitReturns": true,
-    "noPropertyAccessFromIndexSignature": true,
-    "noUncheckedIndexedAccess": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "erasableSyntaxOnly": true,
-    "verbatimModuleSyntax": true,
-    "isolatedDeclarations": true,
-    "declaration": true,
-    "noEmit": true,
-    "incremental": true,
-    "module": "esnext",
-    "esModuleInterop": true,
-    "moduleResolution": "bundler",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "jsx": "react-jsx",
-    "plugins": [
-      {
-        "name": "next"
-      }
-    ],
-    "paths": {
-      "@/*": ["./*"]
-    }
-  },
-  "include": [
-    "next-env.d.ts",
-    ".next/types/**/*.ts",
-    ".next/dev/types/**/*.ts",
-    "**/*.mts",
-    "**/*.ts",
-    "**/*.tsx"
-  ],
-  "exclude": ["node_modules"]
+  "extends": "astro/tsconfigs/strict",
+  "include": [".astro/types.d.ts", "**/*"],
+  "exclude": ["dist"]
 }

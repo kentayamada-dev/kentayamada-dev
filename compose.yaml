@@ -38,7 +38,7 @@ services:
         source: portfolio-history
         target: *history-dir
     environment:
-      NEXT_TELEMETRY_DISABLED: 1
+      ASTRO_TELEMETRY_DISABLED: 1
 
   infra:
     <<: *devcontainer

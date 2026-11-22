@@ -69,6 +69,13 @@
       matchPackageNames: ["renovate/renovate", "renovatebot/github-action"],
       schedule: ["* 0-3 * * *"],
     },
+    // portfolio の astro check が使う @astrojs/check は、TypeScript 7 に対応していないため、6 系に留める。@astrojs/check が 7 に対応したら外す
+    // https://github.com/withastro/astro/blob/%40astrojs/check%400.9.12/packages/language-tools/astro-check/package.json#L46-L48
+    {
+      matchFileNames: ["portfolio/package.json"],
+      matchPackageNames: ["typescript"],
+      allowedVersions: "<7",
+    },
     // タイトルを日本語にする。語順が「action topic extra」で固定なので、action を空にして動詞を extra に入れる https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/options/index.ts#L2502-L2506
     // datasource（Docker など）のデフォルトのメッセージより後に適用させるため packageRules に置く https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/updates/flatten.ts#L143-L147
     {

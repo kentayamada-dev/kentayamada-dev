@@ -1,0 +1,8 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "jsPlugins": ["eslint-plugin-compat"],
+  "rules": {
+    // 対応ブラウザは package.json の browserslist から読む
+    "compat/compat": "error"
+  }
+}

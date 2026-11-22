@@ -3,34 +3,37 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "typecheck": "next typegen && tsc --noEmit",
-    "lint": "next typegen && oxlint",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "typecheck": "astro check",
+    "lint": "astro sync && oxlint",
     "knip": "knip",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check"
   },
   "dependencies": {
-    "next": "16.4.5",
-    "react": "19.3.1",
-    "react-dom": "19.3.1"
+    "astro": "7.4.13"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "4.3.4",
-    "@types/node": "26.6.6",
-    "@types/react": "19.3.0",
-    "@types/react-dom": "19.3.0",
-    "eslint-plugin-better-tailwindcss": "4.10.0",
+    "@astrojs/check": "0.9.12",
+    "@astrojs/compiler-rs": "0.5.3",
+    "eslint-plugin-compat": "7.0.2",
     "eslint-plugin-security": "4.2.1",
-    "knip": "6.44.1",
-    "oxfmt": "0.76.0",
-    "oxlint": "1.91.0",
-    "oxlint-tsgolint": "7.0.2006",
-    "tailwindcss": "4.3.4",
-    "typescript": "7.0.2"
+    "knip": "6.46.1",
+    "oxfmt": "0.79.0",
+    "oxlint": "1.94.0",
+    "oxlint-tsgolint": "7.0.2007",
+    "typescript": "6.0.3"
   },
+  "browserslist": [
+    "chrome >= 111",
+    "edge >= 111",
+    "firefox >= 114",
+    "safari >= 16.4",
+    "ios_saf >= 16.4"
+  ],
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
