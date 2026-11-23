@@ -1,7 +1,7 @@
-// @ts-check
+import type { AstroUserConfig, ViteUserConfig } from "astro";
 import { defineConfig } from "astro/config";
 
-const config = defineConfig({
+const config: AstroUserConfig = defineConfig({
   server: {
     // 既定の localhost はコンテナ内で ::1 に解決されるが、VS Code のポート転送は IPv6 に対応せず届かないため、IPv4 で待ち受ける
     // https://github.com/vitejs/vite/blob/v8.3.8/docs/guide/troubleshooting.md#dev-containers--vs-code-port-forwarding
@@ -15,7 +15,7 @@ const config = defineConfig({
         // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/vite-build-config.ts#L205
         // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/utils.ts#L1571-L1573
         // https://github.com/oxc-project/oxc/blob/crates_v0.156.0/crates/oxc_compat/src/engine_targets.rs#L151-L172
-        configEnvironment(name) {
+        configEnvironment(name: string): NonNullable<ViteUserConfig["environments"]>[string] {
           if (name !== "client") {
             return {};
           }

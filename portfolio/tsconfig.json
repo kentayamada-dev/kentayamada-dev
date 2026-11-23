@@ -1,5 +1,14 @@
 {
-  "extends": "astro/tsconfigs/strict",
+  "extends": "astro/tsconfigs/strictest",
+  "compilerOptions": {
+    // isolatedDeclarations は、allowJs と一緒に使えず、declaration か composite を要するため。JS のファイルは型を検査しないので、TS で書く
+    // https://github.com/microsoft/TypeScript/blob/v6.0.3/src/compiler/program.ts#L4089-L4096
+    "allowJs": false,
+    "declaration": true,
+    "isolatedDeclarations": true,
+    "erasableSyntaxOnly": true,
+    "noPropertyAccessFromIndexSignature": true
+  },
   "include": [".astro/types.d.ts", "**/*"],
   "exclude": ["dist"]
 }
