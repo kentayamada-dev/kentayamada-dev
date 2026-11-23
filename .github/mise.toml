@@ -8,7 +8,7 @@ betterleaks = "v1.10.0"
 editorconfig-checker = "4.0.2"
 # mise のレジストリでは aqua バックエンドだが、aqua レジストリの定義に検証の設定がないため、github バックエンドで入れる
 # https://github.com/aquaproj/aqua-registry/blob/2db5a70b0c3e770bc9f61515cbefca7b13c405a8/pkgs/crate-ci/typos/registry.yaml
-"github:crate-ci/typos" = "v1.52.0"
+"github:crate-ci/typos" = "v1.52.1"
 # mise のレジストリでは aqua バックエンドだが、aqua レジストリの定義に検証の設定がないため、github バックエンドで入れる
 # https://github.com/aquaproj/aqua-registry/blob/2db5a70b0c3e770bc9f61515cbefca7b13c405a8/pkgs/mvdan/sh/registry.yaml
 "github:mvdan/sh" = "3.14.1"
