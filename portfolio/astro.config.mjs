@@ -19,9 +19,9 @@ const config = defineConfig({
           if (name !== "client") {
             return {};
           }
-          // 対応ブラウザ（package.json の browserslist）を変えるときは合わせる
+          // 対応ブラウザ（package.json の browserslist）を変えるときは、browserslist が選ぶブラウザごとの最も古い版に合わせる
           return {
-            build: { target: ["chrome111", "edge111", "firefox114", "safari16.4", "ios16.4"] },
+            build: { target: ["chrome130", "edge130", "firefox132", "safari18.2", "ios18.2"] },
           };
         },
         name: "client-build-target",
