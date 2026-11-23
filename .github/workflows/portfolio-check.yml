@@ -44,6 +44,6 @@ jobs:
       - run: docker compose run --rm portfolio pnpm build
       # 対応ブラウザに合わせた変換は astro.config.ts の回避策に頼っていて、効かなくなってもビルドは通るため、検査用のページの出力で確かめる。
       # SuppressedError は using 宣言を書き換えたときの補助の関数に、-webkit-user-select は Safari 向けに足したプレフィックスに現れる
-      - run: docker compose run --rm portfolio pnpm astro build --root "${build_target_dir}"
+      - run: docker compose run --rm portfolio pnpm astro build --root "${build_target_dir}" && exit 1
       - run: grep -rq SuppressedError "portfolio/${build_target_dir}/dist"
       - run: grep -rq -- -webkit-user-select "portfolio/${build_target_dir}/dist"
