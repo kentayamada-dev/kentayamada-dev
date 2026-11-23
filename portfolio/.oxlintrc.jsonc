@@ -1,5 +1,7 @@
 {
   "$schema": "./node_modules/oxlint/configuration_schema.json",
+  // 対応ブラウザに合わせた変換を確かめる検査用のページは、ビルドで書き換えられる構文をわざと書くもので、規則に合わせて書くものではないため
+  "ignorePatterns": ["test/build-target/**"],
   // JS プラグインの規則は categories では有効にならず、使う規則を 1 つずつ並べることになるため、プラグインごとのファイルに分ける
   // https://oxc.rs/docs/guide/usage/linter/js-plugins.html#using-js-plugins
   "extends": ["./oxlint/security.jsonc", "./oxlint/compat.jsonc", "./oxlint/es-x.jsonc"],
