@@ -54,11 +54,6 @@ const browserEngines: ReadonlyMap<string, string> = new Map([
       host: "127.0.0.1",
     },
     vite: {
-      build: {
-        // Astro は CSS の対応ブラウザを決めず、指定しないと Lightning CSS がベンダープレフィックスを対応ブラウザに合わせないため
-        // https://github.com/withastro/astro/issues/17647
-        cssTarget: buildTarget,
-      },
       plugins: [
         {
           // Astro はクライアント向けのビルドの target を esnext に固定するため、対応ブラウザを足す。
