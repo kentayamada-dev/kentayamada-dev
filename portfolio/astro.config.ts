@@ -67,7 +67,7 @@ const browserEngines: ReadonlyMap<string, string> = new Map([
           // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/utils.ts#L1571-L1573
           // https://github.com/oxc-project/oxc/blob/crates_v0.156.0/crates/oxc_compat/src/engine_targets.rs#L151-L172
           configEnvironment(name: string): NonNullable<ViteUserConfig["environments"]>[string] {
-            if (name !== "client") {
+            if (name !== "browser") {
               return {};
             }
             return { build: { target: buildTarget } };
