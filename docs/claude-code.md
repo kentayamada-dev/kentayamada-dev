@@ -42,3 +42,5 @@ Claude Code が Bash で実行するコマンドは、サンドボックスの�
 
 Claude Code のデスクトップアプリは、[`.claude/launch.json`](../.claude/launch.json) の設定で portfolio の開発サーバーを起動する。
 開発サーバーは、Dev Container と同じ Compose のサービスのコンテナで動く。
+[`astro.config.mjs`](../portfolio/astro.config.mjs) の設定のままでは、コンテナのなかからしか届かないアドレスで待ち受ける。
+そのため `--host` を付けてコンテナのすべてのアドレスで待ち受け、ホストではほかの端末に開かないよう 127.0.0.1 だけに公開する。

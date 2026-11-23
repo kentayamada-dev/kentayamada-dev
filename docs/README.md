@@ -2,7 +2,7 @@
 
 ## 概要
 
-このリポジトリでは、[`portfolio/`](../portfolio/) にある Next.js のアプリを開発している。
+このリポジトリでは、[`portfolio/`](../portfolio/) にある Astro のサイトを開発している。
 n8n を動かすインフラは、[`infra/`](../infra/) で Terraform を使って管理する。
 開発は Dev Container のなかで進める。
 Node.js・pnpm・Terraform はコンテナで使うため、ホストには要らない。
