@@ -1,4 +1,4 @@
-name: portfolio の型・静的解析・ビルド・対応ブラウザへの変換
+name: portfolio の型・静的解析・ビルド
 
 on:
   pull_request:
@@ -20,9 +20,6 @@ jobs:
     name: portfolio-check
     runs-on: ubuntu-26.04-arm
     timeout-minutes: 15
-    env:
-      # portfolio からの相対パス。移すときは、portfolio の .gitignore・.oxlintrc.jsonc・knip.jsonc も合わせる
-      build_target_dir: test/build-target
     steps:
       - uses: actions/checkout@v7.0.1
         with:
@@ -33,7 +30,7 @@ jobs:
       - run: docker compose build portfolio
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
       # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作れるようにする
-      - run: chmod a+w portfolio "portfolio/${build_target_dir}"
+      - run: chmod a+w portfolio
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
@@ -42,8 +39,3 @@ jobs:
       - run: docker compose run --rm portfolio pnpm knip
       # 整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
       - run: docker compose run --rm portfolio pnpm build
-      # 対応ブラウザに合わせた変換は astro.config.ts の回避策に頼っていて、効かなくなってもビルドは通るため、検査用のページの出力で確かめる。
-      # SuppressedError は using 宣言を書き換えたときの補助の関数に、-webkit-user-select は Safari 向けに足したプレフィックスに現れる
-      - run: docker compose run --rm portfolio pnpm astro build --root "${build_target_dir}"
-      - run: grep -rq SuppressedError "portfolio/${build_target_dir}/dist"
-      - run: grep -rq -- -webkit-user-select "portfolio/${build_target_dir}/dist"

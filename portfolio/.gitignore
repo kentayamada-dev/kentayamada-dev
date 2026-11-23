@@ -1,6 +1,3 @@
 /node_modules/
 /dist/
 /.astro/
-/test/build-target/node_modules/
-/test/build-target/dist/
-/test/build-target/.astro/

@@ -1,5 +1,0 @@
-{
-  "$schema": "./node_modules/knip/schema-jsonc.json",
-  // 対応ブラウザに合わせた変換を確かめる検査用のページは、CI で astro build の --root に指定して別にビルドするため、入口として扱う
-  "entry": ["test/build-target/astro.config.ts", "test/build-target/src/pages/**/*.astro"]
-}

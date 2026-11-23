@@ -2,9 +2,8 @@
   "$schema": "../node_modules/oxlint/configuration_schema.json",
   "jsPlugins": ["eslint-plugin-es-x"],
   "rules": {
-    // 正規表現の修飾子は Safari 26 からで対応ブラウザに入らず、Oxc もビルドで書き換えないため、使わせない
+    // 正規表現の修飾子は Chrome 125・Safari 26 からで、browserslist の既定の範囲（よく使われているブラウザ）の Chrome 109・iOS 18 にないため、使わせない
     // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/regular_expressions.json
-    // https://github.com/oxc-project/oxc/blob/crates_v0.156.0/crates/oxc_transformer/src/regexp/options.rs
     "es-x/no-regexp-modifiers": "error"
   }
 }
