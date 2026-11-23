@@ -18,6 +18,9 @@ importers:
       '@astrojs/compiler-rs':
         specifier: 0.5.3
         version: 0.5.3
+      browserslist:
+        specifier: 4.29.6
+        version: 4.29.6
       eslint-plugin-compat:
         specifier: 7.0.2
         version: 7.0.2(eslint@10.15.0(jiti@2.7.0))
