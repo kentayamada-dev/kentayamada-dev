@@ -174,7 +174,6 @@
     "typescript/triple-slash-reference": ["error", { "lib": "never", "types": "never" }],
     "unicorn/import-style": ["error", { "checkExportFrom": true }],
     "unicorn/no-array-reduce": ["error", { "allowSimpleOperations": false }],
-    "unicorn/no-array-reverse": ["error", { "allowExpressionStatement": false }],
     // 求める Array#toSorted() は Firefox 115 からで、対応ブラウザに入らないため、スプレッドでコピーしてからの sort() を許す
     // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
     "unicorn/no-array-sort": [
