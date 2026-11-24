@@ -1,0 +1,8 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    // Promise を返す関数に async を求める typescript/promise-function-async と逆を求めるため
+    "oxc/no-async-await": "off",
+    "oxc/no-map-spread": ["error", { "ignoreRereads": false, "ignoreArgs": false }]
+  }
+}

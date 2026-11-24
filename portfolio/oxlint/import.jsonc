@@ -1,0 +1,18 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    // import/no-default-export と合わせて有効にすると、default でも名前付きでも export できなくなるため
+    "import/no-named-export": "off",
+    "import/prefer-default-export": "off",
+    "import/first": ["error", "absolute-first"],
+    // exactCount だけでは間のコメント行も空行の数に入り、import・空行・コメント・文の並びが報告されるため、コメントを次の文として数えさせる
+    // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/rules/import/newline_after_import.rs#L457-L475
+    "import/newline-after-import": ["error", { "exactCount": true, "considerComments": true }],
+    "import/no-anonymous-default-export": ["error", { "allowCallExpression": false }],
+    "import/no-cycle": ["error", { "ignoreTypes": false }],
+    "import/no-dynamic-require": ["error", { "esmodule": true }],
+    // Astro は、ページで使う CSS を値を受け取らない import で読み込むため
+    // https://docs.astro.build/en/guides/styling/#import-a-local-stylesheet
+    "import/no-unassigned-import": ["error", { "allow": ["**/*.css"] }]
+  }
+}

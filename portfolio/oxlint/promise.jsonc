@@ -1,0 +1,12 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    "promise/always-return": ["error", { "ignoreAssignmentVariable": [] }],
+    "promise/no-callback-in-promise": ["error", { "timeoutsErr": true }],
+    "promise/param-names": [
+      "error",
+      { "resolvePattern": "^resolve$", "rejectPattern": "^reject$" }
+    ],
+    "promise/prefer-await-to-then": ["error", { "strict": true }]
+  }
+}

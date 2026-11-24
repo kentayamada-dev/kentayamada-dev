@@ -230,6 +230,6 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
 
 if (violations !== "") {
   throw new Error(
-    `ブラウザを理由にした lint の設定が、browserslist の範囲と合っていない。.oxlintrc.jsonc と oxlint/ の設定を直す\n${violations}`,
+    `ブラウザを理由にした lint の設定が、browserslist の範囲と合っていない。oxlint/ の設定を直す\n${violations}`,
   );
 }
