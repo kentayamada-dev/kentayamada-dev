@@ -2,7 +2,7 @@
   "$schema": "../node_modules/oxlint/configuration_schema.json",
   "jsPlugins": ["eslint-plugin-es-x"],
   "rules": {
-    // 正規表現の修飾子は Chrome 125・Safari 26 からで、browserslist の既定の範囲（よく使われているブラウザ）の Chrome 109・iOS 18 にないため、使わせない
+    // 正規表現の修飾子に対応していないブラウザが、browserslist の既定の範囲（よく使われているブラウザ）に入るため、使わせない
     // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/regular_expressions.json
     "es-x/no-regexp-modifiers": "error"
   }

@@ -8,7 +8,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "typecheck": "astro check",
-    "lint": "astro sync && oxlint",
+    "lint": "astro sync && oxlint && oxlint --print-config | node scripts/check-browser-exceptions.mts",
     "knip": "knip",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check"
@@ -19,7 +19,9 @@
   "devDependencies": {
     "@astrojs/check": "0.9.12",
     "@astrojs/compiler-rs": "0.5.3",
+    "@mdn/browser-compat-data": "8.1.10",
     "@tailwindcss/vite": "4.3.5",
+    "@types/node": "26.6.6",
     "browserslist": "4.29.6",
     "eslint-plugin-compat": "7.0.2",
     "eslint-plugin-es-x": "10.1.0",
