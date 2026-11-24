@@ -9,6 +9,7 @@
     "./oxlint/oxc.jsonc",
     "./oxlint/import.jsonc",
     "./oxlint/promise.jsonc",
+    "./oxlint/vitest.jsonc",
     "./oxlint/security.jsonc",
     "./oxlint/compat.jsonc",
     "./oxlint/es-x.jsonc",
@@ -17,7 +18,7 @@
   ],
   // plugins を書くと既定のプラグインが外れるため、既定の eslint・typescript・unicorn・oxc も並べる
   // https://oxc.rs/docs/guide/usage/linter/plugins.html
-  "plugins": ["eslint", "typescript", "unicorn", "oxc", "import", "promise", "node"],
+  "plugins": ["eslint", "typescript", "unicorn", "oxc", "import", "promise", "node", "vitest"],
   "categories": {
     "nursery": "error",
     "correctness": "error",

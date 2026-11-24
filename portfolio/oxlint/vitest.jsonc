@@ -1,0 +1,7 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    // vitest から import することを求める vitest/prefer-importing-vitest-globals と逆を求めるため
+    "vitest/no-importing-vitest-globals": "off"
+  }
+}

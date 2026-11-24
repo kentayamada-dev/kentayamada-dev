@@ -39,7 +39,8 @@
         "es-x/no-import-attributes": "off",
         "es-x/no-json-modules": "off",
         "import/no-nodejs-modules": "off",
-        // テストの入力と期待値は、定数にまとめずにそのまま書くため（CONTRIBUTING.md の「定数」）
+        // テストの入力と期待値は、定数にまとめずにそのまま書くため（CONTRIBUTING.md の「定数」）。そのぶん表が長くなるので、行数も制限しない
+        "max-lines": "off",
         "no-magic-numbers": "off"
       }
     }
