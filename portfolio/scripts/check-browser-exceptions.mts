@@ -1,33 +1,51 @@
-// ブラウザを理由にした lint の例外が、browserslist の範囲に合っているかを確かめる。標準入力で oxlint --print-config の出力を受け取る。
+// ブラウザを理由にした lint の設定が、browserslist の範囲に合っているかを確かめる。標準入力で oxlint --print-config の出力を受け取る。
 // 範囲は browserslist のデータの更新で動き、そのデータはロックファイルの更新で自動でマージされるため、手で見直さずに CI で気づけるようにする
 
 import { stdin } from "node:process";
 import { text } from "node:stream/consumers";
 
 import bcd from "@mdn/browser-compat-data" with { type: "json" };
-import type { SupportBlock } from "@mdn/browser-compat-data/types";
+import type { SupportBlock, SupportStatement } from "@mdn/browser-compat-data/types";
 
 import { browsersIn } from "./browser-range.mts";
+import esxFeatures from "./es-x-features.json" with { type: "json" };
 
 interface BrowserException {
   readonly add: string;
   readonly drop: string;
   readonly feature: string;
   readonly hasException: (ruleEntry: readonly unknown[]) => boolean;
-  readonly path: readonly string[];
+  // MDN のデータの javascript の下のパス
+  readonly paths: readonly string[];
   readonly rule: string;
 }
 
-const config: unknown = JSON.parse(await text(stdin)),
-  featureSupport = (path: readonly string[]): SupportBlock => {
+const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
+    if (!(config instanceof Object) || !("rules" in config) || !(config.rules instanceof Object)) {
+      throw new TypeError("oxlint --print-config の出力に rules がない");
+    }
+    return new Map<string, unknown>(Object.entries(config.rules));
+  },
+  configRules = asRules(JSON.parse(await text(stdin))),
+  esxExceptions: readonly BrowserException[] = Object.entries(esxFeatures).map(
+    ([rule, paths]: readonly [string, readonly string[]]): BrowserException => ({
+      add: "error にする",
+      drop: "外す",
+      feature: paths.join("・"),
+      hasException: ([severity]: readonly unknown[]): boolean => severity === "deny",
+      paths,
+      rule,
+    }),
+  ),
+  featureSupport = (path: string): SupportBlock => {
     let { javascript: feature } = bcd;
-    for (const key of path) {
+    for (const key of path.split(".")) {
       const { [key]: child = {} } = feature;
       feature = child;
     }
     const { __compat: compat } = feature;
     if (typeof compat !== "object") {
-      throw new TypeError(`MDN のデータに javascript.${path.join(".")} がない`);
+      throw new TypeError(`MDN のデータに javascript.${path} がない`);
     }
     return compat.support;
   },
@@ -62,44 +80,52 @@ const config: unknown = JSON.parse(await text(stdin)),
     ["samsung", "samsunginternet_android"],
   ]),
   // 規則の値は "deny" のような重大度か、[重大度, オプション] の配列なので、どちらも配列にそろえる
-  ruleEntryOf = (rule: string): readonly unknown[] => {
-    if (!(config instanceof Object) || !("rules" in config) || !(config.rules instanceof Object)) {
-      throw new TypeError("oxlint --print-config の出力に rules がない");
+  ruleEntryOf = (rule: string): readonly unknown[] => [configRules.get(rule)].flat(),
+  supportsVersion = (path: string, browser: string, version: string): boolean => {
+    const statements: ReadonlyMap<string, SupportStatement> = new Map(
+      Object.entries(featureSupport(path)),
+    );
+    // 対応の記述がないブラウザは、eslint-plugin-compat と同じく対応しているとみなす。一部の対応・フラグ・接頭辞・別名での対応は、対応していないとみなす
+    let supported = !statements.has(browser);
+    for (const statement of [statements.get(browser) ?? []].flat()) {
+      // 版の前の ≤ は、その版より前から対応していることを示すので、その版として扱う
+      const added = String(statement.version_added).replace("≤", ""),
+        removed = statement.version_removed ?? "";
+      supported ||=
+        ["alternative_name", "flags", "partial_implementation", "prefix"].every(
+          (attribute: string): boolean => !(attribute in statement),
+        ) &&
+        /^[\d.]+$/u.test(added) &&
+        isAtLeast(version, added) &&
+        (removed === "" || !isAtLeast(version, removed));
     }
-    return [new Map<string, unknown>(Object.entries(config.rules)).get(rule)].flat();
+    return supported;
   },
-  unsupportedIn = (path: readonly string[]): string => {
-    const statements = new Map(Object.entries(featureSupport(path))),
-      unsupported: string[] = [];
-    for (const { browser, entry, version } of rangeBrowsers) {
-      // 対応の記述がないブラウザは、eslint-plugin-compat と同じく対応しているとみなす。一部の対応・フラグ・接頭辞・別名での対応は、対応していないとみなす
-      let supported = !statements.has(browser);
-      for (const statement of [statements.get(browser) ?? []].flat()) {
-        // 版の前の ≤ は、その版より前から対応していることを示すので、その版として扱う
-        const added = String(statement.version_added).replace("≤", ""),
-          removed = statement.version_removed ?? "";
-        supported ||=
-          ["alternative_name", "flags", "partial_implementation", "prefix"].every(
-            (attribute: string): boolean => !(attribute in statement),
-          ) &&
-          /^[\d.]+$/u.test(added) &&
-          isAtLeast(version, added) &&
-          (removed === "" || !isAtLeast(version, removed));
-      }
-      if (!supported) {
-        unsupported.push(entry);
-      }
-    }
-    return unsupported.join("・");
-  },
-  violations: string = (
-    [
+  unsupportedIn = (paths: readonly string[]): string =>
+    rangeBrowsers
+      .filter(
+        ({ browser, version }: Readonly<{ browser: string; version: string }>): boolean =>
+          !paths.every((path: string): boolean => supportsVersion(path, browser, version)),
+      )
+      .map(({ entry }: Readonly<{ entry: string }>): string => entry)
+      .join("・"),
+  // 有効な es-x の規則で、MDN のデータとの対応がないもの。対応がないと、範囲に合っているかを確かめられない
+  untrackedRules: readonly string[] = [...configRules.keys()].filter((rule: string): boolean => {
+    const [severity] = ruleEntryOf(rule);
+    return rule.startsWith("es-x/") && severity === "deny" && !(rule in esxFeatures);
+  }),
+  violations: string = [
+    ...untrackedRules.map(
+      (rule: string): string =>
+        `${rule}: scripts/es-x-features.json に、MDN のデータとの対応がないので足す`,
+    ),
+    ...[
       {
         add: "off にする",
         drop: '["error", { "allowExpressionStatement": false }] に戻す',
         feature: "Array.prototype.toReversed()",
         hasException: ([severity]: readonly unknown[]): boolean => severity === "allow",
-        path: ["builtins", "Array", "toReversed"],
+        paths: ["builtins.Array.toReversed"],
         rule: "unicorn/no-array-reverse",
       },
       {
@@ -108,7 +134,7 @@ const config: unknown = JSON.parse(await text(stdin)),
         feature: "Array.prototype.toSorted()",
         hasException: (ruleEntry: readonly unknown[]): boolean =>
           optionsOf(ruleEntry).get("allowAfterSpread") === true,
-        path: ["builtins", "Array", "toSorted"],
+        paths: ["builtins.Array.toSorted"],
         rule: "unicorn/no-array-sort",
       },
       {
@@ -117,7 +143,7 @@ const config: unknown = JSON.parse(await text(stdin)),
         feature: "正規表現の v フラグ",
         hasException: (ruleEntry: readonly unknown[]): boolean =>
           optionsOf(ruleEntry).get("requireFlag") === "u",
-        path: ["builtins", "RegExp", "unicodeSets"],
+        paths: ["builtins.RegExp.unicodeSets"],
         rule: "require-unicode-regexp",
       },
       {
@@ -125,16 +151,8 @@ const config: unknown = JSON.parse(await text(stdin)),
         drop: "off をやめる",
         feature: "top-level await",
         hasException: ([severity]: readonly unknown[]): boolean => severity === "allow",
-        path: ["operators", "await", "top_level"],
+        paths: ["operators.await.top_level"],
         rule: "unicorn/prefer-top-level-await",
-      },
-      {
-        add: "error にする",
-        drop: "外す",
-        feature: "正規表現の修飾子",
-        hasException: ([severity]: readonly unknown[]): boolean => severity === "deny",
-        path: ["regular_expressions", "modifier"],
-        rule: "es-x/no-regexp-modifiers",
       },
       {
         add: "useErrorIsError を外す",
@@ -142,14 +160,13 @@ const config: unknown = JSON.parse(await text(stdin)),
         feature: "Error.isError()",
         hasException: (ruleEntry: readonly unknown[]): boolean =>
           optionsOf(ruleEntry).get("useErrorIsError") !== true,
-        path: ["builtins", "Error", "isError"],
+        paths: ["builtins.Error.isError"],
         rule: "unicorn/no-instanceof-builtins",
       },
-    ] satisfies readonly BrowserException[]
-  )
-    .flatMap(({ add, drop, feature, hasException, path, rule }: BrowserException): string[] => {
+      ...esxExceptions,
+    ].flatMap(({ add, drop, feature, hasException, paths, rule }: BrowserException): string[] => {
       const hasRuleException = hasException(ruleEntryOf(rule)),
-        unsupported = unsupportedIn(path);
+        unsupported = unsupportedIn(paths);
       if (unsupported !== "" && !hasRuleException) {
         return [`${rule}: 範囲の ${unsupported} が「${feature}」に対応していないので、${add}`];
       }
@@ -157,11 +174,11 @@ const config: unknown = JSON.parse(await text(stdin)),
         return [`${rule}: 範囲のブラウザがすべて「${feature}」に対応したので、${drop}`];
       }
       return [];
-    })
-    .join("\n");
+    }),
+  ].join("\n");
 
 if (violations !== "") {
   throw new Error(
-    `ブラウザを理由にした lint の例外が、browserslist の範囲と合っていない。.oxlintrc.jsonc を直す\n${violations}`,
+    `ブラウザを理由にした lint の設定が、browserslist の範囲と合っていない。.oxlintrc.jsonc と oxlint/es-x.jsonc を直す\n${violations}`,
   );
 }
