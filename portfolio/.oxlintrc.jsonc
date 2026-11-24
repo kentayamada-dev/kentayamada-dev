@@ -15,8 +15,8 @@
     "style": "error",
     "restriction": "error"
   },
-  // ブラウザを理由にした例外は、.browserslistrc の範囲を基準にする。
-  // 範囲は browserslist のデータの更新でも動くので、例外に書いた版はそのときに見直す
+  // ブラウザを理由にした例外は、browserslist の既定の範囲（よく使われているブラウザ）を基準にする。
+  // 範囲は browserslist のデータの更新で動くので、例外に書いた版はそのときに見直す
   "rules": {
     // import/no-default-export と合わせて有効にすると、default でも名前付きでも export できなくなるため
     "import/no-named-export": "off",
@@ -34,7 +34,10 @@
     // oxfmt が 16 進数の数字を小文字に整形し、大文字を求めるこの規則と食い違うため
     // https://github.com/prettier/eslint-config-prettier/blob/v10.1.8/index.js#L254
     "unicorn/number-literal-case": "off",
-    // 求める top-level await は、Safari 26 までは複数のモジュールが同時に import すると動かない一部の対応で、範囲に Safari 26・iOS 18 が入るため
+    // 求める Array#toReversed() は Chrome 110 からで、既定の範囲の Chrome 109 にないため
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
+    "unicorn/no-array-reverse": "off",
+    // 求める top-level await は、Safari 26 までは複数のモジュールが同時に import すると動かない一部の対応で、既定の範囲に Safari 26・iOS 18 が入るため
     // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/operators/await.json https://webkit.org/b/242740
     "unicorn/prefer-top-level-await": "off",
     "eslint/accessor-pairs": ["error", { "getWithoutSet": true, "enforceForTSTypes": true }],
@@ -95,7 +98,9 @@
     ],
     "eslint/prefer-regex-literals": ["error", { "disallowRedundantWrapping": true }],
     "eslint/preserve-caught-error": ["error", { "requireCatchParameter": true }],
-    "eslint/require-unicode-regexp": ["error", { "requireFlag": "v" }],
+    // 正規表現の v フラグは Chrome 112 からで、既定の範囲の Chrome 109 にないため、u フラグを求めて v フラグを使わせない
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/RegExp.json
+    "eslint/require-unicode-regexp": ["error", { "requireFlag": "u" }],
     "eslint/use-isnan": ["error", { "enforceForIndexOf": true }],
     "eslint/valid-typeof": ["error", { "requireStringLiterals": true }],
     "typescript/ban-ts-comment": ["error", { "ts-expect-error": true }],
@@ -167,8 +172,12 @@
     "typescript/triple-slash-reference": ["error", { "lib": "never", "types": "never" }],
     "unicorn/import-style": ["error", { "checkExportFrom": true }],
     "unicorn/no-array-reduce": ["error", { "allowSimpleOperations": false }],
-    "unicorn/no-array-reverse": ["error", { "allowExpressionStatement": false }],
-    "unicorn/no-array-sort": ["error", { "allowExpressionStatement": false }],
+    // 求める Array#toSorted() は Chrome 110 からで、既定の範囲の Chrome 109 にないため、スプレッドでコピーしてからの sort() を許す
+    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
+    "unicorn/no-array-sort": [
+      "error",
+      { "allowExpressionStatement": false, "allowAfterSpread": true }
+    ],
     "unicorn/no-null": ["error", { "checkStrictEquality": true }],
     "unicorn/no-typeof-undefined": ["error", { "checkGlobalVariables": true }],
     "unicorn/prefer-at": ["error", { "checkAllIndexAccess": true }],

@@ -2,6 +2,8 @@
   "$schema": "../node_modules/oxlint/configuration_schema.json",
   "jsPlugins": ["eslint-plugin-compat"],
   "rules": {
+    // browserslist を書いていないため、browserslist の既定の範囲（よく使われているブラウザ）で判定する
+    // https://github.com/amilajack/eslint-plugin-compat/blob/v7.0.2/README.md?plain=1#L44
     "compat/compat": "error"
   }
 }

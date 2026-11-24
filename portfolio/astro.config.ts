@@ -1,18 +1,47 @@
 import tailwindcss from "@tailwindcss/vite";
 import type { AstroUserConfig } from "astro";
 import { defineConfig } from "astro/config";
+import browserslist from "browserslist";
 
-const config: AstroUserConfig = defineConfig({
-  server: {
-    // 既定の localhost はコンテナ内で ::1 に解決されるが、VS Code のポート転送は IPv6 に対応せず届かないため、IPv4 で待ち受ける
-    // https://github.com/vitejs/vite/blob/v8.3.8/docs/guide/troubleshooting.md#dev-containers--vs-code-port-forwarding
-    host: "127.0.0.1",
-  },
-  vite: {
-    // ベンダープレフィックスは、Astro の既定のビルドでは足されず、Tailwind だけが足す。Tailwind の機能を使わない CSS には足されないので、スタイルは Tailwind で書く
-    // https://github.com/tailwindlabs/tailwindcss/blob/v4.3.5/packages/@tailwindcss-vite/src/index.ts#L442-L453
-    plugins: [tailwindcss()],
-  },
-});
+// browserslist のブラウザ名を、Vite の cssTarget が受け付けるブラウザ名に読み替える。受け付けないブラウザ（Samsung Internet など）を渡すとビルドが止まるので除く
+// https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3584-L3598
+const browserNames: ReadonlyMap<string, string> = new Map([
+    ["chrome", "chrome"],
+    ["edge", "edge"],
+    ["firefox", "firefox"],
+    ["ie", "ie"],
+    ["ios_saf", "ios"],
+    ["opera", "opera"],
+    ["safari", "safari"],
+  ]),
+  // lint（eslint-plugin-compat）と同じ browserslist の範囲にする。ブラウザごとに最も古い版を選ぶのは Vite に任せる
+  // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3670-L3691
+  browserTargets: string[] = browserslist().flatMap((entry: string): string[] => {
+    // 版の幅（"ios_saf 18.5-18.7" など）は最初の版を使い、Safari Technology Preview の TP のような数字でない版は除く
+    const [name = "", range = ""] = entry.split(" "),
+      [version = ""] = range.split("-"),
+      browser = browserNames.get(name);
+    if (typeof browser !== "string" || !/^[\d.]+$/u.test(version)) {
+      return [];
+    }
+    return [`${browser}${version}`];
+  }),
+  config: AstroUserConfig = defineConfig({
+    server: {
+      // 既定の localhost はコンテナ内で ::1 に解決されるが、VS Code のポート転送は IPv6 に対応せず届かないため、IPv4 で待ち受ける
+      // https://github.com/vitejs/vite/blob/v8.3.8/docs/guide/troubleshooting.md#dev-containers--vs-code-port-forwarding
+      host: "127.0.0.1",
+    },
+    vite: {
+      build: {
+        // cssTarget の既定は build.target で、Astro はクライアント向けの target を esnext に固定するため、指定しないと CSS の縮小がプレフィックスを足さない。
+        // Tailwind が足すプレフィックスは対象のブラウザが固定なので、範囲に足りない分もここで足させる
+        // https://github.com/vitejs/vite/blob/v8.3.8/docs/config/build-options.md?plain=1#L119-L126
+        // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/vite-build-config.ts#L205
+        cssTarget: browserTargets,
+      },
+      plugins: [tailwindcss()],
+    },
+  });
 
 export default config;
