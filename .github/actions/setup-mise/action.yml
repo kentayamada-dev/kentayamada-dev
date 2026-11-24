@@ -11,6 +11,6 @@ runs:
       with:
         # sha256 を渡すと、署名付きの SHASUMS256.txt での mise 本体の照合を飛ばすため、version だけを渡す
         # https://github.com/jdx/mise-action/blob/v5.1.2/src/index.ts#L882-L903
-        version: 2026.11.5
+        version: 2026.11.6
         working_directory: .github
         install_args: ${{ inputs.install_args }}
