@@ -256,7 +256,7 @@ test.each<TitledReportCase>([
   {
     browsers: "chrome 109",
     expected: [
-      "baseline-js/use-baseline: 範囲に合う Baseline の年は 2022 なので、available を 2022 にする",
+      "baseline-js/use-baseline: 範囲に合う Baseline の年は 2021 なので、available を 2021 にする",
     ],
     rule: "baseline-js/use-baseline",
     rules: { "baseline-js/use-baseline": ["deny", { available: 2023 }] },
