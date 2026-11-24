@@ -1,0 +1,35 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  // files のパターンは、このファイルの場所ではなく、extends する portfolio/.oxlintrc.jsonc の場所を基準にする。
+  // extends 先の overrides は読み替えずに、extends した側の overrides の前に連結されるため
+  // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/config/oxlintrc.rs#L447-L448
+  "overrides": [
+    {
+      // frontmatter で使う Astro グローバルを、nursery の eslint/no-undef に未定義と判定させないため
+      // https://docs.astro.build/en/reference/api-reference/ https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/apps/oxlint/src-js/generated/envs.ts#L43-L46
+      "files": ["**/*.astro"],
+      "env": { "astro": true },
+      // oxlint は frontmatter を切り出して単独で検査し、import のない frontmatter をスクリプトと見分けられないと報告する。
+      // .astro は Astro がコンパイルするファイルで、単独のスクリプトとして読まれることはない
+      // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/loader/partial_loader/astro.rs#L34-L60
+      "rules": { "import/unambiguous": "off" }
+    },
+    {
+      // Astro の設定ファイルは、設定を default export で渡す形のため
+      // https://docs.astro.build/en/guides/configuring-astro/#the-astro-config-file
+      "files": ["astro.config.ts"],
+      "rules": { "import/no-default-export": "off" }
+    },
+    {
+      // この検査のスクリプトは node で直接動かすファイルで、ブラウザに読み込まれることも、ほかのモジュールから require されることもないため
+      "files": ["scripts/check-browser-exceptions.mts"],
+      "rules": {
+        "baseline-js/use-baseline": "off",
+        "es-x/no-import-attributes": "off",
+        "es-x/no-json-modules": "off",
+        "import/no-nodejs-modules": "off",
+        "node/no-top-level-await": "off"
+      }
+    }
+  ]
+}
