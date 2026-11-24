@@ -5,9 +5,10 @@ import { stdin } from "node:process";
 import { text } from "node:stream/consumers";
 
 import bcd from "@mdn/browser-compat-data" with { type: "json" };
-import type { SupportBlock, SupportStatement } from "@mdn/browser-compat-data/types";
+import type { SupportBlock } from "@mdn/browser-compat-data/types";
 
 import { browsersIn } from "./browser-range.mts";
+import { isAtLeast, supportsVersion } from "./browser-support.mts";
 import esxFeatures from "./es-x-features.json" with { type: "json" };
 
 interface BrowserException {
@@ -59,14 +60,6 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
       throw new TypeError(`MDN のデータに javascript.${path} がない`);
     }
     return compat.support;
-  },
-  isAtLeast = (version: string, base: string): boolean => {
-    const [baseMajor = "", baseMinor = ""] = base.split("."),
-      [major = "", minor = ""] = version.split(".");
-    return (
-      Number(major) > Number(baseMajor) ||
-      (Number(major) === Number(baseMajor) && Number(minor) >= Number(baseMinor))
-    );
   },
   latestReleaseBy = (browser: string, year: number): string => {
     const { releases = {} } = new Map(Object.entries(bcd.browsers)).get(browser) ?? {},
@@ -123,31 +116,13 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
       ),
     ),
   ),
-  supportsVersion = (path: string, browser: string, version: string): boolean => {
-    const statements: ReadonlyMap<string, SupportStatement> = new Map(
-      Object.entries(featureSupport(path)),
-    );
-    // 対応の記述がないブラウザは、eslint-plugin-compat と同じく対応しているとみなす。一部の対応・フラグ・接頭辞・別名での対応は、対応していないとみなす
-    let supported = !statements.has(browser);
-    for (const statement of [statements.get(browser) ?? []].flat()) {
-      // 版の前の ≤ は、その版より前から対応していることを示すので、その版として扱う
-      const added = String(statement.version_added).replace("≤", ""),
-        removed = statement.version_removed ?? "";
-      supported ||=
-        ["alternative_name", "flags", "partial_implementation", "prefix"].every(
-          (attribute: string): boolean => !(attribute in statement),
-        ) &&
-        /^[\d.]+$/u.test(added) &&
-        isAtLeast(version, added) &&
-        (removed === "" || !isAtLeast(version, removed));
-    }
-    return supported;
-  },
   unsupportedIn = (paths: readonly string[]): string =>
     rangeBrowsers
       .filter(
         ({ browser, version }: Readonly<{ browser: string; version: string }>): boolean =>
-          !paths.every((path: string): boolean => supportsVersion(path, browser, version)),
+          !paths.every((path: string): boolean =>
+            supportsVersion(featureSupport(path), browser, version),
+          ),
       )
       .map(({ entry }: Readonly<{ entry: string }>): string => entry)
       .join("・"),
