@@ -219,8 +219,8 @@
       "rules": { "import/no-default-export": "off" }
     },
     {
-      // scripts/ は node で直接動かすファイルで、ブラウザに読み込まれることも、ほかのモジュールから require されることもないため
-      "files": ["scripts/**"],
+      // この検査のスクリプトは node で直接動かすファイルで、ブラウザに読み込まれることも、ほかのモジュールから require されることもないため
+      "files": ["scripts/check-browser-exceptions.mts"],
       "rules": { "import/no-nodejs-modules": "off", "node/no-top-level-await": "off" }
     }
   ],

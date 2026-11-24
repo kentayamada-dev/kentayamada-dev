@@ -1,17 +1,13 @@
+// ブラウザを理由にした lint の例外が、browserslist の範囲に合っているかを確かめる。標準入力で oxlint --print-config の出力を受け取る。
+// 範囲は browserslist のデータの更新で動き、そのデータはロックファイルの更新で自動でマージされるため、手で見直さずに CI で気づけるようにする
+
 import { stdin } from "node:process";
 import { text } from "node:stream/consumers";
 
-// ブラウザを理由にした lint の例外が、browserslist の範囲に合っているかを確かめる。標準入力で oxlint --print-config の出力を受け取る。
-// 範囲は browserslist のデータの更新で動き、そのデータはロックファイルの更新で自動でマージされるため、手で見直さずに CI で気づけるようにする
 import bcd from "@mdn/browser-compat-data" with { type: "json" };
 import type { SupportBlock } from "@mdn/browser-compat-data/types";
-import browserslist from "browserslist";
 
-interface RangeBrowser {
-  readonly browser: string;
-  readonly entry: string;
-  readonly version: string;
-}
+import { browsersIn } from "./browser-range.mts";
 
 interface BrowserException {
   readonly add: string;
@@ -22,23 +18,7 @@ interface BrowserException {
   readonly rule: string;
 }
 
-// ブラウザ名を、browserslist の名前から MDN のデータの名前に読み替える。MDN のデータにないブラウザ（KaiOS・Opera Mini など）は、eslint-plugin-compat と同じく判定から外す
-// https://github.com/amilajack/eslint-plugin-compat/blob/v7.0.2/src/providers/mdn-provider.ts#L77-L85
-const browserNames: ReadonlyMap<string, string> = new Map([
-    ["and_chr", "chrome_android"],
-    ["and_ff", "firefox_android"],
-    ["android", "webview_android"],
-    ["chrome", "chrome"],
-    ["edge", "edge"],
-    ["firefox", "firefox"],
-    ["ie", "ie"],
-    ["ios_saf", "safari_ios"],
-    ["op_mob", "opera_android"],
-    ["opera", "opera"],
-    ["safari", "safari"],
-    ["samsung", "samsunginternet_android"],
-  ]),
-  config: unknown = JSON.parse(await text(stdin)),
+const config: unknown = JSON.parse(await text(stdin)),
   featureSupport = (path: readonly string[]): SupportBlock => {
     let { javascript: feature } = bcd;
     for (const key of path) {
@@ -65,18 +45,22 @@ const browserNames: ReadonlyMap<string, string> = new Map([
     }
     return new Map<string, unknown>(Object.entries(options));
   },
-  rangeBrowsers: readonly RangeBrowser[] = browserslist().flatMap(
-    (entry: string): RangeBrowser[] => {
-      // 版の幅（"ios_saf 18.5-18.7" など）は最初の版を使い、Opera Mini の all のような数字でない版は除く
-      const [name = "", range = ""] = entry.split(" "),
-        [version = ""] = range.split("-"),
-        browser = browserNames.get(name);
-      if (typeof browser !== "string" || !/^[\d.]+$/u.test(version)) {
-        return [];
-      }
-      return [{ browser, entry, version }];
-    },
-  ),
+  rangeBrowsers = browsersIn([
+    // ブラウザ名を、MDN のデータの名前に読み替える。MDN のデータにないブラウザ（KaiOS・Opera Mini など）は、eslint-plugin-compat と同じく判定から外す
+    // https://github.com/amilajack/eslint-plugin-compat/blob/v7.0.2/src/providers/mdn-provider.ts#L77-L85
+    ["and_chr", "chrome_android"],
+    ["and_ff", "firefox_android"],
+    ["android", "webview_android"],
+    ["chrome", "chrome"],
+    ["edge", "edge"],
+    ["firefox", "firefox"],
+    ["ie", "ie"],
+    ["ios_saf", "safari_ios"],
+    ["op_mob", "opera_android"],
+    ["opera", "opera"],
+    ["safari", "safari"],
+    ["samsung", "samsunginternet_android"],
+  ]),
   // 規則の値は "deny" のような重大度か、[重大度, オプション] の配列なので、どちらも配列にそろえる
   ruleEntryOf = (rule: string): readonly unknown[] => {
     if (!(config instanceof Object) || !("rules" in config) || !(config.rules instanceof Object)) {
