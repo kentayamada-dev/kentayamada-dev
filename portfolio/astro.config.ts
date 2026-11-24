@@ -34,8 +34,8 @@ const browserNames: ReadonlyMap<string, string> = new Map([
     },
     vite: {
       build: {
-        // 既定の cssTarget は build.target と同じで、Astro はクライアント向けの target を esnext に固定するため、指定しないと CSS の縮小がプレフィックスを足さない。
-        // Tailwind が足すプレフィックスは対象のブラウザが固定なので、範囲に足りない分もここで足させる
+        // 既定の cssTarget は build.target と同じで、Astro はクライアント向けの target を esnext に固定するため、指定しないと CSS の縮小がプレフィックスも、oklch() を読めないブラウザ向けの色の代わりの値も足さない。
+        // Tailwind も自分でプレフィックスを足すが、対象のブラウザが固定なので、範囲に足りない分はここで足させる
         // https://github.com/vitejs/vite/blob/v8.3.8/docs/config/build-options.md?plain=1#L119-L126
         // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/vite-build-config.ts#L205
         cssTarget: browserTargets,
