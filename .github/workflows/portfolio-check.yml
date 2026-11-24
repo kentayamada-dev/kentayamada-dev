@@ -1,4 +1,4 @@
-name: portfolio の型・静的解析・ビルド
+name: portfolio の型・静的解析・テスト・ビルド
 
 on:
   pull_request:
@@ -37,5 +37,6 @@ jobs:
       # https://docs.astro.build/en/guides/typescript/#type-checking
       - run: docker compose run --rm portfolio pnpm typecheck
       - run: docker compose run --rm portfolio pnpm knip
+      - run: docker compose run --rm portfolio pnpm test
       # 整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
       - run: docker compose run --rm portfolio pnpm build

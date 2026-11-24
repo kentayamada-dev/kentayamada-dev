@@ -17,7 +17,7 @@ CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係�
 | [リンク切れ（リポジトリのなか）](../.github/workflows/lychee.yml) | lychee | ✓ | - |
 | [リンク切れ（外部）](../.github/workflows/lychee.yml) | lychee | - | 毎週 |
 | [コードの重複](../.github/workflows/jscpd.yml) | jscpd | ✓ | - |
-| [portfolio の型・静的解析・ビルド](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip | ✓ | - |
+| [portfolio の型・静的解析・テスト・ビルド](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip・Vitest | ✓ | - |
 | [infra の Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
 | [シェルスクリプトの静的解析・テスト](../.github/workflows/test.yml) | ShellCheck・shfmt・Bats | ✓ | - |
 | [Dockerfile の書き方](../.github/workflows/hadolint.yml) | hadolint | ✓ | - |

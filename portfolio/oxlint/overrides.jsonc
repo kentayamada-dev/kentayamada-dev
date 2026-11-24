@@ -30,6 +30,18 @@
         "import/no-nodejs-modules": "off",
         "node/no-top-level-await": "off"
       }
+    },
+    {
+      // テストは Vitest が Node で動かすファイルで、ブラウザに読み込まれることはないため
+      "files": ["**/*.test.mts"],
+      "rules": {
+        "compat/compat": "off",
+        "es-x/no-import-attributes": "off",
+        "es-x/no-json-modules": "off",
+        "import/no-nodejs-modules": "off",
+        // テストの入力と期待値は、定数にまとめずにそのまま書くため（CONTRIBUTING.md の「定数」）
+        "no-magic-numbers": "off"
+      }
     }
   ]
 }
