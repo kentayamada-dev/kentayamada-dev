@@ -7,7 +7,10 @@
     "declaration": true,
     "isolatedDeclarations": true,
     "erasableSyntaxOnly": true,
-    "noPropertyAccessFromIndexSignature": true
+    "noPropertyAccessFromIndexSignature": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    }
   },
   "include": [".astro/types.d.ts", "**/*"],
   "exclude": ["dist"]
