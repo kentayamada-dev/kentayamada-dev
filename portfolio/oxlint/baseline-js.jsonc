@@ -2,12 +2,14 @@
   "$schema": "../node_modules/oxlint/configuration_schema.json",
   "jsPlugins": ["eslint-plugin-baseline-js"],
   "rules": {
-    // eslint-plugin-compat はフラグを付けたときだけ動く Web API や一部の対応も「対応」とみなすため、Web API を Baseline でも判定する。
-    // available は browserslist の範囲に合う最も新しい Baseline の年にする。合っているかは pnpm lint で確かめる
-    // https://github.com/amilajack/eslint-plugin-compat/blob/v7.0.2/src/providers/mdn-provider.ts#L86-L104
+    // 変えるときは、CSS の変換の対象を決める .browserslistrc も合わせる
     "baseline-js/use-baseline": [
       "error",
-      { "available": 2022, "includeWebApis": { "preset": "auto" } }
+      {
+        "available": "newly",
+        "includeWebApis": { "preset": "auto" },
+        "includeJsBuiltins": { "preset": "auto" }
+      }
     ]
   }
 }

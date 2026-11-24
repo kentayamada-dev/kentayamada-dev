@@ -1,0 +1,2 @@
+# 対応するのは主要なブラウザの今の版だけにする。変えるときは、oxlint/baseline-js.jsonc の available も合わせる
+baseline newly available

@@ -1,7 +1,5 @@
 {
   "$schema": "../node_modules/oxlint/configuration_schema.json",
-  // ブラウザを理由にした例外は、browserslist の既定の範囲（よく使われているブラウザ）を基準にする。
-  // 例外を足す・外すときは、例外が範囲に合っているかを確かめる scripts/check-browser-exceptions.mts の一覧も合わせる
   "rules": {
     // import 文の順は oxfmt の sortImports が並べるため、名前付き import のメンバーの順だけを検査させる
     "eslint/sort-imports": ["error", { "ignoreDeclarationSort": true }],
@@ -69,9 +67,7 @@
     ],
     "eslint/prefer-regex-literals": ["error", { "disallowRedundantWrapping": true }],
     "eslint/preserve-caught-error": ["error", { "requireCatchParameter": true }],
-    // 正規表現の v フラグに対応していないブラウザが範囲に入るため、u フラグを求めて v フラグを使わせない
-    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/RegExp.json
-    "eslint/require-unicode-regexp": ["error", { "requireFlag": "u" }],
+    "eslint/require-unicode-regexp": ["error", { "requireFlag": "v" }],
     "eslint/use-isnan": ["error", { "enforceForIndexOf": true }],
     "eslint/valid-typeof": ["error", { "requireStringLiterals": true }]
   }

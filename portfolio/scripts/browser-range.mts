@@ -2,7 +2,6 @@ import browserslist from "browserslist";
 
 export interface RangeBrowser {
   readonly browser: string;
-  readonly entry: string;
   readonly version: string;
 }
 
@@ -13,9 +12,9 @@ export const browsersIn = (names: readonly (readonly [string, string])[]): Range
     const [name = "", range = ""] = entry.split(" "),
       [version = ""] = range.split("-"),
       browser = browserNames.get(name);
-    if (typeof browser !== "string" || !/^[\d.]+$/u.test(version)) {
+    if (typeof browser !== "string" || !/^[\d.]+$/v.test(version)) {
       return [];
     }
-    return [{ browser, entry, version }];
+    return [{ browser, version }];
   });
 };

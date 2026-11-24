@@ -19,30 +19,6 @@
       // https://docs.astro.build/en/guides/configuring-astro/#the-astro-config-file
       "files": ["astro.config.ts"],
       "rules": { "import/no-default-export": "off" }
-    },
-    {
-      // この検査のスクリプトは node で直接動かすファイルで、ブラウザに読み込まれることも、ほかのモジュールから require されることもないため
-      "files": ["scripts/check-browser-exceptions.mts"],
-      "rules": {
-        "baseline-js/use-baseline": "off",
-        "es-x/no-import-attributes": "off",
-        "es-x/no-json-modules": "off",
-        "import/no-nodejs-modules": "off",
-        "node/no-top-level-await": "off"
-      }
-    },
-    {
-      // テストは Vitest が Node で動かすファイルで、ブラウザに読み込まれることはないため
-      "files": ["**/*.test.mts"],
-      "rules": {
-        "compat/compat": "off",
-        "es-x/no-import-attributes": "off",
-        "es-x/no-json-modules": "off",
-        "import/no-nodejs-modules": "off",
-        // テストの入力と期待値は、定数にまとめずにそのまま書くため（CONTRIBUTING.md の「定数」）。そのぶん表が長くなるので、行数も制限しない
-        "max-lines": "off",
-        "no-magic-numbers": "off"
-      }
     }
   ]
 }

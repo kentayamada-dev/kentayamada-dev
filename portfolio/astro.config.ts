@@ -4,7 +4,7 @@ import { defineConfig } from "astro/config";
 
 import { browsersIn } from "./scripts/browser-range.mts";
 
-// 範囲は、lint（eslint-plugin-compat）と同じ browserslist の範囲にする。ブラウザごとに最も古い版を選ぶのは Vite に任せる
+// 範囲は .browserslistrc から読む。ブラウザごとに最も古い版を選ぶのは Vite に任せる
 // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3670-L3691
 const browserTargets: string[] = browsersIn([
     // ブラウザ名を、Vite の cssTarget が受け付ける名前に読み替える。受け付けないブラウザ（Samsung Internet など）を渡すとビルドが止まるので除く

@@ -1,25 +1,16 @@
 {
   "$schema": "../node_modules/oxlint/configuration_schema.json",
-  // ブラウザを理由にした例外は、browserslist の既定の範囲（よく使われているブラウザ）を基準にする。
-  // 例外を足す・外すときは、例外が範囲に合っているかを確かめる scripts/check-browser-exceptions.mts の一覧も合わせる
   "rules": {
     // oxfmt が 16 進数の数字を小文字に整形し、大文字を求めるこの規則と食い違うため
     // https://github.com/prettier/eslint-config-prettier/blob/v10.1.8/index.js#L254
     "unicorn/number-literal-case": "off",
-    // 求める Array#toReversed() に対応していないブラウザが、範囲に入るため
-    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
-    "unicorn/no-array-reverse": "off",
-    // 求める top-level await は、Safari 26 までは複数のモジュールが同時に import すると動かない一部の対応で、その版が範囲に入るため
+    "unicorn/no-array-reverse": ["error", { "allowExpressionStatement": false }],
+    // 求める top-level await は、Safari 26 までは複数のモジュールが同時に import すると動かない一部の対応のため。.browserslistrc の範囲の Safari が 27 以上だと確かめたら有効にする
     // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/operators/await.json https://webkit.org/b/242740
     "unicorn/prefer-top-level-await": "off",
     "unicorn/import-style": ["error", { "checkExportFrom": true }],
     "unicorn/no-array-reduce": ["error", { "allowSimpleOperations": false }],
-    // 求める Array#toSorted() に対応していないブラウザが範囲に入るため、スプレッドでコピーしてからの sort() を許す
-    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/builtins/Array.json
-    "unicorn/no-array-sort": [
-      "error",
-      { "allowExpressionStatement": false, "allowAfterSpread": true }
-    ],
+    "unicorn/no-array-sort": ["error", { "allowExpressionStatement": false }],
     "unicorn/no-null": ["error", { "checkStrictEquality": true }],
     "unicorn/no-typeof-undefined": ["error", { "checkGlobalVariables": true }],
     "unicorn/prefer-at": ["error", { "checkAllIndexAccess": true }],
