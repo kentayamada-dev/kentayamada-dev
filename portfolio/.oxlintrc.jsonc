@@ -9,6 +9,7 @@
     "./oxlint/oxc.jsonc",
     "./oxlint/import.jsonc",
     "./oxlint/promise.jsonc",
+    "./oxlint/node.jsonc",
     "./oxlint/security.jsonc",
     "./oxlint/baseline-js.jsonc",
     "./oxlint/overrides.jsonc"

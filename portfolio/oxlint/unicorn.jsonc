@@ -5,9 +5,6 @@
     // https://github.com/prettier/eslint-config-prettier/blob/v10.1.8/index.js#L254
     "unicorn/number-literal-case": "off",
     "unicorn/no-array-reverse": ["error", { "allowExpressionStatement": false }],
-    // 求める top-level await は、Safari 26 までは複数のモジュールが同時に import すると動かない一部の対応のため。.browserslistrc の範囲の Safari が 27 以上だと確かめたら有効にする
-    // https://github.com/mdn/browser-compat-data/blob/v8.1.10/javascript/operators/await.json https://webkit.org/b/242740
-    "unicorn/prefer-top-level-await": "off",
     "unicorn/import-style": ["error", { "checkExportFrom": true }],
     "unicorn/no-array-reduce": ["error", { "allowSimpleOperations": false }],
     "unicorn/no-array-sort": ["error", { "allowExpressionStatement": false }],

@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    // ほかのパッケージから require(esm) で読み込まれる、公開するパッケージ向けの規則で、portfolio は公開しないため。
+    // 有効にすると、top-level await を求める unicorn/prefer-top-level-await と両立しない
+    // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/rules/node/no_top_level_await.rs#L15-L17
+    "node/no-top-level-await": "off"
+  }
+}
