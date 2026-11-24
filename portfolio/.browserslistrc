@@ -1,0 +1,10 @@
+# lint（eslint-plugin-compat）が判定する範囲で、ビルドは読まない。Tailwind v4 が前提にする版より古いブラウザは、Tailwind の中核の機能が動かず、プレフィックスも足されないので除く
+# Tailwind の更新で前提の版が変わったら合わせ、ここを変えたら .oxlintrc.jsonc と oxlint/ のブラウザを理由にした例外も見直す
+# https://github.com/tailwindlabs/tailwindcss.com/blob/c7f47c651f0c62ae5339177875494a3232efffa9/src/docs/compatibility.mdx?plain=1#L6-L12
+# https://github.com/tailwindlabs/tailwindcss/blob/v4.3.5/packages/@tailwindcss-node/src/optimize.ts#L48-L53
+defaults
+not chrome < 111
+not edge < 111
+not firefox < 128
+not safari < 16.4
+not ios_saf < 16.4
