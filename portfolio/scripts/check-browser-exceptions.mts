@@ -27,6 +27,17 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
     return new Map<string, unknown>(Object.entries(config.rules));
   },
   configRules = asRules(JSON.parse(await text(stdin))),
+  // Baseline の対象のブラウザを、MDN のデータの名前で並べる
+  // https://github.com/web-platform-dx/web-features/blob/063faed0ee3c3957f7e0069afb08b0342f1e82db/docs/baseline.md?plain=1#L130-L141
+  coreBrowsers: ReadonlySet<string> = new Set([
+    "chrome",
+    "chrome_android",
+    "edge",
+    "firefox",
+    "firefox_android",
+    "safari",
+    "safari_ios",
+  ]),
   esxExceptions: readonly BrowserException[] = Object.entries(esxFeatures).map(
     ([rule, paths]: readonly [string, readonly string[]]): BrowserException => ({
       add: "error にする",
@@ -57,6 +68,17 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
       (Number(major) === Number(baseMajor) && Number(minor) >= Number(baseMinor))
     );
   },
+  latestReleaseBy = (browser: string, year: number): string => {
+    const { releases = {} } = new Map(Object.entries(bcd.browsers)).get(browser) ?? {},
+      yearEnd = `${String(year)}-12-31`;
+    let latest = "0";
+    for (const [version, { release_date: date = "" }] of Object.entries(releases)) {
+      if (date !== "" && date <= yearEnd && isAtLeast(version, latest)) {
+        latest = version;
+      }
+    }
+    return latest;
+  },
   optionsOf = ([, options]: readonly unknown[]): ReadonlyMap<string, unknown> => {
     if (!(options instanceof Object)) {
       return new Map<string, unknown>();
@@ -79,8 +101,28 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
     ["safari", "safari"],
     ["samsung", "samsunginternet_android"],
   ]),
+  // Baseline の年の候補。Chrome は毎年いくつも版を出すので、Chrome の公開日の年で足りる
+  releaseYears: readonly number[] = [
+    ...new Set(
+      Object.values(bcd.browsers.chrome.releases).map(
+        ({ release_date: date = "" }: Readonly<{ release_date?: string }>): number => {
+          const [year = ""] = date.split("-");
+          return Number(year);
+        },
+      ),
+    ),
+  ],
   // 規則の値は "deny" のような重大度か、[重大度, オプション] の配列なので、どちらも配列にそろえる
   ruleEntryOf = (rule: string): readonly unknown[] => [configRules.get(rule)].flat(),
+  // 範囲の Baseline の対象のブラウザが、その年の終わりまでに出た版以上なら、その年までに Baseline になった機能はすべて使える
+  supportedBaselineYear: number = Math.max(
+    ...releaseYears.filter((year: number): boolean =>
+      rangeBrowsers.every(
+        ({ browser, version }: Readonly<{ browser: string; version: string }>): boolean =>
+          !coreBrowsers.has(browser) || isAtLeast(version, latestReleaseBy(browser, year)),
+      ),
+    ),
+  ),
   supportsVersion = (path: string, browser: string, version: string): boolean => {
     const statements: ReadonlyMap<string, SupportStatement> = new Map(
       Object.entries(featureSupport(path)),
@@ -119,6 +161,15 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
       (rule: string): string =>
         `${rule}: scripts/es-x-features.json に、MDN のデータとの対応がないので足す`,
     ),
+    ...[supportedBaselineYear]
+      .filter(
+        (year: number): boolean =>
+          optionsOf(ruleEntryOf("baseline-js/use-baseline")).get("available") !== year,
+      )
+      .map(
+        (year: number): string =>
+          `baseline-js/use-baseline: 範囲に合う Baseline の年は ${String(year)} なので、available を ${String(year)} にする`,
+      ),
     ...[
       {
         add: "off にする",
@@ -179,6 +230,6 @@ const asRules = (config: unknown): ReadonlyMap<string, unknown> => {
 
 if (violations !== "") {
   throw new Error(
-    `ブラウザを理由にした lint の設定が、browserslist の範囲と合っていない。.oxlintrc.jsonc と oxlint/es-x.jsonc を直す\n${violations}`,
+    `ブラウザを理由にした lint の設定が、browserslist の範囲と合っていない。.oxlintrc.jsonc と oxlint/ の設定を直す\n${violations}`,
   );
 }

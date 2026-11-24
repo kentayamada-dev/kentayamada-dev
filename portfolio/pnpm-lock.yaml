@@ -30,6 +30,9 @@ importers:
       browserslist:
         specifier: 4.29.6
         version: 4.29.6
+      eslint-plugin-baseline-js:
+        specifier: 0.7.7
+        version: 0.7.7(eslint@10.15.0(jiti@2.7.0))
       eslint-plugin-compat:
         specifier: 7.0.2
         version: 7.0.2(eslint@10.15.0(jiti@2.7.0))
@@ -1754,6 +1757,12 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
+  eslint-plugin-baseline-js@0.7.7:
+    resolution: {integrity: sha512-BACS9mwBXmtZaGzVeIlfKxjAw0KlJkZ9fBH3YYp6jKE6ZUMNkzrIwixuWnYtPEfDsD8EswCaK9FQLXKIMUuwgQ==}
+    engines: {node: ^20.19.0 || >=22.12.0}
+    peerDependencies:
+      eslint: '>=9.29.0 <11'
+
   eslint-plugin-compat@7.0.2:
     resolution: {integrity: sha512-gN8hF+4NzMsHUbr4m/TYZK0FtW3DcV4g8rXpTsY2EV5xiRD8jsilUlB9lNSkGGX0veDCxMhKSWbSd+faJByQDA==}
     engines: {node: '>=22.x'}
@@ -1765,6 +1774,12 @@ packages:
     engines: {node: ^22.23.0 || ^24.18.0 || >=26.4.0}
     peerDependencies:
       eslint: '>=10.6.0'
+
+  eslint-plugin-es-x@9.7.0:
+    resolution: {integrity: sha512-BT0pUw0toxtrHulYycGiUTL++qC11opyPYMuGUR7AgmuQ/N1YN1xLupF8rGxlaGqEqkqeedJuacCxxAcYgGkvg==}
+    engines: {node: ^20.19.0 || >=22.12.0}
+    peerDependencies:
+      eslint: '>=9.29.0'
 
   eslint-plugin-security@4.2.1:
     resolution: {integrity: sha512-iF95SSqdSUVTvB7srNXoNeTQIqwfALTn9nmoqJyixSIKqEydlW01Cqb7xNveqE4Zd6YWBoQICQ4FH9NkR1byDg==}
@@ -4212,6 +4227,11 @@ snapshots:
 
   escape-string-regexp@4.0.0: {}
 
+  eslint-plugin-baseline-js@0.7.7(eslint@10.15.0(jiti@2.7.0)):
+    dependencies:
+      eslint: 10.15.0(jiti@2.7.0)
+      eslint-plugin-es-x: 9.7.0(eslint@10.15.0(jiti@2.7.0))
+
   eslint-plugin-compat@7.0.2(eslint@10.15.0(jiti@2.7.0)):
     dependencies:
       '@mdn/browser-compat-data': 6.1.5
@@ -4224,6 +4244,13 @@ snapshots:
       semver: 7.8.6
 
   eslint-plugin-es-x@10.1.0(eslint@10.15.0(jiti@2.7.0)):
+    dependencies:
+      '@eslint-community/eslint-utils': 4.10.1(eslint@10.15.0(jiti@2.7.0))
+      '@eslint-community/regexpp': 4.12.3
+      eslint: 10.15.0(jiti@2.7.0)
+      eslint-type-tracer: 0.5.2(eslint@10.15.0(jiti@2.7.0))
+
+  eslint-plugin-es-x@9.7.0(eslint@10.15.0(jiti@2.7.0)):
     dependencies:
       '@eslint-community/eslint-utils': 4.10.1(eslint@10.15.0(jiti@2.7.0))
       '@eslint-community/regexpp': 4.12.3

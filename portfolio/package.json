@@ -23,6 +23,7 @@
     "@tailwindcss/vite": "4.3.5",
     "@types/node": "26.6.6",
     "browserslist": "4.29.6",
+    "eslint-plugin-baseline-js": "0.7.7",
     "eslint-plugin-compat": "7.0.2",
     "eslint-plugin-es-x": "10.1.0",
     "eslint-plugin-security": "4.2.1",
