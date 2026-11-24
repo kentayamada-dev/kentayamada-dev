@@ -3,7 +3,7 @@ import type { AstroUserConfig } from "astro";
 import { defineConfig } from "astro/config";
 import browserslist from "browserslist";
 
-// browserslist のブラウザ名を、Vite の cssTarget が受け付けるブラウザ名に読み替える。受け付けないブラウザ（Samsung Internet など）を渡すとビルドが止まるので除く
+// ブラウザ名を、browserslist の名前から Vite の cssTarget が受け付ける名前に読み替える。受け付けないブラウザ（Samsung Internet など）を渡すとビルドが止まるので除く
 // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3584-L3598
 const browserNames: ReadonlyMap<string, string> = new Map([
     ["chrome", "chrome"],
@@ -14,7 +14,7 @@ const browserNames: ReadonlyMap<string, string> = new Map([
     ["opera", "opera"],
     ["safari", "safari"],
   ]),
-  // lint（eslint-plugin-compat）と同じ browserslist の範囲にする。ブラウザごとに最も古い版を選ぶのは Vite に任せる
+  // 範囲は、lint（eslint-plugin-compat）と同じ browserslist の範囲にする。ブラウザごとに最も古い版を選ぶのは Vite に任せる
   // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3670-L3691
   browserTargets: string[] = browserslist().flatMap((entry: string): string[] => {
     // 版の幅（"ios_saf 18.5-18.7" など）は最初の版を使い、Safari Technology Preview の TP のような数字でない版は除く
@@ -34,7 +34,7 @@ const browserNames: ReadonlyMap<string, string> = new Map([
     },
     vite: {
       build: {
-        // cssTarget の既定は build.target で、Astro はクライアント向けの target を esnext に固定するため、指定しないと CSS の縮小がプレフィックスを足さない。
+        // 既定の cssTarget は build.target と同じで、Astro はクライアント向けの target を esnext に固定するため、指定しないと CSS の縮小がプレフィックスを足さない。
         // Tailwind が足すプレフィックスは対象のブラウザが固定なので、範囲に足りない分もここで足させる
         // https://github.com/vitejs/vite/blob/v8.3.8/docs/config/build-options.md?plain=1#L119-L126
         // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/vite-build-config.ts#L205
