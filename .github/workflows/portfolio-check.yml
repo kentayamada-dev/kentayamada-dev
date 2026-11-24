@@ -31,6 +31,9 @@ jobs:
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
       # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作れるようにする
       - run: chmod a+w portfolio
+      # 検証用: browserslist の範囲と、astro.config.ts が作る cssTarget を出力する
+      - run: |
+          docker compose run --rm portfolio node --input-type=module --eval "import browserslist from 'browserslist'; console.log(browserslist().join('\n')); const { default: config } = await import('./astro.config.ts'); console.log(JSON.stringify(config.vite.build.cssTarget));"
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
@@ -39,3 +42,5 @@ jobs:
       - run: docker compose run --rm portfolio pnpm knip
       # 整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
       - run: docker compose run --rm portfolio pnpm build
+      # 検証用: ビルドした CSS のうち、検証用のクラスの部分を出力する
+      - run: grep -o '\.probe-[^}]*}' portfolio/dist/_astro/*.css
