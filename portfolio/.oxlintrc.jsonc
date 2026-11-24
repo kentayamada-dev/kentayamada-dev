@@ -190,6 +190,9 @@
     "import/no-anonymous-default-export": ["error", { "allowCallExpression": false }],
     "import/no-cycle": ["error", { "ignoreTypes": false }],
     "import/no-dynamic-require": ["error", { "esmodule": true }],
+    // Astro は、ページで使う CSS を値を受け取らない import で読み込むため
+    // https://docs.astro.build/en/guides/styling/#import-a-local-stylesheet
+    "import/no-unassigned-import": ["error", { "allow": ["**/*.css"] }],
     "promise/always-return": ["error", { "ignoreAssignmentVariable": [] }],
     "promise/no-callback-in-promise": ["error", { "timeoutsErr": true }],
     "promise/param-names": [

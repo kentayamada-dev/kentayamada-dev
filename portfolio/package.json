@@ -19,6 +19,7 @@
   "devDependencies": {
     "@astrojs/check": "0.9.12",
     "@astrojs/compiler-rs": "0.5.3",
+    "@tailwindcss/vite": "4.3.5",
     "eslint-plugin-compat": "7.0.2",
     "eslint-plugin-es-x": "10.1.0",
     "eslint-plugin-security": "4.2.1",
@@ -26,6 +27,7 @@
     "oxfmt": "0.79.0",
     "oxlint": "1.94.0",
     "oxlint-tsgolint": "7.0.2007",
+    "tailwindcss": "4.3.5",
     "typescript": "6.0.3"
   },
   "devEngines": {
