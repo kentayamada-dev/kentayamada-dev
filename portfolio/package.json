@@ -10,6 +10,7 @@
     "typecheck": "astro check",
     "lint": "astro sync && oxlint",
     "knip": "knip",
+    "test:e2e": "playwright test",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check"
   },
@@ -19,10 +20,13 @@
   "devDependencies": {
     "@astrojs/check": "0.9.12",
     "@astrojs/compiler-rs": "0.5.3",
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.65.1",
     "@tailwindcss/vite": "4.3.5",
     "browserslist": "4.29.6",
     "eslint-plugin-baseline-js": "0.7.7",
     "eslint-plugin-better-tailwindcss": "4.11.0",
+    "eslint-plugin-playwright": "2.12.2",
     "eslint-plugin-security": "4.2.1",
     "knip": "6.46.1",
     "oxfmt": "0.79.0",
