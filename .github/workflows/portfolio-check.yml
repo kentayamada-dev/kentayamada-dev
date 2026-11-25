@@ -31,6 +31,9 @@ jobs:
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
       # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作れるようにする
       - run: chmod a+w portfolio
+      # 検証用: better-tailwindcss を入れ、整形の検査より前に lint を動かし、失敗しても続ける
+      - run: docker compose run --rm portfolio pnpm add -D eslint-plugin-better-tailwindcss@4.11.0
+      - run: docker compose run --rm portfolio pnpm lint || true
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
