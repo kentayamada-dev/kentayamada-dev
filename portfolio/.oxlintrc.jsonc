@@ -30,7 +30,10 @@
   "settings": {
     "better-tailwindcss": {
       "entryPoint": "src/styles/global.css",
-      "rootFontSize": 16
+      "rootFontSize": 16,
+      "selectors": {
+        "extends": [{ "kind": "variable", "name": "^styles?$", "match": [{ "type": "objectValues" }] }]
+      }
     }
   },
   "options": {
