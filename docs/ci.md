@@ -93,10 +93,11 @@ HTML と Lighthouse の検査も、`compose.yaml` のサービスで動かす。
 docker compose run --rm portfolio pnpm build
 docker compose run --rm html-checker
 docker compose run --rm lighthouse
+docker compose run --rm lighthouse --collect.settings.preset=desktop
 ```
 
 - `html-checker`: Nu Html Checker で、HTML の誤りと警告がないことを確認する
-- `lighthouse`: Lighthouse CI で、アクセシビリティ・ベストプラクティス・SEO の点数が満点であることを確認する
+- `lighthouse`: Lighthouse CI で、アクセシビリティ・ベストプラクティス・SEO の点数が満点で、種類ごとの配信サイズが上限を超えず、ほかのオリジンへのリクエストがないことを確認する。CI では、モバイルの設定と、デスクトップのプリセットを引数で渡した設定の、2 とおりを計測する
 
 性能の点数は、基準を下回っても、警告の注釈を出すだけにする。PR の検査は失敗させない。
 基準は [`portfolio/lighthouserc.yaml`](../portfolio/lighthouserc.yaml) にある。

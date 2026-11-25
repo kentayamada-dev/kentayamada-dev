@@ -25,7 +25,28 @@ ci:
       "categories:performance":
         - warn
         - minScore: 0.9
+      # 点数より揺れにくい配信サイズで、大きな増加を止める。値は圧縮後の転送サイズのバイト数で、lhci の静的サーバーは gzip で返す
+      # https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/utils/src/assertions.js#L336-L356 https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/collect/fallback-server.js#L30
+      "resource-summary:total:size":
+        - error
+        - maxNumericValue: 512000 # 500 KiB
+      "resource-summary:script:size":
+        - error
+        - maxNumericValue: 153600 # 150 KiB
+      "resource-summary:stylesheet:size":
+        - error
+        - maxNumericValue: 51200 # 50 KiB
+      "resource-summary:image:size":
+        - error
+        - maxNumericValue: 307200 # 300 KiB
+      "resource-summary:font:size":
+        - error
+        - maxNumericValue: 102400 # 100 KiB
+      # ほかのオリジンへのリクエストを足したら止め、意図したものかを確認する
+      "resource-summary:third-party:count":
+        - error
+        - maxNumericValue: 0
   upload:
     target: filesystem
-    # 変えるときは、portfolio/.gitignore と portfolio-check.yml の成果物の path も合わせる
+    # 変えるときは、portfolio/.gitignore と、portfolio-check.yml の --upload.outputDir と成果物の path も合わせる
     outputDir: lighthouse-report

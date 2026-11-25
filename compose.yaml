@@ -88,20 +88,24 @@ services:
       start_period: 30s
       start_interval: 1s
 
-  # portfolio のビルドしたページを、Lighthouse CI で検査する
+  # portfolio のビルドしたページを、Lighthouse CI で検査する。docker compose run の引数は、lhci autorun に渡る
   lighthouse:
     <<: *playwright
     # イメージの Chromium の場所は Playwright の版で変わるため、Playwright から取る。
     # Lighthouse CI は CHROME_PATH を、検査の前に Chrome があるかの確認でも読む
     # https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/utils.js#L56-L64
-    command:
+    # entrypoint にすると、イメージの既定のコマンドは無視され、docker compose run の引数だけが "$@" に入る
+    # https://github.com/docker/docs/blob/cde01bf9f2b55a072de1a295e5d35078b13c9684/content/reference/compose-file/container-spec.md?plain=1#L419-L420
+    entrypoint:
       - sh
       - -c
       - |
         set -eu
         CHROME_PATH="$$(node --print 'require("@playwright/test").chromium.executablePath()')"
         export CHROME_PATH
-        exec node_modules/.bin/lhci autorun
+        exec node_modules/.bin/lhci autorun "$$@"
+      # sh -c はスクリプトの次の引数を $0 にするので、ここに名前を置かないと、最初の引数が "$@" から落ちる
+      - lighthouse
     volumes:
       - *workspace-volume
       - type: volume

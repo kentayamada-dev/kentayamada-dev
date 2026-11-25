@@ -24,6 +24,11 @@ jobs:
       # 変えるときは、portfolio/playwright.config.ts の snapshotPathTemplate も合わせる
       screenshots_dir: portfolio/e2e/__screenshots__
       screenshots_key: portfolio-screenshots
+      lighthouse_results: portfolio/.lighthouseci/assertion-results.json
+      # warn にした基準を満たさなかったアサーションを、警告の注釈にする jq のプログラム。$form_factor に計測の種類を渡す
+      lighthouse_warnings: >-
+        .[] | select(.level == "warn")
+        | "::warning title=Lighthouse（\($form_factor)）の基準を満たしません::\(.url) の \(.auditProperty // .auditId) が \(.actual)（基準は \(.operator) \(.expected)）"
     steps:
       - uses: actions/checkout@v7.0.1
         with:
@@ -55,20 +60,23 @@ jobs:
           path: portfolio/playwright-report/
       # HTML の検査と Lighthouse は、ビルドし直さずに、テストのステップでビルドした dist を検査する
       - run: docker compose run --rm html-checker
-      - id: lighthouse
-        run: docker compose run --rm lighthouse
-      # 性能の点数のように、失敗させない基準を下回ったときも、注釈で知らせる
-      - if: steps.lighthouse.outcome == 'success'
-        uses: $/.github/actions/setup-mise
+      # 性能の点数のように、失敗させない基準を満たさなかったときも、注釈で知らせるために使う
+      - uses: $/.github/actions/setup-mise
         with:
           install_args: jq
-      - if: steps.lighthouse.outcome == 'success'
-        run: >-
-          jq --raw-output '.[] | select(.level == "warn")
-          | "::warning title=Lighthouse の基準を下回りました::\(.url) の \(.auditProperty // .auditId) が \(.actual)（基準は \(.operator) \(.expected)）"'
-          portfolio/.lighthouseci/assertion-results.json
+      # Lighthouse はモバイルとデスクトップで別々に計測する。アサーションの結果は計測ごとに上書きされるため、注釈は計測の直後に出す
+      - id: lighthouse-mobile
+        run: docker compose run --rm lighthouse --upload.outputDir=lighthouse-report/mobile
+      - if: steps.lighthouse-mobile.outcome == 'success'
+        run: jq --raw-output --arg form_factor モバイル "$lighthouse_warnings" "$lighthouse_results"
+      # モバイルで失敗しても、デスクトップの結果も見られるよう計測する
+      - id: lighthouse-desktop
+        if: ${{ !cancelled() && steps.lighthouse-mobile.outcome != 'skipped' }}
+        run: docker compose run --rm lighthouse --collect.settings.preset=desktop --upload.outputDir=lighthouse-report/desktop
+      - if: steps.lighthouse-desktop.outcome == 'success'
+        run: jq --raw-output --arg form_factor デスクトップ "$lighthouse_warnings" "$lighthouse_results"
       # 失敗させない基準の詳細も見られるよう、成否によらずレポートを上げる
-      - if: ${{ !cancelled() && steps.lighthouse.outcome != 'skipped' }}
+      - if: ${{ !cancelled() && steps.lighthouse-mobile.outcome != 'skipped' }}
         uses: actions/upload-artifact@v7.0.2
         with:
           name: lighthouse-report
