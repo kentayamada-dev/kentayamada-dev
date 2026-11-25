@@ -31,6 +31,27 @@ jobs:
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
       # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作れるようにする
       - run: chmod a+w portfolio
+      # 検証用: 古い baseline-browser-mapping（web-features 3.38.0）と今の版で、baseline newly available と同じ条件の範囲を比べる
+      - run: |
+          cat > portfolio/bbm-probe.mjs <<'EOF'
+          import { readdirSync } from "node:fs";
+          import { resolve } from "node:path";
+          import { pathToFileURL } from "node:url";
+
+          const load = (dir) => import(pathToFileURL(resolve(dir, "dist/index.js")).href);
+          const currentDir = readdirSync("node_modules/.pnpm").find((name) => name.startsWith("baseline-browser-mapping@"));
+          const current = await load(`node_modules/.pnpm/${currentDir}/node_modules/baseline-browser-mapping`);
+          const old = await load("/tmp/bbm-old/node_modules/baseline-browser-mapping");
+          // browserslist 4.29.6 の baseline newly available と同じ条件
+          const options = { widelyAvailableOnDate: new Date().setMonth(new Date().getMonth() + 30), suppressWarnings: true };
+          const show = (versions) => versions.map((v) => `${v.browser} ${v.version}`).join(", ");
+          console.log("今:", currentDir);
+          console.log(show(current.getCompatibleVersions(options)));
+          console.log("古い: baseline-browser-mapping 2.11.24");
+          console.log(show(old.getCompatibleVersions(options)));
+          EOF
+          docker compose run --rm portfolio sh -c 'npm install --no-save --prefix /tmp/bbm-old --registry=https://npm.flatt.tech/ baseline-browser-mapping@2.11.24 && node bbm-probe.mjs'
+          rm portfolio/bbm-probe.mjs
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
