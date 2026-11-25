@@ -8,6 +8,7 @@ paths:
 `.astro` のテンプレートの `class` 属性に、クラスを直接書かない。
 oxlint は `.astro` のテンプレートを読まないので、直接書いたクラスは lint で検査されない。
 根拠は [`portfolio/oxlint/tailwind.jsonc`](../../portfolio/oxlint/tailwind.jsonc) のコメントにある。
+直接書くと、portfolio の lint が失敗する。
 
 クラスは frontmatter や `.ts` の変数に書き、テンプレートからはその変数を参照する。
 

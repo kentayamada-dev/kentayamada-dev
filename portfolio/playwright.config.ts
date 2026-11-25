@@ -29,8 +29,8 @@ const baseURL = "http://127.0.0.1:4321",
       },
     },
     webServer: {
-      // 前にビルドした古いページを検査しないよう、ビルドし直してから開く
-      command: "pnpm build && pnpm preview",
+      // dist はテストを集めるときに要るため、ここではビルドせず、テストより前にビルドしたものを開く
+      command: "pnpm preview",
       url: baseURL,
     },
   });
