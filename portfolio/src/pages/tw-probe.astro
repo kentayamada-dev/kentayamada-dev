@@ -1,7 +1,9 @@
 ---
-// 検証用: frontmatter の styles 変数に書いたクラスと、テンプレートに直接書いたクラス。マージしない
+// 検証用: frontmatter の変数に書いたクラスと、テンプレートに直接書いたクラス。マージしない
+const classes = "px-2 px-4 flex flex";
 const styles = { title: "px-2 px-4 flex flex" };
 ---
 
-<h1 class={styles.title}>frontmatter</h1>
+<h1 class={classes}>frontmatter string</h1>
+<p class={styles.title}>frontmatter object</p>
 <p class="px-2 px-4 flex flex">template</p>
