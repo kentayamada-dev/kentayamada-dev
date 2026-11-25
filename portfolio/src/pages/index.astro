@@ -1,8 +1,15 @@
 ---
 import "@/styles/global.css";
+
+const styles = {
+  body: "flex flex-col min-block-full",
+  html: "antialiased block-full",
+  main: "flex flex-1 flex-col items-center justify-center bg-zinc-50 font-sans dark:bg-black",
+  title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
+};
 ---
 
-<html lang="en">
+<html lang="en" class={styles.html}>
   <head>
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -11,7 +18,9 @@ import "@/styles/global.css";
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
   </head>
-  <body>
-    <h1>Astro</h1>
+  <body class={styles.body}>
+    <main class={styles.main}>
+      <h1 class={styles.title}>Astro</h1>
+    </main>
   </body>
 </html>
