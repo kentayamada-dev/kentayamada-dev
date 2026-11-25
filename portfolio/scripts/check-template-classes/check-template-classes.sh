@@ -14,7 +14,7 @@ done
 
 # oxlint は .astro のテンプレートを読まず、class 属性に直接書いたクラスを Tailwind の規則で検査できないため、直接書いていないかをここで見る。
 # 引用符で囲んだ値と、{} のなかに引用符を含む値を、直接書いたクラスとみなす。複数行にまたがる {} の 2 行目からは見ない
-pattern=$'(^|[[:space:]])class(:list)?=(["\']|\\{[^}]*["\'`])'
+pattern=$'class(:list)?=(["\']|\\{[^}]*["\'`])'
 
 shopt -s globstar nullglob
 found=0
