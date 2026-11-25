@@ -9,7 +9,7 @@ LABEL org.opencontainers.image.title="infra" \
 
 # Terraform の版はここだけで管理する。Renovate がタグとダイジェストを更新できるよう、公式イメージから取り出す
 # https://github.com/renovatebot/renovate/blob/44.151.1/lib/modules/manager/dockerfile/readme.md
-COPY --from=hashicorp/terraform:1.17.1@sha256:a5d5a5a892c98f60fcbfa81eac2a40fc19e7b3fa7719bccae10ff6111d22524a /bin/terraform /usr/local/bin/terraform
+COPY --from=hashicorp/terraform:1.17.2@sha256:6e9c1e647c31a960dc9b59e13272f9111d90010c10b717f77ffb324767660475 /bin/terraform /usr/local/bin/terraform
 
 # 次の ARG を足すときは、compose.yaml の infra の build.args にも値を足す
 ARG USER_NAME
