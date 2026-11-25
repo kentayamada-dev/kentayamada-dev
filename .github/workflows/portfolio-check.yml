@@ -39,3 +39,60 @@ jobs:
       - run: docker compose run --rm portfolio pnpm knip
       # 整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
       - run: docker compose run --rm portfolio pnpm build
+      # 検証用: 縮小しないビルドの CSS を、cssTarget の targets（A）と Android を含む範囲全体の targets（B）で縮小して比べる
+      - run: |
+          cat > portfolio/astro.probe.config.mjs <<'EOF'
+          import config from "./astro.config.ts";
+          export default {
+            ...config,
+            outDir: "./dist-unminified",
+            vite: { ...config.vite, build: { ...config.vite.build, cssMinify: false } },
+          };
+          EOF
+          cat > portfolio/probe.mjs <<'EOF'
+          import { readdirSync, readFileSync } from "node:fs";
+          import { createRequire } from "node:module";
+          import browserslist from "browserslist";
+          import config from "./astro.config.ts";
+
+          // Vite と同じ lightningcss を使う
+          const require = createRequire(import.meta.resolve("vite"));
+          const { transform, browserslistToTargets } = require("lightningcss");
+          const lightningcssPath = require.resolve("lightningcss");
+          console.log("lightningcss:", lightningcssPath);
+
+          // Vite 8.3.8 の convertTargets と同じ変換
+          const map = { chrome: "chrome", edge: "edge", firefox: "firefox", ie: "ie", ios: "ios_saf", opera: "opera", safari: "safari" };
+          const targetsA = {};
+          for (const entry of config.vite.build.cssTarget) {
+            const index = entry.search(/\d/);
+            const browser = map[entry.slice(0, index)];
+            const [major, minor = 0] = entry.slice(index).split(".").map((v) => Number.parseInt(v, 10));
+            const version = (major << 16) | (minor << 8);
+            if (!targetsA[browser] || version < targetsA[browser]) targetsA[browser] = version;
+          }
+          const targetsB = browserslistToTargets(browserslist());
+          const targetsC = { ...targetsA, safari: 15 << 16, ios_saf: 15 << 16 };
+          const show = (t) => Object.entries(t).map(([k, v]) => `${k} ${v >> 16}.${(v >> 8) & 255}`).join(", ");
+          console.log("browserslist:", browserslist().join(", "));
+          console.log("A:", show(targetsA));
+          console.log("B:", show(targetsB));
+          console.log("C:", show(targetsC));
+
+          const read = (dir) => {
+            const files = readdirSync(dir).filter((name) => name.endsWith(".css"));
+            if (files.length !== 1) throw new Error(`${dir} の CSS が 1 つではない: ${files.join(", ")}`);
+            return readFileSync(`${dir}/${files[0]}`);
+          };
+          const source = read("dist-unminified/_astro");
+          const normal = read("dist/_astro").toString();
+          const minify = (targets) =>
+            new TextDecoder().decode(transform({ targets, filename: "global.css", code: source, minify: true }).code) + "\n";
+          const [outA, outB, outC] = [minify(targetsA), minify(targetsB), minify(targetsC)];
+          console.log("bytes: source", source.length, "normal", normal.length, "A", outA.length, "B", outB.length, "C", outC.length);
+          console.log("A と普段のビルドが同じ:", outA === normal);
+          console.log("A と B が同じ:", outA === outB);
+          console.log("A と C（対照）が同じ:", outA === outC);
+          EOF
+          docker compose run --rm portfolio pnpm astro build --config astro.probe.config.mjs
+          docker compose run --rm portfolio node probe.mjs
