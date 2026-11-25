@@ -12,6 +12,7 @@
     "./oxlint/node.jsonc",
     "./oxlint/security.jsonc",
     "./oxlint/baseline-js.jsonc",
+    "./oxlint/tailwind.jsonc",
     "./oxlint/overrides.jsonc"
   ],
   // plugins を書くと既定のプラグインが外れるため、既定の eslint・typescript・unicorn・oxc も並べる
@@ -25,6 +26,21 @@
     "perf": "error",
     "style": "error",
     "restriction": "error"
+  },
+  "settings": {
+    "better-tailwindcss": {
+      "entryPoint": "src/styles/global.css",
+      // 指定しないと、h-[14px] を h-3.5 のように px から目盛りの値へ置き換えないため、ブラウザの既定の 16px を指定する
+      // https://github.com/schoero/eslint-plugin-better-tailwindcss/blob/v4.11.0/docs/rules/enforce-canonical-classes.md?plain=1#L33
+      "rootFontSize": 16,
+      // 既定では変数のオブジェクトの値を検査しないため、要素ごとのクラスを styles のオブジェクトにまとめても検査させる
+      // https://github.com/schoero/eslint-plugin-better-tailwindcss/blob/v4.11.0/docs/configuration/advanced.md?plain=1#L169-L171
+      "selectors": {
+        "extends": [
+          { "kind": "variable", "name": "^styles?$", "match": [{ "type": "objectValues" }] }
+        ]
+      }
+    }
   },
   "options": {
     "typeAware": true,
