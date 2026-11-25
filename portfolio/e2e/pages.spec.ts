@@ -16,9 +16,10 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
   // リンク先は配色で変わらないため、配色ごとには分けない
   test(`${path} のサイト内のリンクが切れていない`, async ({ page, request }): Promise<void> => {
     await page.goto(path);
-    const links = page.locator("a[href]"),
-      hrefs = await links.evaluateAll((anchors): string[] =>
-        anchors.map((anchor): string => anchor.getAttribute("href") ?? ""),
+    const anchors = page.locator("a[href]"),
+      broken: string[] = [],
+      hrefs = await anchors.evaluateAll((elements): string[] =>
+        elements.map((element): string => element.getAttribute("href") ?? ""),
       ),
       { origin } = new URL(page.url()),
       // ページのなかの位置だけが違うリンクは、同じページとして 1 回だけ確かめる
@@ -27,8 +28,7 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
           .map((href): URL => new URL(href, page.url()))
           .filter((url): boolean => url.origin === origin)
           .map((url): string => `${url.origin}${url.pathname}${url.search}`),
-      ),
-      broken: string[] = [];
+      );
     await Promise.all(
       [...urls].map(async (url): Promise<void> => {
         const response = await request.get(url);

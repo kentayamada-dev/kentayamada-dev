@@ -97,7 +97,11 @@ services:
     command:
       - sh
       - -c
-      - CHROME_PATH="$$(node --print 'require("@playwright/test").chromium.executablePath()')" && export CHROME_PATH && exec node_modules/.bin/lhci autorun
+      - |
+        set -eu
+        CHROME_PATH="$$(node --print 'require("@playwright/test").chromium.executablePath()')"
+        export CHROME_PATH
+        exec node_modules/.bin/lhci autorun
     volumes:
       - *workspace-volume
       - type: volume
