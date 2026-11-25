@@ -17,7 +17,11 @@
     "eslint/max-params": ["error", { "countThis": "always" }],
     "eslint/no-cond-assign": ["error", "always"],
     "eslint/no-constant-condition": ["error", { "checkLoops": "all" }],
-    "eslint/no-duplicate-imports": ["error", { "includeExports": true }],
+    // import/consistent-type-specifier-style が型を import type の文に分けさせるため、同じモジュールから型と値を別の文で import できるようにする
+    "eslint/no-duplicate-imports": [
+      "error",
+      { "includeExports": true, "allowSeparateTypeImports": true }
+    ],
     "eslint/no-else-return": ["error", { "allowElseIf": false }],
     "eslint/no-extra-boolean-cast": ["error", { "enforceForInnerExpressions": true }],
     "eslint/no-fallthrough": ["error", { "reportUnusedFallthroughComment": true }],

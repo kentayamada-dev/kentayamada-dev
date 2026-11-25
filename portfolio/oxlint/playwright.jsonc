@@ -45,7 +45,9 @@
         "playwright/valid-expect": "error",
         "playwright/valid-expect-in-promise": "error",
         "playwright/valid-test-tags": "error",
-        "playwright/valid-title": "error"
+        "playwright/valid-title": "error",
+        // テストやイベントのコールバックが受け取る Page などの型は、Playwright が決めていて readonly ではないため、型を書かない引数は対象にしない
+        "typescript/prefer-readonly-parameter-types": ["error", { "ignoreInferredTypes": true }]
       }
     }
   ]

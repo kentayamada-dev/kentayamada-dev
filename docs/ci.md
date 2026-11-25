@@ -63,7 +63,7 @@ PR では、OSV-Scanner で依存関係の脆弱性とライセンスを検査�
 
 ### portfolio のブラウザでの検査
 
-portfolio のページは、Playwright を使って Chromium・Firefox・WebKit で開き、次のことを確かめる。
+portfolio のページは、Playwright を使って Chromium・Firefox・WebKit で開き、次のことを確認する。
 テストは [`portfolio/e2e/`](../portfolio/e2e/) にある。
 
 - 開いたときに、エラーが出ない

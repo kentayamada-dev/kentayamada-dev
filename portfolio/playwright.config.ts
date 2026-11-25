@@ -1,4 +1,5 @@
-import { type PlaywrightTestConfig, defineConfig, devices } from "@playwright/test";
+import type { PlaywrightTestConfig } from "@playwright/test";
+import { defineConfig, devices } from "@playwright/test";
 
 const baseURL = "http://127.0.0.1:4321",
   config: PlaywrightTestConfig = defineConfig({
@@ -19,7 +20,7 @@ const baseURL = "http://127.0.0.1:4321",
       // https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/api/class-browsertype.md?plain=1#L124-L138
       connectOptions: {
         exposeNetwork: "<loopback>",
-        // compose.yaml の playwright のサービス名か SERVER_PORT を変えるときは、ここも合わせる
+        // つなぐ先の compose.yaml の playwright のサービス名か SERVER_PORT を変えるときは、ここも合わせる
         wsEndpoint: "ws://playwright:3000/",
       },
     },
