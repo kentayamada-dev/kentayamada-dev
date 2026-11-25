@@ -46,14 +46,14 @@ url_api = "https://api.github.com/repos/editorconfig-checker/editorconfig-checke
 provenance = "github-attestations"
 
 [[tools."github:crate-ci/typos"]]
-version = "1.52.1"
+version = "1.52.2"
 backend = "github:crate-ci/typos"
-specifiers = ["v1.52.1"]
+specifiers = ["v1.52.2"]
 
 [tools."github:crate-ci/typos"."platforms.linux-arm64"]
-checksum = "sha256:3c82c3e97aafdd686fbb3f8c7b82bca3a870d21a0bcadd41babd37e84cc2f2df"
-url = "https://github.com/crate-ci/typos/releases/download/v1.52.1/typos-v1.52.1-aarch64-unknown-linux-musl.tar.gz"
-url_api = "https://api.github.com/repos/crate-ci/typos/releases/assets/728873236"
+checksum = "sha256:f2f54b567f5f4688f000f1bf85c585ee22cce3b55befc9418bcdd4c5adc16595"
+url = "https://github.com/crate-ci/typos/releases/download/v1.52.2/typos-v1.52.2-aarch64-unknown-linux-musl.tar.gz"
+url_api = "https://api.github.com/repos/crate-ci/typos/releases/assets/733786825"
 provenance = "github-attestations"
 
 [[tools."github:mvdan/sh"]]
