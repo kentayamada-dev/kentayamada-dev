@@ -7,7 +7,7 @@ setup() {
   script="${BATS_TEST_DIRNAME}/check-template-classes.sh"
 
   # shellcheck disable=SC2154 # BATS_TEST_TMPDIR は bats が設定する。ShellCheck の check-unassigned-uppercase は未代入と判定する
-  cd "${BATS_TEST_TMPDIR}"
+  cd "${BATS_TEST_TMPDIR}" || return
   mkdir src
 }
 
