@@ -19,7 +19,9 @@ rebuild-infra rebuild-portfolio:
 	docker compose rm --stop --force $(patsubst rebuild-%,%,$@)
 
 clean-docker:
-	docker compose down --rmi local --volumes --remove-orphans
+# local は image: で名前を付けていないイメージしか消さず、image: で指定して取得したイメージが残るため、all にする
+# https://github.com/docker/compose/blob/v2.40.3/docs/reference/compose_down.md?plain=1#L24
+	docker compose down --rmi all --volumes --remove-orphans
 # まだ取得していないイメージで No such image のエラーを出さないよう、あるものだけを消す
 	for image in $(base_images); do \
 		if docker image inspect "$$image" >/dev/null 2>&1; then docker image rm "$$image" || exit; fi; \
