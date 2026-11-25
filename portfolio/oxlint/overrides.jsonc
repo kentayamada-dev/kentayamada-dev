@@ -19,6 +19,11 @@
       // https://docs.astro.build/en/guides/configuring-astro/#the-astro-config-file
       "files": ["astro.config.ts"],
       "rules": { "import/no-default-export": "off" }
+    },
+    {
+      // 検証用: このファイルだけブラウザの環境を有効にする
+      "files": ["src/env-browser-probe.ts"],
+      "env": { "browser": true }
     }
   ]
 }
