@@ -1,0 +1,9 @@
+---
+// 検証用: .astro の <script> でブラウザの環境が効くかを確かめる。マージしない
+---
+
+<script>
+  const title = document.title;
+  const timeline = new ScrollTimeline();
+  console.log(title, timeline);
+</script>
