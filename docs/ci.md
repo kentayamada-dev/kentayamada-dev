@@ -86,6 +86,12 @@ docker compose up --detach --wait playwright
 - `playwright-snapshots`: 基準画像と違ったスクリーンショットを、CI で撮り直した画像に書き換えた基準画像。基準画像がないときは、CI で撮った画像が入る
 
 見た目の変化が意図どおりなら、`playwright-snapshots` をダウンロードし、基準画像としてコミットする。
+`gh run download` は同じ名前のファイルを上書きせずに失敗するので、先に今の基準画像を消す。
+成果物には、変わっていない基準画像も入っている。
+
+```bash
+rm -r portfolio/e2e/*-snapshots
+```
 
 ```bash
 gh run download <実行の ID> --name playwright-snapshots --dir portfolio/e2e
