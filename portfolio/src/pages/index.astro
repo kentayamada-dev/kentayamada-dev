@@ -20,7 +20,10 @@ const styles = {
   </head>
   <body class={styles.body}>
     <main class={styles.main}>
-      <h1 class={styles.title}>Astro</h1>
+      <h1 class={styles.title}>Astro 検証</h1>
+      <img src="/favicon.svg" />
+      <img src="data:," alt="" onerror="throw new Error('検証用の例外')" />
+      <img src="data:," alt="" onerror="console.error('検証用のコンソールのエラー')" />
     </main>
   </body>
 </html>
