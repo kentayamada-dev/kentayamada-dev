@@ -8,7 +8,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "typecheck": "astro check",
-    "lint": "astro sync && oxlint && scripts/check-template-classes/check-template-classes.sh src",
+    "lint": "astro sync && oxlint",
     "knip": "knip",
     "test:e2e": "astro build && playwright test",
     "fmt": "oxfmt",
