@@ -36,7 +36,8 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
         expect(violations).toStrictEqual([]);
       });
 
-      test("見た目が基準画像と変わらない", async ({ page }): Promise<void> => {
+      // CI で見た目の比較だけを分けて動かすため、タグを付ける。変えるときは、portfolio-check.yml の --grep の値も合わせる
+      test("見た目が main と変わらない", { tag: "@visual" }, async ({ page }): Promise<void> => {
         await page.goto(path);
         await expect(page).toHaveScreenshot([colorScheme, ...screenshot], { fullPage: true });
       });

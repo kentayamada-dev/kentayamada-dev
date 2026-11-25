@@ -16,6 +16,9 @@ const baseURL = "http://127.0.0.1:4321",
     // コンテナのなかで開いてもホストのブラウザからは届かず、閉じるまでテストが終わらないため、開かせない
     // https://github.com/microsoft/playwright/blob/v1.65.1/packages/playwright/src/reporters/html.ts#L173-L177
     reporter: [["list"], ["html", { open: "never" }]],
+    // 見た目の比較に使う画像は、リポジトリに置かず、CI のキャッシュに残す。
+    // 場所を変えるときは、.gitignore と portfolio-check.yml の screenshots_dir も合わせる
+    snapshotPathTemplate: "{testDir}/__screenshots__/{arg}-{projectName}{ext}",
     testDir: "e2e",
     use: {
       baseURL,
