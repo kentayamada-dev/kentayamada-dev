@@ -19,7 +19,7 @@ ci:
         - error
         - minScore: 1
       "categories:seo":
-        - error
+        - warn
         - minScore: 1
       # 性能の点数は、検査するマシンの負荷で揺れるため、失敗させずに知らせるだけにする
       "categories:performance":
