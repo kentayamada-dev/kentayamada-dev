@@ -5,10 +5,12 @@
   // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/config/oxlintrc.rs#L447-L448
   "overrides": [
     {
-      // frontmatter で使う Astro グローバルを、nursery の eslint/no-undef に未定義と判定させないため
+      // frontmatter で使う Astro グローバルと、<script> で使う document などのブラウザのグローバル変数を、nursery の eslint/no-undef に未定義と判定させないため。
+      // 既定の環境は ECMAScript のグローバル変数だけ
       // https://docs.astro.build/en/reference/api-reference/ https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/apps/oxlint/src-js/generated/envs.ts#L43-L46
+      // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/config/env.rs#L65-L68
       "files": ["**/*.astro"],
-      "env": { "astro": true },
+      "env": { "astro": true, "browser": true },
       // oxlint は frontmatter を切り出して単独で検査し、import のない frontmatter をスクリプトと見分けられないと報告する。
       // .astro は Astro がコンパイルするファイルで、単独のスクリプトとして読まれることはない
       // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/loader/partial_loader/astro.rs#L34-L60
@@ -19,6 +21,11 @@
       // https://docs.astro.build/en/guides/configuring-astro/#the-astro-config-file
       "files": ["astro.config.ts"],
       "rules": { "import/no-default-export": "off" }
+    },
+    {
+      // ブラウザで動く src/ の TypeScript で使う document などを、eslint/no-undef に未定義と判定させないため
+      "files": ["src/**/*.ts"],
+      "env": { "browser": true }
     }
   ]
 }
