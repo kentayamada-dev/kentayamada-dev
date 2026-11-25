@@ -7,6 +7,10 @@ const baseURL = "http://127.0.0.1:4321",
       { name: "chromium", use: devices["Desktop Chrome"] },
       { name: "firefox", use: devices["Desktop Firefox"] },
       { name: "webkit", use: devices["Desktop Safari"] },
+      // Playwright の端末の定義に Firefox のスマートフォンはないため、Android の Chrome と iOS の Safari だけをまねる
+      // https://github.com/microsoft/playwright/blob/v1.65.1/packages/isomorphic/deviceDescriptorsSource.json
+      { name: "mobile-chrome", use: devices["Pixel 10"] },
+      { name: "mobile-safari", use: devices["iPhone 17"] },
     ],
     // CI で失敗したときに差分の画像を見られるよう、HTML のレポートも書き出す。
     // コンテナのなかで開いてもホストのブラウザからは届かず、閉じるまでテストが終わらないため、開かせない
