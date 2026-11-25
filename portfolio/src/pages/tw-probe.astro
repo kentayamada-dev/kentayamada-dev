@@ -1,0 +1,7 @@
+---
+// 検証用: frontmatter の styles 変数に書いたクラスと、テンプレートに直接書いたクラス。マージしない
+const styles = { title: "px-2 px-4 flex flex" };
+---
+
+<h1 class={styles.title}>frontmatter</h1>
+<p class="px-2 px-4 flex flex">template</p>
