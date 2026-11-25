@@ -64,11 +64,12 @@ PR では、OSV-Scanner で依存関係の脆弱性とライセンスを検査�
 ### portfolio のブラウザでの検査
 
 portfolio のページは、Playwright を使ってデスクトップとスマートフォンのブラウザで開き、次のことを確認する。
+ビルドしたすべてのページを、ライトとダークの配色でそれぞれ開くので、ページを足してもテストを書き足さなくてよい。
 テストは [`portfolio/e2e/`](../portfolio/e2e/) にある。
 
 - 開いたときに、エラーが出ない
 - アクセシビリティの違反がない
-- スクリーンショットが基準画像と変わらない
+- 見た目が main と変わらない
 
 ブラウザは、テストを動かす portfolio のコンテナではなく、[`compose.yaml`](../compose.yaml) の `playwright` のサービスで動かす。
 このサービスは Playwright の公式のイメージを使い、ブラウザと OS の依存はイメージに入っている。
@@ -79,23 +80,16 @@ portfolio のページは、Playwright を使ってデスクトップとスマ�
 docker compose up --detach --wait playwright
 ```
 
-基準画像は CI で作る。
-テストが失敗すると、CI は次の 2 つを成果物（artifact）に上げる。
+エラーかアクセシビリティの違反があると、PR の検査が失敗し、原因を見られるレポートを成果物（artifact）の `playwright-report` に上げる。
 
-- `playwright-report`: 基準画像との差分を見られる HTML のレポート
-- `playwright-snapshots`: 基準画像と違ったスクリーンショットを、CI で撮り直した画像に書き換えた基準画像。基準画像がないときは、CI で撮った画像が入る
+見た目は、main と比べて、違えば知らせるだけにする。
+比べる画像はリポジトリに置かない。
 
-見た目の変化が意図どおりなら、`playwright-snapshots` をダウンロードし、基準画像としてコミットする。
-`gh run download` は同じ名前のファイルを上書きせずに失敗するので、先に今の基準画像を消す。
-成果物には、変わっていない基準画像も入っている。
+- main に push すると、CI がすべてのページのスクリーンショットを撮り、Actions のキャッシュに残す
+- PR では、そのスクリーンショットと比べる。違うと、警告の注釈を出し、差分を見られるレポートを成果物の `playwright-visual-report` に上げる。PR の検査は失敗させない
+- main のスクリーンショットがないときも、同じく知らせる。Actions のキャッシュは、7 日間使われないと消える
 
-```bash
-rm -r portfolio/e2e/*-snapshots
-```
-
-```bash
-gh run download <実行の ID> --name playwright-snapshots --dir portfolio/e2e
-```
+見た目の変化は、レビューで注釈とレポートを見て確認する。
 
 ## 定期検査
 

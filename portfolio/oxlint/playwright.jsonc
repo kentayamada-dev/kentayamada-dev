@@ -4,7 +4,7 @@
   // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/config/oxlintrc.rs#L447-L448
   "overrides": [
     {
-      // 規則は、プラグインの recommended の設定にあるものを並べる
+      // プラグインの規則は、recommended の設定にあるものを並べる
       // https://github.com/mskelton/eslint-plugin-playwright/blob/v2.12.2/src/plugin.ts#L143-L184
       "files": ["e2e/**"],
       "jsPlugins": ["eslint-plugin-playwright"],
@@ -47,7 +47,11 @@
         "playwright/valid-test-tags": "error",
         "playwright/valid-title": "error",
         // テストやイベントのコールバックが受け取る Page などの型は、Playwright が決めていて readonly ではないため、型を書かない引数は対象にしない
-        "typescript/prefer-readonly-parameter-types": ["error", { "ignoreInferredTypes": true }]
+        "typescript/prefer-readonly-parameter-types": ["error", { "ignoreInferredTypes": true }],
+        // テストはブラウザではなく Node.js で動き、検査するページを dist から node:fs で集めるため
+        "import/no-nodejs-modules": "off",
+        // テストはファイルを読み込むときに定義するので、検査するページの一覧も同期で集めるため
+        "node/no-sync": "off"
       }
     }
   ]

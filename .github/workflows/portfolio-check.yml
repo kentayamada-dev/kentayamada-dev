@@ -20,6 +20,10 @@ jobs:
     name: portfolio-check
     runs-on: ubuntu-26.04-arm
     timeout-minutes: 15
+    env:
+      # 変えるときは、portfolio/playwright.config.ts の snapshotPathTemplate も合わせる
+      screenshots_dir: portfolio/e2e/__screenshots__
+      screenshots_key: portfolio-screenshots
     steps:
       - uses: actions/checkout@v7.0.1
         with:
@@ -29,9 +33,8 @@ jobs:
       # Dockerfile の ARG の値は compose.yaml から渡すため、docker build ではなく Compose でビルドする
       - run: docker compose build portfolio
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
-      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作り、基準画像を書き換えられるようにする。
-      # portfolio を再帰で変えないのは、Docker が作る node_modules のマウント先にランナーのユーザーが入れず、失敗するため
-      - run: chmod a+w portfolio && chmod -R a+w portfolio/e2e
+      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist と、見た目の比較に使う画像を作れるようにする
+      - run: chmod a+w portfolio portfolio/e2e
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
@@ -40,22 +43,40 @@ jobs:
       - run: docker compose run --rm portfolio pnpm knip
       # ブラウザのサーバーは portfolio の node_modules にある Playwright で動くため、pnpm install の後に起動する
       - run: docker compose up --detach --wait playwright
-      # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
+      # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある。
+      # 見た目の比較は、失敗させずに知らせるだけにするため、後のステップで分けて動かす。タグを変えるときは、portfolio/e2e のテストも合わせる
       - id: e2e
-        run: docker compose run --rm portfolio pnpm test:e2e
-      # 失敗したときは、差分の画像を見られるレポートを上げる
+        run: docker compose run --rm portfolio pnpm test:e2e --grep-invert @visual
+      # 失敗したときは、原因を見られるレポートを上げる
       - if: failure() && steps.e2e.outcome == 'failure'
         uses: actions/upload-artifact@v7.0.2
         with:
           name: playwright-report
           path: portfolio/playwright-report/
-      # 基準画像は CI で撮ったものを使う。基準画像と違ったスクリーンショットで基準画像を書き換え、ダウンロードしてコミットできるように上げる。
-      # 基準画像がないときは、先のテストが撮ったものを書き出している
-      # https://github.com/microsoft/playwright/blob/v1.65.1/packages/playwright/src/matchers/toMatchSnapshot.ts#L189-L211
-      - if: failure() && steps.e2e.outcome == 'failure'
-        run: docker compose run --rm portfolio pnpm test:e2e --update-snapshots=changed
-      - if: failure() && steps.e2e.outcome == 'failure'
+      # 見た目は、main への push で撮ってキャッシュに残した画像と比べる。PR の実行は main のキャッシュを読めるが、書き換えられない
+      # https://github.com/github/docs/blob/6d8473326810b94469e2282d5427b69404337152/content/actions/reference/workflows-and-actions/dependency-caching.md?plain=1#L243-L247
+      - if: github.event_name == 'pull_request'
+        uses: actions/cache/restore@v6.1.0
+        with:
+          path: ${{ env.screenshots_dir }}
+          key: ${{ env.screenshots_key }}-${{ github.event.pull_request.base.sha }}
+          restore-keys: ${{ env.screenshots_key }}-
+      # 違っても PR の検査は失敗させず、注釈と差分のレポートで知らせる。main の画像がないときも、同じく知らせる
+      - id: visual
+        if: github.event_name == 'pull_request'
+        continue-on-error: true
+        run: docker compose run --rm portfolio pnpm test:e2e --grep @visual --update-snapshots=none
+      - if: steps.visual.outcome == 'failure'
+        run: echo "::warning title=見た目が main と違います::成果物の playwright-visual-report で差分を確かめてください。main の画像がないときも、この注釈が出ます"
+      - if: steps.visual.outcome == 'failure'
         uses: actions/upload-artifact@v7.0.2
         with:
-          name: playwright-snapshots
-          path: portfolio/e2e/**/*.png
+          name: playwright-visual-report
+          path: portfolio/playwright-report/
+      - if: github.event_name == 'push'
+        run: docker compose run --rm portfolio pnpm test:e2e --grep @visual --update-snapshots=all
+      - if: github.event_name == 'push'
+        uses: actions/cache/save@v6.1.0
+        with:
+          path: ${{ env.screenshots_dir }}
+          key: ${{ env.screenshots_key }}-${{ github.sha }}
