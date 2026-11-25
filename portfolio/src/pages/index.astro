@@ -17,11 +17,12 @@ const styles = {
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content="A portfolio site built with Astro." />
     <meta name="generator" content={Astro.generator} />
+    <link rel="stylesheet" href="/missing.css" />
     <title>Astro</title>
   </head>
   <body class={styles.body}>
     <main class={styles.main}>
-      <h1 class={styles.title}>Astro</h1>
+      <h1 class={styles.title}>Astro <a href="/missing/" style="color: inherit">missing</a></h1>
     </main>
   </body>
 </html>
