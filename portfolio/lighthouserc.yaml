@@ -21,6 +21,11 @@ ci:
       "categories:seo":
         - error
         - minScore: 1
+      # AI エージェントがページを読み取り、操作できるかを見る。Lighthouse 13.6 で入ったカテゴリなので、更新で項目が変わって失敗したら、基準を見直す
+      # https://github.com/GoogleChrome/lighthouse/blob/v13.6.0/core/config/default-config.js#L646-L659
+      "categories:agentic-browsing":
+        - error
+        - minScore: 1
       # 性能の点数は、検査するマシンの負荷で揺れるため、失敗させずに知らせるだけにする
       "categories:performance":
         - warn
