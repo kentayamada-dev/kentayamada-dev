@@ -52,11 +52,14 @@ jobs:
           cat > portfolio/probe.mjs <<'EOF'
           import { readdirSync, readFileSync } from "node:fs";
           import { createRequire } from "node:module";
+          import { resolve } from "node:path";
           import browserslist from "browserslist";
           import config from "./astro.config.ts";
 
-          // Vite と同じ lightningcss を使う
-          const require = createRequire(import.meta.resolve("vite"));
+          // portfolio は vite を直接には依存しないので、pnpm の置き場所の vite から、Vite と同じ lightningcss を読み込む
+          const viteDir = readdirSync("node_modules/.pnpm").find((name) => name.startsWith("vite@8.3.8"));
+          console.log("vite:", viteDir);
+          const require = createRequire(resolve(`node_modules/.pnpm/${viteDir}/node_modules/vite/package.json`));
           const { transform, browserslistToTargets } = require("lightningcss");
           const lightningcssPath = require.resolve("lightningcss");
           console.log("lightningcss:", lightningcssPath);
