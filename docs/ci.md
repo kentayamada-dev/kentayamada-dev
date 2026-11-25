@@ -17,7 +17,7 @@ CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係�
 | [リンク切れ（リポジトリのなか）](../.github/workflows/lychee.yml) | lychee | ✓ | - |
 | [リンク切れ（外部）](../.github/workflows/lychee.yml) | lychee | - | 毎週 |
 | [コードの重複](../.github/workflows/jscpd.yml) | jscpd | ✓ | - |
-| [portfolio の型・静的解析・ビルド・ブラウザでの検査](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip・Playwright | ✓ | - |
+| [portfolio の型・静的解析・ビルド・ページの検査](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip・Playwright・Nu Html Checker・Lighthouse CI | ✓ | - |
 | [infra の Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
 | [シェルスクリプトの静的解析・テスト](../.github/workflows/test.yml) | ShellCheck・shfmt・Bats | ✓ | - |
 | [Dockerfile の書き方](../.github/workflows/hadolint.yml) | hadolint | ✓ | - |
@@ -61,15 +61,19 @@ PR では、OSV-Scanner で依存関係の脆弱性とライセンスを検査�
 - OSV-Scanner がライセンスを判定できないパッケージは、[`.github/osv-scanner-licenses.toml`](../.github/osv-scanner-licenses.toml) でライセンスを指定する
 - 脆弱性をすぐに直せないときは、ロックファイルと同じディレクトリの `osv-scanner.toml` で、理由と期限を付けて除外する
 
-### portfolio のブラウザでの検査
+### portfolio のページの検査
 
-portfolio のページは、Playwright を使ってデスクトップとスマートフォンのブラウザで開き、次のことを確認する。
-ビルドしたすべてのページを、ライトとダークの配色でそれぞれ開くので、ページを足してもテストを書き足さなくてよい。
+portfolio は、ビルドしたすべてのページを検査する。
+ページを足しても、検査を書き足さなくてよい。
+
+Playwright のテストは、ページをデスクトップとスマートフォンのブラウザで開き、次のことを確認する。
+どのページも、ライトとダークの配色でそれぞれ開く。
 テストは [`portfolio/e2e/`](../portfolio/e2e/) にある。
 
-- 開いたときに、エラーが出ない
+- 開いたときに、エラーが出ず、読み込めないファイルもない
 - アクセシビリティの違反がない
 - 見た目が main と変わらない
+- サイト内のリンクの先を開ける。リンクは配色によらないため、ページごとに 1 回だけ確認する
 
 ブラウザは、テストを動かす portfolio のコンテナではなく、[`compose.yaml`](../compose.yaml) の `playwright` のサービスで動かす。
 このサービスは Playwright の公式のイメージを使い、ブラウザと OS の依存はイメージに入っている。
@@ -80,7 +84,23 @@ portfolio のページは、Playwright を使ってデスクトップとスマ�
 docker compose up --detach --wait playwright
 ```
 
-エラーかアクセシビリティの違反があると、PR の検査が失敗し、原因を見られるレポートを成果物（artifact）の `playwright-report` に上げる。
+エラー・アクセシビリティの違反・リンク切れがあると、PR の検査が失敗し、原因を見られるレポートを成果物（artifact）の `playwright-report` に上げる。
+
+HTML と Lighthouse の検査も、`compose.yaml` のサービスで動かす。
+どちらもビルドした `dist` を読むため、手元では先にビルドしておく。
+
+```bash
+docker compose run --rm portfolio pnpm build
+docker compose run --rm html-checker
+docker compose run --rm lighthouse
+```
+
+- `html-checker`: Nu Html Checker で、HTML の誤りと警告がないことを確認する
+- `lighthouse`: Lighthouse CI で、アクセシビリティ・ベストプラクティス・SEO の点数が満点であることを確認する
+
+性能の点数は、基準を下回っても、警告の注釈を出すだけにする。PR の検査は失敗させない。
+基準は [`portfolio/lighthouserc.yaml`](../portfolio/lighthouserc.yaml) にある。
+Lighthouse のレポートは、成否によらず、成果物の `lighthouse-report` に上げる。
 
 見た目は、main と比べて、違えば知らせるだけにする。
 比べる画像はリポジトリに置かない。

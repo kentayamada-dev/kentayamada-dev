@@ -13,6 +13,25 @@ x-devcontainer: &devcontainer
 # https://code.visualstudio.com/remote/advancedcontainers/connect-multiple-containers
 x-workspace-volume: &workspace-volume .:/workspace
 
+# 変えるときは、portfolio の NODE_MODULES_DIR と、portfolio の devcontainer.json の workspaceFolder も合わせる
+x-portfolio-dir: &portfolio-dir /workspace/portfolio
+
+# Playwright のイメージのブラウザで portfolio を検査するサービスは、これを <<: で取り込む。ブラウザと OS の依存は、公式のイメージに入っている
+# https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md
+x-playwright: &playwright
+  # タグの書き方を変えるときは、.github/renovate.json5 の customManagers の matchStrings も合わせる
+  image: mcr.microsoft.com/playwright:v1.65.1-noble
+  working_dir: *portfolio-dir
+  # イメージの既定の root でブラウザを動かさないよう、イメージにある一般ユーザーで動かす
+  # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L38
+  user: pwuser
+  # PID 1 で動かすと、終わったブラウザのプロセスが回収されずに残ることがあるため
+  # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L101
+  init: true
+  # Chromium は、Docker の既定の共有メモリでは足りずに落ちることがあるため
+  # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L103
+  ipc: host
+
 services:
   portfolio:
     <<: *devcontainer
@@ -24,7 +43,7 @@ services:
     # 既定のホスト名はコンテナ ID で、端末のプロンプトからどちらのコンテナかわからないため
     hostname: portfolio
     # docker compose run を、--workdir を付けなくてもプロジェクトのディレクトリで動かすため
-    working_dir: /workspace/portfolio
+    working_dir: *portfolio-dir
     volumes:
       - *workspace-volume
       # macOS のバインドマウントは、インストールのように書き込みの多い処理が遅いため
@@ -40,11 +59,10 @@ services:
     environment:
       ASTRO_TELEMETRY_DISABLED: 1
 
-  # portfolio のテストからつなぐ、Playwright のブラウザのサーバー。ブラウザと OS の依存は、公式のイメージに入っている
+  # portfolio のテストからつなぐ、Playwright のブラウザのサーバー
   # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md#remote-connection
   playwright:
-    # タグの書き方を変えるときは、.github/renovate.json5 の customManagers の matchStrings も合わせる
-    image: mcr.microsoft.com/playwright:v1.65.1-noble
+    <<: *playwright
     # テストとサーバーの Playwright の版をそろえるため、npx で取得せず、portfolio の node_modules にある Playwright で動かす。
     # ほかのコンテナからつなぐため、すべてのアドレスで待ち受ける。ports で公開しないので、届くのは Compose のネットワークのなかだけ
     # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L189-L191
@@ -52,19 +70,9 @@ services:
       - sh
       - -c
       - exec node_modules/.bin/playwright run-server --port "$$SERVER_PORT" --host 0.0.0.0
-    working_dir: /workspace/portfolio
     environment:
       # 変えるときは、portfolio/playwright.config.ts の connectOptions も合わせる
       SERVER_PORT: 3000
-    # イメージの既定の root でブラウザを動かさないよう、イメージにある一般ユーザーで動かす
-    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L38
-    user: pwuser
-    # PID 1 で動かすと、終わったブラウザのプロセスが回収されずに残ることがあるため
-    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L101
-    init: true
-    # Chromium は、Docker の既定の共有メモリでは足りずに落ちることがあるため
-    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L103
-    ipc: host
     volumes:
       - type: volume
         source: portfolio-node-modules
@@ -79,6 +87,43 @@ services:
         - curl --fail --silent --output /dev/null "http://127.0.0.1:$$SERVER_PORT/"
       start_period: 30s
       start_interval: 1s
+
+  # portfolio のビルドしたページを、Lighthouse CI で検査する
+  lighthouse:
+    <<: *playwright
+    # イメージの Chromium の場所は Playwright の版で変わるため、Playwright から取る。
+    # Lighthouse CI は CHROME_PATH を、検査の前に Chrome があるかの確認でも読む
+    # https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/utils.js#L56-L64
+    command:
+      - sh
+      - -c
+      - CHROME_PATH="$$(node --print 'require("@playwright/test").chromium.executablePath()')" && export CHROME_PATH && exec node_modules/.bin/lhci autorun
+    volumes:
+      - *workspace-volume
+      - type: volume
+        source: portfolio-node-modules
+        target: *node-modules-dir
+        read_only: true
+
+  # portfolio のビルドしたページを、Nu Html Checker で検査する。vnu.jar は portfolio の node_modules から読み、Java はイメージのものを使う
+  html-checker:
+    image: eclipse-temurin:25.0.4.1_1-jre-noble@sha256:ce8543ddd3070ccbeaac2106a74c9387ddeb8d47a1c43348345715c1ef245c7f
+    # vnu は警告だけなら成功で終わるため、警告でも失敗させる
+    # https://github.com/validator/validator/blob/26.11.20/docs/vnu.1.md#--werror
+    command:
+      - java
+      - -jar
+      - node_modules/vnu-jar/build/dist/vnu.jar
+      - --Werror
+      - --skip-non-html
+      - dist
+    working_dir: *portfolio-dir
+    volumes:
+      - *workspace-volume
+      - type: volume
+        source: portfolio-node-modules
+        target: *node-modules-dir
+        read_only: true
 
   infra:
     <<: *devcontainer

@@ -1,0 +1,5 @@
+{
+  "$schema": "https://unpkg.com/knip@6/schema-jsonc.json",
+  // compose.yaml のサービスが node_modules から直接動かし、Knip が読むスクリプトやコードからは使わないため
+  "ignoreDependencies": ["@lhci/cli", "vnu-jar"]
+}

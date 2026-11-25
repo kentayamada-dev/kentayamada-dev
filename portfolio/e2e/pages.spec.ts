@@ -1,4 +1,5 @@
 import { globSync } from "node:fs";
+import { URL } from "node:url";
 
 import { AxeBuilder } from "@axe-core/playwright";
 import { expect, test } from "@playwright/test";
@@ -11,6 +12,33 @@ const colorSchemes: readonly ("dark" | "light")[] = ["light", "dark"];
 for (const file of globSync("**/*.html", { cwd: "dist" })) {
   const path = `/${file}`.replace(/\/index\.html$/v, "/"),
     screenshot = file.replace(/\.html$/v, ".png").split("/");
+
+  // リンク先は配色で変わらないため、配色ごとには分けない
+  test(`${path} のサイト内のリンクが切れていない`, async ({ page, request }): Promise<void> => {
+    await page.goto(path);
+    const links = page.locator("a[href]"),
+      hrefs = await links.evaluateAll((anchors): string[] =>
+        anchors.map((anchor): string => anchor.getAttribute("href") ?? ""),
+      ),
+      { origin } = new URL(page.url()),
+      // ページのなかの位置だけが違うリンクは、同じページとして 1 回だけ確かめる
+      urls = new Set(
+        hrefs
+          .map((href): URL => new URL(href, page.url()))
+          .filter((url): boolean => url.origin === origin)
+          .map((url): string => `${url.origin}${url.pathname}${url.search}`),
+      ),
+      broken: string[] = [];
+    await Promise.all(
+      [...urls].map(async (url): Promise<void> => {
+        const response = await request.get(url);
+        if (!response.ok()) {
+          broken.push(`${String(response.status())} ${url}`);
+        }
+      }),
+    );
+    expect(broken).toStrictEqual([]);
+  });
 
   for (const colorScheme of colorSchemes) {
     test.describe(`${path}（${colorScheme}）`, (): void => {
@@ -25,6 +53,14 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
           if (message.type() === "error") {
             errors.push(message.text());
           }
+        });
+        page.on("response", (response): void => {
+          if (!response.ok()) {
+            errors.push(`${String(response.status())} ${response.url()}`);
+          }
+        });
+        page.on("requestfailed", (request): void => {
+          errors.push(`読み込めない: ${request.url()}`);
         });
         await page.goto(path);
         expect(errors).toStrictEqual([]);

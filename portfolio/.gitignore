@@ -4,3 +4,5 @@
 /test-results/
 /playwright-report/
 /e2e/__screenshots__/
+/.lighthouseci/
+/lighthouse-report/

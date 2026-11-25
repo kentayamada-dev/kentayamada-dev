@@ -21,6 +21,7 @@
     "@astrojs/check": "0.9.12",
     "@astrojs/compiler-rs": "0.5.3",
     "@axe-core/playwright": "4.14.0",
+    "@lhci/cli": "0.16.1",
     "@playwright/test": "1.65.1",
     "@tailwindcss/vite": "4.3.5",
     "@types/node": "26.6.6",
@@ -34,7 +35,8 @@
     "oxlint": "1.94.0",
     "oxlint-tsgolint": "7.0.2007",
     "tailwindcss": "4.3.5",
-    "typescript": "6.0.3"
+    "typescript": "6.0.3",
+    "vnu-jar": "26.11.20"
   },
   "devEngines": {
     "packageManager": {
