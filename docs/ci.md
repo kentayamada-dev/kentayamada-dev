@@ -17,7 +17,7 @@ CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係�
 | [リンク切れ（リポジトリのなか）](../.github/workflows/lychee.yml) | lychee | ✓ | - |
 | [リンク切れ（外部）](../.github/workflows/lychee.yml) | lychee | - | 毎週 |
 | [コードの重複](../.github/workflows/jscpd.yml) | jscpd | ✓ | - |
-| [portfolio の型・静的解析・ビルド](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip | ✓ | - |
+| [portfolio の型・静的解析・ビルド・ブラウザでの検査](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip・Playwright | ✓ | - |
 | [infra の Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
 | [シェルスクリプトの静的解析・テスト](../.github/workflows/test.yml) | ShellCheck・shfmt・Bats | ✓ | - |
 | [Dockerfile の書き方](../.github/workflows/hadolint.yml) | hadolint | ✓ | - |
@@ -60,6 +60,36 @@ PR では、OSV-Scanner で依存関係の脆弱性とライセンスを検査�
 - これまでにない種類のライセンスが依存関係に入ると失敗する。許可するライセンスの一覧は [ワークフロー](../.github/workflows/osv-scanner.yml) にある
 - OSV-Scanner がライセンスを判定できないパッケージは、[`.github/osv-scanner-licenses.toml`](../.github/osv-scanner-licenses.toml) でライセンスを指定する
 - 脆弱性をすぐに直せないときは、ロックファイルと同じディレクトリの `osv-scanner.toml` で、理由と期限を付けて除外する
+
+### portfolio のブラウザでの検査
+
+portfolio のページは、Playwright を使って Chromium・Firefox・WebKit で開き、次のことを確かめる。
+テストは [`portfolio/e2e/`](../portfolio/e2e/) にある。
+
+- 開いたときに、エラーが出ない
+- アクセシビリティの違反がない
+- スクリーンショットが基準画像と変わらない
+
+ブラウザは、テストを動かす portfolio のコンテナではなく、[`compose.yaml`](../compose.yaml) の `playwright` のサービスで動かす。
+このサービスは Playwright の公式のイメージを使い、ブラウザと OS の依存はイメージに入っている。
+イメージの版は、Renovate が `@playwright/test` と同じ PR で上げる。
+手元で検査するときは、CI と同じく、先にこのサービスを起動しておく。
+
+```bash
+docker compose up --detach --wait playwright
+```
+
+基準画像は CI で作る。
+テストが失敗すると、CI は次の 2 つを成果物（artifact）に上げる。
+
+- `playwright-report`: 基準画像との差分を見られる HTML のレポート
+- `playwright-snapshots`: 基準画像と違ったスクリーンショットを、CI で撮り直した画像に書き換えた基準画像。基準画像がないときは、CI で撮った画像が入る
+
+見た目の変化が意図どおりなら、`playwright-snapshots` をダウンロードし、基準画像としてコミットする。
+
+```bash
+gh run download <実行の ID> --name playwright-snapshots --dir portfolio/e2e
+```
 
 ## 定期検査
 

@@ -40,6 +40,46 @@ services:
     environment:
       ASTRO_TELEMETRY_DISABLED: 1
 
+  # portfolio のテストからつなぐ、Playwright のブラウザのサーバー。ブラウザと OS の依存は、公式のイメージに入っている
+  # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md#remote-connection
+  playwright:
+    # タグの書き方を変えるときは、.github/renovate.json5 の customManagers の matchStrings も合わせる
+    image: mcr.microsoft.com/playwright:v1.65.1-noble
+    # テストとサーバーの Playwright の版をそろえるため、npx で取得せず、portfolio の node_modules にある Playwright で動かす。
+    # ほかのコンテナからつなぐため、すべてのアドレスで待ち受ける。ports で公開しないので、届くのは Compose のネットワークのなかだけ
+    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L189-L191
+    command:
+      - sh
+      - -c
+      - exec node_modules/.bin/playwright run-server --port "$$SERVER_PORT" --host 0.0.0.0
+    working_dir: /workspace/portfolio
+    environment:
+      # 変えるときは、portfolio/playwright.config.ts の connectOptions も合わせる
+      SERVER_PORT: 3000
+    # イメージの既定の root でブラウザを動かさないよう、イメージにある一般ユーザーで動かす
+    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L38
+    user: pwuser
+    # PID 1 で動かすと、終わったブラウザのプロセスが回収されずに残ることがあるため
+    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L101
+    init: true
+    # Chromium は、Docker の既定の共有メモリでは足りずに落ちることがあるため
+    # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L103
+    ipc: host
+    volumes:
+      - type: volume
+        source: portfolio-node-modules
+        target: *node-modules-dir
+        read_only: true
+    # docker compose up --wait は、ヘルスチェックがないとコンテナが動き出した時点で戻り、サーバーが待ち受ける前にテストがつなぎに行くため。
+    # 既定では最初の検査まで 30 秒待つため、起動中は 1 秒ごとに検査させる
+    # https://docs.docker.com/reference/compose-file/services/#healthcheck
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - curl --fail --silent --output /dev/null "http://127.0.0.1:$$SERVER_PORT/"
+      start_period: 30s
+      start_interval: 1s
+
   infra:
     <<: *devcontainer
     build:

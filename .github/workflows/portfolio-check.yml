@@ -1,4 +1,4 @@
-name: portfolio の型・静的解析・ビルド
+name: portfolio の型・静的解析・ビルド・ブラウザでの検査
 
 on:
   pull_request:
@@ -29,13 +29,32 @@ jobs:
       # Dockerfile の ARG の値は compose.yaml から渡すため、docker build ではなく Compose でビルドする
       - run: docker compose build portfolio
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
-      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作れるようにする
-      - run: chmod a+w portfolio
+      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist を作り、基準画像を書き換えられるようにする
+      - run: chmod -R a+w portfolio
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
       # https://docs.astro.build/en/guides/typescript/#type-checking
       - run: docker compose run --rm portfolio pnpm typecheck
       - run: docker compose run --rm portfolio pnpm knip
-      # 整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
-      - run: docker compose run --rm portfolio pnpm build
+      # ブラウザのサーバーは portfolio の node_modules にある Playwright で動くため、pnpm install の後に起動する
+      - run: docker compose up --detach --wait playwright
+      # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
+      - id: e2e
+        run: docker compose run --rm portfolio pnpm test:e2e
+      # 失敗したときは、差分の画像を見られるレポートを上げる
+      - if: failure() && steps.e2e.outcome == 'failure'
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: playwright-report
+          path: portfolio/playwright-report/
+      # 基準画像は CI で撮ったものを使う。基準画像と違ったスクリーンショットで基準画像を書き換え、ダウンロードしてコミットできるように上げる。
+      # 基準画像がないときは、先のテストが撮ったものを書き出している
+      # https://github.com/microsoft/playwright/blob/v1.65.1/packages/playwright/src/matchers/toMatchSnapshot.ts#L189-L211
+      - if: failure() && steps.e2e.outcome == 'failure'
+        run: docker compose run --rm portfolio pnpm test:e2e --update-snapshots=changed
+      - if: failure() && steps.e2e.outcome == 'failure'
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: playwright-snapshots
+          path: portfolio/e2e/**/*.png
