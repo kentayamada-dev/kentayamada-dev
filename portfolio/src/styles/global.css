@@ -1,1 +1,33 @@
 @import "tailwindcss";
+
+.probe-user-select {
+  user-select: none;
+}
+
+.probe-text-size-adjust {
+  text-size-adjust: none;
+}
+
+.probe-backdrop-filter {
+  backdrop-filter: blur(4px);
+}
+
+.probe-mask-image {
+  mask-image: linear-gradient(black, transparent);
+}
+
+.probe-background-clip {
+  background-clip: text;
+}
+
+.probe-hyphens {
+  hyphens: auto;
+}
+
+.probe-box-decoration-break {
+  box-decoration-break: clone;
+}
+
+.probe-oklch {
+  color: oklch(62.8% 0.258 29.23);
+}
