@@ -10,7 +10,8 @@
     "typecheck": "astro check",
     "lint": "astro sync && oxlint",
     "knip": "knip",
-    "test:e2e": "astro build && playwright test",
+    "test:e2e": "astro build && playwright test --grep-invert @visual",
+    "test:visual": "astro build && playwright test --grep @visual --project chromium --update-snapshots=all && playwright test --grep @visual --update-snapshots=none",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check"
   },

@@ -2,9 +2,15 @@ import { globSync } from "node:fs";
 import { URL } from "node:url";
 
 import { AxeBuilder } from "@axe-core/playwright";
-import { expect, test } from "@playwright/test";
+import type { ViewportSize } from "@playwright/test";
+import { devices, expect, test } from "@playwright/test";
 
-const colorSchemes: readonly ("dark" | "light")[] = ["light", "dark"];
+const colorSchemes: readonly ("dark" | "light")[] = ["light", "dark"],
+  // ブラウザどうしを比べるため、どのプロジェクトでも同じ大きさの画面にして撮る。大きさは、デスクトップとスマートフォンの 2 とおり
+  viewports: readonly (readonly [string, ViewportSize])[] = [
+    ["desktop", devices["Desktop Chrome"].viewport],
+    ["mobile", devices["Pixel 10"].viewport],
+  ];
 
 // ページを足してもテストを書き忘れないよう、ビルドしたすべてのページを検査する。
 // テストを集めるのは webServer を起動する前なので、dist はテストより前にビルドしておく。test:e2e のスクリプトを変えるときは、この順を保つ
@@ -72,11 +78,19 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
         expect(violations).toStrictEqual([]);
       });
 
-      // CI で見た目の比較だけを分けて動かすため、タグを付ける。変えるときは、portfolio-check.yml の --grep の値も合わせる
-      test("見た目が main と変わらない", { tag: "@visual" }, async ({ page }): Promise<void> => {
-        await page.goto(path);
-        await expect(page).toHaveScreenshot([colorScheme, ...screenshot], { fullPage: true });
-      });
+      // 基準の画像を Chromium で先に撮ってから比べるため、見た目の比較だけを分けて動かせるよう、タグを付ける。
+      // 変えるときは、package.json の test:e2e と test:visual の --grep も合わせる
+      for (const [size, viewport] of viewports) {
+        test(`${size} の画面で、どのブラウザでも見た目が同じ`, { tag: "@visual" }, async ({
+          page,
+        }): Promise<void> => {
+          await page.setViewportSize(viewport);
+          await page.goto(path);
+          await expect(page).toHaveScreenshot([size, colorScheme, ...screenshot], {
+            fullPage: true,
+          });
+        });
+      }
     });
   }
 }
