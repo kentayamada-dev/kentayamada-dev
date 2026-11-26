@@ -76,7 +76,8 @@ test("回線を遅くしたとき: 画面のフレーム", async ({ page }, test
   });
   await client.send("Page.startScreencast", { everyNthFrame: 1, format: "png" });
 
-  await page.reload();
+  const response = await page.reload();
+  const sizes = await response?.request().sizes();
   await page.waitForLoadState("load");
   await page.waitForTimeout(1000);
   await client.send("Page.stopScreencast");
@@ -95,6 +96,8 @@ test("回線を遅くしたとき: 画面のフレーム", async ({ page }, test
   }
   // 結果をログに出し、画像をレポートに上げるため、わざと失敗させる
   expect({
+    bodySize: sizes?.responseBodySize,
+    encoding: response?.headers()["content-encoding"],
     first: frames.slice(0, 3),
     firstDark: frames.find((frame) => frame.dark),
     light: light.length,
