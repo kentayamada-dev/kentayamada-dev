@@ -18,7 +18,7 @@ export const defaultLocale: Locale = "ja",
         .map((entry): Preference => {
           const [range = "", ...parameters] = entry.split(";").map((part): string => part.trim()),
             [language = ""] = range.toLowerCase().split("-"),
-            // q を省いた言語は、優先度を最も高い 1 とみなす
+            // 優先度（q）を省いた言語は、最も高い 1 とみなす
             quality = parameters.find((parameter): boolean => parameter.startsWith("q=")) ?? "q=1";
           return { language, quality: Number(quality.slice("q=".length)) };
         })
