@@ -16,6 +16,7 @@
     "fmt:check": "oxfmt --check"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "14.4.9",
     "astro": "7.4.13"
   },
   "devDependencies": {
@@ -37,7 +38,8 @@
     "oxlint-tsgolint": "7.0.2007",
     "tailwindcss": "4.3.5",
     "typescript": "6.0.3",
-    "vnu-jar": "26.11.20"
+    "vnu-jar": "26.11.20",
+    "wrangler": "4.168.0"
   },
   "devEngines": {
     "packageManager": {

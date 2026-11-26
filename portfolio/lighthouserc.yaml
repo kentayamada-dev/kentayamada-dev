@@ -1,6 +1,7 @@
 ci:
   collect:
-    staticDistDir: dist
+    # アダプターを使うと、ビルド時に作るページは dist/client/ に出る。場所を変えるときは、e2e/pages.spec.ts のページを集める場所も合わせる
+    staticDistDir: dist/client
     # ページを足しても検査し忘れないよう、ビルドしたすべてのページを検査する。
     # 数の上限は 0 で外せるが、フォルダの深さは 0 を既定の 2 として扱うため、無限大にする
     # https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/collect/collect.js#L193-L200

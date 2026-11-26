@@ -17,7 +17,11 @@ storeDir: node_modules/.pnpm-store
 # vnu-jar のインストールスクリプトは、Java がないと Java を取得する。Java は compose.yaml の html-checker のイメージのものを使うため、動かさない
 # https://github.com/validator/validator/blob/14c5cc7f0d6f8cc140d31c73a0b3ee4e80408d2d/vnu-java-downloader.js#L268-L287 https://pnpm.io/settings/build#allowbuilds
 allowBuilds:
+  # esbuild と workerd のインストールスクリプトは、環境向けのバイナリがなければ npm のレジストリから直接取り寄せ、あれば起動のラッパーをバイナリに置き換えるだけなので、動かさない
+  # https://github.com/evanw/esbuild/blob/v0.28.2/lib/npm/node-install.ts#L252-L315 https://github.com/cloudflare/workerd/blob/v1.20261123.1/npm/lib/node-install.ts#L259-L307
+  esbuild: false
   vnu-jar: false
+  workerd: false
 # @lhci/cli が使う lighthouse の依存の chromium-bidi は、157.0.8090-0 から provenance なしで公開され、trustPolicy に拒否されるため。公開のしかたが変わった理由は未確認。
 # 版ごとに除外するので、lighthouse を上げて chromium-bidi の版が変わったら、その版の公開元を確認してから書き換える
 # https://registry.npmjs.org/chromium-bidi/157.0.8090-0 https://pnpm.io/settings/dependency-resolution#trustpolicyexclude

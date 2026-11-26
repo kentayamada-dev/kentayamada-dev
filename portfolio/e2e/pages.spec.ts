@@ -19,7 +19,9 @@ const colorSchemes: readonly ("dark" | "light")[] = ["light", "dark"],
 // ページを足してもテストを書き忘れないよう、ビルドしたすべてのページを検査する。
 // テストを集めるのは webServer を起動する前なので、dist はテストより前にビルドしておく。test:e2e のスクリプトを変えるときは、この順を保つ
 // https://github.com/microsoft/playwright/blob/v1.65.1/packages/playwright/src/runner/testRunner.ts#L444-L450
-for (const file of globSync("**/*.html", { cwd: "dist" })) {
+// アダプターを使うと、ビルド時に作るページは dist/client/ に出る。場所を変えるときは、lighthouserc.yaml の staticDistDir も合わせる
+// https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/types/public/config.ts#L1347-L1370
+for (const file of globSync("**/*.html", { cwd: "dist/client" })) {
   const path = `/${file}`.replace(/\/index\.html$/v, "/"),
     screenshot = file.replace(/\.html$/v, ".png").split("/");
 

@@ -3,6 +3,9 @@
 ## 概要
 
 このリポジトリでは、[`portfolio/`](../portfolio/) にある Astro のサイトを開発している。
+サイトには日本語（`/ja/`）と英語（`/en/`）のページがあり、`/` を開くとブラウザの言語で振り分ける。
+`/` だけをリクエストごとに描くため、Cloudflare Workers のアダプターを使う。
+Cloudflare への公開の設定は、まだない。
 n8n を動かすインフラは、[`infra/`](../infra/) で Terraform を使って管理する。
 開発は Dev Container のなかで進める。
 Node.js・pnpm・Terraform はコンテナで使うため、ホストには要らない。

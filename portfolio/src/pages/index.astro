@@ -1,75 +1,16 @@
 ---
-import "@/styles/global.css";
+import { getRelativeLocaleUrl } from "astro:i18n";
 
-const styles = {
-  body: "flex flex-col min-block-full",
-  html: "antialiased block-full",
-  link: "text-zinc-700 underline dark:text-zinc-300",
-  main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
-  title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
-  toggle:
-    "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
-};
+import { localeFor } from "@/i18n";
+
+// ブラウザの言語（Accept-Language）で言語ごとのページへ振り分けるため、リクエストごとに描く
+export const prerender = false;
+
+const found = 302,
+  location = getRelativeLocaleUrl(localeFor(Astro.request.headers.get("accept-language") ?? ""));
+
+Astro.response.status = found;
+Astro.response.headers.set("Location", location);
+// 転送先はブラウザの言語で変わるため、キャッシュに言語ごとに分けて残させる
+Astro.response.headers.set("Vary", "Accept-Language");
 ---
-
-<html lang="en" class={styles.html}>
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="description" content="A portfolio site built with Astro." />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
-    {/*
-      ボタンの script は Astro が type="module" にし、ページを読み終えるまで動かないため、それまで OS の配色で表示されないよう、保存した配色は処理させずにここで先に当てる。
-      localStorage のキーとクラス名を変えるときは、ボタンの script と src/styles/global.css の dark の variant も合わせる
-      https://github.com/withastro/docs/blob/ca1ae0c1883582b7e9bf99835b6e1871f44a37f9/src/content/docs/en/guides/client-side-scripts.mdx?plain=1#L46 https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async
-    */}
-    <script is:inline>
-      const {
-          documentElement: { classList },
-        } = document,
-        stored = localStorage.getItem("theme-dark");
-
-      if (stored === "true" || stored === "false") {
-        classList.toggle("dark", stored === "true");
-        classList.toggle("light", stored === "false");
-      }
-    </script>
-  </head>
-  <body class={styles.body}>
-    <main class={styles.main}>
-      <h1 class={styles.title}>Astro</h1>
-      <button class={styles.toggle} type="button" aria-pressed="false" data-theme-toggle>
-        Dark mode
-      </button>
-      <a class={styles.link} href="https://github.com/kentayamada-dev">
-        GitHub
-      </a>
-    </main>
-    <script>
-      // 保存に使う localStorage のキーと、クラス名の dark・light を変えるときは、head の script と src/styles/global.css の dark の variant も合わせる
-      const { documentElement: root } = document,
-        system = matchMedia("(prefers-color-scheme: dark)"),
-        toggle = document.querySelector("[data-theme-toggle]"),
-        usesDark = (): boolean =>
-          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches);
-
-      if (toggle instanceof HTMLButtonElement) {
-        toggle.ariaPressed = String(usesDark());
-        // 選んでいないあいだは、開いたまま OS の設定が変わると表示も変わるため、ボタンの状態も合わせる
-        system.addEventListener("change", (): void => {
-          toggle.ariaPressed = String(usesDark());
-        });
-        toggle.addEventListener("click", (): void => {
-          const dark = !usesDark();
-          root.classList.toggle("dark", dark);
-          root.classList.toggle("light", !dark);
-          toggle.ariaPressed = String(dark);
-          localStorage.setItem("theme-dark", String(dark));
-        });
-      }
-    </script>
-  </body>
-</html>

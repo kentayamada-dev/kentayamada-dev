@@ -1,8 +1,10 @@
+import cloudflare from "@astrojs/cloudflare";
 import tailwindcss from "@tailwindcss/vite";
 import type { AstroUserConfig } from "astro";
 import { defineConfig } from "astro/config";
 
 import { browsersIn } from "./scripts/browser-range.mts";
+import { defaultLocale, locales } from "./src/i18n.ts";
 
 // 範囲は .browserslistrc から読む。ブラウザごとに最も古い版を選ぶのは Vite に任せる
 // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3670-L3691
@@ -18,11 +20,27 @@ const browserTargets: string[] = browsersIn([
     ["safari", "safari"],
   ]).map(({ browser, version }): string => `${browser}${version}`),
   config: AstroUserConfig = defineConfig({
+    // / だけをリクエストごとに描き、ブラウザの言語で振り分けるため
+    adapter: cloudflare({
+      // 画像を変換しないため、既定の Cloudflare Images の binding を作らせない
+      // https://github.com/withastro/docs/blob/565bb9f56404e331deebb6d66594ebb43902cadc/src/content/docs/en/guides/integrations-guide/cloudflare.mdx?plain=1#L116-L127
+      imageService: "passthrough",
+    }),
+    i18n: {
+      defaultLocale,
+      locales: [...locales],
+      routing: {
+        prefixDefaultLocale: true,
+      },
+    },
     server: {
       // 既定の localhost はコンテナ内で ::1 に解決されるが、VS Code のポート転送は IPv6 に対応せず届かないため、IPv4 で待ち受ける
       // https://github.com/vitejs/vite/blob/v8.3.8/docs/guide/troubleshooting.md#dev-containers--vs-code-port-forwarding
       host: "127.0.0.1",
     },
+    // セッションを使わないため、Cloudflare のアダプターに KV の binding を作らせない
+    // https://github.com/withastro/docs/blob/565bb9f56404e331deebb6d66594ebb43902cadc/src/content/docs/en/guides/integrations-guide/cloudflare.mdx?plain=1#L376
+    session: false,
     vite: {
       build: {
         // 既定の cssTarget は build.target と同じで、Astro はクライアント向けの target を esnext に固定するため、指定しないと CSS の縮小がプレフィックスも、oklch() を読めないブラウザ向けの色の代わりの値も足さない。

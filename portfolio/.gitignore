@@ -6,3 +6,4 @@
 /e2e/__screenshots__/
 /.lighthouseci/
 /lighthouse-report/
+/.wrangler/
