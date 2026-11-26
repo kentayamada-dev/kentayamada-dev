@@ -15,6 +15,6 @@ resource "cloudflare_worker" "portfolio" {
 resource "cloudflare_workers_custom_domain" "portfolio" {
   account_id = var.cloudflare_account_id
   zone_id    = var.cloudflare_zone_id
-  hostname   = var.hostname
+  hostname   = var.undeclared_hostname
   service    = cloudflare_worker.portfolio.name
 }
