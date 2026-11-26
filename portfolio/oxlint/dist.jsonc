@@ -1,0 +1,11 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  // ビルドした dist の JS は、依存のパッケージから入るものも含めて対応範囲で動くかだけを見るので、baseline-js のほかは動かさない。
+  // plugins を空にして既定のプラグインを外し、既定で有効な correctness の規則も止める。
+  // dist は .gitignore にあり oxlint が既定で無視するので、package.json の lint:dist は --no-ignore を付けて動かす
+  // https://oxc.rs/docs/guide/usage/linter/plugins.html
+  // https://github.com/oxc-project/website/blob/425982ff8148d37499b1e2455eb9c995eb78d57b/src/docs/guide/usage/linter/ignore-files.md?plain=1#L14-L19
+  "extends": ["./baseline-js.jsonc"],
+  "plugins": [],
+  "categories": { "correctness": "off" }
+}

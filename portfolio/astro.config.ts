@@ -30,6 +30,9 @@ const browserTargets: string[] = browsersIn([
         // https://github.com/vitejs/vite/blob/v8.3.8/docs/config/build-options.md?plain=1#L119-L126
         // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/vite-build-config.ts#L205
         cssTarget: browserTargets,
+        // Astro はこの値より小さい script を HTML に埋め込む。ブラウザに送る JS をすべて dist の .js にして、lint:dist の oxlint で Baseline を検査できるよう、埋め込ませない
+        // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/plugins/plugin-scripts.ts#L23-L47 https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/build/plugins/util.ts#L18-L31
+        assetsInlineLimit: 0,
       },
       plugins: [tailwindcss()],
     },

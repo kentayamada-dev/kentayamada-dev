@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+/*
+ * ボタンで選んだ配色（html の dark・light のクラス）を優先し、選んでいなければ OS の設定に従う。JS が動く前の表示も OS の設定に合わせるため、メディアクエリを使う。
+ * クラス名を変えるときは、src/pages/index.astro の script も合わせる
+ */
+@custom-variant dark {
+  &:where(.dark, .dark *) {
+    @slot;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    &:where(:root:not(.light), :root:not(.light) *) {
+      @slot;
+    }
+  }
+}

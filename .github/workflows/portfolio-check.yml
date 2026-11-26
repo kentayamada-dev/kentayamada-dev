@@ -58,7 +58,8 @@ jobs:
         with:
           name: playwright-report
           path: portfolio/playwright-report/
-      # HTML の検査と Lighthouse は、ビルドし直さずに、テストのステップでビルドした dist を検査する
+      # ブラウザに送る JS・HTML の検査と Lighthouse は、ビルドし直さずに、テストのステップでビルドした dist を検査する
+      - run: docker compose run --rm portfolio pnpm lint:dist
       - run: docker compose run --rm html-checker
       # 性能の点数のように、失敗させない基準を満たさなかったときも、注釈で知らせるために使う
       - uses: $/.github/actions/setup-mise

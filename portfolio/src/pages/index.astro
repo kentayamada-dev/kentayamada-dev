@@ -4,8 +4,11 @@ import "@/styles/global.css";
 const styles = {
   body: "flex flex-col min-block-full",
   html: "antialiased block-full",
-  main: "flex flex-1 flex-col items-center justify-center bg-zinc-50 font-sans dark:bg-black",
+  link: "text-zinc-700 underline dark:text-zinc-300",
+  main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
   title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
+  toggle:
+    "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
 };
 ---
 
@@ -22,6 +25,35 @@ const styles = {
   <body class={styles.body}>
     <main class={styles.main}>
       <h1 class={styles.title}>Astro</h1>
+      <button class={styles.toggle} type="button" aria-pressed="false" data-theme-toggle>
+        Dark mode
+      </button>
+      <a class={styles.link} href="https://github.com/kentayamada-dev">GitHub</a>
     </main>
+    <script>
+      // dark・light のクラス名を変えるときは、src/styles/global.css の dark の variant も合わせる
+      const root = document.documentElement,
+        stored = localStorage.getItem("theme-dark"),
+        system = matchMedia("(prefers-color-scheme: dark)"),
+        toggle = document.querySelector("[data-theme-toggle]");
+
+      if (stored === "true" || stored === "false") {
+        root.classList.toggle("dark", stored === "true");
+        root.classList.toggle("light", stored === "false");
+      }
+
+      if (toggle instanceof HTMLButtonElement) {
+        toggle.ariaPressed = String(
+          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches),
+        );
+        toggle.addEventListener("click", (): void => {
+          const dark = toggle.ariaPressed !== "true";
+          root.classList.toggle("dark", dark);
+          root.classList.toggle("light", !dark);
+          toggle.ariaPressed = String(dark);
+          localStorage.setItem("theme-dark", String(dark));
+        });
+      }
+    </script>
   </body>
 </html>
