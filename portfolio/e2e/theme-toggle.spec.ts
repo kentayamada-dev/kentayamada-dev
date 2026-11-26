@@ -11,7 +11,7 @@ const black = "rgb(0, 0, 0)",
     new Observer((records): void => {
       if (!done && records.some((record): boolean => record.target === doc.documentElement)) {
         done = true;
-        Reflect.set(globalThis, "beforeBody", !doc.querySelector("body"));
+        Reflect.set(globalThis, "beforeBody", !doc.contains(doc.body));
       }
     }).observe(doc, { attributeFilter: ["class"], subtree: true });
   };
