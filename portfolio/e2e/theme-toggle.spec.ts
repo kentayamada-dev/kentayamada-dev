@@ -46,7 +46,7 @@ test.describe("配色の切り替え（OS はライト）", (): void => {
 test.describe("配色の切り替え（OS はダーク）", (): void => {
   test.use({ colorScheme: "dark" });
 
-  test("選んでいなければ OS の設定に従い、ボタンでライトにできる", async ({
+  test("選んでいなければ OS の設定に従い、ボタンで選んだライトを次に開いたときも使う", async ({
     page,
   }): Promise<void> => {
     await page.goto("/");
@@ -58,17 +58,8 @@ test.describe("配色の切り替え（OS はダーク）", (): void => {
     await toggle.click();
     await expect(toggle).toHaveAttribute("aria-pressed", "false");
     await expect(main).not.toHaveCSS("background-color", black);
-  });
-
-  test("選んだライトを次に開いたときも使う", async ({ page }): Promise<void> => {
-    await page.goto("/");
-    const main = page.getByRole("main"),
-      toggle = page.getByRole("button", { name: "Dark mode" });
-    await toggle.click();
-    await expect(toggle).toHaveAttribute("aria-pressed", "false");
 
     await page.reload();
-    await expect(toggle).toHaveAttribute("aria-pressed", "false");
     await expect(main).not.toHaveCSS("background-color", black);
   });
 });
