@@ -1,6 +1,7 @@
 # CI
 
-CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係の更新をする。
+CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係の更新・サイトのデプロイをする。
+デプロイは [サイトの公開](deploy.md) にある。
 ワークフローは [`.github/workflows/`](../.github/workflows/) にあり、検査の内容はそれぞれの `name` に書いている。
 
 ## 検査の一覧
@@ -18,7 +19,7 @@ CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係�
 | [リンク切れ（外部）](../.github/workflows/lychee.yml) | lychee | - | 毎週 |
 | [コードの重複](../.github/workflows/jscpd.yml) | jscpd | ✓ | - |
 | [portfolio の型・静的解析・ビルド・ページの検査](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip・Playwright・Nu Html Checker・Lighthouse CI | ✓ | - |
-| [infra の Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
+| [Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
 | [シェルスクリプトの静的解析・テスト](../.github/workflows/test.yml) | ShellCheck・shfmt・Bats | ✓ | - |
 | [Dockerfile の書き方](../.github/workflows/hadolint.yml) | hadolint | ✓ | - |
 | [ワークフローの構文](../.github/workflows/actionlint.yml) | actionlint | ✓ | - |
@@ -49,7 +50,8 @@ PR を作るか、PR に push すると、検査のワークフローが動く�
 検査に使うツールは、[`.github`](../.github) で版を固定し、CI で入れる。
 portfolio と infra の検査だけは、それぞれの Dev Container と同じイメージのなかで実行する。
 portfolio は [`portfolio/package.json`](../portfolio/package.json) のスクリプトを、infra は Terraform のコマンドを実行する。
-実行するものは、[portfolio のワークフロー](../.github/workflows/portfolio-check.yml) と [infra のワークフロー](../.github/workflows/infra-check.yml) にある。
+[`portfolio/terraform/`](../portfolio/terraform/) の Terraform も、infra のイメージのなかで検査する。
+実行するものは、[portfolio のワークフロー](../.github/workflows/portfolio-check.yml) と [Terraform のワークフロー](../.github/workflows/infra-check.yml) にある。
 Dev Container のなかで同じものを実行すれば、push する前に結果を確認できる。
 
 ### 依存関係の脆弱性とライセンス

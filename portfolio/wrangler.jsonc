@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  // 変えるときは、terraform/workers.tf の cloudflare_worker の name も合わせる
+  "name": "portfolio",
+  // 公開する URL を、Terraform で付けるドメインだけにする。書かないと、デプロイのたびに workers.dev の URL が有効になる
+  // https://github.com/cloudflare/cloudflare-docs/blob/6486a835f361cdca5c5a013ee9b9eb92e0ee74a2/src/content/docs/workers/wrangler/configuration.mdx?plain=1#L162-L165
+  "workers_dev": false,
+  "preview_urls": false,
+  // 設定ファイルがあると、書かなければデプロイのたびに無効にされるため、設定ファイルがないときの既定の値を書く
+  // https://github.com/cloudflare/workers-sdk/blob/4dff55a55a5d801c2cd5cd5321eb3272092ccdb7/packages/deploy-helpers/src/deploy/deploy.ts#L590-L598 https://github.com/cloudflare/workers-sdk/blob/4dff55a55a5d801c2cd5cd5321eb3272092ccdb7/packages/workers-utils/src/config/config.ts#L439
+  "observability": { "enabled": true }
+}
