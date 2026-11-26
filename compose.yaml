@@ -58,6 +58,9 @@ services:
         target: *history-dir
     environment:
       ASTRO_TELEMETRY_DISABLED: 1
+      # wrangler は "true" と "false" のほかの値をエラーにするため、1 にせず文字列の false にする
+      # https://github.com/cloudflare/workers-sdk/blob/wrangler%404.168.0/packages/workers-utils/src/environment-variables/factory.ts
+      WRANGLER_SEND_METRICS: "false"
 
   # portfolio のテストからつなぐ、Playwright のブラウザのサーバー
   # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md#remote-connection
