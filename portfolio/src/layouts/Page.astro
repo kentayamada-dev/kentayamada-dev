@@ -1,6 +1,5 @@
 ---
 import "@/styles/global.css";
-
 import { getRelativeLocaleUrl } from "astro:i18n";
 
 import type { Locale } from "@/i18n";
@@ -30,14 +29,14 @@ const wordings: Readonly<Record<Locale, Wording>> = {
   { locale } = Astro.props,
   { [locale]: wording } = wordings,
   styles = {
-  body: "flex flex-col min-block-full",
-  html: "antialiased block-full",
-  link: "text-zinc-700 underline dark:text-zinc-300",
-  main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
-  title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
-  toggle:
-    "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
-};
+    body: "flex flex-col min-block-full",
+    html: "antialiased block-full",
+    link: "text-zinc-700 underline dark:text-zinc-300",
+    main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
+    title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
+    toggle:
+      "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
+  };
 ---
 
 <html lang={locale} class={styles.html}>
