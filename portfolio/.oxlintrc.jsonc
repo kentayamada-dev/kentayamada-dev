@@ -1,5 +1,7 @@
 {
   "$schema": "./node_modules/oxlint/configuration_schema.json",
+  // 検証用: 計測用のテストは lint しない
+  "ignorePatterns": ["e2e/flash-probe.spec.ts"],
   // 規則と overrides は oxlint/ のファイルに書く。extends 先の settings・env・globals・ignorePatterns は読み込まれないため、それらはここに書く
   // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_linter/src/config/oxlintrc.rs#L423-L483
   "extends": [

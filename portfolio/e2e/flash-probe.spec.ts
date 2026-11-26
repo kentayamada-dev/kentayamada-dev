@@ -1,4 +1,3 @@
-/* oxlint-disable */
 // 検証用: 保存したダークを当てる前に、OS の配色（ライト）のフレームが描かれるかを見る。マージしない
 import { expect, test } from "@playwright/test";
 
