@@ -3,8 +3,10 @@
   // ビルドした dist の JS は、依存のパッケージから入るものも含めて対応範囲で動くかだけを見るので、baseline-js のほかは動かさない。
   // plugins を空にして既定のプラグインを外し、既定で有効な correctness の規則も止める。
   // oxlint は --no-ignore を付けても .gitignore にある dist を読まないので、package.json の lint:dist は .js を直接渡す。Astro の build.assets を変えるときは、そのパスも合わせる
+  // lint:dist は --format unix で動かす。既定の出力は、縮小したファイルでは報告の中身を出さず、どの機能が引っかかったかがわからないため
   // https://oxc.rs/docs/guide/usage/linter/plugins.html
   // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/apps/oxlint/src/lint.rs#L190-L195 https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/core/config/schemas/defaults.ts#L16
+  // https://github.com/oxc-project/oxc/blob/oxlint_v1.94.0/crates/oxc_diagnostics/src/service.rs#L187-L218
   "extends": ["./baseline-js.jsonc"],
   "plugins": [],
   "categories": { "correctness": "off" }
