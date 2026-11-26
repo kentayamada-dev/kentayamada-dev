@@ -9,7 +9,6 @@
     "astro": "astro",
     "typecheck": "astro check",
     "lint": "astro sync && oxlint",
-    "lint:dist": "oxlint --config oxlint/dist.jsonc --format unix dist/_astro/*.js",
     "knip": "knip",
     "test:e2e": "astro build && playwright test",
     "fmt": "oxfmt",
