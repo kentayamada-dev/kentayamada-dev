@@ -10,6 +10,11 @@ exclude_loopback = true
 # https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee-lib/src/types/input/resolver.rs#L121-L123
 hidden = true
 
+# 既定の 20 秒では、gnu.org のマニュアルなど応答の遅いサイトが打ち切られ、外部リンクの検査が失敗することがあったため。
+# 再試行（既定で 3 回）ごとにこの時間まで待つので、変えるときは lychee.yml の lychee-external の timeout-minutes に収まるようにする
+# https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee-lib/src/client.rs#L44-L48
+timeout = 60
+
 exclude_path = [
   # hidden を有効にすると、グロブが .git のなかにも一致するため
   '^\.git/',
