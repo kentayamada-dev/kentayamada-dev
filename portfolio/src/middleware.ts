@@ -6,14 +6,12 @@ import { matchLocale } from "@/i18n";
 
 // / はブラウザの言語（Accept-Language）で、言語ごとのページへ移す
 export const onRequest: MiddlewareHandler = defineMiddleware(
-  async (context, next): Promise<Response> => {
+  (context, next): Promise<Response> | Response => {
     if (context.url.pathname !== "/") {
-      const rendered = await next();
-      return rendered;
+      return next();
     }
-    const moved = context.redirect(
-      getRelativeLocaleUrl(matchLocale(context.request.headers.get("accept-language") ?? "")),
-    );
+    const acceptLanguage = context.request.headers.get("accept-language") ?? "",
+      moved = context.redirect(getRelativeLocaleUrl(matchLocale(acceptLanguage)));
     // 移す先はブラウザの言語で変わるため、キャッシュに言語ごとに分けて残させる
     moved.headers.set("Vary", "Accept-Language");
     return moved;
