@@ -31,6 +31,12 @@ const styles = {
       <a class={styles.link} href="https://github.com/kentayamada-dev">
         GitHub
       </a>
+      {/* 検証用: HTML を大きくする */}
+      <section class="text-black dark:text-zinc-50">
+        {Array.from({ length: 7000 }, (_, index) => (
+          <p>検証用の段落 {index}</p>
+        ))}
+      </section>
     </main>
     <script>
       // クラス名の dark・light を変えるときは、src/styles/global.css の dark の variant も合わせる
