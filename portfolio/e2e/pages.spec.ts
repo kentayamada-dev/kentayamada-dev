@@ -81,15 +81,17 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
       // 基準の画像を Chromium で先に撮ってから比べるため、見た目の比較だけを分けて動かせるよう、タグを付ける。
       // 変えるときは、package.json の test:e2e と test:visual の --grep も合わせる
       for (const [size, viewport] of viewports) {
-        test(`${size} の画面で、どのブラウザでも見た目が同じ`, { tag: "@visual" }, async ({
-          page,
-        }): Promise<void> => {
-          await page.setViewportSize(viewport);
-          await page.goto(path);
-          await expect(page).toHaveScreenshot([size, colorScheme, ...screenshot], {
-            fullPage: true,
-          });
-        });
+        test(
+          `${size} の画面で、どのブラウザでも見た目が同じ`,
+          { tag: "@visual" },
+          async ({ page }): Promise<void> => {
+            await page.setViewportSize(viewport);
+            await page.goto(path);
+            await expect(page).toHaveScreenshot([size, colorScheme, ...screenshot], {
+              fullPage: true,
+            });
+          },
+        );
       }
     });
   }
