@@ -1,16 +1,4 @@
 ---
-import { getRelativeLocaleUrl } from "astro:i18n";
-
-import { localeFor } from "@/i18n";
-
-// ブラウザの言語（Accept-Language）で言語ごとのページへ振り分けるため、リクエストごとに描く
+// ブラウザの言語で振り分けるため、ビルド時には作らず、リクエストごとにミドルウェアで移す
 export const prerender = false;
-
-const found = 302,
-  location = getRelativeLocaleUrl(localeFor(Astro.request.headers.get("accept-language") ?? ""));
-
-Astro.response.status = found;
-Astro.response.headers.set("Location", location);
-// 転送先はブラウザの言語で変わるため、キャッシュに言語ごとに分けて残させる
-Astro.response.headers.set("Vary", "Accept-Language");
 ---

@@ -14,7 +14,16 @@ interface Wording {
   toggle: string;
 }
 
-const wordings: Readonly<Record<Locale, Wording>> = {
+const styles = {
+    body: "flex flex-col min-block-full",
+    html: "antialiased block-full",
+    link: "text-zinc-700 underline dark:text-zinc-300",
+    main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
+    title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
+    toggle:
+      "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
+  },
+  wordings: Readonly<Record<Locale, Wording>> = {
     en: {
       description: "A portfolio site built with Astro.",
       other: { label: "日本語", locale: "ja" },
@@ -26,17 +35,10 @@ const wordings: Readonly<Record<Locale, Wording>> = {
       toggle: "ダークモード",
     },
   },
-  { locale } = Astro.props,
-  { [locale]: wording } = wordings,
-  styles = {
-    body: "flex flex-col min-block-full",
-    html: "antialiased block-full",
-    link: "text-zinc-700 underline dark:text-zinc-300",
-    main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
-    title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
-    toggle:
-      "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
-  };
+  {
+    props: { locale },
+  } = Astro,
+  { [locale]: wording } = wordings;
 ---
 
 <html lang={locale} class={styles.html}>

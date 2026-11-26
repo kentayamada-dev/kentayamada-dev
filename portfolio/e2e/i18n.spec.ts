@@ -1,5 +1,8 @@
 import { expect, test } from "@playwright/test";
 
+// 移す先を追わずに、/ の応答そのものの Location と Vary を見るため
+const noRedirects = 0;
+
 // ブラウザの言語は地域つきのタグだけでも、言語の部分で合わせて振り分ける
 for (const [locale, path] of [
   ["ja-JP", "/ja/"],
@@ -27,7 +30,7 @@ for (const [acceptLanguage, location] of [
   }): Promise<void> => {
     const response = await request.get("/", {
       headers: { "Accept-Language": acceptLanguage },
-      maxRedirects: 0,
+      maxRedirects: noRedirects,
     });
     expect(response.headers()).toMatchObject({ location, vary: "Accept-Language" });
   });

@@ -27,6 +27,14 @@
       // ブラウザで動く src/ の TypeScript で使う document などを、eslint/no-undef に未定義と判定させないため
       "files": ["src/**/*.ts"],
       "env": { "browser": true }
+    },
+    {
+      // ミドルウェアが受け取る APIContext などの型は、Astro が決めていて readonly ではないため、型を書かない引数は対象にしない
+      // https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/types/public/context.ts#L60
+      "files": ["src/middleware.ts"],
+      "rules": {
+        "typescript/prefer-readonly-parameter-types": ["error", { "ignoreInferredTypes": true }]
+      }
     }
   ]
 }
