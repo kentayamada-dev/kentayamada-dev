@@ -33,25 +33,25 @@ const styles = {
       </a>
     </main>
     <script>
-      // dark・light のクラス名を変えるときは、src/styles/global.css の dark の variant も合わせる
-      const root = document.documentElement,
+      // クラス名の dark・light を変えるときは、src/styles/global.css の dark の variant も合わせる
+      const { classList } = document.documentElement,
         stored = localStorage.getItem("theme-dark"),
         system = matchMedia("(prefers-color-scheme: dark)"),
         toggle = document.querySelector("[data-theme-toggle]");
 
       if (stored === "true" || stored === "false") {
-        root.classList.toggle("dark", stored === "true");
-        root.classList.toggle("light", stored === "false");
+        classList.toggle("dark", stored === "true");
+        classList.toggle("light", stored === "false");
       }
 
       if (toggle instanceof HTMLButtonElement) {
         toggle.ariaPressed = String(
-          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches),
+          classList.contains("dark") || (!classList.contains("light") && system.matches),
         );
         toggle.addEventListener("click", (): void => {
           const dark = toggle.ariaPressed !== "true";
-          root.classList.toggle("dark", dark);
-          root.classList.toggle("light", !dark);
+          classList.toggle("dark", dark);
+          classList.toggle("light", !dark);
           toggle.ariaPressed = String(dark);
           localStorage.setItem("theme-dark", String(dark));
         });
