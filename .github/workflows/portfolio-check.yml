@@ -21,9 +21,6 @@ jobs:
     runs-on: ubuntu-26.04-arm
     timeout-minutes: 15
     env:
-      # 変えるときは、portfolio/playwright.config.ts の snapshotPathTemplate も合わせる
-      screenshots_dir: portfolio/e2e/__screenshots__
-      screenshots_key: portfolio-screenshots
       lighthouse_results: portfolio/.lighthouseci/assertion-results.json
       # warn にした基準を満たさなかったアサーションを、警告の注釈にする jq のプログラム。$form_factor に計測の種類を渡す
       lighthouse_warnings: >-
@@ -48,10 +45,9 @@ jobs:
       - run: docker compose run --rm portfolio pnpm knip
       # ブラウザのサーバーは portfolio の node_modules にある Playwright で動くため、pnpm install の後に起動する
       - run: docker compose up --detach --wait playwright
-      # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある。
-      # 見た目の比較は、失敗させずに知らせるだけにするため、後のステップで分けて動かす。タグを変えるときは、portfolio/e2e のテストも合わせる
+      # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
       - id: e2e
-        run: docker compose run --rm portfolio pnpm test:e2e --grep-invert @visual
+        run: docker compose run --rm portfolio pnpm test:e2e
       # 失敗したときは、原因を見られるレポートを上げる
       - if: failure() && steps.e2e.outcome == 'failure'
         uses: actions/upload-artifact@v7.0.2
@@ -81,30 +77,11 @@ jobs:
         with:
           name: lighthouse-report
           path: portfolio/lighthouse-report/
-      # 見た目は、main への push で撮ってキャッシュに残した画像と比べる。PR の実行は main のキャッシュを読めるが、書き換えられない
-      # https://github.com/github/docs/blob/6d8473326810b94469e2282d5427b69404337152/content/actions/reference/workflows-and-actions/dependency-caching.md?plain=1#L243-L247
-      - if: github.event_name == 'pull_request'
-        uses: actions/cache/restore@v6.1.0
-        with:
-          path: ${{ env.screenshots_dir }}
-          key: ${{ env.screenshots_key }}-${{ github.event.pull_request.base.sha }}
-          restore-keys: ${{ env.screenshots_key }}-
-      # 違っても PR の検査は失敗させず、注釈と差分のレポートで知らせる。main の画像がないときも、同じく知らせる
       - id: visual
-        if: github.event_name == 'pull_request'
-        continue-on-error: true
-        run: docker compose run --rm portfolio pnpm test:e2e --grep @visual --update-snapshots=none
-      - if: steps.visual.outcome == 'failure'
-        run: echo "::warning title=見た目が main と違います::成果物の playwright-visual-report で差分を確かめてください。main の画像がないときも、この注釈が出ます"
-      - if: steps.visual.outcome == 'failure'
+        run: docker compose run --rm portfolio pnpm test:visual
+      # 失敗したときは、ブラウザごとの差分の画像を見られるレポートを上げる
+      - if: failure() && steps.visual.outcome == 'failure'
         uses: actions/upload-artifact@v7.0.2
         with:
           name: playwright-visual-report
           path: portfolio/playwright-report/
-      - if: github.event_name == 'push'
-        run: docker compose run --rm portfolio pnpm test:e2e --grep @visual --update-snapshots=all
-      - if: github.event_name == 'push'
-        uses: actions/cache/save@v6.1.0
-        with:
-          path: ${{ env.screenshots_dir }}
-          key: ${{ env.screenshots_key }}-${{ github.sha }}
