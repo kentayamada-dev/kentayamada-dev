@@ -6,6 +6,10 @@ import type { ViewportSize } from "@playwright/test";
 import { devices, expect, test } from "@playwright/test";
 
 const colorSchemes: readonly ("dark" | "light")[] = ["light", "dark"],
+  // 字形の細部や下線の位置はブラウザごとに違い、文字の形だけで見た目の比較が失敗するため、撮るときは文字と下線を透明にする。
+  // color を透明にすると currentColor の枠線も消えるため、文字の塗りだけを消す
+  hideText =
+    "*, ::before, ::after { -webkit-text-fill-color: transparent !important; text-decoration-color: transparent !important; }",
   // ブラウザどうしを比べるため、どのプロジェクトでも同じ大きさの画面にして撮る。大きさは、デスクトップとスマートフォンの 2 とおり
   viewports: readonly (readonly [string, ViewportSize])[] = [
     ["desktop", devices["Desktop Chrome"].viewport],
@@ -87,6 +91,7 @@ for (const file of globSync("**/*.html", { cwd: "dist" })) {
           async ({ page }): Promise<void> => {
             await page.setViewportSize(viewport);
             await page.goto(path);
+            await page.addStyleTag({ content: hideText });
             await expect(page).toHaveScreenshot([size, colorScheme, ...screenshot], {
               fullPage: true,
             });
