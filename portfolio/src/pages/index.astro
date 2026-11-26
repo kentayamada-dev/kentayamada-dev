@@ -45,6 +45,8 @@ const styles = {
       }
 
       if (toggle instanceof HTMLButtonElement) {
+        // oxlint-disable-next-line baseline-js/use-baseline
+        toggle.title = String(Symbol.dispose);
         toggle.ariaPressed = String(
           root.classList.contains("dark") || (!root.classList.contains("light") && system.matches),
         );
