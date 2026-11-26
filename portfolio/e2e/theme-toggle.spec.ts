@@ -2,6 +2,7 @@ import { expect, test } from "@playwright/test";
 
 // ダークの bg-black の計算値。ライトの bg-zinc-50 は oklch() で返るので、ダークかどうかをこの値で見分ける
 const black = "rgb(0, 0, 0)",
+  readBeforeBody = (): boolean => Reflect.get(globalThis, "beforeBody") === true,
   // ページの html に初めてクラスが付いた時点で、body がまだないかを記録する。
   // ページのなかで動く関数だが、e2e は Node の環境で lint するので、ブラウザのグローバル変数は globalThis から取る
   recordBeforeBody = (): void => {
@@ -10,7 +11,7 @@ const black = "rgb(0, 0, 0)",
     new Observer((records): void => {
       if (!done && records.some((record): boolean => record.target === doc.documentElement)) {
         done = true;
-        Reflect.set(globalThis, "beforeBody", doc.querySelectorAll("body").length === 0);
+        Reflect.set(globalThis, "beforeBody", !doc.querySelector("body"));
       }
     }).observe(doc, { attributeFilter: ["class"], subtree: true });
   };
@@ -62,8 +63,7 @@ test("選んだ配色を、次に開いたときは本文より先に当てる",
   await page.addInitScript(recordBeforeBody);
 
   await page.reload();
-  const beforeBody = await page.evaluate((): unknown => Reflect.get(globalThis, "beforeBody"));
-  expect(beforeBody).toBe(true);
+  expect(await page.evaluate(readBeforeBody)).toBe(true);
 });
 
 test.describe("配色の切り替え（OS はダーク）", (): void => {
