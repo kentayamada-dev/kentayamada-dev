@@ -52,14 +52,18 @@ const styles = {
       // 保存に使う localStorage のキーと、クラス名の dark・light を変えるときは、head の script と src/styles/global.css の dark の variant も合わせる
       const { documentElement: root } = document,
         system = matchMedia("(prefers-color-scheme: dark)"),
-        toggle = document.querySelector("[data-theme-toggle]");
+        toggle = document.querySelector("[data-theme-toggle]"),
+        usesDark = (): boolean =>
+          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches);
 
       if (toggle instanceof HTMLButtonElement) {
-        toggle.ariaPressed = String(
-          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches),
-        );
+        toggle.ariaPressed = String(usesDark());
+        // 選んでいないあいだは、開いたまま OS の設定が変わると表示も変わるため、ボタンの状態も合わせる
+        system.addEventListener("change", (): void => {
+          toggle.ariaPressed = String(usesDark());
+        });
         toggle.addEventListener("click", (): void => {
-          const dark = toggle.ariaPressed !== "true";
+          const dark = !usesDark();
           root.classList.toggle("dark", dark);
           root.classList.toggle("light", !dark);
           toggle.ariaPressed = String(dark);

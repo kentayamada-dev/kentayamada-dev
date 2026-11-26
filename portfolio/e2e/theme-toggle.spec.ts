@@ -66,6 +66,23 @@ test("選んだ配色を、次に開いたときは本文より先に当てる",
   expect(await page.evaluate(readBeforeBody)).toBe(true);
 });
 
+// 選んでいないあいだは表示が OS の設定に従うため、開いたまま OS の設定が変わったときを見る
+test("OS の設定が変わっても、ボタンの状態と切り替えが合う", async ({ page }): Promise<void> => {
+  const main = page.getByRole("main"),
+    toggle = page.getByRole("button", { name: "Dark mode" });
+  await page.emulateMedia({ colorScheme: "light" });
+  await page.goto("/");
+  await expect(toggle).toHaveAttribute("aria-pressed", "false");
+
+  await page.emulateMedia({ colorScheme: "dark" });
+  await expect(main).toHaveCSS("background-color", black);
+  await expect(toggle).toHaveAttribute("aria-pressed", "true");
+
+  await toggle.click();
+  await expect(main).not.toHaveCSS("background-color", black);
+  await expect(toggle).toHaveAttribute("aria-pressed", "false");
+});
+
 test.describe("配色の切り替え（OS はダーク）", (): void => {
   test.use({ colorScheme: "dark" });
 
