@@ -1,0 +1,40 @@
+---
+import ProbeCard from "@/components/probe-card.astro";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="A page to check what astro check reports." />
+    <title>Probe</title>
+  </head>
+  <body>
+    <main>
+      <h1>Probe</h1>
+      <p>
+        <div>div in p</div>
+      </p>
+      <p>
+        <ProbeCard />
+      </p>
+      <a href="/">
+        outer <a href="/">inner</a>
+      </a>
+      <ul>
+        <div>div in ul</div>
+      </ul>
+      <table>
+        <div>div in table</div>
+        <tr>
+          <td>cell</td>
+        </tr>
+      </table>
+      <label for="dup">Name</label>
+      <input id="dup" />
+      <input id="dup" aria-label="Second" />
+      <button type="buton">Press</button>
+    </main>
+  </body>
+</html>
