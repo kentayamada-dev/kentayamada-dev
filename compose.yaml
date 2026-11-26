@@ -124,6 +124,7 @@ services:
       - node_modules/vnu-jar/build/dist/vnu.jar
       - --Werror
       - --skip-non-html
+      - --also-check-css
       - dist
     working_dir: *portfolio-dir
     volumes:
