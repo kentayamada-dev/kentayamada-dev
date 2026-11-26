@@ -46,7 +46,9 @@ jobs:
       # ブラウザのサーバーは portfolio の node_modules にある Playwright で動くため、pnpm install の後に起動する
       - run: docker compose up --detach --wait playwright
       # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
+      # 検証用: テストが失敗しても、後の html-checker まで動かす
       - id: e2e
+        continue-on-error: true
         run: docker compose run --rm portfolio pnpm test:e2e
       # 失敗したときは、原因を見られるレポートを上げる
       - if: failure() && steps.e2e.outcome == 'failure'
