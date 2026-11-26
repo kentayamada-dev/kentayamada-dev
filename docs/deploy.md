@@ -7,7 +7,7 @@
 
 - [`portfolio/terraform/`](../portfolio/terraform/): Worker と、公開するドメインを Terraform で作る
 - [デプロイのワークフロー](../.github/workflows/portfolio-deploy.yml): サイトをビルドし、wrangler で Worker にデプロイする
-- [`portfolio/wrangler.jsonc`](../portfolio/wrangler.jsonc): wrangler がデプロイのたびに Worker に当てる設定
+- [`portfolio/wrangler.jsonc`](../portfolio/wrangler.jsonc): デプロイのたびに wrangler が当てる、Worker の設定
 
 main に `portfolio/` の変更が入ると、ワークフローがデプロイする。
 `portfolio/terraform/` だけの変更では、デプロイしない。

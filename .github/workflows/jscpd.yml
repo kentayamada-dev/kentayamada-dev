@@ -48,12 +48,12 @@ jobs:
         working-directory: ${{ env.jscpd_dir }}
       # --exit-code がないと、重複を見つけても 0 で終わる。--fail-on-empty がないと、除外の誤りで検査するファイルがなくなっても 0 で終わる
       # https://github.com/kucherenko/jscpd/blob/v5.4.2/docs/rust.md#exit-codes
-      # 次のファイルは除く。pnpm-lock.yaml は pnpm が生成し、重複を手で直せない。node_modules は .gitignore に一致せず、前のステップで入れたパッケージまで検査される
+      # 次のファイルは除く。pnpm-lock.yaml と .terraform.lock.hcl は pnpm と Terraform が生成し、重複を手で直せない。node_modules は .gitignore に一致せず、前のステップで入れたパッケージまで検査される
       # ワークフローは on・permissions・concurrency やセットアップのステップをファイルごとに書くしかなく、pnpm-workspace.yaml は意図して同じ設定にそろえている
       # infra/workflows は n8n のワークフローのバックアップが書き出す JSON で、手で直しても次のバックアップで戻る
       - run: >-
           "$jscpd_dir/node_modules/.bin/jscpd"
           --exit-code 1
           --fail-on-empty
-          --ignore '**/pnpm-lock.yaml,**/node_modules/**,**/.github/workflows/**,**/pnpm-workspace.yaml,**/infra/workflows/**'
+          --ignore '**/pnpm-lock.yaml,**/.terraform.lock.hcl,**/node_modules/**,**/.github/workflows/**,**/pnpm-workspace.yaml,**/infra/workflows/**'
           .
