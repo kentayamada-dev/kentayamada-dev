@@ -21,8 +21,17 @@ exclude_path = [
   '^infra/workflows/',
 ]
 
+# lychee はこのファイルも検査し、正規表現に :// を書くと、そこから linkify が URL を切り出して開けないと報告するので、/ は \/ と書く
+# https://github.com/robinst/linkify/blob/0.11.0/src/url.rs#L40-L43 https://github.com/rust-lang/regex/blob/1.12.3/CHANGELOG.md?plain=1#L555-L559
 exclude = [
   # osv.dev の URL は ID を埋めて作るもので、リポジトリには ID を埋める前の jq の式とテストの架空の ID の URL しかなく、開けないため。
   # linkify は \ を URL の文字として扱い、jq の \( も URL に含めて切り出す https://github.com/robinst/linkify/blob/0.11.0/src/url.rs#L219-L225
-  '^https://osv\.dev/',
+  '^https:\/\/osv\.dev\/',
+  # Takumi Guard のレジストリの URL は、pnpm と npm に渡すもので、ページではなく、開くと 400 を返すため
+  '^https:\/\/npm\.flatt\.tech\/$',
+  # create-renovate-app.bats のスタブと期待値に書いた GitHub App と別のリポジトリの URL は、テストのための値で、開けないため
+  '^https:\/\/github\.com\/apps\/kentayamada-dev-renovate(\/|$)',
+  '^https:\/\/github\.com\/someone\/other$',
+  # Cloudflare Tunnel の転送先の n8n は、Compose のネットワークのなかのホスト名で、外からは開けないため
+  '^http:\/\/n8n:5678\/?$',
 ]
