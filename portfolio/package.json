@@ -16,7 +16,8 @@
     "fmt:check": "oxfmt --check"
   },
   "dependencies": {
-    "astro": "7.4.13"
+    "astro": "7.4.13",
+    "web-vitals": "6.2.3"
   },
   "devDependencies": {
     "@astrojs/check": "0.9.12",

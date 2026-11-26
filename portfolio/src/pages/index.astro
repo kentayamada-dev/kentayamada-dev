@@ -33,6 +33,8 @@ const styles = {
       </a>
     </main>
     <script>
+      import { onLCP } from "web-vitals";
+
       // クラス名の dark・light を変えるときは、src/styles/global.css の dark の variant も合わせる
       const { documentElement: root } = document,
         stored = localStorage.getItem("theme-dark"),
@@ -54,6 +56,9 @@ const styles = {
           root.classList.toggle("light", !dark);
           toggle.ariaPressed = String(dark);
           localStorage.setItem("theme-dark", String(dark));
+        });
+        onLCP((): void => {
+          toggle.title = "LCP";
         });
       }
     </script>
