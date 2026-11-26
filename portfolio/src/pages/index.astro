@@ -34,24 +34,24 @@ const styles = {
     </main>
     <script>
       // クラス名の dark・light を変えるときは、src/styles/global.css の dark の variant も合わせる
-      const { classList } = document.documentElement,
+      const { documentElement: root } = document,
         stored = localStorage.getItem("theme-dark"),
         system = matchMedia("(prefers-color-scheme: dark)"),
         toggle = document.querySelector("[data-theme-toggle]");
 
       if (stored === "true" || stored === "false") {
-        classList.toggle("dark", stored === "true");
-        classList.toggle("light", stored === "false");
+        root.classList.toggle("dark", stored === "true");
+        root.classList.toggle("light", stored === "false");
       }
 
       if (toggle instanceof HTMLButtonElement) {
         toggle.ariaPressed = String(
-          classList.contains("dark") || (!classList.contains("light") && system.matches),
+          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches),
         );
         toggle.addEventListener("click", (): void => {
           const dark = toggle.ariaPressed !== "true";
-          classList.toggle("dark", dark);
-          classList.toggle("light", !dark);
+          root.classList.toggle("dark", dark);
+          root.classList.toggle("light", !dark);
           toggle.ariaPressed = String(dark);
           localStorage.setItem("theme-dark", String(dark));
         });
