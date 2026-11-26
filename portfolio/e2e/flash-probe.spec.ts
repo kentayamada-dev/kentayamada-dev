@@ -27,6 +27,8 @@ const record = (): void => {
   requestAnimationFrame(tick);
 };
 
+const read = (): unknown => Reflect.get(globalThis, "frames");
+
 test.use({ colorScheme: "light" });
 
 test("制限なし: ダークを当てる前に描かれたフレーム", async ({ page }, testInfo): Promise<void> => {
@@ -36,7 +38,7 @@ test("制限なし: ダークを当てる前に描かれたフレーム", async 
   await page.reload();
   await page.waitForLoadState("load");
   await page.waitForTimeout(500);
-  const frames = (await page.evaluate(() => Reflect.get(globalThis, "frames"))) as Frame[];
+  const frames = (await page.evaluate(read)) as Frame[];
   const light = frames.filter((frame) => !frame.dark);
   await testInfo.attach("frames.json", {
     body: JSON.stringify(frames, undefined, 2),
@@ -79,7 +81,7 @@ test("回線を遅くしたとき: 画面のフレーム", async ({ page }, test
   await page.waitForTimeout(1000);
   await client.send("Page.stopScreencast");
 
-  const frames = (await page.evaluate(() => Reflect.get(globalThis, "frames"))) as Frame[];
+  const frames = (await page.evaluate(read)) as Frame[];
   const light = frames.filter((frame) => !frame.dark);
   await testInfo.attach("frames.json", {
     body: JSON.stringify(frames, undefined, 2),
