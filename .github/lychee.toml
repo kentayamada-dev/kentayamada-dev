@@ -2,6 +2,10 @@ include_fragments = "anchor-only"
 no_progress = true
 require_https = true
 
+# テストのサーバーの URL（127.0.0.1 など）は、設定やコードに書くもので、リンクではないため
+# https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee.example.toml?plain=1#L182-L183
+exclude_loopback = true
+
 # 渡したグロブの * と ** は、デフォルトでは . で始まるファイルとディレクトリに一致せず、.github などを見落とすため
 # https://github.com/lycheeverse/lychee/blob/lychee-v0.24.2/lychee-lib/src/types/input/resolver.rs#L121-L123
 hidden = true

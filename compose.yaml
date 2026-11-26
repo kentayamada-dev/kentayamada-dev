@@ -80,7 +80,7 @@ services:
         read_only: true
     # docker compose up --wait は、ヘルスチェックがないとコンテナが動き出した時点で戻り、サーバーが待ち受ける前にテストがつなぎに行くため。
     # 既定では最初の検査まで 30 秒待つため、起動中は 1 秒ごとに検査させる
-    # https://docs.docker.com/reference/compose-file/services/#healthcheck
+    # https://github.com/docker/docs/blob/4089da36f9f99a51a8afd6c69b211fdd7db18b5f/content/reference/compose-file/workload-spec.md?plain=1#L134-L150
     healthcheck:
       test:
         - CMD-SHELL

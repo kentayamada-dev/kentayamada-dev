@@ -29,4 +29,4 @@ name = "sentry"
 version = "0.50.0"
 ecosystem = "npm"
 license.ignore = true
-reason = "FSL-1.1-Apache-2.0 で、OSI 承認のライセンスではないため許可の一覧には入れず、この版だけ外す。portfolio の Lighthouse の間接依存（lighthouse → @sentry/node → @sentry/bundler-plugins）で、検査にだけ使い、サイトには含まれない。版が変わったら、ライセンスを確認してから書き換える https://www.npmjs.com/package/sentry/v/0.50.0"
+reason = "FSL-1.1-Apache-2.0 で、OSI 承認のライセンスではないため許可の一覧には入れず、この版だけ外す。portfolio の Lighthouse の間接依存（lighthouse → @sentry/node → @sentry/bundler-plugins）で、検査にだけ使い、サイトには含まれない。版が変わったら、ライセンスを確認してから書き換える https://registry.npmjs.org/sentry/0.50.0"

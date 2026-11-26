@@ -20,6 +20,6 @@ allowBuilds:
   vnu-jar: false
 # @lhci/cli が使う lighthouse の依存の chromium-bidi は、157.0.8090-0 から provenance なしで公開され、trustPolicy に拒否されるため。公開のしかたが変わった理由は未確認。
 # 版ごとに除外するので、lighthouse を上げて chromium-bidi の版が変わったら、その版の公開元を確認してから書き換える
-# https://www.npmjs.com/package/chromium-bidi/v/157.0.8090-0 https://pnpm.io/settings/dependency-resolution#trustpolicyexclude
+# https://registry.npmjs.org/chromium-bidi/157.0.8090-0 https://pnpm.io/settings/dependency-resolution#trustpolicyexclude
 trustPolicyExclude:
   - chromium-bidi@157.0.8090-0
