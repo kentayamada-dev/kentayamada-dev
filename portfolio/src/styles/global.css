@@ -1,8 +1,20 @@
 @import "tailwindcss";
 
 /*
+ * 並べたフォントに字形がない日本語は、ブラウザが選ぶフォントで描かれ、同じ環境でもボタンの幅がブラウザごとに変わったため、日本語のフォントを sans-serif の前に並べる。
+ * 日本語のフォントのほかは Tailwind の既定の値で、tailwindcss を上げるときは見比べて合わせる。Playwright のイメージを変えるときは、そのイメージにある日本語のフォントがここにあるか確かめる
+ * https://github.com/tailwindlabs/tailwindcss/blob/v4.3.5/packages/tailwindcss/theme.css
+ */
+@theme {
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial,
+    "Hiragino Sans", "Noto Sans CJK JP", IPAGothic, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/*
  * ボタンで選んだ配色（html の dark・light のクラス）を優先し、選んでいなければ OS の設定に従う。JS が動く前の表示も OS の設定に合わせるため、メディアクエリを使う。
- * クラス名を変えるときは、src/pages/index.astro の 2 つの script も合わせる
+ * クラス名を変えるときは、src/layouts/page.astro の 2 つの script も合わせる
  */
 @custom-variant dark {
   &:where(.dark, .dark *) {
