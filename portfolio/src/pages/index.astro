@@ -21,6 +21,20 @@ const styles = {
     <meta name="description" content="A portfolio site built with Astro." />
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
+    {/*
+      ボタンの script は Astro が type="module" にし、ページを読み終えるまで動かないため、それまで OS の配色で表示されないよう、保存した配色は処理させずにここで先に当てる。
+      localStorage のキーとクラス名を変えるときは、ボタンの script も合わせる
+      https://github.com/withastro/docs/blob/ca1ae0c1883582b7e9bf99835b6e1871f44a37f9/src/content/docs/en/guides/client-side-scripts.mdx?plain=1#L46 https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async
+    */}
+    <script is:inline>
+      const { classList } = document.documentElement,
+        stored = localStorage.getItem("theme-dark");
+
+      if (stored === "true" || stored === "false") {
+        classList.toggle("dark", stored === "true");
+        classList.toggle("light", stored === "false");
+      }
+    </script>
   </head>
   <body class={styles.body}>
     <main class={styles.main}>
@@ -33,16 +47,10 @@ const styles = {
       </a>
     </main>
     <script>
-      // クラス名の dark・light を変えるときは、src/styles/global.css の dark の variant も合わせる
+      // localStorage のキーとクラス名の dark・light を変えるときは、head の script と src/styles/global.css の dark の variant も合わせる
       const { documentElement: root } = document,
-        stored = localStorage.getItem("theme-dark"),
         system = matchMedia("(prefers-color-scheme: dark)"),
         toggle = document.querySelector("[data-theme-toggle]");
-
-      if (stored === "true" || stored === "false") {
-        root.classList.toggle("dark", stored === "true");
-        root.classList.toggle("light", stored === "false");
-      }
 
       if (toggle instanceof HTMLButtonElement) {
         toggle.ariaPressed = String(

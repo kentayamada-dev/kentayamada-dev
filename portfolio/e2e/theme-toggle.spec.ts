@@ -41,6 +41,26 @@ test.describe("配色の切り替え（OS はライト）", (): void => {
     await expect(toggle).toHaveAttribute("aria-pressed", "true");
     await expect(main).toHaveCSS("background-color", black);
   });
+
+  // 本文を読み込んでから配色を当てると、そのあいだ OS の配色で表示されるため、html にクラスが付いた時点で body がまだないことを見る
+  test("選んだダークを、次に開いたときは本文より先に当てる", async ({ page }): Promise<void> => {
+    await page.goto("/");
+    await page.getByRole("button", { name: "Dark mode" }).click();
+    await page.addInitScript((): void => {
+      new MutationObserver((records): void => {
+        if (
+          records.some((record): boolean => record.target === document.documentElement) &&
+          sessionStorage.getItem("before-body") === null
+        ) {
+          sessionStorage.setItem("before-body", String(document.querySelector("body") === null));
+        }
+      }).observe(document, { attributeFilter: ["class"], subtree: true });
+    });
+
+    await page.reload();
+    const stored = await page.evaluate((): string | null => sessionStorage.getItem("before-body"));
+    expect(stored).toBe("true");
+  });
 });
 
 test.describe("配色の切り替え（OS はダーク）", (): void => {
