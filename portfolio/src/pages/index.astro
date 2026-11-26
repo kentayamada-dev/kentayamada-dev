@@ -25,7 +25,13 @@ const styles = {
   <body class={styles.body}>
     <main class={styles.main}>
       <h1 class={styles.title}>Astro</h1>
-      <button class={styles.toggle} type="button" aria-pressed="false" data-theme-toggle>
+      <button
+        class={styles.toggle}
+        type="button"
+        aria-pressed="false"
+        data-theme-toggle
+        tabindex="-1"
+      >
         Dark mode
       </button>
       <a class={styles.link} href="https://github.com/kentayamada-dev">
