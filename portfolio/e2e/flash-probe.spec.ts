@@ -35,7 +35,8 @@ test("制限なし: ダークを当てる前に描かれたフレーム", async 
   await page.goto("/");
   await page.getByRole("button", { name: "Dark mode" }).click();
   await page.addInitScript(record);
-  await page.reload();
+  // 検証用: キャッシュした HTML を使わせないため、URL を変えて開き直す
+  await page.goto(`/?fresh=${String(Date.now())}`);
   await page.waitForLoadState("load");
   await page.waitForTimeout(500);
   const frames = (await page.evaluate(read)) as Frame[];
@@ -63,6 +64,8 @@ test("回線を遅くしたとき: 画面のフレーム", async ({ page }, test
 
   const client = await page.context().newCDPSession(page);
   await client.send("Network.enable");
+  // 検証用: 開き直したときに、キャッシュした HTML を使わせない
+  await client.send("Network.setCacheDisabled", { cacheDisabled: true });
   await client.send("Network.emulateNetworkConditions", {
     downloadThroughput: 50_000,
     latency: 100,
@@ -97,6 +100,7 @@ test("回線を遅くしたとき: 画面のフレーム", async ({ page }, test
   // 結果をログに出し、画像をレポートに上げるため、わざと失敗させる
   expect({
     bodySize: sizes?.responseBodySize,
+    status: response?.status(),
     encoding: response?.headers()["content-encoding"],
     first: frames.slice(0, 3),
     firstDark: frames.find((frame) => frame.dark),
