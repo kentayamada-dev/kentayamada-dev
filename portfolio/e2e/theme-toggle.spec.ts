@@ -2,6 +2,11 @@ import { expect, test } from "@playwright/test";
 
 // ダークの bg-black の計算値。ライトの bg-zinc-50 は oklch() で返るので、ダークかどうかをこの値で見分ける
 const black = "rgb(0, 0, 0)",
+  // OS と違う配色を選んだときに当てる処理は、ダークとライトで別なので、両方の向きを見る。[OS の配色, 選ぶ配色]
+  colorChoices: readonly (readonly ["dark" | "light", string])[] = [
+    ["light", "ダーク"],
+    ["dark", "ライト"],
+  ],
   readBeforeBody = (): boolean => Reflect.get(globalThis, "beforeBody") === true,
   // ページの html に初めてクラスが付いた時点で、body がまだないかを記録する。
   // ページのなかで動く関数だが、e2e は Node の環境で lint するので、ブラウザのグローバル変数は globalThis から取る
@@ -57,14 +62,20 @@ test.describe("配色の切り替え（OS はライト）", (): void => {
 });
 
 // 本文を読み込んでから配色を当てると、そのあいだ OS の配色で表示されるため、html にクラスが付いた時点で body がまだないことを見る
-test("選んだ配色を、次に開いたときは本文より先に当てる", async ({ page }): Promise<void> => {
-  await page.goto("/ja/");
-  await page.getByRole("button", { name: "ダークモード" }).click();
-  await page.addInitScript(recordBeforeBody);
+for (const [colorScheme, chosen] of colorChoices) {
+  test.describe(`OS の配色が ${colorScheme}`, (): void => {
+    test.use({ colorScheme });
 
-  await page.reload();
-  expect(await page.evaluate(readBeforeBody)).toBe(true);
-});
+    test(`選んだ${chosen}を、開き直すと本文より先に当てる`, async ({ page }): Promise<void> => {
+      await page.goto("/ja/");
+      await page.getByRole("button", { name: "ダークモード" }).click();
+      await page.addInitScript(recordBeforeBody);
+
+      await page.reload();
+      expect(await page.evaluate(readBeforeBody)).toBe(true);
+    });
+  });
+}
 
 // 選んでいないあいだは表示が OS の設定に従うため、開いたまま OS の設定が変わったときを見る
 test("OS の設定が変わっても、ボタンの状態と切り替えが合う", async ({ page }): Promise<void> => {
