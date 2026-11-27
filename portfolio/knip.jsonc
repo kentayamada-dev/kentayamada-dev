@@ -1,6 +1,5 @@
 {
   "$schema": "https://unpkg.com/knip@6/schema-jsonc.json",
-  // @lhci/cli と vnu-jar は、compose.yaml のサービスが node_modules から直接動かし、Knip が読むスクリプトやコードからは使わないため。
-  // @fontsource/noto-sans-jp は、Astro の Fonts API が astro.config.ts のフォントの名前からパッケージを探して読み、import されないため
-  "ignoreDependencies": ["@fontsource/noto-sans-jp", "@lhci/cli", "vnu-jar"]
+  // compose.yaml のサービスが node_modules から直接動かし、Knip が読むスクリプトやコードからは使わないため
+  "ignoreDependencies": ["@lhci/cli", "vnu-jar"]
 }

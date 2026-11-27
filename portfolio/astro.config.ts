@@ -1,4 +1,5 @@
 import cloudflare from "@astrojs/cloudflare";
+import unicodeRanges from "@fontsource/noto-sans-jp/unicode.json" with { type: "json" };
 import tailwindcss from "@tailwindcss/vite";
 import type { AstroUserConfig } from "astro";
 import { defineConfig, fontProviders } from "astro/config";
@@ -6,6 +7,16 @@ import { defineConfig, fontProviders } from "astro/config";
 import { browsersIn } from "./scripts/browser-range.mts";
 import type { Locale } from "./src/i18n.ts";
 import { defaultLocale, locales } from "./src/i18n.ts";
+
+type Config = AstroUserConfig<Locale[], never, [ReturnType<typeof fontProviders.local>]>;
+
+interface FontVariant {
+  display: "swap";
+  src: [string];
+  style: "normal";
+  unicodeRange: [string, ...string[]];
+  weight: number;
+}
 
 // 配信する Noto Sans JP の太さ。本文は 400、見出しの font-semibold は 600。ほかの太さのクラスを使うときは、ここにも足す
 const bodyFontWeight = 400,
@@ -23,7 +34,26 @@ const bodyFontWeight = 400,
     ["opera", "opera"],
     ["safari", "safari"],
   ]).map(({ browser, version }): string => `${browser}${version}`),
-  config: AstroUserConfig<Locale[], never, [ReturnType<typeof fontProviders.npm>]> = defineConfig({
+  // unicode.json の範囲ごとに分けたファイルを、配信する太さの分だけ並べる。ブラウザは、ページの文字に要る範囲のファイルだけを取る
+  bundledFontVariants: FontVariant[] = [bodyFontWeight, boldFontWeight].flatMap(
+    (weight: number): FontVariant[] =>
+      Object.entries(unicodeRanges).map(
+        ([subset, range]: readonly [string, string]): FontVariant => {
+          const [first = "", ...rest] = range.split(",");
+          return {
+            display: "swap",
+            // unicode.json の [0] のような名前は、ファイルの名前では角かっこを除いた数字になる
+            src: [
+              `@fontsource/noto-sans-jp/files/noto-sans-jp-${subset.replace("[", "").replace("]", "")}-${String(weight)}-normal.woff2`,
+            ],
+            style: "normal",
+            unicodeRange: [first, ...rest],
+            weight,
+          };
+        },
+      ),
+  ),
+  config: Config = defineConfig({
     // / だけをリクエストごとに描き、ブラウザの言語で振り分けるため
     adapter: cloudflare({
       // 画像を変換しないため、既定の Cloudflare Images の binding を作らせない
@@ -31,17 +61,16 @@ const bodyFontWeight = 400,
       imageService: "passthrough",
     }),
     // OS とブラウザごとに選ばれる日本語のフォントが違い、文字の幅も変わるため、どの環境でもサイトから配信する Noto Sans JP で描く。
-    // CSS はインストールした @fontsource/noto-sans-jp から使う太さの分だけ読み、Unicode の範囲で分けたファイルのうち、ページに要るものだけをブラウザが取る。
-    // Astro は npm のプロバイダーが返す file:// の URL を読めずにビルドが止まるので、remote: false は使わず、ファイルはビルドのときに jsDelivr から取る
+    // ファイルは、ビルドで外部に取りに行かないよう、インストールした @fontsource/noto-sans-jp から local のプロバイダーで読む。
+    // npm のプロバイダーは、remote: false にすると Astro が file:// の URL を読めずにビルドが止まり、既定では jsDelivr から取るため使わない
     // https://github.com/unjs/unifont/blob/v1.0.3/src/providers/npm.ts https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/assets/fonts/infra/cached-font-fetcher.ts#L38-L41
     fonts: [
       {
         // 変えるときは、src/layouts/page.astro の Font と src/styles/global.css の --font-sans も合わせる
         cssVariable: "--font-noto-sans-jp",
         name: "Noto Sans JP",
-        provider: fontProviders.npm(),
-        styles: ["normal"],
-        weights: [bodyFontWeight, boldFontWeight],
+        options: { variants: bundledFontVariants },
+        provider: fontProviders.local(),
       },
     ],
     i18n: {
