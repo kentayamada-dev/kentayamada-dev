@@ -24,14 +24,14 @@ url = "https://github.com/bats-core/bats-core/archive/refs/tags/v1.14.0.tar.gz"
 url_api = "https://api.github.com/repos/bats-core/bats-core/tarball/v1.14.0"
 
 [[tools.betterleaks]]
-version = "v1.10.0"
+version = "v1.10.1"
 backend = "aqua:betterleaks/betterleaks"
-specifiers = ["v1.10.0"]
+specifiers = ["v1.10.1"]
 
 [tools.betterleaks."platforms.linux-arm64"]
-checksum = "sha256:3d7585cbe4f947aef6e31662f65beb5b43b104381a691b6b81b157ebfbb0c02d"
-url = "https://github.com/betterleaks/betterleaks/releases/download/v1.10.0/betterleaks_1.10.0_linux_arm64.tar.gz"
-url_api = "https://api.github.com/repos/betterleaks/betterleaks/releases/assets/710841284"
+checksum = "sha256:62a63199f9f61a6b5e5a6f58f048493db20fbc8c770014f4d903a4d97886e1bf"
+url = "https://github.com/betterleaks/betterleaks/releases/download/v1.10.1/betterleaks_1.10.1_linux_arm64.tar.gz"
+url_api = "https://api.github.com/repos/betterleaks/betterleaks/releases/assets/740237676"
 provenance = "cosign"
 
 [[tools.editorconfig-checker]]
@@ -121,14 +121,14 @@ url = "https://github.com/koalaman/shellcheck/releases/download/v0.11.0/shellche
 url_api = "https://api.github.com/repos/koalaman/shellcheck/releases/assets/279056934"
 
 [[tools.uv]]
-version = "0.13.7"
+version = "0.13.8"
 backend = "aqua:astral-sh/uv"
-specifiers = ["0.13.7"]
+specifiers = ["0.13.8"]
 
 [tools.uv."platforms.linux-arm64"]
-checksum = "sha256:71279f8d3c67241e807b9d8db872d1bf541579fb9f08b7d1eb1682196d1e57dc"
-url = "https://github.com/astral-sh/uv/releases/download/0.13.7/uv-aarch64-unknown-linux-gnu.tar.gz"
-url_api = "https://api.github.com/repos/astral-sh/uv/releases/assets/704009469"
+checksum = "sha256:74f2f5c6024d397481db228db8fc25eed420db192243f88438c118e7e013e585"
+url = "https://github.com/astral-sh/uv/releases/download/0.13.8/uv-aarch64-unknown-linux-gnu.tar.gz"
+url_api = "https://api.github.com/repos/astral-sh/uv/releases/assets/740313629"
 provenance = "github-attestations"
 
 [[tools.zizmor]]

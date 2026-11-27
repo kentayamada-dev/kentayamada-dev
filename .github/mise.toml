@@ -3,7 +3,7 @@
 [tools]
 actionlint = "1.7.12"
 bats = "1.14.0"
-betterleaks = "v1.10.0"
+betterleaks = "v1.10.1"
 # mise のレジストリで github バックエンドが指定されているため、github: を付けずに書く
 editorconfig-checker = "4.0.2"
 # mise のレジストリでは aqua バックエンドだが、aqua レジストリの定義に検証の設定がないため、github バックエンドで入れる
@@ -19,5 +19,5 @@ hadolint = "2.15.1"
 jq = "1.8.2"
 lychee = "0.24.2"
 shellcheck = "0.11.0"
-uv = "0.13.7"
+uv = "0.13.8"
 zizmor = "1.32.0"
