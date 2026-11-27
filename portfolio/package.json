@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "14.4.9",
+    "@fontsource-variable/noto-sans-jp": "5.3.1",
     "astro": "7.4.13"
   },
   "devDependencies": {

@@ -71,6 +71,13 @@ jobs:
         run: docker compose run --rm lighthouse --collect.settings.preset=desktop --upload.outputDir=lighthouse-report/desktop
       - if: steps.lighthouse-desktop.outcome == 'success'
         run: jq --raw-output --arg form_factor デスクトップ "$lighthouse_warnings" "$lighthouse_results"
+      # 検証用。フォントの転送サイズ・CLS・性能の点数をレポートごとに出す
+      - if: ${{ !cancelled() && steps.lighthouse-mobile.outcome != 'skipped' }}
+        run: >-
+          find portfolio/lighthouse-report -name '*.json' ! -name 'manifest.json' -print0
+          | xargs -0 jq -r '[.configSettings.formFactor, .finalDisplayedUrl,
+          ([.audits["resource-summary"].details.items[] | select(.resourceType == "font") | .transferSize] | first),
+          .audits["cumulative-layout-shift"].numericValue, .categories.performance.score] | @tsv'
       # 失敗させない基準の詳細も見られるよう、成否によらずレポートを上げる
       - if: ${{ !cancelled() && steps.lighthouse-mobile.outcome != 'skipped' }}
         uses: actions/upload-artifact@v7.0.2
