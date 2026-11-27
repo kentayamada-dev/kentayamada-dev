@@ -4,7 +4,7 @@ services:
     # 作り直しやイメージの取り直しで確認していない版が入らないよう、版を固定する。n8n は版が上がると動かなくなる変更がある
     # https://docs.n8n.io/release-notes/v20-breaking-changes
     # イメージのリポジトリを変えるときは、setup-data-volume.sh の n8n_repository も合わせる
-    image: n8nio/n8n:2.48.3@sha256:893e0a81558a4f4128df5bfb65be15e5f1c216563b9ed1c995c9da2289e2fadd
+    image: n8nio/n8n:2.48.4@sha256:63bdcfdea7e0d21152a7ad8f62e6622658c5eae3835e7515dbd9b610cdb76111
     # container_name を変えるときは、cloudflare.tf のトンネルの転送先のホスト名も合わせる
     container_name: n8n
     restart: unless-stopped
