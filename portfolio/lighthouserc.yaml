@@ -30,7 +30,7 @@ ci:
       # 性能の点数は、検査するマシンの負荷で揺れるため、満点を求めずに余裕を持たせる
       "categories:performance":
         - error
-        - minScore: 0.9
+        - minScore: 1.1
       # 点数より揺れにくい配信サイズで、大きな増加を止める。値は圧縮後の転送サイズのバイト数で、lhci の静的サーバーは gzip で返す
       # https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/utils/src/assertions.js#L336-L356 https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/collect/fallback-server.js#L30
       "resource-summary:total:size":
