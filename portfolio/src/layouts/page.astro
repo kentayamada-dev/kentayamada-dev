@@ -23,7 +23,7 @@ const styles = {
     title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
     // 文字の幅に端数が出ると、枠を描く位置がブラウザごとに 1px ずれるため、どちらの言語の文字も収まる整数の幅を最小にする。文字を変えるときは収まるか確かめる
     toggle:
-      "min-inline-36 rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 dark:border-zinc-700 dark:text-zinc-50",
+      "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 min-inline-36 dark:border-zinc-700 dark:text-zinc-50",
   },
   wordings: Readonly<Record<Locale, Wording>> = {
     en: {

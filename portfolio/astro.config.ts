@@ -32,7 +32,7 @@ const bodyFontWeight = 400,
     }),
     // OS とブラウザごとに選ばれる日本語のフォントが違い、文字の幅も変わるため、どの環境でもサイトから配信する Noto Sans JP で描く。
     // CSS はインストールした @fontsource/noto-sans-jp から使う太さの分だけ読み、Unicode の範囲で分けたファイルのうち、ページに要るものだけをブラウザが取る。
-    // remote: false は、npm のプロバイダーが返す file:// の URL を Astro が読めずにビルドが止まるので使わず、ファイルはビルドのときに jsDelivr から取る
+    // Astro は npm のプロバイダーが返す file:// の URL を読めずにビルドが止まるので、remote: false は使わず、ファイルはビルドのときに jsDelivr から取る
     // https://github.com/unjs/unifont/blob/v1.0.3/src/providers/npm.ts https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/assets/fonts/infra/cached-font-fetcher.ts#L38-L41
     fonts: [
       {
