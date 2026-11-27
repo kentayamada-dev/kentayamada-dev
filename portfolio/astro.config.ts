@@ -1,22 +1,14 @@
 import cloudflare from "@astrojs/cloudflare";
-import unicodeRanges from "@fontsource/noto-sans-jp/unicode.json" with { type: "json" };
 import tailwindcss from "@tailwindcss/vite";
 import type { AstroUserConfig } from "astro";
 import { defineConfig, fontProviders } from "astro/config";
 
 import { browsersIn } from "./scripts/browser-range.mts";
+import { notoSansJpVariants } from "./scripts/font-variants.mts";
 import type { Locale } from "./src/i18n.ts";
 import { defaultLocale, locales } from "./src/i18n.ts";
 
 type Config = AstroUserConfig<Locale[], never, [ReturnType<typeof fontProviders.local>]>;
-
-interface FontVariant {
-  display: "swap";
-  src: [string];
-  style: "normal";
-  unicodeRange: [string, ...string[]];
-  weight: number;
-}
 
 // 配信する Noto Sans JP の太さ。本文は 400、見出しの font-semibold は 600。ほかの太さのクラスを使うときは、ここにも足す
 const bodyFontWeight = 400,
@@ -34,25 +26,6 @@ const bodyFontWeight = 400,
     ["opera", "opera"],
     ["safari", "safari"],
   ]).map(({ browser, version }): string => `${browser}${version}`),
-  // パッケージの unicode.json の範囲ごとに分けたファイルを、配信する太さの分だけ並べる。ブラウザは、ページの文字に要る範囲のファイルだけを取る
-  bundledFontVariants: FontVariant[] = [bodyFontWeight, boldFontWeight].flatMap(
-    (weight: number): FontVariant[] =>
-      Object.entries(unicodeRanges).map(
-        ([subset, range]: readonly [string, string]): FontVariant => {
-          const [first = "", ...rest] = range.split(",");
-          return {
-            display: "swap",
-            // ファイルの名前では、unicode.json の [0] のような名前から角かっこを除いた数字になる
-            src: [
-              `@fontsource/noto-sans-jp/files/noto-sans-jp-${subset.replace("[", "").replace("]", "")}-${String(weight)}-normal.woff2`,
-            ],
-            style: "normal",
-            unicodeRange: [first, ...rest],
-            weight,
-          };
-        },
-      ),
-  ),
   config: Config = defineConfig({
     // / だけをリクエストごとに描き、ブラウザの言語で振り分けるため
     adapter: cloudflare({
@@ -69,7 +42,7 @@ const bodyFontWeight = 400,
         // 変えるときは、src/layouts/page.astro の Font と src/styles/global.css の --font-sans も合わせる
         cssVariable: "--font-noto-sans-jp",
         name: "Noto Sans JP",
-        options: { variants: bundledFontVariants },
+        options: { variants: notoSansJpVariants([bodyFontWeight, boldFontWeight]) },
         provider: fontProviders.local(),
       },
     ],
