@@ -34,7 +34,7 @@ const bodyFontWeight = 400,
     ["opera", "opera"],
     ["safari", "safari"],
   ]).map(({ browser, version }): string => `${browser}${version}`),
-  // unicode.json の範囲ごとに分けたファイルを、配信する太さの分だけ並べる。ブラウザは、ページの文字に要る範囲のファイルだけを取る
+  // パッケージの unicode.json の範囲ごとに分けたファイルを、配信する太さの分だけ並べる。ブラウザは、ページの文字に要る範囲のファイルだけを取る
   bundledFontVariants: FontVariant[] = [bodyFontWeight, boldFontWeight].flatMap(
     (weight: number): FontVariant[] =>
       Object.entries(unicodeRanges).map(
@@ -42,7 +42,7 @@ const bodyFontWeight = 400,
           const [first = "", ...rest] = range.split(",");
           return {
             display: "swap",
-            // unicode.json の [0] のような名前は、ファイルの名前では角かっこを除いた数字になる
+            // ファイルの名前では、unicode.json の [0] のような名前から角かっこを除いた数字になる
             src: [
               `@fontsource/noto-sans-jp/files/noto-sans-jp-${subset.replace("[", "").replace("]", "")}-${String(weight)}-normal.woff2`,
             ],
@@ -62,7 +62,7 @@ const bodyFontWeight = 400,
     }),
     // OS とブラウザごとに選ばれる日本語のフォントが違い、文字の幅も変わるため、どの環境でもサイトから配信する Noto Sans JP で描く。
     // ファイルは、ビルドで外部に取りに行かないよう、インストールした @fontsource/noto-sans-jp から local のプロバイダーで読む。
-    // npm のプロバイダーは、remote: false にすると Astro が file:// の URL を読めずにビルドが止まり、既定では jsDelivr から取るため使わない
+    // Fonts API の npm のプロバイダーは、remote: false にすると Astro が file:// の URL を読めずにビルドが止まり、既定では jsDelivr から取るため使わない
     // https://github.com/unjs/unifont/blob/v1.0.3/src/providers/npm.ts https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/assets/fonts/infra/cached-font-fetcher.ts#L38-L41
     fonts: [
       {
