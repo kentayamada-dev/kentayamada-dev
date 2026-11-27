@@ -1,14 +1,18 @@
 import cloudflare from "@astrojs/cloudflare";
 import tailwindcss from "@tailwindcss/vite";
 import type { AstroUserConfig } from "astro";
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 
 import { browsersIn } from "./scripts/browser-range.mts";
+import type { Locale } from "./src/i18n.ts";
 import { defaultLocale, locales } from "./src/i18n.ts";
 
-// 範囲は .browserslistrc から読む。ブラウザごとに最も古い版を選ぶのは Vite に任せる
-// https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3670-L3691
-const browserTargets: string[] = browsersIn([
+// 配信する Noto Sans JP の太さ。本文は 400、見出しの font-semibold は 600。ほかの太さのクラスを使うときは、ここにも足す
+const bodyFontWeight = 400,
+  boldFontWeight = 600,
+  // 範囲は .browserslistrc から読む。ブラウザごとに最も古い版を選ぶのは Vite に任せる
+  // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3670-L3691
+  browserTargets: string[] = browsersIn([
     // ブラウザ名を、Vite の cssTarget が受け付ける名前に読み替える。受け付けないブラウザ（Samsung Internet など）を渡すとビルドが止まるので除く
     // https://github.com/vitejs/vite/blob/v8.3.8/packages/vite/src/node/plugins/css.ts#L3584-L3598
     ["chrome", "chrome"],
@@ -19,13 +23,27 @@ const browserTargets: string[] = browsersIn([
     ["opera", "opera"],
     ["safari", "safari"],
   ]).map(({ browser, version }): string => `${browser}${version}`),
-  config: AstroUserConfig = defineConfig({
+  config: AstroUserConfig<Locale[], never, [ReturnType<typeof fontProviders.npm>]> = defineConfig({
     // / だけをリクエストごとに描き、ブラウザの言語で振り分けるため
     adapter: cloudflare({
       // 画像を変換しないため、既定の Cloudflare Images の binding を作らせない
       // https://github.com/withastro/docs/blob/565bb9f56404e331deebb6d66594ebb43902cadc/src/content/docs/en/guides/integrations-guide/cloudflare.mdx?plain=1#L116-L127
       imageService: "passthrough",
     }),
+    // OS とブラウザごとに選ばれる日本語のフォントが違い、文字の幅も変わるため、どの環境でもサイトから配信する Noto Sans JP で描く。
+    // CSS はインストールした @fontsource/noto-sans-jp から使う太さの分だけ読み、Unicode の範囲で分けたファイルのうち、ページに要るものだけをブラウザが取る。
+    // remote: false は、npm のプロバイダーが返す file:// の URL を Astro が読めずにビルドが止まるので使わず、ファイルはビルドのときに jsDelivr から取る
+    // https://github.com/unjs/unifont/blob/v1.0.3/src/providers/npm.ts https://github.com/withastro/astro/blob/astro%407.4.13/packages/astro/src/assets/fonts/infra/cached-font-fetcher.ts#L38-L41
+    fonts: [
+      {
+        // 変えるときは、src/layouts/page.astro の Font と src/styles/global.css の --font-sans も合わせる
+        cssVariable: "--font-noto-sans-jp",
+        name: "Noto Sans JP",
+        provider: fontProviders.npm(),
+        styles: ["normal"],
+        weights: [bodyFontWeight, boldFontWeight],
+      },
+    ],
     i18n: {
       defaultLocale,
       locales: [...locales],

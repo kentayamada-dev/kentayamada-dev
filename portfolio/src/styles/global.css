@@ -1,15 +1,12 @@
 @import "tailwindcss";
 
 /*
- * 並べたフォントに字形がない日本語は、ブラウザが選ぶフォントで描かれ、同じ環境でもボタンの幅がブラウザごとに変わったため、日本語のフォントを sans-serif の前に並べる。
- * 日本語のフォントのほかは Tailwind の既定の値で、tailwindcss を上げるときは見比べて合わせる。Playwright のイメージを変えるときは、そのイメージにある日本語のフォントがここにあるか確かめる
- * https://github.com/tailwindlabs/tailwindcss/blob/v4.3.5/packages/tailwindcss/theme.css
+ * 変数は Tailwind ではなく src/layouts/page.astro の Font が head に書くため、Astro のドキュメントのとおり、@theme inline で値ではなく変数を参照させる。
+ * 変数の名前を変えるときは、astro.config.ts と src/layouts/page.astro も合わせる
+ * https://github.com/withastro/docs/blob/565bb9f56404e331deebb6d66594ebb43902cadc/src/content/docs/en/guides/fonts.mdx?plain=1
  */
-@theme {
-  --font-sans:
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial,
-    "Hiragino Sans", "Noto Sans CJK JP", IPAGothic, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+@theme inline {
+  --font-sans: var(--font-noto-sans-jp);
 }
 
 /*
