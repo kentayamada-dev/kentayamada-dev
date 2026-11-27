@@ -22,8 +22,8 @@ allowBuilds:
   esbuild: false
   vnu-jar: false
   workerd: false
-# @lhci/cli が使う lighthouse の依存の chromium-bidi は、157.0.8090-0 から provenance なしで公開され、trustPolicy に拒否されるため。公開のしかたが変わった理由は未確認。
-# 版ごとに除外するので、lighthouse を上げて chromium-bidi の版が変わったら、その版の公開元を確認してから書き換える
-# https://registry.npmjs.org/chromium-bidi/157.0.8090-0 https://pnpm.io/settings/dependency-resolution#trustpolicyexclude
+# @lhci/cli が使う lighthouse の依存の puppeteer-core が入れる chromium-bidi は、17.0.2 よりあとの版が provenance なしで公開され、trustPolicy に拒否されるため。公開のしかたが変わった理由は未確認。
+# 版は puppeteer-core が決め、ロックファイルの更新でも変わるので、版ではなく名前で除外する。provenance つきの公開に戻ったら、この除外を外す
+# https://registry.npmjs.org/chromium-bidi https://pnpm.io/settings/dependency-resolution#trustpolicy
 trustPolicyExclude:
-  - chromium-bidi@157.0.8090-0
+  - chromium-bidi
