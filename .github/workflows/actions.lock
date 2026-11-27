@@ -45,7 +45,6 @@ workflows:
     '.github/workflows/portfolio-check.yml':
         - 'actions/checkout@v7.0.1'
         - 'actions/upload-artifact@v7.0.2'
-        - 'jdx/mise-action@90f833d396d0cc3674b631d2d225e306476c303a'
     '.github/workflows/portfolio-deploy.yml':
         - 'actions/checkout@v7.0.1'
     '.github/workflows/pr-title.yml':
