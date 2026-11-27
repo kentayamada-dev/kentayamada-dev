@@ -63,6 +63,21 @@ PR では、OSV-Scanner で依存関係の脆弱性とライセンスを検査�
 - OSV-Scanner がライセンスを判定できないパッケージは、[`.github/osv-scanner-licenses.toml`](../.github/osv-scanner-licenses.toml) でライセンスを指定する
 - 脆弱性をすぐに直せないときは、ロックファイルと同じディレクトリの `osv-scanner.toml` で、理由と期限を付けて除外する
 
+### コードの重複
+
+PR では、jscpd でコードの重複を検査する。
+設定は [`.github/jscpd/.jscpd.json`](../.github/jscpd/.jscpd.json) にある。
+JSON にはコメントを書けないため、設定の理由をここに書く。
+
+- 重複が見つかると失敗する。jscpd は、終了コードを指定しないと、重複があっても 0 で終わる（[Exit codes](https://github.com/kucherenko/jscpd/blob/v5.4.3/docs/rust.md#exit-codes)）
+- 検査するファイルが 1 つもないときも失敗する。除外を誤ってすべてのファイルを除いても、0 で終わらないようにする
+- 次のファイルは検査しない
+  - `pnpm-lock.yaml` と `.terraform.lock.hcl`: pnpm と Terraform が生成し、重複を手で直せない
+  - `node_modules`: `.gitignore` に一致せず、CI で入れたパッケージまで検査される
+  - ワークフロー: `on`・`permissions`・`concurrency` やセットアップのステップを、ファイルごとに書くしかない
+  - `pnpm-workspace.yaml`: 意図して同じ設定にそろえている
+  - [`infra/workflows/`](../infra/workflows/): n8n のワークフローのバックアップが書き出す JSON で、手で直しても次のバックアップで戻る
+
 ### portfolio のページの検査
 
 portfolio は、ビルドしたすべてのページを検査する。

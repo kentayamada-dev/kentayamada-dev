@@ -1,0 +1,12 @@
+{
+  "exitCode": 1,
+  "failOnEmpty": true,
+  "ignore": [
+    "**/pnpm-lock.yaml",
+    "**/.terraform.lock.hcl",
+    "**/node_modules/**",
+    "**/.github/workflows/**",
+    "**/pnpm-workspace.yaml",
+    "**/infra/workflows/**"
+  ]
+}
