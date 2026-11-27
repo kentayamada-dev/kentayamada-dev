@@ -72,7 +72,7 @@ JSON にはコメントを書けないため、設定の理由をここに書く
 - 重複が見つかると失敗する。jscpd は、終了コードを指定しないと、重複があっても 0 で終わる（[Exit codes](https://github.com/kucherenko/jscpd/blob/v5.4.3/docs/rust.md#exit-codes)）
 - 検査するファイルが 1 つもないときも失敗する。除外を誤ってすべてのファイルを除いても、0 で終わらないようにする
 - 次のファイルは検査しない
-  - `pnpm-lock.yaml` と `.terraform.lock.hcl`: pnpm と Terraform が生成し、重複を手で直せない
+  - `pnpm-lock.yaml`・`.terraform.lock.hcl`: pnpm や Terraform が生成し、重複を手で直せない
   - `node_modules`: `.gitignore` に一致せず、CI で入れたパッケージまで検査される
   - ワークフロー: `on`・`permissions`・`concurrency` やセットアップのステップを、ファイルごとに書くしかない
   - `pnpm-workspace.yaml`: 意図して同じ設定にそろえている
