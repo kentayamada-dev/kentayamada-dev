@@ -8,7 +8,7 @@ export interface FontVariant {
   weight: number;
 }
 
-// unicode.json の範囲ごとに分けたファイルを、太さの分だけ並べる。ブラウザは、ページの文字に要る範囲のファイルだけを取る
+// パッケージの unicode.json の範囲ごとに分けたファイルを、太さの分だけ並べる。ブラウザは、ページの文字に要る範囲のファイルだけを取る
 export const notoSansJpVariants = (weights: readonly number[]): [FontVariant, ...FontVariant[]] => {
   const [first, ...rest] = weights.flatMap((weight): FontVariant[] =>
     Object.entries(unicodeRanges).map(([subset, range]: readonly [string, string]): FontVariant => {
@@ -26,7 +26,7 @@ export const notoSansJpVariants = (weights: readonly number[]): [FontVariant, ..
     }),
   );
   // Astro の local のプロバイダーは、variants に 1 つ以上を求める
-  if (first === undefined) {
+  if (typeof first !== "object") {
     throw new Error("@fontsource/noto-sans-jp の unicode.json に範囲がありません");
   }
   return [first, ...rest];
