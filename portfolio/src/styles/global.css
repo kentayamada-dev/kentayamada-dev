@@ -1,9 +1,8 @@
 @import "tailwindcss";
-@import "@fontsource-variable/noto-sans-jp";
 
-/* 検証用。どの環境でも、サイトから配信する Noto Sans JP だけで描く */
-@theme {
-  --font-sans: "Noto Sans JP Variable", sans-serif;
+/* 検証用。どの環境でも、Astro の Fonts API で配信する Noto Sans JP だけで描く */
+@theme inline {
+  --font-sans: var(--font-noto-sans-jp);
 }
 
 /*

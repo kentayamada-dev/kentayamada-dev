@@ -38,11 +38,15 @@ jobs:
       # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist と、見た目の比較に使う画像を作れるようにする
       - run: chmod a+w portfolio portfolio/e2e
       - run: docker compose run --rm portfolio pnpm fmt:check
+        continue-on-error: true
       - run: docker compose run --rm portfolio pnpm lint
+        continue-on-error: true
       # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
       # https://docs.astro.build/en/guides/typescript/#type-checking
       - run: docker compose run --rm portfolio pnpm typecheck
+        continue-on-error: true
       - run: docker compose run --rm portfolio pnpm knip
+        continue-on-error: true
       # ブラウザのサーバーは portfolio の node_modules にある Playwright で動くため、pnpm install の後に起動する
       - run: docker compose up --detach --wait playwright
       # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある

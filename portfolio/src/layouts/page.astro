@@ -1,5 +1,6 @@
 ---
 import "@/styles/global.css";
+import { Font } from "astro:assets";
 import { getRelativeLocaleUrl } from "astro:i18n";
 
 import type { Locale } from "@/i18n";
@@ -50,6 +51,7 @@ const styles = {
     <meta name="description" content={wording.description} />
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
+    <Font cssVariable="--font-noto-sans-jp" />
     {/*
       ボタンの script は Astro が type="module" にし、ページを読み終えるまで動かないため、それまで OS の配色で表示されないよう、保存した配色は処理させずにここで先に当てる。
       localStorage のキーとクラス名を変えるときは、ボタンの script と src/styles/global.css の dark の variant も合わせる

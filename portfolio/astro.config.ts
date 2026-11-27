@@ -1,7 +1,7 @@
 import cloudflare from "@astrojs/cloudflare";
 import tailwindcss from "@tailwindcss/vite";
 import type { AstroUserConfig } from "astro";
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 
 import { browsersIn } from "./scripts/browser-range.mts";
 import { defaultLocale, locales } from "./src/i18n.ts";
@@ -26,6 +26,16 @@ const browserTargets: string[] = browsersIn([
       // https://github.com/withastro/docs/blob/565bb9f56404e331deebb6d66594ebb43902cadc/src/content/docs/en/guides/integrations-guide/cloudflare.mdx?plain=1#L116-L127
       imageService: "passthrough",
     }),
+    // 検証用。インストールした @fontsource/noto-sans-jp の CSS から、使う太さだけを読む。remote: false は、Astro 7.4.13 が file:// の URL を fetch できずにビルドが止まるので使わない
+    fonts: [
+      {
+        cssVariable: "--font-noto-sans-jp",
+        name: "Noto Sans JP",
+        provider: fontProviders.npm(),
+        styles: ["normal"],
+        weights: [400, 600],
+      },
+    ],
     i18n: {
       defaultLocale,
       locales: [...locales],
