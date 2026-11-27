@@ -27,7 +27,7 @@ export const notoSansJpVariants = (weights: readonly number[]): [FontVariant, ..
   );
   // Astro の local のプロバイダーは、variants に 1 つ以上を求める
   if (typeof first !== "object") {
-    throw new Error("@fontsource/noto-sans-jp の unicode.json に範囲がありません");
+    throw new TypeError("@fontsource/noto-sans-jp の unicode.json に範囲がありません");
   }
   return [first, ...rest];
 };
