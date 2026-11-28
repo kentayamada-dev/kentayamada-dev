@@ -30,6 +30,9 @@ const baseURL = "http://127.0.0.1:4321",
         // つなぐ先の compose.yaml の playwright のサービス名か SERVER_PORT を変えるときは、ここも合わせる
         wsEndpoint: "ws://playwright:3000/",
       },
+      // CI で落ちたテストを、上げたレポートのトレースで追えるようにする。既定の off では、エラーと差分の画像しか残らない
+      // https://github.com/microsoft/playwright/blob/v1.65.1/packages/playwright/src/index.ts#L82
+      trace: "retain-on-failure",
     },
     webServer: {
       // ビルドした dist はテストを集めるときに要るため、ここではビルドせず、テストより前にビルドしたものを開く
