@@ -21,7 +21,7 @@ x-portfolio-dir: &portfolio-dir /workspace/portfolio
 x-playwright: &playwright
   working_dir: *portfolio-dir
   # タグの書き方を変えるときは、.github/renovate.json5 の customManagers の matchStrings も合わせる
-  image: mcr.microsoft.com/playwright:v1.65.1-noble
+  image: mcr.microsoft.com/playwright:v1.64.1-noble
   # イメージの既定の root でブラウザを動かさないよう、イメージにある一般ユーザーで動かす
   # https://github.com/microsoft/playwright/blob/v1.65.1/docs/src/docker.md?plain=1#L38
   user: pwuser
