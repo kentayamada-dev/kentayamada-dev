@@ -92,7 +92,7 @@ OS のイメージを変えるときなど、インスタンスを作り直す�
 
 ## n8n と cloudflared を更新する
 
-n8n の版は [`infra/compose.yml`](../infra/compose.yml) で固定し、ほかの依存と同じく Renovate が更新する。
+n8n・cloudflared の版は [`infra/compose.yml`](../infra/compose.yml) で固定し、ほかの依存と同じく Renovate が更新する。
 サーバーには自動では反映しないため、main に入ったら次の手順で反映する。
 
 1. サーバーの `~/kentayamada-dev` で `git pull` する
@@ -100,7 +100,8 @@ n8n の版は [`infra/compose.yml`](../infra/compose.yml) で固定し、ほか�
 
 n8n の版は下げない。新しい版がデータベースの形を変えると、古い版で動くとは限らない。
 
-cloudflared は、サーバーの `infra/` で `sudo docker compose pull cf` と `sudo docker compose up -d cf` を実行して更新する。
+cloudflared の年が変わる更新（major）は、自動マージの対象外なので、Renovate の PR を手動でマージする。
+最新版から 1 年より古い版は、サポートされない（[Cloudflare のドキュメント](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/downloads/#deprecated-releases)）。
 
 OS のパッケージは自動では更新しない。サーバーで `sudo apt upgrade` を実行する。
 
