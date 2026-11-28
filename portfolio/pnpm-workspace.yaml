@@ -1,4 +1,4 @@
-# storeDir・allowBuilds・trustPolicyExclude のほかは .github/textlint/pnpm-workspace.yaml と同じ設定にする。それぞれの理由は、そちらのコメントにある
+# storeDir・allowBuilds・trustPolicyExclude・overrides のほかは .github/textlint/pnpm-workspace.yaml と同じ設定にする。それぞれの理由は、そちらのコメントにある
 engineStrict: true
 saveExact: true
 minimumReleaseAge: 1440
@@ -27,3 +27,8 @@ allowBuilds:
 # https://registry.npmjs.org/chromium-bidi https://pnpm.io/settings/dependency-resolution#trustpolicy
 trustPolicyExclude:
   - chromium-bidi
+# @lhci/cli は chrome-launcher を ^0.13.4 で指定し、その依存の rimraf 3・glob 7・inflight が非推奨の警告を出すため、rimraf に依存しない 1.x にする。
+# @lhci/cli が使うのは Launcher.getInstallations だけで、1.x にもある。1.x は ESM だが、トップレベルの await がないので、Node は require で読める。@lhci/cli を上げたら、この上書きが要るか確かめる
+# https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/utils.js#L10 https://nodejs.org/docs/v26.13.0/api/modules.html#loading-ecmascript-modules-using-require
+overrides:
+  "@lhci/cli>chrome-launcher": ^1.2.3
