@@ -1,2 +1,4 @@
-# 対応するのは主要なブラウザの今の版だけにする。変えるときは、oxlint/baseline-js.jsonc の available も合わせる
-baseline newly available
+# 範囲は newly ではなく年で決める。lint の baseline-js が同梱する web-features と版が違っても、終わった年までに Baseline になった機能の一覧はそろうため
+# 年を上げるときは、oxlint/baseline-js.jsonc の available も合わせ、どちらのデータもその年の終わりより後に作られた版か確かめる
+# https://github.com/browserslist/browserslist/blob/4.29.6/README.md?plain=1#L232
+baseline 2025

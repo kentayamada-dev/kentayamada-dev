@@ -5,8 +5,8 @@
     "baseline-js/use-baseline": [
       "error",
       {
-        // 変えるときは、CSS の変換の対象を決める .browserslistrc も合わせる
-        "available": "newly",
+        // 年を変えるときは、CSS の変換の対象を決める .browserslistrc も合わせる
+        "available": 2025,
         // Web API と JS の組み込みの判定は、指定しないと無効になるため
         // https://github.com/3ru/eslint-plugin-baseline-js/blob/v0.7.7/src/orchestrator/use-baseline.ts#L170-L171
         "includeWebApis": { "preset": "auto" },
