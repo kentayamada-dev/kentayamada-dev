@@ -1,6 +1,6 @@
 # terraform init がプロバイダーとモジュールの取得に使う CA 証明書と git が入っており、apt で入れずに済むため（apt で入れると hadolint が版の固定を求める）
 # https://github.com/docker-library/buildpack-deps/blob/1f4fe499c668d9a2e1578aa8db4f0b2d14482cf5/debian/trixie/scm/Dockerfile
-FROM buildpack-deps:trixie-scm@sha256:4f34e1d673fdb65371de9f88bdd32c4e30152fe692b35604aef5c0b3c0e6da10
+FROM buildpack-deps:trixie-scm@sha256:d524aa66d91264606eddea5b94af462fc3b969b84a1d4083e537a9ab84b579c5
 
 LABEL org.opencontainers.image.title="infra" \
   org.opencontainers.image.description="infra の Dev Container" \
