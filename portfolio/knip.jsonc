@@ -1,7 +1,7 @@
 {
   "$schema": "https://unpkg.com/knip@6/schema-jsonc.json",
   // compose.yaml のサービスが node_modules から直接動かし、Knip が読むスクリプトやコードからは使わないため
-  "ignoreDependencies": ["@lhci/cli", "vnu-jar"],
+  "ignoreDependencies": ["@lhci/cli", "vnu-jar", "left-pad"],
   // 既定では、使われなくなった除外などの設定のヒントを出しても終了コードが 0 で、CI が通って設定が残るため
   // https://github.com/webpro-nl/knip/blob/knip%406.46.1/packages/knip/src/util/create-options.ts#L216
   "treatConfigHintsAsErrors": true
