@@ -36,9 +36,10 @@ services:
           create_host_path: false
 
   cf:
-    # 最新版から 1 年より古い版はサポートされないため、latest を使い続ける
-    # https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/downloads/#deprecated-releases
-    image: cloudflare/cloudflared:latest@sha256:e613aadbc2d9511785d2e67a86b0c8ac18dd63a3f9af0d06faf04cbfdcb35f2d
+    # latest だと、Renovate がダイジェストの更新に比べる公開日時がなく、待ちが明けずに上がらなくなるため、版のタグにして Renovate に上げさせる。
+    # 最新版から 1 年より古い版はサポートされないので、年が変わって major の更新になったら、自動ではマージされないため手でマージする
+    # https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/downloads/#deprecated-releases https://github.com/renovatebot/renovate/blob/44.226.3/lib/workers/repository/process/lookup/digest.ts#L85-L120
+    image: cloudflare/cloudflared:2026.11.2@sha256:55c7e3e8d89d5e8d20b75a82f3602cbf98e06db406e73e282073cfdc5a9a3af6
     container_name: cf
     restart: unless-stopped
     command: tunnel --no-autoupdate run
