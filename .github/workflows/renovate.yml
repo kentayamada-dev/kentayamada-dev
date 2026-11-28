@@ -40,7 +40,7 @@ jobs:
           # デフォルトの GHCR からは公開時刻が取れず、renovate.json5 の minimumReleaseAge が効かないため、Docker Hub の公式イメージを使う
           # https://docs.renovatebot.com/key-concepts/minimum-release-age/#which-registries-support-release-timestamps
           renovate-image: renovate/renovate
-          renovate-version: 44.226.3
+          renovate-version: 44.239.1
         env:
           RENOVATE_REPOSITORIES: ${{ github.repository }}
           # Docker Hub は未ログインだと 1000 件目より先を返さない。超えて失敗すると公開時刻のないタグ一覧に切り替わり、minimumReleaseAge の待ちが明けなくなる
