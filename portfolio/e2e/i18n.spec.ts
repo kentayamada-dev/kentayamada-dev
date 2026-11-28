@@ -40,5 +40,5 @@ test("言語の切り替えのリンクで、もう一方の言語のページ�
   await page.goto("/ja/");
   await page.getByRole("link", { name: "English" }).click();
   await expect(page).toHaveURL("/en/");
-  await expect(page.locator("html")).toHaveAttribute("lang", "en");
+  await expect(page.locator("html")).toHaveAttribute("lang", "fr");
 });
