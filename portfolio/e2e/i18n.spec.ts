@@ -36,6 +36,13 @@ for (const [acceptLanguage, location] of [
   });
 }
 
+// Playwright の request は Accept-Language を送らないため、ヘッダーのない要求として確かめる
+// https://github.com/microsoft/playwright/blob/v1.65.1/packages/playwright-core/src/server/fetch.ts#L196-L202
+test("Accept-Language がなければ /ja/ へ移す", async ({ request }): Promise<void> => {
+  const response = await request.get("/", { maxRedirects: noRedirects });
+  expect(response.headers()).toMatchObject({ location: "/ja/", vary: "Accept-Language" });
+});
+
 test("言語の切り替えのリンクで、もう一方の言語のページに移る", async ({ page }): Promise<void> => {
   await page.goto("/ja/");
   await page.getByRole("link", { name: "English" }).click();
