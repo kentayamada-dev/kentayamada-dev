@@ -1,4 +1,4 @@
-name: portfolio の型・静的解析・ビルド
+name: portfolio の型・静的解析・ビルド・ページの検査
 
 on:
   pull_request:
@@ -29,12 +29,43 @@ jobs:
       # Dockerfile の ARG の値は compose.yaml から渡すため、docker build ではなく Compose でビルドする
       - run: docker compose build portfolio
       - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
-      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .next などを作れるようにする
-      - run: chmod a+w portfolio
+      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro や dist と、見た目の比較に使う画像を作れるようにする
+      - run: chmod a+w portfolio portfolio/e2e
       - run: docker compose run --rm portfolio pnpm fmt:check
       - run: docker compose run --rm portfolio pnpm lint
+      # astro build は型を検査せず、型の誤りがあってもビルドが通るため、別のステップで検査する
+      # https://docs.astro.build/en/guides/typescript/#type-checking
+      - run: docker compose run --rm portfolio pnpm typecheck
       - run: docker compose run --rm portfolio pnpm knip
-      # next build は tsconfig.json が選ぶプロジェクト全体の型を tsc で検査し、型の誤りで失敗するため、型の検査を別のステップで重ねない。
-      # 整形・lint が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
-      # https://nextjs.org/docs/app/api-reference/config/typescript https://nextjs.org/docs/app/glossary#build-time
-      - run: docker compose run --rm portfolio pnpm build
+      # ブラウザのサーバーは portfolio の node_modules にある Playwright で動くため、pnpm install の後に起動する
+      - run: docker compose up --detach --wait playwright
+      # テストはビルドし直したページを開くので、ビルドも兼ねる。整形・lint・型の検査が通っても、ビルドでページを事前にレンダリングするときに初めて失敗することもある
+      - id: e2e
+        run: docker compose run --rm portfolio pnpm test:e2e
+      # 失敗したときは、原因を見られるレポートを上げる
+      - if: failure() && steps.e2e.outcome == 'failure'
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: playwright-report
+          path: portfolio/playwright-report/
+      # HTML の検査と Lighthouse は、ビルドし直さずに、テストのステップでビルドした dist を検査する
+      - run: docker compose run --rm html-checker
+      - id: lighthouse-mobile
+        run: docker compose run --rm lighthouse --upload.outputDir=lighthouse-report/mobile
+      # モバイルで失敗しても、デスクトップの結果も見られるよう計測する
+      - if: ${{ !cancelled() && steps.lighthouse-mobile.outcome != 'skipped' }}
+        run: docker compose run --rm lighthouse --collect.settings.preset=desktop --upload.outputDir=lighthouse-report/desktop
+      # 通ったときも点数と配信サイズを見られるよう、成否によらずレポートを上げる
+      - if: ${{ !cancelled() && steps.lighthouse-mobile.outcome != 'skipped' }}
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: lighthouse-report
+          path: portfolio/lighthouse-report/
+      - id: visual
+        run: docker compose run --rm portfolio pnpm test:visual
+      # 失敗したときは、ブラウザごとの差分の画像を見られるレポートを上げる
+      - if: failure() && steps.visual.outcome == 'failure'
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: playwright-visual-report
+          path: portfolio/playwright-report/

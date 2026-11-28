@@ -1,0 +1,72 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    "typescript/ban-ts-comment": ["error", { "ts-expect-error": true }],
+    "typescript/consistent-type-assertions": ["error", { "assertionStyle": "never" }],
+    "typescript/explicit-function-return-type": [
+      "error",
+      {
+        "allowTypedFunctionExpressions": false,
+        "allowDirectConstAssertionInArrowFunctions": false,
+        "allowHigherOrderFunctions": false
+      }
+    ],
+    "typescript/explicit-module-boundary-types": [
+      "error",
+      {
+        "allowTypedFunctionExpressions": false,
+        "allowDirectConstAssertionInArrowFunctions": false,
+        "allowHigherOrderFunctions": false
+      }
+    ],
+    "typescript/no-base-to-string": ["error", { "checkUnknown": true, "ignoredTypeNames": [] }],
+    "typescript/no-floating-promises": ["error", { "ignoreVoid": false, "checkThenables": true }],
+    // explicit-function-return-type が async 関数にも戻り値の型を求め、Promise<void> と書くことになるため、型引数の void は Promise にだけ許す
+    "typescript/no-invalid-void-type": ["error", { "allowInGenericTypeArguments": ["Promise"] }],
+    "typescript/no-meaningless-void-operator": ["error", { "checkNever": true }],
+    "typescript/no-namespace": ["error", { "allowDefinitionFiles": false }],
+    "typescript/no-this-alias": ["error", { "allowDestructuring": false }],
+    "typescript/no-unnecessary-boolean-literal-compare": [
+      "error",
+      {
+        "allowComparingNullableBooleansToTrue": false,
+        "allowComparingNullableBooleansToFalse": false
+      }
+    ],
+    "typescript/no-unnecessary-condition": ["error", { "checkTypePredicates": true }],
+    "typescript/no-unnecessary-type-assertion": ["error", { "checkLiteralConstAssertions": true }],
+    "typescript/only-throw-error": [
+      "error",
+      { "allowRethrowing": false, "allowThrowingAny": false, "allowThrowingUnknown": false }
+    ],
+    "typescript/prefer-nullish-coalescing": ["error", { "ignoreConditionalTests": false }],
+    "typescript/promise-function-async": ["error", { "allowAny": false }],
+    "typescript/require-array-sort-compare": ["error", { "ignoreStringArrays": false }],
+    "typescript/restrict-plus-operands": [
+      "error",
+      {
+        "allowAny": false,
+        "allowBoolean": false,
+        "allowNullish": false,
+        "allowNumberAndString": false,
+        "allowRegExp": false
+      }
+    ],
+    "typescript/restrict-template-expressions": [
+      "error",
+      {
+        "allow": [],
+        "allowAny": false,
+        "allowBoolean": false,
+        "allowNullish": false,
+        "allowNumber": false,
+        "allowRegExp": false
+      }
+    ],
+    "typescript/strict-boolean-expressions": [
+      "error",
+      { "allowNullableObject": false, "allowString": false, "allowNumber": false }
+    ],
+    "typescript/triple-slash-reference": ["error", { "lib": "never", "types": "never" }]
+  }
+}

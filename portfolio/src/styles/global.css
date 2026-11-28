@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/*
+ * 変数は Tailwind ではなく src/layouts/page.astro の Font が head に書くため、Astro のドキュメントのとおり、@theme inline で値ではなく変数を参照させる。
+ * 変数の名前を変えるときは、astro.config.ts と src/layouts/page.astro も合わせる
+ * https://github.com/withastro/docs/blob/565bb9f56404e331deebb6d66594ebb43902cadc/src/content/docs/en/guides/fonts.mdx?plain=1
+ */
+@theme inline {
+  --font-sans: var(--font-noto-sans-jp);
+}
+
+/*
+ * ボタンで選んだ配色（html の dark・light のクラス）を優先し、選んでいなければ OS の設定に従う。JS が動く前の表示も OS の設定に合わせるため、メディアクエリを使う。
+ * クラス名を変えるときは、src/layouts/page.astro の 2 つの script も合わせる
+ */
+@custom-variant dark {
+  &:where(.dark, .dark *) {
+    @slot;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    &:where(:root:not(.light), :root:not(.light) *) {
+      @slot;
+    }
+  }
+}

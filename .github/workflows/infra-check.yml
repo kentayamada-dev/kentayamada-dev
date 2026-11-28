@@ -1,4 +1,4 @@
-name: infra の Terraform の書式・構文
+name: Terraform の書式・構文
 
 on:
   pull_request:
@@ -16,10 +16,14 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # 必須チェックの名前を変えずに済むよう、portfolio の Terraform も、このジョブで検査する
   infra-check:
     name: infra-check
     runs-on: ubuntu-26.04-arm
     timeout-minutes: 10
+    env:
+      # infra のコンテナのなかのパス。compose.yaml の x-workspace-volume のマウント先を変えるときは、合わせる
+      portfolio_terraform_dir: /workspace/portfolio/terraform
     steps:
       - uses: actions/checkout@v7.0.1
         with:
@@ -29,10 +33,16 @@ jobs:
       # Dockerfile の ARG の値は compose.yaml から渡すため、docker build ではなく Compose でビルドする
       - run: docker compose build infra
       # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .terraform を作り、ロックファイルを書き換えられるようにする
-      - run: chmod a+w infra/terraform infra/terraform/.terraform.lock.hcl
+      - run: >-
+          chmod a+w
+          infra/terraform infra/terraform/.terraform.lock.hcl
+          portfolio/terraform portfolio/terraform/.terraform.lock.hcl
       - run: docker compose run --rm infra terraform fmt -check -diff -recursive
       # CI には backend の設定と認証情報がないため、backend を使わずにプロバイダーだけを取得する
       # ロックファイルにランナーのプラットフォームのハッシュがないと validate が失敗するため、readonly にせず足させる。取得したパッケージは記録済みのハッシュと照合される
       # https://developer.hashicorp.com/terraform/language/files/dependency-lock#checksum-verification
       - run: docker compose run --rm infra terraform init -backend=false -input=false
       - run: docker compose run --rm infra terraform validate
+      - run: docker compose run --rm --workdir "$portfolio_terraform_dir" infra terraform fmt -check -diff -recursive
+      - run: docker compose run --rm --workdir "$portfolio_terraform_dir" infra terraform init -backend=false -input=false
+      - run: docker compose run --rm --workdir "$portfolio_terraform_dir" infra terraform validate

@@ -2,7 +2,10 @@
 
 ## 概要
 
-このリポジトリでは、[`portfolio/`](../portfolio/) にある Next.js のアプリを開発している。
+このリポジトリでは、[`portfolio/`](../portfolio/) にある Astro のサイトを開発している。
+サイトには日本語（`/ja/`）と英語（`/en/`）のページがあり、`/` を開くとブラウザの言語で振り分ける。
+`/` だけをリクエストごとに描くため、Cloudflare Workers のアダプターを使う。
+サイトは Cloudflare Workers で公開し、main に変更が入るとデプロイする。
 n8n を動かすインフラは、[`infra/`](../infra/) で Terraform を使って管理する。
 開発は Dev Container のなかで進める。
 Node.js・pnpm・Terraform はコンテナで使うため、ホストには要らない。
@@ -24,5 +27,6 @@ pnpm と Terraform の版は、それぞれ [portfolio の Dockerfile](../.devco
 
 - [CI](ci.md): 検査の一覧、PR の検査・定期検査・依存の更新の動き方と、ワークフローを足すときの決まり
 - [インフラ](infra.md): n8n を動かす OCI と Cloudflare の構成、Terraform の実行、サーバーの準備と運用
+- [サイトの公開](deploy.md): Cloudflare Workers の Worker とドメインの作り方、デプロイのワークフロー
 - [GitHub のリポジトリの準備](github-setup.md): 新しく作ったリポジトリで、管理者がする作業と、GitHub の設定の理由
 - [Claude Code での開発](claude-code.md): 手動で起動するスキル、サンドボックスの決まり、デスクトップアプリのプレビュー

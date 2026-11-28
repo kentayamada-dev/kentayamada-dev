@@ -11,6 +11,20 @@
     // https://docs.renovatebot.com/modules/manager/github-actions/ https://docs.renovatebot.com/presets-customManagers/#custommanagersgithubactionsversions
     "customManagers:githubActionsVersions",
   ],
+  customManagers: [
+    // compose.yaml の Playwright のイメージは、Renovate が mcr.microsoft.com から公開時刻を取れず、minimumReleaseAge で更新が止まったままになる。
+    // イメージのブラウザは同じ版の Playwright からしか使えないため、タグの版を npm の @playwright/test の版として、package.json と同じ PR で上げさせる
+    // https://github.com/renovatebot/renovate/blob/44.226.3/docs/usage/key-concepts/minimum-release-age.md?plain=1#L240 https://github.com/renovatebot/renovate/blob/44.226.3/docs/usage/key-concepts/minimum-release-age.md?plain=1#L359
+    {
+      customType: "regex",
+      managerFilePatterns: ["compose.yaml"],
+      matchStrings: [
+        "image: mcr\\.microsoft\\.com/playwright:v(?<currentValue>\\d+\\.\\d+\\.\\d+)-noble",
+      ],
+      datasourceTemplate: "npm",
+      depNameTemplate: "@playwright/test",
+    },
+  ],
   timezone: "Asia/Tokyo",
   // CONTRIBUTING.md でタイトルを Conventional Commits 形式と定めているため、履歴からの自動判定に任せない https://docs.renovatebot.com/configuration-options/#semanticcommits
   semanticCommits: "enabled",
@@ -76,6 +90,20 @@
     {
       matchPackageNames: ["renovate/renovate", "renovatebot/github-action"],
       schedule: ["* 0-3 * * *"],
+    },
+    // compose.yaml の Playwright のイメージは customManagers で上げるため、docker の更新もダイジェストの固定もさせない。
+    // ダイジェストを書くと、customManagers が版だけを上げ、古いイメージを指したままになるため
+    {
+      matchDatasources: ["docker"],
+      matchPackageNames: ["mcr.microsoft.com/playwright"],
+      enabled: false,
+    },
+    // portfolio の astro check が使う @astrojs/check は、TypeScript 7 に対応していないため、6 系に留める。@astrojs/check が 7 に対応したら外す
+    // https://github.com/withastro/astro/blob/%40astrojs/check%400.9.12/packages/language-tools/astro-check/package.json#L46-L48
+    {
+      matchFileNames: ["portfolio/package.json"],
+      matchPackageNames: ["typescript"],
+      allowedVersions: "<7",
     },
     // タイトルを日本語にする。語順が「action topic extra」で固定なので、action を空にして動詞を extra に入れる https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/options/index.ts#L2502-L2506
     // datasource（Docker など）のデフォルトのメッセージより後に適用させるため packageRules に置く https://github.com/renovatebot/renovate/blob/44.151.1/lib/workers/repository/updates/flatten.ts#L143-L147

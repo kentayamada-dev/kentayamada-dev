@@ -1,0 +1,2 @@
+# Object Storage の namespace。oci os ns get で確認できる
+namespace = "xxxxxxxxxxxx"

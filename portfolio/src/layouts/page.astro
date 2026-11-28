@@ -1,0 +1,115 @@
+---
+import "@/styles/global.css";
+import { Font } from "astro:assets";
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+import type { Locale } from "@/i18n";
+
+interface Props {
+  locale: Locale;
+}
+
+interface Wording {
+  description: string;
+  other: { label: string; locale: Locale };
+  toggle: string;
+}
+
+const styles = {
+    body: "flex flex-col min-block-full",
+    html: "antialiased block-full",
+    link: "text-zinc-700 underline dark:text-zinc-300",
+    main: "flex flex-1 flex-col items-center justify-center gap-6 bg-zinc-50 font-sans dark:bg-black",
+    title: "text-3xl/10 font-semibold tracking-tight text-black dark:text-zinc-50",
+    // 文字の幅に端数が出ると、枠を描く位置がブラウザごとに 1px ずれるため、どちらの言語の文字も収まる整数の幅を最小にする。文字を変えるときは収まるか確かめる
+    toggle:
+      "rounded-md border border-zinc-300 px-4 py-2 text-zinc-900 min-inline-36 dark:border-zinc-700 dark:text-zinc-50",
+  },
+  wordings: Readonly<Record<Locale, Wording>> = {
+    en: {
+      description: "A portfolio site built with Astro.",
+      other: { label: "日本語", locale: "ja" },
+      toggle: "Dark mode",
+    },
+    ja: {
+      description: "Astro で作ったポートフォリオのサイト。",
+      other: { label: "English", locale: "en" },
+      toggle: "ダークモード",
+    },
+  },
+  {
+    props: { locale },
+  } = Astro,
+  { [locale]: wording } = wordings;
+---
+
+<html lang={locale} class={styles.html}>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={wording.description} />
+    <meta name="generator" content={Astro.generator} />
+    <title>Astro</title>
+    <Font cssVariable="--font-noto-sans-jp" />
+    {/*
+      ボタンの script は Astro が type="module" にし、ページを読み終えるまで動かないため、それまで OS の配色で表示されないよう、保存した配色は処理させずにここで先に当てる。
+      localStorage のキーとクラス名を変えるときは、ボタンの script と src/styles/global.css の dark の variant も合わせる
+      https://github.com/withastro/docs/blob/ca1ae0c1883582b7e9bf99835b6e1871f44a37f9/src/content/docs/en/guides/client-side-scripts.mdx?plain=1#L46 https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async
+    */}
+    <script is:inline>
+      const {
+          documentElement: { classList },
+        } = document,
+        stored = localStorage.getItem("theme-dark");
+
+      if (stored === "true" || stored === "false") {
+        classList.toggle("dark", stored === "true");
+        classList.toggle("light", stored === "false");
+      }
+    </script>
+  </head>
+  <body class={styles.body}>
+    <main class={styles.main}>
+      <h1 class={styles.title}>Astro</h1>
+      <button class={styles.toggle} type="button" aria-pressed="false" data-theme-toggle>
+        {wording.toggle}
+      </button>
+      <a class={styles.link} href="https://github.com/kentayamada-dev">
+        GitHub
+      </a>
+      <a
+        class={styles.link}
+        href={getRelativeLocaleUrl(wording.other.locale)}
+        hreflang={wording.other.locale}
+        lang={wording.other.locale}
+      >
+        {wording.other.label}
+      </a>
+    </main>
+    <script>
+      // 保存に使う localStorage のキーと、クラス名の dark・light を変えるときは、head の script と src/styles/global.css の dark の variant も合わせる
+      const { documentElement: root } = document,
+        system = matchMedia("(prefers-color-scheme: dark)"),
+        toggle = document.querySelector("[data-theme-toggle]"),
+        usesDark = (): boolean =>
+          root.classList.contains("dark") || (!root.classList.contains("light") && system.matches);
+
+      if (toggle instanceof HTMLButtonElement) {
+        toggle.ariaPressed = String(usesDark());
+        // 選んでいないあいだは、開いたまま OS の設定が変わると表示も変わるため、ボタンの状態も合わせる
+        system.addEventListener("change", (): void => {
+          toggle.ariaPressed = String(usesDark());
+        });
+        toggle.addEventListener("click", (): void => {
+          const dark = !usesDark();
+          root.classList.toggle("dark", dark);
+          root.classList.toggle("light", !dark);
+          toggle.ariaPressed = String(dark);
+          localStorage.setItem("theme-dark", String(dark));
+        });
+      }
+    </script>
+  </body>
+</html>

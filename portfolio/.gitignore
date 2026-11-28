@@ -1,6 +1,9 @@
-/node_modules
-/.next/
-/out/
-/build
-*.tsbuildinfo
-next-env.d.ts
+/node_modules/
+/dist/
+/.astro/
+/test-results/
+/playwright-report/
+/e2e/__screenshots__/
+/.lighthouseci/
+/lighthouse-report/
+/.wrangler/

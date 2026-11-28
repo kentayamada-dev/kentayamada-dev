@@ -1,0 +1,46 @@
+name: portfolio のデプロイ
+
+on:
+  push:
+    branches:
+      - main
+    # Terraform だけの変更では、Worker のコードが変わらないため、デプロイしない
+    paths:
+      - portfolio/**
+      - "!portfolio/terraform/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# デプロイの途中で取り消さず、後から来た実行は、前の実行が終わるまで待たせる
+# https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/control-workflow-concurrency
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  portfolio-deploy:
+    name: portfolio-deploy
+    runs-on: ubuntu-26.04-arm
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          # 後のステップで git の認証を使わないため、資格情報をディスクに残さない https://docs.zizmor.sh/audits/#artipacked
+          persist-credentials: false
+      # 検査と同じく、Dev Container と同じイメージのなかでビルドする。Dockerfile の ARG の値は compose.yaml から渡すため、Compose でビルドする
+      - run: docker compose build portfolio
+      - run: docker compose run --rm portfolio pnpm install --frozen-lockfile
+      # コンテナの dev の uid はランナーの uid と一致するとは限らないため、どの uid でも .astro・dist・.wrangler を作れるようにする
+      - run: chmod a+w portfolio
+      - run: docker compose run --rm portfolio pnpm build
+      # トークンを Dev Container のコンテナにまで渡さないよう、compose.yaml には書かず、このステップだけで渡す
+      - run: >-
+          docker compose run --rm
+          --env CLOUDFLARE_API_TOKEN
+          --env CLOUDFLARE_ACCOUNT_ID
+          portfolio pnpm exec wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

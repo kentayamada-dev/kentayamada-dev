@@ -9,14 +9,15 @@
         "run",
         "--rm",
         "--publish",
-        "3000:3000",
+        "127.0.0.1:4321:4321",
         "--name",
         "portfolio-preview",
         "portfolio",
         "pnpm",
-        "dev"
+        "dev",
+        "--host"
       ],
-      "port": 3000,
+      "port": 4321,
       "autoPort": false
     }
   ]

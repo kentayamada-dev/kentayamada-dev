@@ -1,0 +1,4 @@
+cloudflare_account_id = "0123456789abcdef0123456789abcdef"
+cloudflare_zone_id    = "0123456789abcdef0123456789abcdef"
+
+hostname = "example.com"

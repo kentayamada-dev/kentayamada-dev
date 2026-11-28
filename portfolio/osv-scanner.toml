@@ -1,4 +1,0 @@
-[[IgnoredVulns]]
-id = "GHSA-fc5q-39xc-vjpf"
-ignoreUntil = 2027-02-18
-reason = "picomatch の修正版はまだない（最新は 4.0.7）。細工した extglob のパターンで CPU を使い果たす問題で、portfolio で picomatch を使うのは開発時に動かす knip（と knip が使う tinyglobby）だけ。渡るパターンは knip の既定とリポジトリ内のファイル（.gitignore など）から作られ、リポジトリの外から入らない https://github.com/webpro-nl/knip/blob/knip%406.44.1/packages/knip/src/util/glob-core.ts#L97-L145"

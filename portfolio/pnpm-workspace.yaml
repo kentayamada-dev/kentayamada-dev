@@ -1,4 +1,4 @@
-# storeDir のほかは .github/textlint/pnpm-workspace.yaml と同じ設定にする。それぞれの理由は、そちらのコメントにある
+# storeDir・allowBuilds・trustPolicyExclude・overrides のほかは .github/textlint/pnpm-workspace.yaml と同じ設定にする。それぞれの理由は、そちらのコメントにある
 engineStrict: true
 saveExact: true
 minimumReleaseAge: 1440
@@ -14,3 +14,21 @@ registries:
 # コンテナでは node_modules と同じボリュームに置き、ハードリンクできるようにする。指定しないと、/workspace のバインドマウントの直下（リポジトリのルート）に作るため
 # https://pnpm.io/settings/store
 storeDir: node_modules/.pnpm-store
+# vnu-jar のインストールスクリプトは、Java がないと Java を取得する。Java は compose.yaml の html-checker のイメージのものを使うため、動かさない
+# https://github.com/validator/validator/blob/14c5cc7f0d6f8cc140d31c73a0b3ee4e80408d2d/vnu-java-downloader.js#L268-L287 https://pnpm.io/settings/build#allowbuilds
+allowBuilds:
+  # esbuild と workerd のインストールスクリプトは、環境向けのバイナリがなければ npm のレジストリから直接取り寄せ、あれば起動のラッパーをバイナリに置き換えるだけなので、動かさない
+  # https://github.com/evanw/esbuild/blob/v0.28.2/lib/npm/node-install.ts#L252-L315 https://github.com/cloudflare/workerd/blob/v1.20261123.1/npm/lib/node-install.ts#L259-L307
+  esbuild: false
+  vnu-jar: false
+  workerd: false
+# @lhci/cli が使う lighthouse の依存の puppeteer-core が入れる chromium-bidi は、17.0.2 よりあとの版が provenance なしで公開され、trustPolicy に拒否されるため。公開のしかたが変わった理由は未確認。
+# 版は puppeteer-core が決め、ロックファイルの更新でも変わるので、版ではなく名前で除外する。provenance つきの公開に戻ったら、この除外を外す
+# https://registry.npmjs.org/chromium-bidi https://pnpm.io/settings/dependency-resolution#trustpolicy
+trustPolicyExclude:
+  - chromium-bidi
+# @lhci/cli は chrome-launcher を ^0.13.4 で指定し、その依存の rimraf 3・glob 7・inflight が非推奨の警告を出すため、rimraf に依存しない 1.x にする。
+# @lhci/cli が使うのは Launcher.getInstallations だけで、1.x にもある。1.x は ESM だが、トップレベルの await がないので、Node は require で読める。@lhci/cli を上げたら、この上書きが要るか確かめる
+# https://github.com/GoogleChrome/lighthouse-ci/blob/v0.16.1/packages/cli/src/utils.js#L10 https://nodejs.org/docs/v26.13.0/api/modules.html#loading-ecmascript-modules-using-require
+overrides:
+  "@lhci/cli>chrome-launcher": ^1.2.3

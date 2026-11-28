@@ -1,0 +1,78 @@
+{
+  "$schema": "../node_modules/oxlint/configuration_schema.json",
+  "rules": {
+    // import 文の順は oxfmt の sortImports が並べるため、名前付き import のメンバーの順だけを検査させる
+    "eslint/sort-imports": ["error", { "ignoreDeclarationSort": true }],
+    // fix は、既定では未使用の import の修正が提案にとどまり、--fix で消えないため
+    // https://oxc.rs/docs/guide/usage/linter/rules/eslint/no-unused-vars.html
+    "eslint/no-unused-vars": [
+      "error",
+      { "args": "all", "reportVarsOnlyUsedAsTypes": true, "fix": { "imports": "safe-fix" } }
+    ],
+    "eslint/accessor-pairs": ["error", { "getWithoutSet": true, "enforceForTSTypes": true }],
+    "eslint/array-callback-return": ["error", { "checkForEach": true }],
+    "eslint/grouped-accessor-pairs": ["error", "getBeforeSet", { "enforceForTSTypes": true }],
+    "eslint/logical-assignment-operators": ["error", "always", { "enforceForIfStatements": true }],
+    "eslint/max-lines-per-function": ["error", { "IIFEs": true }],
+    "eslint/max-params": ["error", { "countThis": "always" }],
+    "eslint/no-cond-assign": ["error", "always"],
+    "eslint/no-constant-condition": ["error", { "checkLoops": "all" }],
+    // import/consistent-type-specifier-style が型を import type の文に分けさせるため、同じモジュールから型と値を別の文で import できるようにする
+    "eslint/no-duplicate-imports": [
+      "error",
+      { "includeExports": true, "allowSeparateTypeImports": true }
+    ],
+    "eslint/no-else-return": ["error", { "allowElseIf": false }],
+    "eslint/no-extra-boolean-cast": ["error", { "enforceForInnerExpressions": true }],
+    "eslint/no-fallthrough": ["error", { "reportUnusedFallthroughComment": true }],
+    "eslint/no-implicit-coercion": ["error", { "disallowTemplateShorthand": true }],
+    "eslint/no-inner-declarations": ["error", "both", { "blockScopedFunctions": "disallow" }],
+    "eslint/no-irregular-whitespace": [
+      "error",
+      { "skipStrings": false, "skipRegExps": false, "skipTemplates": false, "skipJSXText": false }
+    ],
+    "eslint/no-magic-numbers": ["error", { "enforceConst": true, "detectObjects": true }],
+    "eslint/no-param-reassign": ["error", { "props": true }],
+    "eslint/no-redeclare": ["error", { "ignoreDeclarationMerge": false }],
+    "eslint/no-return-assign": ["error", "always"],
+    "eslint/no-sequences": ["error", { "allowInParentheses": false }],
+    "eslint/no-shadow": [
+      "error",
+      {
+        "hoist": "all",
+        "builtinGlobals": true,
+        "ignoreTypeValueShadow": false,
+        "ignoreFunctionTypeParameterNameValueShadow": false
+      }
+    ],
+    "eslint/no-undef": ["error", { "typeof": true }],
+    "eslint/no-underscore-dangle": [
+      "error",
+      {
+        "allowInArrayDestructuring": false,
+        "allowInObjectDestructuring": false,
+        "allowFunctionParams": false,
+        "enforceInClassFields": true,
+        "enforceInMethodNames": true
+      }
+    ],
+    "eslint/no-unmodified-loop-condition": ["error", { "checkConditionalExpressions": true }],
+    "eslint/no-unneeded-ternary": ["error", { "defaultAssignment": false }],
+    "eslint/no-unsafe-negation": ["error", { "enforceForOrderingRelations": true }],
+    "eslint/no-unsafe-optional-chaining": ["error", { "disallowArithmeticOperators": true }],
+    "eslint/no-use-before-define": ["error", { "ignoreTypeReferences": false }],
+    "eslint/no-warning-comments": ["error", { "location": "anywhere" }],
+    "eslint/object-shorthand": ["error", "always", { "avoidExplicitReturnArrows": true }],
+    "eslint/prefer-arrow-callback": ["error", { "allowUnboundThis": false }],
+    "eslint/prefer-destructuring": [
+      "error",
+      { "array": true, "object": true },
+      { "enforceForRenamedProperties": true, "enforceForDeclarationWithTypeAnnotation": true }
+    ],
+    "eslint/prefer-regex-literals": ["error", { "disallowRedundantWrapping": true }],
+    "eslint/preserve-caught-error": ["error", { "requireCatchParameter": true }],
+    "eslint/require-unicode-regexp": ["error", { "requireFlag": "v" }],
+    "eslint/use-isnan": ["error", { "enforceForIndexOf": true }],
+    "eslint/valid-typeof": ["error", { "requireStringLiterals": true }]
+  }
+}

@@ -23,3 +23,9 @@ name = "check-jsonschema"
 ecosystem = "PyPI"
 license.override = ["Apache-2.0"]
 reason = "pyproject.toml に license の欄がなく、classifiers の Apache Software License だけで判定できない（non-standard）。LICENSE も Apache License 2.0 の告知文。Renovate が版を上げるたびに止まらないよう、版は限らない https://github.com/python-jsonschema/check-jsonschema/blob/0.38.2/pyproject.toml https://github.com/python-jsonschema/check-jsonschema/blob/0.38.2/LICENSE"
+
+[[PackageOverrides]]
+name = "sentry"
+ecosystem = "npm"
+license.ignore = true
+reason = "FSL-1.1-Apache-2.0 で、OSI 承認のライセンスではないため許可の一覧には入れず、このパッケージだけ外す。portfolio の Lighthouse の間接依存（lighthouse → @sentry/node → @sentry/bundler-plugins）で、検査にだけ使い、サイトには含まれない。版は @sentry/bundler-plugins が決め、ロックファイルの更新でも変わるので、Renovate の更新で止まらないよう版は限らない https://registry.npmjs.org/sentry"

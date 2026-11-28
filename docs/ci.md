@@ -1,6 +1,7 @@
 # CI
 
-CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係の更新をする。
+CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係の更新・サイトのデプロイをする。
+デプロイは [サイトの公開](deploy.md) にある。
 ワークフローは [`.github/workflows/`](../.github/workflows/) にあり、検査の内容はそれぞれの `name` に書いている。
 
 ## 検査の一覧
@@ -17,8 +18,8 @@ CI は GitHub Actions で動かし、PR の検査・定期検査・依存関係�
 | [リンク切れ（リポジトリのなか）](../.github/workflows/lychee.yml) | lychee | ✓ | - |
 | [リンク切れ（外部）](../.github/workflows/lychee.yml) | lychee | - | 毎週 |
 | [コードの重複](../.github/workflows/jscpd.yml) | jscpd | ✓ | - |
-| [portfolio の型・静的解析・ビルド](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Knip・Next.js | ✓ | - |
-| [infra の Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
+| [portfolio の型・静的解析・ビルド・ページの検査](../.github/workflows/portfolio-check.yml) | oxfmt・oxlint・Astro・Knip・Playwright・Nu Html Checker・Lighthouse CI | ✓ | - |
+| [Terraform の書式・構文](../.github/workflows/infra-check.yml) | Terraform | ✓ | - |
 | [シェルスクリプトの静的解析・テスト](../.github/workflows/test.yml) | ShellCheck・shfmt・Bats | ✓ | - |
 | [Dockerfile の書き方](../.github/workflows/hadolint.yml) | hadolint | ✓ | - |
 | [ワークフローの構文](../.github/workflows/actionlint.yml) | actionlint | ✓ | - |
@@ -49,7 +50,8 @@ PR を作るか、PR に push すると、検査のワークフローが動く�
 検査に使うツールは、[`.github`](../.github) で版を固定し、CI で入れる。
 portfolio と infra の検査だけは、それぞれの Dev Container と同じイメージのなかで実行する。
 portfolio は [`portfolio/package.json`](../portfolio/package.json) のスクリプトを、infra は Terraform のコマンドを実行する。
-実行するものは、[portfolio のワークフロー](../.github/workflows/portfolio-check.yml) と [infra のワークフロー](../.github/workflows/infra-check.yml) にある。
+[`portfolio/terraform/`](../portfolio/terraform/) の Terraform も、infra のイメージのなかで検査する。
+実行するものは、[portfolio のワークフロー](../.github/workflows/portfolio-check.yml) と [Terraform のワークフロー](../.github/workflows/infra-check.yml) にある。
 Dev Container のなかで同じものを実行すれば、push する前に結果を確認できる。
 
 ### 依存関係の脆弱性とライセンス
@@ -60,6 +62,79 @@ PR では、OSV-Scanner で依存関係の脆弱性とライセンスを検査�
 - これまでにない種類のライセンスが依存関係に入ると失敗する。許可するライセンスの一覧は [ワークフロー](../.github/workflows/osv-scanner.yml) にある
 - OSV-Scanner がライセンスを判定できないパッケージは、[`.github/osv-scanner-licenses.toml`](../.github/osv-scanner-licenses.toml) でライセンスを指定する
 - 脆弱性をすぐに直せないときは、ロックファイルと同じディレクトリの `osv-scanner.toml` で、理由と期限を付けて除外する
+
+### コードの重複
+
+PR では、jscpd でコードの重複を検査する。
+設定は [`.github/jscpd/.jscpd.json`](../.github/jscpd/.jscpd.json) にある。
+JSON にはコメントを書けないため、設定の理由をここに書く。
+
+- 重複が見つかると失敗する。jscpd は、終了コードを指定しないと、重複があっても 0 で終わる（[Exit codes](https://github.com/kucherenko/jscpd/blob/v5.4.3/docs/rust.md#exit-codes)）
+- 検査するファイルが 1 つもないときも失敗する。除外を誤ってすべてのファイルを除いても、0 で終わらないようにする
+- 次のファイルは検査しない
+  - `pnpm-lock.yaml`・`.terraform.lock.hcl`: pnpm や Terraform が生成し、重複を手で直せない
+  - `node_modules`: `.gitignore` に一致せず、CI で入れたパッケージまで検査される
+  - ワークフロー: `on`・`permissions`・`concurrency` やセットアップのステップを、ファイルごとに書くしかない
+  - `pnpm-workspace.yaml`: 意図して同じ設定にそろえている
+  - [`infra/workflows/`](../infra/workflows/): n8n のワークフローのバックアップが書き出す JSON で、手で直しても次のバックアップで戻る
+
+### portfolio のページの検査
+
+portfolio は、ビルドしたすべてのページを検査する。
+ページを足しても、検査を書き足さなくてよい。
+
+Playwright のテストは、ページをデスクトップとスマートフォンのブラウザで開き、次のことを確認する。
+どのページも、ライトとダークの配色でそれぞれ開く。
+テストは [`portfolio/e2e/`](../portfolio/e2e/) にある。
+
+- 開いたときに、エラーが出ず、読み込めないファイルもない
+- アクセシビリティの違反がない
+- どのブラウザでも見た目が同じ
+- サイト内のリンクの先を開ける。リンクは配色によらないため、ページごとに 1 回だけ確認する
+
+配色の切り替えボタンは、別のテストで、キーボードだけで操作できることと、選んだ配色を次に開いたときも使うことを確認する。
+自分で書く CSS は、oxlint が CSS を読まないので、lint では検査しない。
+
+ブラウザは、テストを動かす portfolio のコンテナではなく、[`compose.yaml`](../compose.yaml) の `playwright` のサービスで動かす。
+このサービスは Playwright の公式のイメージを使い、ブラウザと OS の依存はイメージに入っている。
+イメージの版は、Renovate が `@playwright/test` と同じ PR で上げる。
+手元で検査するときは、CI と同じく、先にこのサービスを起動しておく。
+
+```bash
+docker compose up --detach --wait playwright
+```
+
+エラー・アクセシビリティの違反・リンク切れがあると、PR の検査が失敗し、原因を見られるレポートを成果物（artifact）の `playwright-report` に上げる。
+
+HTML と Lighthouse の検査も、`compose.yaml` のサービスで動かす。
+どちらもビルドした `dist` を読むため、手元では先にビルドしておく。
+
+```bash
+docker compose run --rm portfolio pnpm build
+docker compose run --rm html-checker
+docker compose run --rm lighthouse
+docker compose run --rm lighthouse --collect.settings.preset=desktop
+```
+
+- `html-checker`: Nu Html Checker で、HTML の誤りと警告がないことを確認する
+- `lighthouse`: Lighthouse CI で、性能・アクセシビリティ・ベストプラクティス・SEO・Agentic Browsing の点数が満点であることを確認する。種類ごとの配信サイズが上限を超えず、ほかのオリジンへのリクエストがないことも確認する。CI では、モバイルの設定と、デスクトップのプリセットを引数で渡した設定の、2 とおりを計測する
+
+基準は [`portfolio/lighthouserc.yaml`](../portfolio/lighthouserc.yaml) にある。
+Lighthouse のレポートは、成否によらず、成果物の `lighthouse-report` に上げる。
+
+見た目は、どのブラウザでも同じかを確認する。
+比べる画像はリポジトリに置かず、検査のたびに撮る。
+
+- すべてのページを、ライトとダークの配色で、デスクトップとスマートフォンの 2 とおりの大きさの画面にして撮る。画面の大きさは、どのブラウザでも同じにする
+- Chromium で撮った画面を基準にして、ほかのブラウザで撮った画面と比べる
+- 字形の細部はブラウザごとに違うため、文字と下線は透明にして撮り、文字の形は比べない。要素の位置・大きさ・背景・枠線は比べる
+- 違うと PR の検査が失敗し、差分の画像を見られるレポートを成果物の `playwright-visual-report` に上げる
+
+手元で確認するときも、先にブラウザのサービスを起動しておく。
+
+```bash
+docker compose run --rm portfolio pnpm test:visual
+```
 
 ## 定期検査
 

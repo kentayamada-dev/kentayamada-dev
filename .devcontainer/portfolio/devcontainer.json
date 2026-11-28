@@ -23,7 +23,12 @@
           "source.format.oxc": "always"
         }
       },
-      "extensions": ["TypeScriptTeam.native-preview", "EditorConfig.EditorConfig", "oxc.oxc-vscode"]
+      "extensions": [
+        "TypeScriptTeam.native-preview",
+        "EditorConfig.EditorConfig",
+        "oxc.oxc-vscode",
+        "astro-build.astro-vscode"
+      ]
     }
   }
 }
