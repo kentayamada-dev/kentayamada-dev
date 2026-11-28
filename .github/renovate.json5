@@ -39,6 +39,14 @@
       matchUpdateTypes: ["major", "minor", "patch", "digest"],
       minimumReleaseAge: "14 days",
     },
+    // buildpack-deps は Debian の名前のタグ（trixie-scm）しかなく、ダイジェストの更新に比べる公開日時がないため、待ちが明けずに上がらなくなる。Docker の公式イメージなので、待たずに上げる
+    // https://github.com/renovatebot/renovate/blob/44.226.3/lib/workers/repository/process/lookup/digest.ts#L85-L120
+    {
+      matchDatasources: ["docker"],
+      matchPackageNames: ["buildpack-deps"],
+      matchUpdateTypes: ["digest"],
+      minimumReleaseAgeBehaviour: "timestamp-optional",
+    },
     // security:openssf-scorecard が PR 本文の列を置き換え、npm で Merge Confidence の Age と Confidence が消えるため、両方を並べる
     // https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/presets/internal/security.preset.ts#L157-L176 https://github.com/renovatebot/renovate/blob/44.151.1/lib/config/presets/internal/merge-confidence.preset.ts#L14-L24
     {
